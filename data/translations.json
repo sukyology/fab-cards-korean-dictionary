@@ -1,0 +1,35 @@
+{
+  "_comment": "카드 한글 번역. 키는 원본 카드의 unique_id. _name_en 은 편집 참고용(빌드에 사용되지 않음). 카드를 추가하려면 사이트에서 카드를 찾아 id를 복사한 뒤 항목을 추가하세요. 자세한 방법은 README 참고.",
+
+  "PHktCwKzLmBMwmCBwb7Cw": { "_name_en": "Snatch (1)", "name_ko": "스내치", "type_text_ko": "공용 액션 - 공격", "text_ko": "이 카드가 명중하면, 카드 1장을 뽑는다." },
+  "jBtfGzCwLCCTGrtzKPRJW": { "_name_en": "Snatch (2)", "name_ko": "스내치", "type_text_ko": "공용 액션 - 공격", "text_ko": "이 카드가 명중하면, 카드 1장을 뽑는다." },
+  "KfbJQkFKdWKB66FcqCpHD": { "_name_en": "Snatch (3)", "name_ko": "스내치", "type_text_ko": "공용 액션 - 공격", "text_ko": "이 카드가 명중하면, 카드 1장을 뽑는다." },
+
+  "LfddJTKKb9HwPzHMBH9w9": { "_name_en": "Sink Below (1)", "name_ko": "싱크 빌로우", "type_text_ko": "공용 방어 반응", "text_ko": "손에서 카드 1장을 덱 맨 아래에 놓을 수 있다. 그렇게 했다면, 카드 1장을 뽑는다." },
+  "7RzTp9JnTprz6fjnhRJLM": { "_name_en": "Sink Below (2)", "name_ko": "싱크 빌로우", "type_text_ko": "공용 방어 반응", "text_ko": "손에서 카드 1장을 덱 맨 아래에 놓을 수 있다. 그렇게 했다면, 카드 1장을 뽑는다." },
+  "bHRdHqLRCthfzcrffPNQH": { "_name_en": "Sink Below (3)", "name_ko": "싱크 빌로우", "type_text_ko": "공용 방어 반응", "text_ko": "손에서 카드 1장을 덱 맨 아래에 놓을 수 있다. 그렇게 했다면, 카드 1장을 뽑는다." },
+
+  "kzW8BKdWcm9LwtTCTdqRK": { "_name_en": "Sigil of Solace (1)", "name_ko": "위안의 표식", "type_text_ko": "공용 순간마법", "text_ko": "생명력 3을 얻는다." },
+  "FDdnD9zhdgCkJFTQdLbbp": { "_name_en": "Sigil of Solace (2)", "name_ko": "위안의 표식", "type_text_ko": "공용 순간마법", "text_ko": "생명력 2를 얻는다." },
+  "QgFnmwphgLtnNmrHF8B6w": { "_name_en": "Sigil of Solace (3)", "name_ko": "위안의 표식", "type_text_ko": "공용 순간마법", "text_ko": "생명력 1을 얻는다." },
+
+  "JtCMThrjDDLjGmBbCcpWc": { "_name_en": "Head Jab (1)", "name_ko": "헤드 잽", "type_text_ko": "닌자 액션 - 공격", "text_ko": "고 어게인 (이 카드를 사용한 뒤 행동권을 1 얻는다.)" },
+  "CwHzMDBNQRNdWpMc7phMr": { "_name_en": "Head Jab (2)", "name_ko": "헤드 잽", "type_text_ko": "닌자 액션 - 공격", "text_ko": "고 어게인 (이 카드를 사용한 뒤 행동권을 1 얻는다.)" },
+  "CbngjC9FTFNdmTGT7ddCT": { "_name_en": "Head Jab (3)", "name_ko": "헤드 잽", "type_text_ko": "닌자 액션 - 공격", "text_ko": "고 어게인 (이 카드를 사용한 뒤 행동권을 1 얻는다.)" },
+
+  "HMktjwMDWRjcFTC8gMHGL": { "_name_en": "Wax On (1)", "name_ko": "왁스 온", "type_text_ko": "닌자 방어 반응", "text_ko": "왁스 온이 비용 0인 공격 액션 카드를 방어하는 동안, 방어력 +2를 얻는다." },
+  "TBHBqQQ8FjFLkNKbGRncf": { "_name_en": "Wax On (2)", "name_ko": "왁스 온", "type_text_ko": "닌자 방어 반응", "text_ko": "왁스 온이 비용 0인 공격 액션 카드를 방어하는 동안, 방어력 +2를 얻는다." },
+  "zhnWgKpnzfCzCwN6cJBgW": { "_name_en": "Wax On (3)", "name_ko": "왁스 온", "type_text_ko": "닌자 방어 반응", "text_ko": "왁스 온이 비용 0인 공격 액션 카드를 방어하는 동안, 방어력 +2를 얻는다." },
+
+  "DbpqBt8Gp8HWg6QMFBBgh": { "_name_en": "Scar for a Scar (1)", "name_ko": "상처에는 상처를", "type_text_ko": "공용 액션 - 공격", "text_ko": "이 카드를 사용할 때, 상대 영웅보다 생명력이 적다면 고 어게인을 얻는다." },
+  "LwdKpBTcMk6rLjDwG8r6G": { "_name_en": "Scar for a Scar (2)", "name_ko": "상처에는 상처를", "type_text_ko": "공용 액션 - 공격", "text_ko": "이 카드를 사용할 때, 상대 영웅보다 생명력이 적다면 고 어게인을 얻는다." },
+  "fBjC6dqfrGN9TG7Whh9TR": { "_name_en": "Scar for a Scar (3)", "name_ko": "상처에는 상처를", "type_text_ko": "공용 액션 - 공격", "text_ko": "이 카드를 사용할 때, 상대 영웅보다 생명력이 적다면 고 어게인을 얻는다." },
+
+  "zzNQtc8QL8RcCwRcB6JP7": { "_name_en": "Pummel (1)", "name_ko": "퍼멜", "type_text_ko": "공용 공격 반응", "text_ko": "다음 중 1개 선택;\n- 대상 곤봉 또는 망치 무기 공격이 공격력 +4를 얻는다.\n- 대상 비용 2 이상 공격 액션 카드가 공격력 +4를 얻는다." },
+  "pG9mTDdBkd7gPmGkPhpGd": { "_name_en": "Pummel (2)", "name_ko": "퍼멜", "type_text_ko": "공용 공격 반응", "text_ko": "다음 중 1개 선택;\n- 대상 곤봉 또는 망치 무기 공격이 공격력 +3을 얻는다.\n- 대상 비용 2 이상 공격 액션 카드가 공격력 +3을 얻는다." },
+  "ktRRh7cTpqgTzFRg8HJK6": { "_name_en": "Pummel (3)", "name_ko": "퍼멜", "type_text_ko": "공용 공격 반응", "text_ko": "다음 중 1개 선택;\n- 대상 곤봉 또는 망치 무기 공격이 공격력 +2를 얻는다.\n- 대상 비용 2 이상 공격 액션 카드가 공격력 +2를 얻는다." },
+
+  "9bQFfTFGQWJFWrcJnfQgz": { "_name_en": "Drone of Brutality (1)", "name_ko": "잔혹의 드론", "type_text_ko": "공용 액션 - 공격", "text_ko": "잔혹의 드론이 어디에서든 무덤에 놓이게 될 경우, 대신 덱 맨 아래에 놓는다." },
+  "Nhmj8MBNCmWFC68JkhkNC": { "_name_en": "Drone of Brutality (2)", "name_ko": "잔혹의 드론", "type_text_ko": "공용 액션 - 공격", "text_ko": "잔혹의 드론이 어디에서든 무덤에 놓이게 될 경우, 대신 덱 맨 아래에 놓는다." },
+  "hJt6FwT8mhQbcWQLzgHMT": { "_name_en": "Drone of Brutality (3)", "name_ko": "잔혹의 드론", "type_text_ko": "공용 액션 - 공격", "text_ko": "잔혹의 드론이 어디에서든 무덤에 놓이게 될 경우, 대신 덱 맨 아래에 놓는다." }
+}

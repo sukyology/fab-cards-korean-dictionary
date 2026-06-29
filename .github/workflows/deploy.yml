@@ -1,0 +1,42 @@
+name: Deploy to GitHub Pages
+
+# 데이터/사이트가 바뀌면 자동 빌드 후 GitHub Pages에 배포한다.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: # 수동 실행(예: 원본 카드 데이터 갱신 반영)
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # 원본 카드 데이터를 내려받아 한글 번역을 머지하고 public/cards.json 생성
+      - name: Build card data
+        run: node scripts/build-data.mjs
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - id: deploy
+        uses: actions/deploy-pages@v4

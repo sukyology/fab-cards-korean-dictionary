@@ -1,0 +1,12 @@
+{
+  "name": "fab-cards-korean-dictionary",
+  "version": "0.1.0",
+  "description": "플레시 앤 블러드(Flesh and Blood) 카드 한글 사전 — 영어 카드를 빠르게 찾아 한글 번역을 제공하는 정적 웹사이트",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-data.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "license": "MIT"
+}

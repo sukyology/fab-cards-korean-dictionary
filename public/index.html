@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>FAB 한글 카드 사전 · Flesh and Blood</title>
+    <meta
+      name="description"
+      content="플레시 앤 블러드(Flesh and Blood) 카드를 한글로 빠르게 찾아보는 카드 사전. 카드 이름이나 효과로 검색하세요."
+    />
+    <link rel="preconnect" href="https://storage.googleapis.com" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚔️</text></svg>"
+    />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <h1>FAB 한글 카드 사전</h1>
+        <p class="tagline">Flesh and Blood 카드를 한글로 빠르게 찾아보세요</p>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <div class="search-bar">
+        <input
+          id="search"
+          type="search"
+          autocomplete="off"
+          placeholder="카드 이름(한글·영어)이나 효과로 검색…"
+          aria-label="카드 검색"
+        />
+      </div>
+
+      <div class="filters" id="color-filters" role="group" aria-label="색상(피치) 필터">
+        <button class="chip active" data-color="">전체</button>
+        <button class="chip chip-red" data-color="Red">빨강 (1)</button>
+        <button class="chip chip-yellow" data-color="Yellow">노랑 (2)</button>
+        <button class="chip chip-blue" data-color="Blue">파랑 (3)</button>
+        <button class="chip" data-color="__translated">한글 번역됨</button>
+      </div>
+
+      <p class="status" id="status">데이터를 불러오는 중…</p>
+
+      <section id="results" class="grid" aria-live="polite"></section>
+
+      <p class="more" id="more" hidden></p>
+    </main>
+
+    <!-- 카드 상세 모달 -->
+    <div id="modal" class="modal" hidden>
+      <div class="modal-backdrop" data-close></div>
+      <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modal-name">
+        <button class="modal-close" data-close aria-label="닫기">✕</button>
+        <div id="modal-body"></div>
+      </div>
+    </div>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>
+          카드 데이터 출처:
+          <a href="https://github.com/the-fab-cube/flesh-and-blood-cards" target="_blank" rel="noopener"
+            >the-fab-cube/flesh-and-blood-cards</a
+          >. 한글 번역은 커뮤니티가 기여합니다.
+        </p>
+        <p class="disclaimer">
+          비공식 팬 사이트입니다. Flesh and Blood™ 및 카드 이미지의 저작권은 Legend Story Studios에 있습니다.
+        </p>
+      </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
