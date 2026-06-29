@@ -99,21 +99,30 @@ function computeList(query) {
 
 let currentList = [];
 let shown = 0;
+let currentQuery = ""; // Enter로 확정된 검색어
 
 function render(query) {
-  currentList = computeList(query);
+  currentQuery = query;
   shown = 0;
   resultsEl.innerHTML = "";
+
+  // 검색어도 없고 필터도 없으면 카드 목록을 보여주지 않는다(검색 중심 UI)
+  const showResults = query !== "" || activeColor !== "";
+  if (!showResults) {
+    currentList = [];
+    moreEl.hidden = true;
+    statusEl.textContent = `카드 이름(한글·영어)이나 효과를 입력하고 Enter를 누르세요 · 전체 ${CARDS.length.toLocaleString()}장`;
+    return;
+  }
+
+  currentList = computeList(query);
   renderMore();
 
   const total = currentList.length;
-  if (!query && activeColor === "") {
-    statusEl.textContent = `전체 ${total.toLocaleString()}장 · 검색어를 입력하면 빠르게 찾을 수 있어요`;
-  } else {
-    statusEl.textContent = `${total.toLocaleString()}장 검색됨`;
-  }
   if (total === 0) {
     statusEl.textContent = "검색 결과가 없습니다. 다른 검색어를 시도해 보세요.";
+  } else {
+    statusEl.textContent = `${total.toLocaleString()}장 검색됨`;
   }
 }
 
@@ -216,12 +225,9 @@ document.addEventListener("keydown", (e) => {
   if (e.key === "Escape" && !modal.hidden) closeModal();
 });
 
-// 검색 입력(디바운스)
-let debounceTimer = null;
-$("#search").addEventListener("input", (e) => {
-  clearTimeout(debounceTimer);
-  const q = e.target.value.trim();
-  debounceTimer = setTimeout(() => render(q), 120);
+// 검색: Enter를 눌렀을 때만 실행
+$("#search").addEventListener("keydown", (e) => {
+  if (e.key === "Enter") render(e.target.value.trim());
 });
 
 // 색상 필터
@@ -231,7 +237,7 @@ $("#color-filters").addEventListener("click", (e) => {
   activeColor = btn.dataset.color;
   document.querySelectorAll("#color-filters .chip").forEach((c) => c.classList.remove("active"));
   btn.classList.add("active");
-  render($("#search").value.trim());
+  render(currentQuery);
 });
 
 // 초기 로드
