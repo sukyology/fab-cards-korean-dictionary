@@ -13151,5 +13151,584 @@
     "_name_en": "Mischievous Meeps",
     "name_ko": "장난꾸러기 밉스",
     "text_ko": "이 카드가 영웅을 명중하면, 그가 조종하는, 비용 2 이하인 아이템의 조종권을 얻는다. 그렇지 않으면, 카드 1장을 뽑는다.\n고 어게인"
+  },
+  "bCqKMLLRmjkM7K9TPKrNb": {
+    "_name_en": "Misfire Dampener",
+    "name_ko": "오발 완충기",
+    "text_ko": "순간 - 이것을 파괴한다: 이번 턴 당신에게 가해질 다음 비전 피해 1을 방지한다. 이번 턴에 부스트한 적이 있다면, 대신 다음 2를 방지한다.\n블레이드 브레이크"
+  },
+  "wJkMnrWFtbnjLLtkCr6zC": {
+    "_name_en": "Mist Hunter",
+    "name_ko": "안개 사냥꾼",
+    "text_ko": "계약 - 당신은 상대의 파란색 카드를 추방하기로 계약한다. 이 계약을 완료할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 미스틱 영웅을 명중하면, 그의 덱에서 원하는 수의 내면의 치를 찾아 추방한다. 그런 다음 덱을 섞는다."
+  },
+  "MNRCq9PnNd7FdK6MThH7K": {
+    "_name_en": "Mistborn Protector",
+    "name_ko": "안개숲의 수호자",
+    "text_ko": "이 카드가 방어하는 동안, 이번 턴에 카드를 생성한 적이 있다면, 이 카드가 +1{d}을 얻는다."
+  },
+  "gJH8NpPRNdFtTbDQTDzHL": {
+    "_name_en": "Mistcloak Gully",
+    "name_ko": "안개망토 협곡",
+    "text_ko": "레전더리\n각 턴 당신을 대상으로 하는 첫 공격이 -1{p}을 얻는다.\n각 종료 단계 시작 시, 이번 턴에 파란색 카드를 피치, 사용, 또는 방어에 사용한 적이 없다면 이것을 파괴한다. 이번 턴에 파란색 카드를 피치, 사용, 방어에 모두 사용했다면, 초월한다."
+  },
+  "m7nLdbTgfJKmdQrmCDTcq": {
+    "_name_en": "Mocking Blow",
+    "name_ko": "조롱하는 일격",
+    "text_ko": "이 카드가 영웅을 공격할 때, 당신이 그보다 {h}이 많다면, 관중이 당신에게 야유한다.\n이번 턴에 야유를 받은 적이 있다면, 이 카드가 +4{p}을 얻는다."
+  },
+  "f68hNDr6wCPfJ9c9b7Lqf": {
+    "_name_en": "Mocking Blow",
+    "name_ko": "조롱하는 일격",
+    "text_ko": "이 카드가 영웅을 공격할 때, 당신이 그보다 {h}이 많다면, 관중이 당신에게 야유한다.\n이번 턴에 야유를 받은 적이 있다면, 이 카드가 +3{p}을 얻는다."
+  },
+  "kTNFffN8hnrk7cr8zNkQP": {
+    "_name_en": "Mocking Blow",
+    "name_ko": "조롱하는 일격",
+    "text_ko": "이 카드가 영웅을 공격할 때, 당신이 그보다 {h}이 많다면, 관중이 당신에게 야유한다.\n이번 턴에 야유를 받은 적이 있다면, 이 카드가 +2{p}을 얻는다."
+  },
+  "6kFn87DgtCPtJ9J9M6zGL": {
+    "_name_en": "Moment Maker",
+    "name_ko": "순간의 창조자",
+    "text_ko": "턴당 1회 액션 - {r}{r}{r}: 공격\n당신이 서스펜스 오라를 3개 이상 조종하고 있다면, 이 카드가 +2{p}과 \"이 카드가 영웅을 명중하면, 관중이 당신에게 환호한다\"를 얻는다."
+  },
+  "JnLNPdCz8Fkp6KJ7TMLdj": {
+    "_name_en": "Money or Your Life?",
+    "name_ko": "돈이냐 목숨이냐?",
+    "text_ko": "이 카드가 영웅을 명중하면, 그가 조종하는 골드 토큰을 당신에게 주지 않는 한 그에게 피해 2를 준다. 당신이 씨프라면, 이 과정을 한 번 더 반복한다."
+  },
+  "tDFjkc6tL8qqHC9n9nCrh": {
+    "_name_en": "Money or Your Life?",
+    "name_ko": "돈이냐 목숨이냐?",
+    "text_ko": "이 카드가 영웅을 명중하면, 그가 조종하는 골드 토큰을 당신에게 주지 않는 한 그에게 피해 2를 준다. 당신이 씨프라면, 이 과정을 한 번 더 반복한다."
+  },
+  "FG8PKbFmKK7Tgck8BjrdW": {
+    "_name_en": "Money or Your Life?",
+    "name_ko": "돈이냐 목숨이냐?",
+    "text_ko": "이 카드가 영웅을 명중하면, 그가 조종하는 골드 토큰을 당신에게 주지 않는 한 그에게 피해 2를 준다. 당신이 씨프라면, 이 과정을 한 번 더 반복한다."
+  },
+  "7mgnPjCmmLc9K9WwLdhJ6": {
+    "_name_en": "Money Where Ya Mouth Is",
+    "name_ko": "말한 대로 해봐",
+    "text_ko": "이번 턴 당신의 다음 공격이 +3{p}과 \"이 카드가 영웅을 공격할 때, 그와 골드 토큰을 걸고 내기할 수 있다\"를 얻는다."
+  },
+  "B7Db99Nw9PFrJLmRzPT7t": {
+    "_name_en": "Money Where Ya Mouth Is",
+    "name_ko": "말한 대로 해봐",
+    "text_ko": "이번 턴 당신의 다음 공격이 +2{p}과 \"이 카드가 영웅을 공격할 때, 그와 골드 토큰을 걸고 내기할 수 있다\"를 얻는다."
+  },
+  "9BM9L9zrh8BgBWkPDdJgf": {
+    "_name_en": "Money Where Ya Mouth Is",
+    "name_ko": "말한 대로 해봐",
+    "text_ko": "이번 턴 당신의 다음 공격이 +1{p}과 \"이 카드가 영웅을 공격할 때, 그와 골드 토큰을 걸고 내기할 수 있다\"를 얻는다."
+  },
+  "qrzhp6bWn7rbTFt9fHw7k": {
+    "_name_en": "Monkey Powder",
+    "name_ko": "몽키 파우더",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +1{p}과 오버파워를 얻는다.\n카드 1장을 뽑는다.\n고 어게인"
+  },
+  "wq7t69bcdmMbLRdgRMLpk": {
+    "_name_en": "Monolith of Galcia",
+    "name_ko": "갈시아의 거석",
+    "text_ko": "하나 이상 선택한다;\n\n대상 얼어붙은 아군을 파괴한다.\n대상 얼어붙은 오라를 파괴한다.\n대상 얼어붙은 장비를 파괴한다.\n대상 얼어붙은 아이템을 파괴한다."
+  },
+  "t68gtGcPf8H9wTGBCfj8L": {
+    "_name_en": "Monstrous Veil",
+    "name_ko": "괴물의 베일",
+    "text_ko": "리나르 스페셜라이제이션\n액션 - 이것을 파괴한다: 카드 1장을 뽑은 뒤 무작위 카드 1장을 버린다. 고 어게인\n배틀원"
+  },
+  "pDpQ79NgQN6MQtz9zQrCW": {
+    "_name_en": "Moon Chakra",
+    "name_ko": "달의 차크라",
+    "text_ko": "이번 턴 당신이 다음에 피해를 받게 될 경우, 그 피해 3을 방지한다. 이번 턴에 초월한 적이 있다면, 대신 5를 방지한다."
+  },
+  "hpqCzzRJJHRhkWLcL8QDh": {
+    "_name_en": "Moon Chakra",
+    "name_ko": "달의 차크라",
+    "text_ko": "이번 턴 당신이 다음에 피해를 받게 될 경우, 그 피해 2를 방지한다. 이번 턴에 초월한 적이 있다면, 대신 4를 방지한다."
+  },
+  "CNcQBLQccWPfJdd8Dm86g": {
+    "_name_en": "Moon Chakra",
+    "name_ko": "달의 차크라",
+    "text_ko": "이번 턴 당신이 다음에 피해를 받게 될 경우, 그 피해 1을 방지한다. 이번 턴에 초월한 적이 있다면, 대신 3을 방지한다."
+  },
+  "mhLrKM6RbWGGHNrTGjtMw": {
+    "_name_en": "Moon Wish",
+    "name_ko": "달의 소원",
+    "text_ko": "달의 소원의 {r} 비용을 지불하는 대신, 당신의 손에서 카드 1장을 덱 맨 위에 놓을 수 있다.\n달의 소원이 명중하면, 당신의 덱에서 태양의 입맞춤이라는 이름의 카드를 찾아 공개하고 손에 놓은 뒤, 덱을 섞는다."
+  },
+  "B6bKcfDKzkQrTgCnbQKW7": {
+    "_name_en": "Moon Wish",
+    "name_ko": "달의 소원",
+    "text_ko": "달의 소원의 {r} 비용을 지불하는 대신, 당신의 손에서 카드 1장을 덱 맨 위에 놓을 수 있다.\n달의 소원이 명중하면, 당신의 덱에서 태양의 입맞춤이라는 이름의 카드를 찾아 공개하고 손에 놓은 뒤, 덱을 섞는다."
+  },
+  "KdMNrGqDGQ9JPMbWjrr8M": {
+    "_name_en": "Moon Wish",
+    "name_ko": "달의 소원",
+    "text_ko": "달의 소원의 {r} 비용을 지불하는 대신, 당신의 손에서 카드 1장을 덱 맨 위에 놓을 수 있다.\n달의 소원이 명중하면, 당신의 덱에서 태양의 입맞춤이라는 이름의 카드를 찾아 공개하고 손에 놓은 뒤, 덱을 섞는다."
+  },
+  "khj76ndGTj7gDDQNwzjqw": {
+    "_name_en": "Moonshot",
+    "name_ko": "문샷",
+    "text_ko": "이번 턴에 부스트한 적이 있을 때만 이 카드를 사용한다. 이 카드를 사용하기 위한 추가 비용으로, 당신이 조종하는 하이퍼 드라이버 X개를 파괴한다.\n이 카드가 공격할 때, 이렇게 파괴된 하이퍼 드라이버 1개당 +3{p}을 얻는다.\n이 카드가 {p} 10 이상이면, 오버파워를 얻는다."
+  },
+  "HNFBzNgGjf6JnH9h6PKFJ": {
+    "_name_en": "Moray le Fay",
+    "name_ko": "모레이 르 페이",
+    "text_ko": "액션 - {t}: 공격\n순간 - {r}, {t}: 대상 아군에 +1{p} 카운터를 놓는다.\n워터리 그레이브"
+  },
+  "8djTKwBRrz8W69BGtCbk9": {
+    "_name_en": "Mordred Tide",
+    "name_ko": "모드레드의 조류",
+    "text_ko": "턴 종료 시까지, 당신이 룬챈트 토큰을 1개 이상 생성하게 될 경우, 대신 그만큼에 1을 더해 생성한다.\n고 어게인"
+  },
+  "8pHBB7MrH9TG7MnnJgMRT": {
+    "_name_en": "Morlock Hill",
+    "name_ko": "몰록 힐",
+    "text_ko": "이번 턴 당신이 다음에 치명적인 피해를 받게 될 경우, 당신의 손이나 아스날에서 미네르바 테미스를 추방하여 그 피해를 방지할 수 있다."
+  },
+  "zm8RTpG8Jw7T8PznjNrdn": {
+    "_name_en": "Mounting Anger",
+    "name_ko": "치솟는 분노",
+    "text_ko": "치솟는 분노가 명중하면, 당신의 손에서 비용이 당신이 조종하는 드라코닉 체인 링크 수보다 낮은 공격 액션 카드 1장을 추방할 수 있다. 그렇게 하면, 그것이 +1{p}을 얻고 이번 턴 그것을 사용할 수 있다.\n고 어게인"
+  },
+  "rtrcD9FRqqtQNnh9dwwd7": {
+    "_name_en": "Mounting Anger",
+    "name_ko": "치솟는 분노",
+    "text_ko": "치솟는 분노가 명중하면, 당신의 손에서 비용이 당신이 조종하는 드라코닉 체인 링크 수보다 낮은 공격 액션 카드 1장을 추방할 수 있다. 그렇게 하면, 그것이 +1{p}을 얻고 이번 턴 그것을 사용할 수 있다.\n고 어게인"
+  },
+  "kCHmfqF7QQHKTczPTgM8z": {
+    "_name_en": "Mounting Anger",
+    "name_ko": "치솟는 분노",
+    "text_ko": "치솟는 분노가 명중하면, 당신의 손에서 비용이 당신이 조종하는 드라코닉 체인 링크 수보다 낮은 공격 액션 카드 1장을 추방할 수 있다. 그렇게 하면, 그것이 +1{p}을 얻고 이번 턴 그것을 사용할 수 있다.\n고 어게인"
+  },
+  "N7WdmmWqLrgc7hhzmpjbD": {
+    "_name_en": "Mournful Casket",
+    "name_ko": "애도의 관",
+    "text_ko": "이번 턴에 아군이 당신의 무덤에 놓인 적이 있다면, 이 카드가 +1{d}을 얻는다.\n템퍼"
+  },
+  "zjzpNfJzKkkQPptTjCthC": {
+    "_name_en": "Mugenshi: RELEASE",
+    "name_ko": "무겐시: 해방",
+    "text_ko": "카츠 스페셜라이제이션\n콤보 - 이번 전투 체인에서 마지막 공격이 웰밍 거스트웨이브였다면, 무겐시: 해방이 +1{p}, 고 어게인, 그리고 \"이것이 명중하면, 당신의 덱에서 바람의 군주라는 이름의 카드를 원하는 수만큼 찾아 공개하고 손에 놓은 뒤, 덱을 섞는다\"를 얻는다."
+  },
+  "NzNGr8RbNhdmHBqNcTqLg": {
+    "_name_en": "Mulch",
+    "name_ko": "멀치",
+    "text_ko": "대지 퓨전\n멀치가 퓨전되었다면, \"이것이 영웅을 명중하면, 그의 아스날에서 카드 1장을 그의 덱 맨 아래에 놓는다\"를 얻는다."
+  },
+  "TR6gqd7DKzPwdLdF9FCbP": {
+    "_name_en": "Mulch",
+    "name_ko": "멀치",
+    "text_ko": "대지 퓨전\n멀치가 퓨전되었다면, \"이것이 영웅을 명중하면, 그의 아스날에서 카드 1장을 그의 덱 맨 아래에 놓는다\"를 얻는다."
+  },
+  "hMBwBfHp8F7rBbMTwH9Kz": {
+    "_name_en": "Mulch",
+    "name_ko": "멀치",
+    "text_ko": "대지 퓨전\n멀치가 퓨전되었다면, \"이것이 영웅을 명중하면, 그의 아스날에서 카드 1장을 그의 덱 맨 아래에 놓는다\"를 얻는다."
+  },
+  "jDPCKWMC9wbhQHtDj8fzM": {
+    "_name_en": "Murderous Rabble",
+    "name_ko": "살인적인 폭도",
+    "text_ko": "이 카드가 공격할 때, 당신 덱 맨 위 카드를 공개한다. 이 카드가 +X{p}을 얻는다. X는 이렇게 공개된 카드의 피치 값이다.\n고 어게인"
+  },
+  "pwFkWbwFjKnnhTNQzgLJK": {
+    "_name_en": "Murkmire Grapnel",
+    "name_ko": "머크마이어 그래플넬",
+    "text_ko": "머크마이어 그래플넬에 조준 카운터가 있다면, +1{p}을 가진다.\n머크마이어 그래플넬이 줄 피해는 방지할 수 없다."
+  },
+  "RNnkTtQK8QpLJKDTqK97M": {
+    "_name_en": "Murkmire Grapnel",
+    "name_ko": "머크마이어 그래플넬",
+    "text_ko": "머크마이어 그래플넬에 조준 카운터가 있다면, +1{p}을 가진다.\n머크마이어 그래플넬이 줄 피해는 방지할 수 없다."
+  },
+  "MFMLnHfwqKpqhKhcHTGHt": {
+    "_name_en": "Murkmire Grapnel",
+    "name_ko": "머크마이어 그래플넬",
+    "text_ko": "머크마이어 그래플넬에 조준 카운터가 있다면, +1{p}을 가진다.\n머크마이어 그래플넬이 줄 피해는 방지할 수 없다."
+  },
+  "RmpWGrQMtkjKRfd8QqrGJ": {
+    "_name_en": "Murky Water",
+    "name_ko": "탁한 물",
+    "text_ko": "립타이드 스페셜라이제이션\n이것에 조준 카운터가 있다면, +1{p}과 도미네이트를 얻는다.\n이것이 명중하면, 당신의 무덤에서 비용 0 이상인 함정 3개를 뒷면으로 추방할 수 있다. 그렇게 하면, 무작위로 1개를 선택해 아스날에 놓는다."
+  },
+  "Nq9dPQ8KmtgWjCczcJQfz": {
+    "_name_en": "Muscle Mutt",
+    "name_ko": "근육질 잡종견"
+  },
+  "Fw7hr8tGFkDbJkJB8Gjhk": {
+    "_name_en": "Mutated Mass",
+    "name_ko": "돌연변이 덩어리",
+    "text_ko": "당신의 추방 구역에서 돌연변이 덩어리를 사용할 수 있다.\n돌연변이 덩어리의 {p}과 {d}은 당신의 피치 존에 있는, 서로 다른 비용을 가진 카드 수의 2배와 같다.\n블러드 뎃"
+  },
+  "6TFrJmTqf9DjPmgPrmd8m": {
+    "_name_en": "Mutiny on the Battalion Barque",
+    "name_ko": "전열함의 반란",
+    "text_ko": "당신보다 골드를 많이 조종하는 각 영웅에게서, 그가 조종하는 골드 토큰 1개를 훔친다.\n이렇게 골드 토큰 1개 이상의 조종권을 얻으면, 이번 턴 당신의 다음 공격이 +2{p}을 얻는다.\n고 어게인"
+  },
+  "JnzNgM8krkHCW67dfWJLP": {
+    "_name_en": "Mutiny on the Nimbus Sovereign",
+    "name_ko": "님버스 소버린의 반란",
+    "text_ko": "당신보다 골드를 많이 조종하는 각 영웅에게서, 그가 조종하는 골드 토큰 1개를 훔친다.\n이렇게 골드 토큰 1개 이상의 조종권을 얻으면, 이번 턴 당신의 다음 공격이 오버파워를 얻는다.\n고 어게인"
+  },
+  "JwdBp6DFwFkG9npJ78jbK": {
+    "_name_en": "Mutiny on the Swiftwater",
+    "name_ko": "스위프트워터의 반란",
+    "text_ko": "당신보다 골드를 많이 조종하는 각 영웅에게서, 그가 조종하는 골드 토큰 1개를 훔친다.\n이렇게 골드 토큰 1개 이상의 조종권을 얻으면, 이번 턴 당신의 다음 공격이 고 어게인을 얻는다.\n고 어게인"
+  },
+  "zJ9h7zCdQcttTrmgLR6q9": {
+    "_name_en": "Myrkhellir Helm",
+    "name_ko": "미르크헬리르 투구",
+    "text_ko": "당신이 골드를 조종하고 있다면, 이 카드가 +1{d}을 얻는다.\n액션 - {r}{r}, 이것을 파괴한다: 이번 턴 당신이 다음에 골드 토큰으로 카드를 뽑게 될 경우, 대신 2장을 뽑는다. 고 어게인\n템퍼"
+  },
+  "GpmN8jcWjbH7fMHd7hWjJ": {
+    "_name_en": "Nasreth, the Soul Harrower",
+    "name_ko": "나스레스, 영혼을 괴롭히는 자",
+    "text_ko": "턴당 1회 액션 - 0: 공격\n나스레스가 영웅을 명중하면, 그의 소울에서 카드 1장을 추방한다. 이렇게 라이트 카드가 추방되면, 1{h}을 얻는다."
+  },
+  "fgPwzMt7tqqtN77zFbjzP": {
+    "_name_en": "Nasty Surprise",
+    "name_ko": "고약한 서프라이즈",
+    "text_ko": "상대의 효과로 이것이 어디에서든 당신의 무덤에 놓이면, 어질리티, 마이트, 비거 토큰을 생성한다."
+  },
+  "DHDCCL77FKTkQPTqKnG9B": {
+    "_name_en": "Nature's Path Pilgrimage",
+    "name_ko": "자연의 길 순례",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +3{p}과 \"이것이 명중하고 당신의 아스날에 카드가 없다면, 당신 덱 맨 위 카드를 공개한다. 그것이 액션 카드라면, 뒷면으로 아스날에 놓는다\"를 얻는다.\n고 어게인"
+  },
+  "RKbRPkHTBMrQBjf789nwC": {
+    "_name_en": "Nature's Path Pilgrimage",
+    "name_ko": "자연의 길 순례",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +2{p}과 \"이것이 명중하고 당신의 아스날에 카드가 없다면, 당신 덱 맨 위 카드를 공개한다. 그것이 액션 카드라면, 뒷면으로 아스날에 놓는다\"를 얻는다.\n고 어게인"
+  },
+  "khPW7Md6ncCCq9z7JGCqh": {
+    "_name_en": "Nature's Path Pilgrimage",
+    "name_ko": "자연의 길 순례",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +1{p}과 \"이것이 명중하고 당신의 아스날에 카드가 없다면, 당신 덱 맨 위 카드를 공개한다. 그것이 액션 카드라면, 뒷면으로 아스날에 놓는다\"를 얻는다.\n고 어게인"
+  },
+  "RWwk8hgBdnRdWfjkrfJHt": {
+    "_name_en": "Nebula Blade",
+    "name_ko": "성운의 검",
+    "text_ko": "턴당 1회 액션 - {r}{r}: 공격\n이것이 명중하면, 룬챈트 토큰 1개를 생성한다.\n이번 턴에 비공격 액션 카드를 사용한 적이 있다면, 이 카드가 +3{p}을 얻는다."
+  },
+  "wpjRKCTP7LDRPJ9JQRTWQ": {
+    "_name_en": "Nebula Duality",
+    "name_ko": "성운의 이원성",
+    "text_ko": "아무 대상에게 비전 피해 3을 준다.\n순간 - {r}, 이것을 버린다: 대상 영웅에게 비전 피해 1을 준다. 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "NJzwDLBDqqptTpFQTpkNm": {
+    "_name_en": "Nebula Duality",
+    "name_ko": "성운의 이원성",
+    "text_ko": "아무 대상에게 비전 피해 2를 준다.\n순간 - {r}, 이것을 버린다: 대상 영웅에게 비전 피해 1을 준다. 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "NrmFkQH9q78BrzKJ8L9DJ": {
+    "_name_en": "Nebula Duality",
+    "name_ko": "성운의 이원성",
+    "text_ko": "아무 대상에게 비전 피해 1을 준다.\n순간 - {r}, 이것을 버린다: 대상 영웅에게 비전 피해 1을 준다. 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "knQ7hzFBj6fFLH9LTd8MD": {
+    "_name_en": "Nebulus Cycle",
+    "name_ko": "성운의 순환",
+    "text_ko": "이것이 전장을 떠날 때, 폰더 토큰 1개를 생성한다.\n워드 2"
+  },
+  "b886KqRJLbpj78kHWMQJ9": {
+    "_name_en": "Nekria",
+    "name_ko": "네크리아",
+    "text_ko": "네크리아가 피해를 주거나 받을 때마다, 그녀에게 -1{h} 카운터를 놓고 애쉬 토큰 1개를 생성한다."
+  },
+  "pWGjB9PckfFJgNBppfbfT": {
+    "_name_en": "Nerve Scalpel",
+    "name_ko": "신경 절개도",
+    "text_ko": "턴당 1회 액션 - {r}{r}: 공격. 고 어게인\n피어싱 1\n이 카드가 영웅을 명중하면, 이번 턴 그가 다음에 반응 카드 1장 이상으로 방어할 때, 그 카드들은 방어하는 동안 -1{d}을 가진다."
+  },
+  "9QGbrGqFpTRQrq7WTGmGN": {
+    "_name_en": "Nerves of Steel",
+    "name_ko": "강철 같은 신경",
+    "text_ko": "강철 같은 신경이 전장에 들어올 때, 당신이 조종하는 흉갑 장비에서 -1{d} 카운터 1개를 제거한다.\n당신이 조종하는 장비의 배틀원과 템퍼는 {p} 2 이하인 공격을 방어할 때 발동하지 않는다.\n당신의 영웅이 피해를 받을 때, 강철 같은 신경을 파괴한다."
+  },
+  "fhmnPQWbBz77qwmWDL6hT": {
+    "_name_en": "Nettling Shot",
+    "name_ko": "성가신 사격",
+    "text_ko": "이것이 앞면으로 당신의 아스날에 놓이면, 대상 아군을 {t}할 수 있다."
+  },
+  "knzHtdhJNF9wrJgzWmwMW": {
+    "_name_en": "Never Give Up",
+    "name_ko": "포기하지 않는다",
+    "text_ko": "순간 - {r}{r}, 이것을 덱 맨 아래에 놓는다: 대상 방어 액션 카드가 이번 체인 링크에 +3{d}을 얻는다. 이것이 당신의 무덤에 있고, 당신이 다른 모든 영웅보다 {h}이 적고, 이번 턴에 환호를 받은 적이 있을 때만 이것을 활성화한다."
+  },
+  "JtmjqNPR7JcNHJGFNtWNR": {
+    "_name_en": "Never Yield",
+    "name_ko": "굴복하지 않는다",
+    "text_ko": "당신의 턴 시작 시, 굴복하지 않는다를 파괴한 뒤, 당신의 손에 카드가 없다면, 카드 1장을 뽑는다. 당신이 다른 모든 영웅보다 {h}이 적다면, 2{h}을 얻는다. 당신이 다른 모든 영웅보다 장비를 적게 조종하고 있다면, 당신이 조종하는 장비에서 -1{d} 카운터 1개를 제거한다."
+  },
+  "BqJ76BGQWgFpPddRMQrQc": {
+    "_name_en": "New Horizon",
+    "name_ko": "새로운 지평선",
+    "text_ko": "당신의 아스날에 앞면으로 있는 카드가 있다면, 아스날 구역을 추가로 1개 가진다.\n이것이 파괴되면, 당신의 아스날에 있는 모든 카드를 파괴한다.\n블레이드 브레이크"
+  },
+  "qt8PTt8T8bzqm9jFJ8c8F": {
+    "_name_en": "Night's Embrace",
+    "name_ko": "밤의 포옹",
+    "text_ko": "이번 턴 당신의 스텔스를 가진 공격들이 +1{p}을 얻는다."
+  },
+  "tfgqfmpf8PtwhJqcBKDwB": {
+    "_name_en": "Nimble Strike",
+    "name_ko": "날렵한 일격",
+    "text_ko": "날렵한 일격을 사용하기 위한 추가 비용으로, 당신의 무덤에서 님블리즘이라는 이름의 카드를 추방할 수 있다. 그렇게 하면, 날렵한 일격이 +1{p}과 고 어게인을 얻는다."
+  },
+  "6M6NPTgtR8MTpJJrDMtRW": {
+    "_name_en": "Nimble Strike",
+    "name_ko": "날렵한 일격",
+    "text_ko": "날렵한 일격을 사용하기 위한 추가 비용으로, 당신의 무덤에서 님블리즘이라는 이름의 카드를 추방할 수 있다. 그렇게 하면, 날렵한 일격이 +1{p}과 고 어게인을 얻는다."
+  },
+  "dKnLDB7TncwgzFwBf8jfz": {
+    "_name_en": "Nimble Strike",
+    "name_ko": "날렵한 일격",
+    "text_ko": "날렵한 일격을 사용하기 위한 추가 비용으로, 당신의 무덤에서 님블리즘이라는 이름의 카드를 추방할 수 있다. 그렇게 하면, 날렵한 일격이 +1{p}과 고 어게인을 얻는다."
+  },
+  "8gDnjCfGbwdzrRztkMJJG": {
+    "_name_en": "Nimblism",
+    "name_ko": "님블리즘",
+    "text_ko": "이번 턴 당신이 사용하는, 비용 1 이하인 다음 공격 액션 카드가 +3{p}을 얻는다.\n고 어게인"
+  },
+  "M6j9KrDRqMMHwGqw9QLKz": {
+    "_name_en": "Nimblism",
+    "name_ko": "님블리즘",
+    "text_ko": "이번 턴 당신이 사용하는, 비용 1 이하인 다음 공격 액션 카드가 +2{p}을 얻는다.\n고 어게인"
+  },
+  "cQD9DmppBQNGqb9CdqCRc": {
+    "_name_en": "Nimblism",
+    "name_ko": "님블리즘",
+    "text_ko": "이번 턴 당신이 사용하는, 비용 1 이하인 다음 공격 액션 카드가 +1{p}을 얻는다.\n고 어게인"
+  },
+  "TwN6BKbDJDrJBf7DPGcP8": {
+    "_name_en": "Nimby",
+    "name_ko": "님비",
+    "text_ko": "이 카드가 공격할 때, 당신의 덱에서 님블리즘을 찾아 공개하고 손에 놓은 뒤, 덱을 섞을 수 있다."
+  },
+  "7HzdfH8DD7cMhzKpCfDRG": {
+    "_name_en": "Nimby",
+    "name_ko": "님비",
+    "text_ko": "이 카드가 공격할 때, 당신의 덱에서 님블리즘을 찾아 공개하고 손에 놓은 뒤, 덱을 섞을 수 있다."
+  },
+  "6wDLWfBNH8rPfhKPNtT8L": {
+    "_name_en": "Nimby",
+    "name_ko": "님비",
+    "text_ko": "이 카드가 공격할 때, 당신의 덱에서 님블리즘을 찾아 공개하고 손에 놓은 뒤, 덱을 섞을 수 있다."
+  },
+  "rz79tn8mdQLDqNnhFdngk": {
+    "_name_en": "Ninth Blade of the Blood Oath",
+    "name_ko": "혈맹의 아홉 번째 검",
+    "text_ko": "당신이 조종하는 룬챈트 1개당 이 카드는 사용하는 데 {r}이 덜 든다."
+  },
+  "Wk8pbbnHPWfp6ndkJb6QD": {
+    "_name_en": "Nip at the Heels",
+    "name_ko": "발뒤꿈치를 물어뜯다",
+    "text_ko": "기본 {p} 3 이하인 대상 공격이 +1{p}을 얻는다."
+  },
+  "wCLt8CtdLmrbMPcqLCzqc": {
+    "_name_en": "Nitro Mechanoid",
+    "name_ko": "니트로 메카노이드",
+    "text_ko": "액션 - 니트로 메카노이드 아래에서 카드 1장을 추방한다: 공격\n오버파워\n템퍼"
+  },
+  "Mk6tMhn9RtfkbRpcLL8Ht": {
+    "_name_en": "Nix the Nimble",
+    "name_ko": "닉스 더 님블",
+    "text_ko": "계약 - 당신은 상대의 반응 카드를 추방하기로 계약한다. 이 계약을 완료할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다."
+  },
+  "tGhCqd6bBfRGGdrmrFnLk": {
+    "_name_en": "Nix the Nimble",
+    "name_ko": "닉스 더 님블",
+    "text_ko": "계약 - 당신은 상대의 반응 카드를 추방하기로 계약한다. 이 계약을 완료할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다."
+  },
+  "G78pTWjgm7fW77FWfLpkM": {
+    "_name_en": "Nix the Nimble",
+    "name_ko": "닉스 더 님블",
+    "text_ko": "계약 - 당신은 상대의 반응 카드를 추방하기로 계약한다. 이 계약을 완료할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다."
+  },
+  "nQpD6DkRrkPWthN78mh8P": {
+    "_name_en": "No Fear",
+    "name_ko": "두려움 없이",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 당신의 손에서 {p} 6 이상인 카드를 원하는 수만큼 추방한다. 종료 단계 시작 시, 그것들을 당신의 손으로 되돌린다.\n이번 턴 당신이 다음에 피해를 받게 될 경우, 그 피해 X를 방지한다. X는 2에 이 카드를 사용하기 위해 추방된 카드 수를 더한 값이다."
+  },
+  "FtL6dWRqtnwQzBnQGPRhT": {
+    "_name_en": "No Hero Stands Alone",
+    "name_ko": "홀로 서지 않는 영웅",
+    "text_ko": "이것이 어느 구역에 있든, 이번 턴에 당신이 터프니스 토큰을 조종한 적이 있다면, 이 카드가 +3{d}과 앰부시를 얻는다.\n이 카드가 방어할 때, 공격하는 영웅과 클래시한다. 승자는 이번 체인 링크에 공격 또는 방어 카드 1장이 -3{p} -3{d}을 얻게 할 수 있다."
+  },
+  "kJDpLCpqNQ6wCC8g9nFHB": {
+    "_name_en": "No Tall Tales",
+    "name_ko": "허풍이 아니다",
+    "text_ko": "이 카드가 기본값을 초과하는 {p}을 가지고 있다면, +1{p}을 얻는다.\n타워 - 이 카드가 {p} 13 이상이면, \"이 카드가 영웅을 명중하면, 그가 소유한 카드들은 그의 다음 액션 단계 동안 고 어게인을 잃고 얻을 수 없다\"를 얻는다."
+  },
+  "zDLrkgc8QGm77T8qPGwqd": {
+    "_name_en": "Nock the Deathwhistle",
+    "name_ko": "죽음의 휘파람을 메기다",
+    "text_ko": "아잘레아 스페셜라이제이션\n당신의 덱에서 화살 카드를 찾아 공개한 뒤, 덱을 섞고 덱 맨 위에 놓는다.\n리로드\n고 어게인"
+  },
+  "GkMGqFmbbrpwRCGHJknjt": {
+    "_name_en": "Nom de Plume",
+    "name_ko": "필명",
+    "text_ko": "액션 - 이것을 파괴한다: 각 영웅이 카드 1장을 뽑는다. 고 어게인"
+  },
+  "CGhtqrGGT7TL9C89GjF8R": {
+    "_name_en": "Northern Winds",
+    "name_ko": "북풍",
+    "text_ko": "올드힘 스페셜라이제이션\n각 영웅에 대해, 그가 조종하는 장비, 아이템, 아군 최대 각 1개를 당신의 다음 턴 시작 시까지 얼린다.\n유니티 - 이것이 손의 카드와 함께 방어할 때, 원하는 수의 영웅의 조종 하에 스펠베인 이지스 토큰을 생성한다."
+  },
+  "F7mqQWTKzmNmMfgmQbHFw": {
+    "_name_en": "Not So Fast",
+    "name_ko": "그렇게는 안 되지",
+    "text_ko": "스커브 스페셜라이제이션\n이번 턴 상대가 다음에 골드 토큰의 효과로 카드를 뽑게 될 경우, 대신 당신이 카드 1장을 뽑는다."
+  },
+  "wmGCKjjh6QbD6WTqNFqn9": {
+    "_name_en": "Not So Mighty",
+    "name_ko": "그렇게 강하지 않다",
+    "text_ko": "이 카드가 리바일드 영웅의 공격을 방어할 때, 그가 조종하는 마이트 토큰 1개를 파괴한다. 그렇게 하면, 터프니스 토큰 1개를 생성한다."
+  },
+  "hNbHKGgQDmpBmQWDDTnkR": {
+    "_name_en": "Not So Tuff",
+    "name_ko": "그렇게 억세지 않다",
+    "text_ko": "이 카드가 리비어드 영웅의 공격을 방어할 때, 그가 조종하는 터프니스 토큰 1개를 파괴한다. 그렇게 하면, 마이트 토큰 1개를 생성한다."
+  },
+  "7Tpfm7Ccf8rKcztfFngM9": {
+    "_name_en": "Nourishing Emptiness",
+    "name_ko": "자양분이 되는 공허",
+    "text_ko": "당신의 무덤에 공격 액션 카드가 없는 동안, 자양분이 되는 공허가 도미네이트와 \"이것이 명중하면, 이번 턴 당신의 영웅이 +1{i}을 얻는다\"를 가진다."
+  },
+  "MqKhDHHHkLfFrdh7mBzcR": {
+    "_name_en": "Nourishing Glow",
+    "name_ko": "자양분의 빛",
+    "text_ko": "이것이 전장에 들어올 때, 1{h}을 얻는다.\n워드 1"
+  },
+  "8zKwdDwBMQ79DjgrwJTTn": {
+    "_name_en": "Nucleus Aetherbolt",
+    "name_ko": "핵심 에테르 화살",
+    "text_ko": "아무 대상에게 비전 피해 3을 준다.\n이것이 피해를 주면, 당신의 영웅을 {t}할 수 있다. 그렇게 하면, 당신의 영웅이 아무 대상에게 비전 피해 1을 준다."
+  },
+  "JTrNBd8TcnPmB6KdDmjRN": {
+    "_name_en": "Null // Shock",
+    "name_ko": "무효화 // 충격",
+    "text_ko": "멜드\n대상 순간 카드의 비용이 이번 턴에 당신이 상대 영웅에게 준 총 비전 피해보다 낮다면, 그것을 무효화한다.\n//\n아무 대상에게 비전 피해 1을 준다."
+  },
+  "gtRTcjNQwPdRpHrndrhMq": {
+    "_name_en": "Null Time Zone",
+    "name_ko": "널 타임 존",
+    "text_ko": "크랭크\n이 카드는 스팀 카운터 2개를 지닌 채 전장에 들어온다. 당신의 턴 시작 시, 스팀 카운터 1개를 제거하지 않는 한 이것을 파괴한다.\n이것이 전장에 들어올 때, 카드 이름 1개를 지정한다. 이것이 전장에 있는 동안 지정된 카드는 손에서 피치되거나 사용될 수 없다."
+  },
+  "n8rcTcmmLzzwTWHCwgtRP": {
+    "_name_en": "Nullrune Boots",
+    "name_ko": "널룬 부츠",
+    "text_ko": "아케인 배리어 1"
+  },
+  "9bWHjnFmfDBDtkmKtCCrw": {
+    "_name_en": "Nullrune Gloves",
+    "name_ko": "널룬 장갑",
+    "text_ko": "아케인 배리어 1"
+  },
+  "9DNnTrggQrJWn8CMFJJhf": {
+    "_name_en": "Nullrune Hood",
+    "name_ko": "널룬 두건",
+    "text_ko": "아케인 배리어 1"
+  },
+  "TKd8jdfqgWnjdNRBmkKfB": {
+    "_name_en": "Nullrune Robe",
+    "name_ko": "널룬 로브",
+    "text_ko": "아케인 배리어 1"
+  },
+  "tDjBgLK9QzgrFzLHzwBnC": {
+    "_name_en": "Numbskull",
+    "name_ko": "멍청이",
+    "text_ko": "이것이 어느 구역에 있든, 이것의 {r} 사용 비용, {p}, {d}은 수정될 수 없다."
+  },
+  "wHhtChfRBPBbjKqcmrMJf": {
+    "_name_en": "Numbskull Charm",
+    "name_ko": "멍청이의 매력",
+    "text_ko": "원하는 수를 선택한다;\n- 컨피던스나 마이트 토큰을 파괴한다.\n- 관중이 당신에게 환호한다.\n- 당신 덱 맨 위 카드를 피치한다. 그것이 {p} 6 이상이면, 비거 토큰 1개를 생성한다."
+  },
+  "prMJkPd8w9KQHQ9BjgMmG": {
+    "_name_en": "Nuu",
+    "name_ko": "누",
+    "text_ko": "당신의 스텔스를 가진 공격들이 \"이번 체인 링크가 해결될 때, 이것을 방어하는 모든 액션 카드를 추방한다\"를 얻는다.\n순간 - {c}{c}{c}: 상대 영웅의 덱 맨 위 카드를 확인한다. 그것이 파란색이면, 추방할 수 있다. 턴 종료 시까지, 당신은 그 영웅의 추방 구역에서 파란색 카드를 {r} 비용을 지불하지 않고 사용할 수 있다."
+  },
+  "MghLPDjq8CfBJ8RzNc7Ft": {
+    "_name_en": "Nuu, Alluring Desire",
+    "name_ko": "누, 매혹적인 욕망",
+    "text_ko": "당신의 스텔스를 가진 공격들이 \"이번 체인 링크가 해결될 때, 이것을 방어하는 모든 액션 카드를 추방한다\"를 얻는다.\n순간 - {c}{c}{c}: 상대 영웅의 덱 맨 위 카드를 확인한다. 그것이 파란색이면, 추방할 수 있다. 턴 종료 시까지, 당신은 그 영웅의 추방 구역에서 파란색 카드를 {r} 비용을 지불하지 않고 사용할 수 있다."
+  },
+  "JfJ7hNnCDL9GDCwfrWBBc": {
+    "_name_en": "Oaken Old",
+    "name_ko": "오래된 참나무",
+    "text_ko": "대지와 얼음 퓨전\n오래된 참나무가 퓨전되었다면, +2{p}, 도미네이트, 그리고 \"이것이 영웅을 명중하면, 그가 자신의 손에서 무작위 카드 2장을 원하는 순서로 덱 맨 아래에 놓는다\"를 얻는다."
+  },
+  "wfNk87CBNfmjfPwrW8t8M": {
+    "_name_en": "Oasis Respite",
+    "name_ko": "오아시스의 안식",
+    "text_ko": "당신이 선택한 발생원으로부터 이번 턴 대상 영웅에게 가해질 다음 피해 4를 방지한다. 그가 다른 모든 영웅보다 생명이 적다면, 1{h}을 얻을 수 있다."
+  },
+  "MLLHrD676q8LL6ngKMb6c": {
+    "_name_en": "Oasis Respite",
+    "name_ko": "오아시스의 안식",
+    "text_ko": "당신이 선택한 발생원으로부터 이번 턴 대상 영웅에게 가해질 다음 피해 3을 방지한다. 그가 다른 모든 영웅보다 생명이 적다면, 1{h}을 얻을 수 있다."
+  },
+  "BDCgz7kkmPCdbGFMhnMr8": {
+    "_name_en": "Oasis Respite",
+    "name_ko": "오아시스의 안식",
+    "text_ko": "당신이 선택한 발생원으로부터 이번 턴 대상 영웅에게 가해질 다음 피해 2를 방지한다. 그가 다른 모든 영웅보다 생명이 적다면, 1{h}을 얻을 수 있다."
+  },
+  "NdCm9WBnzPthfNNLrNggG": {
+    "_name_en": "Oath of Loyalty",
+    "name_ko": "충성의 맹세",
+    "text_ko": "이것은 당신의 턴 첫 액션일 때만 사용할 수 있다.\n이것이 사용되면, 턴 종료 시까지, 당신은 드라코닉인 카드만 사용할 수 있다.\n고 어게인"
+  },
+  "dzjNwbBR9WMqhDD8mkBnp": {
+    "_name_en": "Oath of Oak",
+    "name_ko": "참나무의 맹세",
+    "text_ko": "대지의 화신 토큰 3개를 생성한다."
+  },
+  "RzWRHzmjbJP9czPThbzQ6": {
+    "_name_en": "Oath of Oak",
+    "name_ko": "참나무의 맹세",
+    "text_ko": "대지의 화신 토큰 2개를 생성한다."
+  },
+  "kRQ88r9HmhDhfwFr8R6Tz": {
+    "_name_en": "Oath of Oak",
+    "name_ko": "참나무의 맹세",
+    "text_ko": "대지의 화신 토큰 1개를 생성한다."
+  },
+  "mKPnFPDQQW6DJjfktTKm7": {
+    "_name_en": "Oath of Steel",
+    "name_ko": "강철의 맹세",
+    "text_ko": "이번 턴에 무기로 공격할 때마다, 여기에 +1{p} 카운터를 놓는다.\n당신의 종료 단계 시작 시, 당신이 조종하는 무기들에서 모든 +1{p} 카운터를 제거한다.\n고 어게인"
+  },
+  "rnFwQdqLFTRCDWbtT6Jqm": {
+    "_name_en": "Oath of the Arknight",
+    "name_ko": "아크나이트의 맹세",
+    "text_ko": "이번 턴 당신의 다음 룬블레이드 공격이 +3{p}을 얻는다.\n룬챈트 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "nfmPR87fzQhMLrPCdFTzD": {
+    "_name_en": "Oath of the Arknight",
+    "name_ko": "아크나이트의 맹세",
+    "text_ko": "이번 턴 당신의 다음 룬블레이드 공격이 +2{p}을 얻는다.\n룬챈트 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "GWfQC8Lqd9Jz8dnkNdrwt": {
+    "_name_en": "Oath of the Arknight",
+    "name_ko": "아크나이트의 맹세",
+    "text_ko": "이번 턴 당신의 다음 룬블레이드 공격이 +1{p}을 얻는다.\n룬챈트 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "F6nMWMTR7mjDm9LMjhgpd": {
+    "_name_en": "Oblivion",
+    "name_ko": "오블리비언",
+    "text_ko": "레전더리 빈셋 스페셜라이제이션\n당신이 룬챈트를 정확히 6개 조종하고 있을 때만 이것을 사용한다.\n나스레스, 영혼을 괴롭히는 자 토큰 1개를 생성한다."
+  },
+  "qMBpL7WdHmD7rgtMwQpfR": {
+    "_name_en": "Obsidian Fire Vein",
+    "name_ko": "흑요석 불의 혈맥",
+    "text_ko": "턴당 1회 액션 - {r}: 공격. 이번 체인 링크에 드라코닉 카드를 사용한 적이 있다면, 이 공격이 +1{p}과 고 어게인을 얻는다."
+  },
+  "PcKQPM7Qw6JQGpqbkDNWD": {
+    "_name_en": "Odds on Favorite",
+    "name_ko": "확률상 유리한 자",
+    "text_ko": "이번 턴 당신의 다음 검 공격이 \"이것이 공격할 때, 방어 영웅과 내기한다. 승자는 자신의 덱에서 카드 1장을 찾아 섞은 뒤, 그 카드를 맨 위에 놓는다\"를 얻는다.\n고 어게인"
   }
 }
