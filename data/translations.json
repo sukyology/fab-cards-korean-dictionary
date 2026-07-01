@@ -11327,5 +11327,585 @@
     "_name_en": "Invoke Ouvia",
     "name_ko": "오우비아 소환",
     "text_ko": "당신이 조종하는 대상 애쉬를 오우비아로 변신시킨다. 고 어게인"
+  },
+  "J6bjpTRPwRCmLTMcWTPWH": {
+    "_name_en": "Invoke Suraya",
+    "name_ko": "수라야 소환",
+    "text_ko": "레전더리\n당신이 조종하는 대상 스펙트럴 실드를 비전의 전령 수라야로 변신시킨다.\n고 어게인"
+  },
+  "8htBPWMfPrM8bzjf8LrCr": {
+    "_name_en": "Invoke Themai",
+    "name_ko": "테마이 소환",
+    "text_ko": "당신이 조종하는 대상 애쉬를 테마이로 변신시킨다. 고 어게인"
+  },
+  "C7PG6mkm7JPNTBWKJwHpt": {
+    "_name_en": "Invoke Tomeltai",
+    "name_ko": "토멜타이 소환",
+    "text_ko": "레전더리\n당신이 조종하는 대상 애쉬를 토멜타이로 변신시킨다. 고 어게인"
+  },
+  "KWR8NHg7qbrP9rnbfWPr7": {
+    "_name_en": "Invoke Vynserakai",
+    "name_ko": "빈세라카이 소환",
+    "text_ko": "당신이 조종하는 대상 애쉬를 빈세라카이로 변신시킨다. 고 어게인"
+  },
+  "9J9c98JJDc8mtKnRR9hhq": {
+    "_name_en": "Invoke Yendurai",
+    "name_ko": "옌두라이 소환",
+    "text_ko": "당신이 조종하는 대상 애쉬를 옌두라이로 변신시킨다. 고 어게인"
+  },
+  "rrN8b6TLpjCHQJRKBpJFm": {
+    "_name_en": "Ion Charged",
+    "name_ko": "이온 충전",
+    "text_ko": "턴 종료 시까지, 번개와 엘리멘탈 공격은 고 어게인을 가지는 동안 +1{p}을 얻는다."
+  },
+  "GCRQMpBtqBHWrk68GqnGP": {
+    "_name_en": "Ira, Crimson Haze",
+    "name_ko": "이라, 진홍빛 안개",
+    "text_ko": "각 턴 당신의 두 번째 공격이 +1{p}을 얻는다."
+  },
+  "DBKWbWMbrt7WK7KwmNQRL": {
+    "_name_en": "Ira, Scarlet Revenger",
+    "name_ko": "이라, 진홍의 복수자",
+    "text_ko": "각 턴 당신의 두 번째 공격이 +1{p}을 얻는다."
+  },
+  "7TBhRR7QqNj86D7Crj6Rq": {
+    "_name_en": "Ire of the Crowd",
+    "name_ko": "관중의 분노",
+    "text_ko": "당신의 종료 단계 시작 시, 이번 턴에 영웅을 명중시키지 않았다면, 2{h}을 잃는다."
+  },
+  "W8h8fMQhbjGr6hzDbFmq7": {
+    "_name_en": "Iris of Reality",
+    "name_ko": "현실의 홍채",
+    "text_ko": "당신의 액션 단계 동안, 당신이 조종하는 일루저니스트 오라는 {p} 4를 가지고 \"턴당 1회 액션 - {r}{r}{r}: 공격. 고 어게인\"을 가진 무기가 된다."
+  },
+  "MNKMPhrDfjjDqqBJW99jk": {
+    "_name_en": "Iris of the Blossom",
+    "name_ko": "꽃봉오리의 홍채",
+    "text_ko": "순간 - {t}, 카드 1장을 버린다: 당신의 덱에서 소용돌이 안개 꽃송이를 찾아 추방한 뒤, 덱을 섞는다. 이번 턴 그것을 사용할 수 있다. 이번 턴에 명중한 적이 있을 때만 이것을 활성화한다.\n블레이드 브레이크"
+  },
+  "mPjzJQcPgCcjqgqjCPzLH": {
+    "_name_en": "Ironfist Revelation",
+    "name_ko": "강철 주먹의 계시",
+    "text_ko": "이 카드가 방어할 때, 당신의 아스날에 뒷면으로 있는, 크러쉬를 가진 카드 1장을 앞면으로 뒤집을 수 있다. 그렇게 하면, 여기에 +1{p} 카운터를 놓는다.\n템퍼"
+  },
+  "FWzdtMmz6kCcWBpWDMLmM": {
+    "_name_en": "Ironhide Gauntlet",
+    "name_ko": "강철가죽 건틀릿",
+    "text_ko": "강철가죽 건틀릿으로 방어할 때, {r}을 지불할 수 있다. 그렇게 하면, +2{d}과 \"전투 체인이 종료되면, 강철가죽 건틀릿을 파괴한다\"를 얻는다."
+  },
+  "kJJJmpKfCzqkzCM9DW9Nw": {
+    "_name_en": "Ironhide Helm",
+    "name_ko": "강철가죽 투구",
+    "text_ko": "강철가죽 투구로 방어할 때, {r}을 지불할 수 있다. 그렇게 하면, +2{d}과 \"전투 체인이 종료되면, 강철가죽 투구를 파괴한다\"를 얻는다."
+  },
+  "d7FgThnkGzdhQBPmFgnrn": {
+    "_name_en": "Ironhide Legs",
+    "name_ko": "강철가죽 각반",
+    "text_ko": "강철가죽 각반으로 방어할 때, {r}을 지불할 수 있다. 그렇게 하면, +2{d}과 \"전투 체인이 종료되면, 강철가죽 각반을 파괴한다\"를 얻는다."
+  },
+  "qq8NfJ7zgchWbMfM8BJBG": {
+    "_name_en": "Ironhide Plate",
+    "name_ko": "강철가죽 흉갑",
+    "text_ko": "강철가죽 흉갑으로 방어할 때, {r}을 지불할 수 있다. 그렇게 하면, +2{d}을 얻고 전투 체인이 종료될 때 파괴한다."
+  },
+  "wJHGzDnNr7fkPFnkLzMWq": {
+    "_name_en": "Ironrot Gauntlet",
+    "name_ko": "녹슨 건틀릿",
+    "text_ko": "블레이드 브레이크"
+  },
+  "pCDQncQ7WrwtmPrmgjQjQ": {
+    "_name_en": "Ironrot Helm",
+    "name_ko": "녹슨 투구",
+    "text_ko": "블레이드 브레이크"
+  },
+  "rBMjbzt9h6cKWqz6JmCTc": {
+    "_name_en": "Ironrot Legs",
+    "name_ko": "녹슨 각반",
+    "text_ko": "블레이드 브레이크"
+  },
+  "k8mnLNbhrPPrtF9W9jbnH": {
+    "_name_en": "Ironrot Plate",
+    "name_ko": "녹슨 흉갑",
+    "text_ko": "블레이드 브레이크"
+  },
+  "PqNCC7zzLf8kFWDCpj7g6": {
+    "_name_en": "Ironsong Determination",
+    "name_ko": "강철 노래의 결의",
+    "text_ko": "대상 검의 공격들이 턴 종료 시까지 +1{p}과 도미네이트를 얻는다.\n고 어게인"
+  },
+  "DWRBqLngTDmHThkjT6LFn": {
+    "_name_en": "Ironsong Pride",
+    "name_ko": "강철 노래의 자긍심",
+    "text_ko": "이것이 전장에 들어올 때, 당신이 조종하는 대상 검에 +1{p} 카운터를 놓는다.\n이것이 전장을 떠날 때, 당신이 조종하는 검들에서 모든 +1{p} 카운터를 제거한다.\n당신의 종료 단계 시작 시, 검이 이번 턴에 명중하지 않았다면, 이것을 파괴한다."
+  },
+  "9Kp6GPmC6WKb7NqNPwNrd": {
+    "_name_en": "Ironsong Response",
+    "name_ko": "강철 노래의 응답",
+    "text_ko": "리프라이즈 - 방어 영웅이 이번 체인 링크에서 자신의 손의 카드로 방어했다면, 대상 무기 공격이 +3{p}을 얻는다."
+  },
+  "L7jKNGkRd9WwpN6NQKGbf": {
+    "_name_en": "Ironsong Response",
+    "name_ko": "강철 노래의 응답",
+    "text_ko": "리프라이즈 - 방어 영웅이 이번 체인 링크에서 자신의 손의 카드로 방어했다면, 대상 무기 공격이 +2{p}을 얻는다."
+  },
+  "tnLDhJDNRMRQrcTzBkTF9": {
+    "_name_en": "Ironsong Response",
+    "name_ko": "강철 노래의 응답",
+    "text_ko": "리프라이즈 - 방어 영웅이 이번 체인 링크에서 자신의 손의 카드로 방어했다면, 대상 무기 공격이 +1{p}을 얻는다."
+  },
+  "JtPhDg9PkWmHb6jpCCPjz": {
+    "_name_en": "Ironsong Versus",
+    "name_ko": "강철 노래의 대립",
+    "text_ko": "턴당 1회 액션 - {r}: 이번 턴 당신의 다음 검 공격이 \"이 카드가 영웅을 명중하면, 용기 토큰 1개를 생성한다\"를 얻는다. 고 어게인\n템퍼"
+  },
+  "FHLMhFd7rHFC8LqNmLcJR": {
+    "_name_en": "Isenhowl Weathervane",
+    "name_ko": "이센하울 풍향계",
+    "text_ko": "이번 턴 당신이 다음에 얼음 퓨전할 때, 대상 영웅의 조종 하에 프로스트바이트 토큰 4개를 생성한다.\n고 어게인"
+  },
+  "KwLBJgTd78DwgLWdpqRhN": {
+    "_name_en": "Isenhowl Weathervane",
+    "name_ko": "이센하울 풍향계",
+    "text_ko": "이번 턴 당신이 다음에 얼음 퓨전할 때, 대상 영웅의 조종 하에 프로스트바이트 토큰 3개를 생성한다.\n고 어게인"
+  },
+  "QcJHqRnCpgHQ7KBMHmbWT": {
+    "_name_en": "Isenhowl Weathervane",
+    "name_ko": "이센하울 풍향계",
+    "text_ko": "이번 턴 당신이 다음에 얼음 퓨전할 때, 대상 영웅의 조종 하에 프로스트바이트 토큰 2개를 생성한다.\n고 어게인"
+  },
+  "RbPKWpnNdq7P8nphqdJn6": {
+    "_name_en": "Isolate",
+    "name_ko": "고립시키다",
+    "text_ko": "스텔스\n도미네이트"
+  },
+  "HHKcFqDJTmCB6bwFzjdcF": {
+    "_name_en": "Isolate",
+    "name_ko": "고립시키다",
+    "text_ko": "스텔스\n도미네이트"
+  },
+  "kMjgjn9M78JbkDGbgPPzk": {
+    "_name_en": "Isolate",
+    "name_ko": "고립시키다",
+    "text_ko": "스텔스\n도미네이트"
+  },
+  "TmKrpP8tDg8bmpnqMPtgj": {
+    "_name_en": "Iyslander",
+    "name_ko": "이슬랜더",
+    "text_ko": "얼음의 정수\n당신의 턴이 아니라면, 당신의 아스날에서 파란색 '비공격' 액션 카드를 순간 카드인 것처럼 사용할 수 있다.\n상대의 턴에 얼음 카드를 사용할 때마다, 그의 조종 하에 프로스트바이트 토큰 1개를 생성한다."
+  },
+  "8KRCDf6drqhFMKK7hJhbM": {
+    "_name_en": "Iyslander, Stormbind",
+    "name_ko": "이슬랜더, 폭풍결속",
+    "text_ko": "얼음의 정수\n당신의 턴이 아니라면, 당신의 아스날에서 파란색 '비공격' 액션 카드를 순간 카드인 것처럼 사용할 수 있다.\n상대의 턴에 얼음 카드를 사용할 때마다, 그의 조종 하에 프로스트바이트 토큰 1개를 생성한다."
+  },
+  "JfdLrjqqCPgLQkrhtFqcz": {
+    "_name_en": "Jack Be Nimble",
+    "name_ko": "재빠른 잭",
+    "text_ko": "이 카드가 공격할 때, 당신의 무덤에서 님블리즘을 추방할 수 있다. 그렇게 하면, 이 카드가 +1{p}과 고 어게인을 얻는다.\n이 카드가 영웅을 명중하면, 이번 액션 단계 종료 시까지 그가 조종하는 아이템 1개를 훔친다."
+  },
+  "hKpL79WLFdLkgBhmhtdQJ": {
+    "_name_en": "Jack Be Quick",
+    "name_ko": "날쌘 잭",
+    "text_ko": "이 카드가 공격할 때, 당신의 무덤에서 님블리즘을 추방할 수 있다. 그렇게 하면, 이 카드가 +1{p}과 고 어게인을 얻는다.\n이 카드가 영웅을 명중하면, 그가 조종하는 아군 1개를 {u}한 뒤, 이번 액션 단계 종료 시까지 훔친다."
+  },
+  "MqhJWhp7gnBLjtMwzwmm8": {
+    "_name_en": "Jack-o'-lantern",
+    "name_ko": "잭오랜턴",
+    "text_ko": "당신 덱 맨 위 카드를 추방한다. 그것이 빨간색이면, 룬챈트 토큰 1개를 생성한다."
+  },
+  "KmMWLT6fF88QdfKTJ9GFf": {
+    "_name_en": "Jack-o'-lantern",
+    "name_ko": "잭오랜턴",
+    "text_ko": "당신 덱 맨 위 카드를 추방한다. 그것이 노란색이면, 룬챈트 토큰 1개를 생성한다."
+  },
+  "b9tmpTgLPfDhD6qDJ7FwD": {
+    "_name_en": "Jack-o'-lantern",
+    "name_ko": "잭오랜턴",
+    "text_ko": "당신 덱 맨 위 카드를 추방한다. 그것이 파란색이면, 룬챈트 토큰 1개를 생성한다."
+  },
+  "RbpzqdWTwMQDRTpNhwdtp": {
+    "_name_en": "Jagged Edge",
+    "name_ko": "들쭉날쭉한 날",
+    "text_ko": "대상 무기 공격이 +3{p}과 \"이렇게 주게 될 피해는 방지할 수 없다\"를 얻는다."
+  },
+  "9QL68DDb9hCqhWWhgnQgR": {
+    "_name_en": "Jarl Vetreiði",
+    "name_ko": "야를 베트레이디",
+    "text_ko": "당신이 얼음 카드를 사용할 때마다, 상대의 노출된 머리, 가슴, 팔, 다리 구역 중 하나에 프로스트바이트 토큰 1개를 생성한다.\n대지와 얼음의 정수"
+  },
+  "7TWGJzNdq8bQ7Rr8LWmdn": {
+    "_name_en": "Jaws of Victory",
+    "name_ko": "승리의 이빨",
+    "text_ko": "이 카드가 영웅을 공격할 때, 당신이 그보다 {h}이 적다면, 관중이 당신에게 환호한다.\n이번 턴에 환호를 받은 적이 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "GK6TKkztnwHHwqKPrGR9k": {
+    "_name_en": "Jinglewood, Smash Hit",
+    "name_ko": "징글우드, 강타",
+    "text_ko": "턴당 1회 액션 - {r}{r}{r}: 대상 상대 영웅이 마이트, 퀵큰, 비거 토큰 중 하나를 선택해 생성한다. 당신은 카퍼 토큰 1개를 생성한다. 고 어게인\n액션 - 0: 공격. 이것이 명중하면, 파괴한다."
+  },
+  "FBWddcQRCcJm9mqLNdwtW": {
+    "_name_en": "Jittery Bones",
+    "name_ko": "덜덜 떠는 본즈",
+    "text_ko": "이 카드가 공격할 때, 카드 1장을 버리거나 당신 덱 맨 위 카드를 파괴할 수 있다. 그 카드가 워터리 그레이브를 가졌다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "CRn7J9kmnRCDPDRKbckQQ": {
+    "_name_en": "Jittery Bones",
+    "name_ko": "덜덜 떠는 본즈",
+    "text_ko": "이 카드가 공격할 때, 카드 1장을 버리거나 당신 덱 맨 위 카드를 파괴할 수 있다. 그 카드가 워터리 그레이브를 가졌다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "GTNzDNDpq96bffrF66DPG": {
+    "_name_en": "Jittery Bones",
+    "name_ko": "덜덜 떠는 본즈",
+    "text_ko": "이 카드가 공격할 때, 카드 1장을 버리거나 당신 덱 맨 위 카드를 파괴할 수 있다. 그 카드가 워터리 그레이브를 가졌다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "6cNLLnWnpJdfmdpQHMFMb": {
+    "_name_en": "Jolly Bludger",
+    "name_ko": "쾌활한 블러저",
+    "text_ko": "이 카드가 공격할 때, 당신이 조종하는 톱니바퀴를 {t}할 수 있다. 그렇게 하면, 이 카드가 오버파워를 얻는다.\n이 카드가 영웅에게 피해를 줄 때, 그가 조종하는 아이템을 그만큼 훔친다.\n턴당 3회 순간 - 당신이 조종하는 톱니바퀴를 {t}한다: 이 카드가 +1{p}을 얻는다."
+  },
+  "kfCPfkdm8jrFqmHMNGj8h": {
+    "_name_en": "Jubeel, Spellbane",
+    "name_ko": "주빌, 주문 차단자",
+    "text_ko": "턴당 1회 액션 - {r}: 공격\n이것이 영웅을 명중하고 당신이 스펠베인 이지스를 조종하고 있지 않을 때마다, 스펠베인 이지스 토큰 1개를 생성한다."
+  },
+  "D9N8LLTrcrbm9pk7HnPqN": {
+    "_name_en": "Judge, Jury, Executioner",
+    "name_ko": "판사, 배심원, 집행자",
+    "text_ko": "레전더리 아잘레아 스페셜라이제이션\n이것에 조준 카운터가 있다면, \"이 카드가 영웅을 명중하면, 그는 자신의 손에서 1장을 제외한 모든 카드를 버린다\"를 얻는다."
+  },
+  "drBDmHmGtr8qtbmgztwdH": {
+    "_name_en": "Jump Start",
+    "name_ko": "점프 스타트",
+    "text_ko": "당신이 하이퍼 드라이버를 조종하고 있다면, 이 카드는 사용하는 데 {r}이 덜 든다.\n부스트"
+  },
+  "8gBtrNrB6gqGGq9WjNrTj": {
+    "_name_en": "Jump Start",
+    "name_ko": "점프 스타트",
+    "text_ko": "당신이 하이퍼 드라이버를 조종하고 있다면, 이 카드는 사용하는 데 {r}이 덜 든다.\n부스트"
+  },
+  "T8qmHczkFQMWqBMzJWtT6": {
+    "_name_en": "Jump Start",
+    "name_ko": "점프 스타트",
+    "text_ko": "당신이 하이퍼 드라이버를 조종하고 있다면, 이 카드는 사용하는 데 {r}이 덜 든다.\n부스트"
+  },
+  "F9gtJwgzgM76KghF8jrcq": {
+    "_name_en": "Junkyard Dogg",
+    "name_ko": "고물 사냥개",
+    "text_ko": "스크랩\n이 카드가 공격할 때, 카드 1장을 스크랩했다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "gTdJqkNfNt9HgCwbF8PwG": {
+    "_name_en": "Junkyard Dogg",
+    "name_ko": "고물 사냥개",
+    "text_ko": "스크랩\n이 카드가 공격할 때, 카드 1장을 스크랩했다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "wDGJfznzQCFGmwgFfnhfw": {
+    "_name_en": "Junkyard Dogg",
+    "name_ko": "고물 사냥개",
+    "text_ko": "스크랩\n이 카드가 공격할 때, 카드 1장을 스크랩했다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "JpTPzw6fB8bK6JjRpTmPC": {
+    "_name_en": "Just a Nick",
+    "name_ko": "작은 흠집",
+    "text_ko": "하나 또는 둘 다 선택한다;\n- 기본 {p} 1 이하인 대상 공격 액션 카드가 +5{p}을 얻는다.\n- 스텔스를 가진 대상 공격이 \"이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다\"를 얻는다."
+  },
+  "QmJTKzcT6dtHwqktKqBFk": {
+    "_name_en": "Kabuto of Imperial Authority",
+    "name_ko": "황제 권위의 투구",
+    "text_ko": "이 카드가 방어할 때, 턴 종료 시까지, 상대는 무기로 공격할 수 없다.\n블레이드 브레이크"
+  },
+  "Q9B8TDhTdfDLN8ccnBThK": {
+    "_name_en": "Kano",
+    "name_ko": "카노",
+    "text_ko": "순간 - {r}{r}{r}: 당신 덱 맨 위 카드를 확인한다. 그것이 '비공격' 액션 카드라면, 추방할 수 있다. 그렇게 하면, 이번 턴 순간 카드인 것처럼 사용할 수 있다."
+  },
+  "kRPqHdCckKBKfRwjbfzNT": {
+    "_name_en": "Kano, Dracai of Aether",
+    "name_ko": "카노, 에테르의 드라카이",
+    "text_ko": "순간 - {r}{r}{r}: 당신 덱 맨 위 카드를 확인한다. 그것이 '비공격' 액션 카드라면, 추방할 수 있다. 그렇게 하면, 이번 턴 순간 카드인 것처럼 사용할 수 있다."
+  },
+  "GwMRRqcL8rDHFRDTfqWzt": {
+    "_name_en": "Kassai",
+    "name_ko": "카사이",
+    "text_ko": "이번 턴에 카드를 뽑은 적이 있다면, 당신의 검 공격은 활성화하는 데 {r}이 덜 든다.\n턴당 1회 액션 - 당신의 무덤에서 빨간색 2장과 노란색 2장을 추방한다: 이번 턴 당신이 조종하는 무기가 다음에 영웅을 명중할 때, 골드 토큰 1개를 생성한다. 고 어게인"
+  },
+  "ffKGNQcWnLkfQD7w66MRL": {
+    "_name_en": "Kassai of the Golden Sand",
+    "name_ko": "황금 모래의 카사이",
+    "text_ko": "이번 턴에 카드를 뽑은 적이 있다면, 당신의 검 공격은 활성화하는 데 {r}이 덜 든다.\n턴당 1회 액션 - 당신의 무덤에서 빨간색 2장과 노란색 2장을 추방한다: 이번 턴 당신이 조종하는 무기가 다음에 영웅을 명중할 때, 골드 토큰 1개를 생성한다. 고 어게인"
+  },
+  "wWmP8RJRq7MWk7kBh9q7w": {
+    "_name_en": "Kassai, Cintari Sellsword",
+    "name_ko": "카사이, 신타리의 용병",
+    "text_ko": "각 턴 당신의 두 번째 검 공격은 {r}이 덜 든다.\n당신의 종료 단계 시작 시, 이번 턴에 무기로 2회 이상 공격했다면, 명중한 무기 공격 1개당 카퍼 토큰 1개를 생성한다."
+  },
+  "QnGJNBGBFw98q9n9NCdRW": {
+    "_name_en": "Katsu",
+    "name_ko": "카츠",
+    "text_ko": "각 턴 당신이 조종하는 공격 액션 카드가 처음 명중할 때, 비용 0인 카드 1장을 버릴 수 있다. 그렇게 하면, 당신의 덱에서 콤보를 가진 카드를 찾아 앞면으로 추방한 뒤, 덱을 섞는다. 이번 턴 그것을 사용할 수 있다."
+  },
+  "nM8BHGHd9qLGTPgwtWzkJ": {
+    "_name_en": "Katsu, the Wanderer",
+    "name_ko": "카츠, 방랑자",
+    "text_ko": "각 턴 당신이 조종하는 공격 액션 카드가 처음 명중할 때, 비용 0인 카드 1장을 버릴 수 있다. 그렇게 하면, 당신의 덱에서 콤보를 가진 카드를 찾아 앞면으로 추방한 뒤, 덱을 섞는다. 이번 턴 그것을 사용할 수 있다."
+  },
+  "rgq8FqBMdhn9khbwjDK6Q": {
+    "_name_en": "Kavdaen, Trader of Skins",
+    "name_ko": "카브데인, 가죽 상인",
+    "text_ko": "턴당 1회 액션 - {r}{r}{r}: 영웅이 다른 모든 영웅보다 {h}이 많다면, 그가 1{h}을 잃고 카퍼 토큰 1개를 생성한다. 그런 다음 영웅이 다른 모든 영웅보다 {h}이 적다면, 그가 1{h}을 얻는다. 고 어게인"
+  },
+  "HhFFJJRzq78LdNWPJP88t": {
+    "_name_en": "Kayo",
+    "name_ko": "카요",
+    "text_ko": "당신은 무기 구역을 1개 가진다.\n당신이 소유한 공격 액션 카드는 전투 체인이 아닌 구역에 있는 동안 +1{p}을 얻는다.\n각 액션 단계마다 처음으로 {p} 6 이상인 카드를 버릴 때, 마이트 토큰 1개를 생성한다."
+  },
+  "qdLHRPTdGkw6TjpMjPTW7": {
+    "_name_en": "Kayo, Armed and Dangerous",
+    "name_ko": "카요, 무장한 위험인물",
+    "text_ko": "당신은 무기 구역을 1개 가진다.\n당신이 소유한 공격 액션 카드는 전투 체인이 아닌 구역에 있는 동안 +1{p}을 얻는다.\n각 액션 단계마다 처음으로 {p} 6 이상인 카드를 버릴 때, 마이트 토큰 1개를 생성한다."
+  },
+  "NcQMQ79gb9P7CTMfWfBz8": {
+    "_name_en": "Kayo, Berserker Runt",
+    "name_ko": "카요, 광포한 애송이",
+    "text_ko": "당신이 기본 {p} 6 이상인 공격 액션 카드를 사용할 때마다, 6면체 주사위를 굴린다.\n\n\n1에서 4 - 그 공격의 기본 {p}을 반으로 줄인다(내림).\n\n\n5에서 6 - 그 공격의 기본 {p}을 두 배로 만든다."
+  },
+  "rwntmhkHtPGcKCbzJWjNn": {
+    "_name_en": "Kayo, Strong-arm",
+    "name_ko": "카요, 완력꾼",
+    "text_ko": "당신은 무기 구역 1개를 가지고 게임을 시작한다.\n순간 - {r}{r}{r}{r}, {t}: 당신이 조종하는 대상 공격 액션 카드가 기본 {p} 6을 가진다.\n관중이 당신에게 야유할 때마다, 비거 토큰 1개를 생성한다."
+  },
+  "fMDbBJHTPL7dcMMFNkCCm": {
+    "_name_en": "Kayo, Underhanded Cheat",
+    "name_ko": "카요, 비열한 사기꾼",
+    "text_ko": "당신은 무기 구역 1개를 가지고 게임을 시작한다.\n순간 - {r}{r}{r}{r}, {t}: 당신이 조종하는 대상 공격 액션 카드가 기본 {p} 6을 가진다.\n관중이 당신에게 야유할 때마다, 비거 토큰 1개를 생성한다."
+  },
+  "QCKrPkcL9crDhmNhQTnPc": {
+    "_name_en": "Kelpie, Tangled Mess",
+    "name_ko": "켈피, 뒤엉킨 혼란",
+    "text_ko": "액션 - {t}: 공격\n액션 - {r}, {t}: 대상 영웅이나 아군을 {t}한다. 고 어게인\n워터리 그레이브"
+  },
+  "wzfdd9ktHKGhFkCKDhTWT": {
+    "_name_en": "Kick the Hornet's Nest",
+    "name_ko": "벌집을 걷어차다",
+    "text_ko": "상대의 효과로 이것이 어디에서든 당신의 무덤에 놓이면, 컨피던스, 마이트, 터프니스, 비거 토큰을 생성한다."
+  },
+  "hmNrmWJFJzgW6PDFGLBHM": {
+    "_name_en": "Kimono of Layered Lessons",
+    "name_ko": "겹겹의 교훈이 담긴 기모노",
+    "text_ko": "클로크\n순간 - {c}{c}{c}, 이것을 앞면으로 뒤집는다: 여기에 +1{d} 카운터를 놓는다.\n당신의 턴 시작 시, 이것을 파괴한다."
+  },
+  "jGBBjz7wKwnLPrnMBRBht": {
+    "_name_en": "Kindle",
+    "name_ko": "점화하다",
+    "text_ko": "앰프 1\n당신의 손에 카드가 없다면, 카드 1장을 뽑는다."
+  },
+  "pnjKtMh8BcRHL8NJkFWpL": {
+    "_name_en": "King Kraken Harpoon",
+    "name_ko": "킹 크라켄 작살",
+    "text_ko": "고 피시 - 이 카드가 영웅을 명중하면, 그가 자신의 손에서 카드 1장을 선택해 공개한다. 그것이 비공격 액션 카드라면, 그가 버리고 당신이 골드 토큰 1개를 생성한다. 이번 턴에 대포를 활성화한 적이 있다면, 대신 그의 손을 확인하고 당신이 카드를 선택한다."
+  },
+  "TGmtp7HrQ86JjWhcMfgrh": {
+    "_name_en": "King Shark Harpoon",
+    "name_ko": "킹 샤크 작살",
+    "text_ko": "고 피시 - 이 카드가 영웅을 명중하면, 그가 자신의 손에서 카드 1장을 선택해 공개한다. 그것이 공격 액션 카드라면, 그가 버리고 당신이 골드 토큰 1개를 생성한다. 이번 턴에 대포를 활성화한 적이 있다면, 대신 그의 손을 확인하고 당신이 카드를 선택한다."
+  },
+  "rkRhTdHrdkwMhFwHnPGMk": {
+    "_name_en": "Kiss of Death",
+    "name_ko": "죽음의 입맞춤",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 그가 1{h}을 잃는다."
+  },
+  "jtJnCFHwQf7w9hwzbBtQt": {
+    "_name_en": "Knick Knack Bric-a-brac",
+    "name_ko": "잡동사니 장신구",
+    "text_ko": "잡동사니 장신구를 사용하기 위한 추가 비용으로, 당신이 조종하는 카퍼, 실버, 그리고/또는 골드를 원하는 수만큼 파괴할 수 있다.\n당신의 덱에서 이름에 아뮬렛, 물약, 또는 탈리스만이 들어간 카드를 찾아 전장에 놓은 뒤, 덱을 섞는다. 이렇게 파괴된 카퍼 4개, 실버 2개, 그리고/또는 골드 1개마다 이 과정을 반복한다."
+  },
+  "WqbqQqpFcbnChCQGT7mpm": {
+    "_name_en": "Knife Through",
+    "name_ko": "칼날을 뚫고",
+    "text_ko": "스텔스\n이번 전투 체인에서 단검으로 명중한 적이 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "j9JKbN6mfRQRdDfQPnR76": {
+    "_name_en": "Knife Through",
+    "name_ko": "칼날을 뚫고",
+    "text_ko": "스텔스\n이번 전투 체인에서 단검으로 명중한 적이 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "zdbmNLTKjH8QqFBbWhKCF": {
+    "_name_en": "Knife Through",
+    "name_ko": "칼날을 뚫고",
+    "text_ko": "스텔스\n이번 전투 체인에서 단검으로 명중한 적이 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "j8jg6Htq98C6ChrtPMhhJ": {
+    "_name_en": "Knife Through Butter",
+    "name_ko": "버터를 가르듯",
+    "text_ko": "이번 턴 당신의 다음 단검 공격이 +4{p}을 얻는다.\n이번 턴에 표식이 있는 영웅을 공격할 때마다, 그 공격이 고 어게인을 얻는다.\n고 어게인"
+  },
+  "9bntMjr9pHrLdnpNmKtPk": {
+    "_name_en": "Knife Through Butter",
+    "name_ko": "버터를 가르듯",
+    "text_ko": "이번 턴 당신의 다음 단검 공격이 +3{p}을 얻는다.\n이번 턴에 표식이 있는 영웅을 공격할 때마다, 그 공격이 고 어게인을 얻는다.\n고 어게인"
+  },
+  "gNzpTNpKbgmFnGtzhdTcq": {
+    "_name_en": "Knife Through Butter",
+    "name_ko": "버터를 가르듯",
+    "text_ko": "이번 턴 당신의 다음 단검 공격이 +2{p}을 얻는다.\n이번 턴에 표식이 있는 영웅을 공격할 때마다, 그 공격이 고 어게인을 얻는다.\n고 어게인"
+  },
+  "BCBmbhp7nbzkzBHcpzjp7": {
+    "_name_en": "Knives Out",
+    "name_ko": "칼을 뽑다",
+    "text_ko": "이번 턴 당신의 단검들이 +1{p}을 얻는다."
+  },
+  "bWBL7WwPLgdD9j9KkmDHW": {
+    "_name_en": "Knock 'Em Off Their Feet",
+    "name_ko": "발을 걸어 넘어뜨리다",
+    "text_ko": "크러쉬 - 이 카드가 영웅에게 피해 4 이상을 줄 때, 그를 {t}한다."
+  },
+  "WqDtDMqJhHBhHfdjTRRFb": {
+    "_name_en": "Knucklehead",
+    "name_ko": "너클헤드",
+    "text_ko": "카요 스페셜라이제이션\n액션 - 이것을 파괴한다: 6면체 주사위를 굴린다. 턴 종료 시까지, 당신의 기본 {i}은 굴린 숫자와 같다.\n템퍼"
+  },
+  "mccHtdK6wgfhL6g98CKMT": {
+    "_name_en": "Koi Blessed Kimono",
+    "name_ko": "잉어의 축복받은 기모노",
+    "text_ko": "클로크\n이것이 뒷면으로 장착되어 있는 동안, 당신의 턴 시작 시, 당신의 {h}이 정확히 1이면, 이것을 앞면으로 뒤집을 수 있다.\n이것이 앞면으로 뒤집히면, 파괴한다. 당신의 덱에서 내면의 치를 찾아 공개하고 손에 놓은 뒤, 덱을 섞는다."
+  },
+  "jbDgmHNWr6GGD6GqmBCTf": {
+    "_name_en": "Korshem, Crossroad of Elements",
+    "name_ko": "코르셈, 원소의 교차로",
+    "text_ko": "레전더리\n고 어게인\n영웅이 카드를 1장 이상 공개할 때마다, 하나를 선택한다; {r}을 얻는다, 또는 1{h}을 얻는다, 또는 이번 턴 그의 다음 공격이 +1{p}을 얻는다, 또는 이번 턴 그가 방어하는 데 사용하는 다음 액션 카드가 +1{d}을 얻는다.\n종료 단계 시작 시, 이번 턴에 어떤 영웅도 카드 효과로 {r}이나 {h}을 얻지 않았고 영웅이 조종하는 어떤 카드나 토큰도 {p}이나 {d}이 증가하지 않았다면, 원소의 교차로 코르셈을 파괴한다."
+  },
+  "Cd6PTGH6CqTHmt7LQmBMp": {
+    "_name_en": "Kraken's Aethervein",
+    "name_ko": "크라켄의 에테르혈관",
+    "text_ko": "턴당 1회 순간 - {r}{r}{r}: 대상 상대 영웅에게 비전 피해 1을 준다. 이렇게 준 비전 피해 1점당 카드 1장을 뽑는다."
+  },
+  "kcf6QQMkQC8Mw9DBk78KN": {
+    "_name_en": "Kunai of Retribution",
+    "name_ko": "복수의 쿠나이",
+    "text_ko": "턴당 1회 액션 - {r}, 전투 체인이 종료되면 이것을 파괴한다: 공격. 고 어게인"
+  },
+  "PHgMJBpk9fJcWNrrnqztz": {
+    "_name_en": "Kyloria",
+    "name_ko": "카일로리아",
+    "text_ko": "카일로리아가 영웅을 명중할 때마다, 그가 조종하는 아이템 1개의 조종권을 얻는다. 이렇게 아이템의 조종권을 얻지 못하면, 카드 1장을 뽑는다."
+  },
+  "gdFrmMtzgg8DcqjN6tfBM": {
+    "_name_en": "Lace with Bloodrot",
+    "name_ko": "블러드로트를 바르다",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +3{p}과 \"이 카드가 영웅을 명중하면, 그의 조종 하에 블러드로트 폭스 토큰 1개를 생성한다\"를 얻는다.\n고 어게인"
+  },
+  "cztrB96QNb9CqKDgBRwcN": {
+    "_name_en": "Lace with Frailty",
+    "name_ko": "프레일티를 바르다",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +3{p}과 \"이 카드가 영웅을 명중하면, 그의 조종 하에 프레일티 토큰 1개를 생성한다\"를 얻는다.\n고 어게인"
+  },
+  "n877nqgWkLDfjQBwM7DM7": {
+    "_name_en": "Lace with Inertia",
+    "name_ko": "관성을 바르다",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +3{p}과 \"이 카드가 영웅을 명중하면, 그의 조종 하에 관성 토큰 1개를 생성한다\"를 얻는다.\n고 어게인"
+  },
+  "Kb99nwFrrpTQJTpqN6kCt": {
+    "_name_en": "Laced Lightning",
+    "name_ko": "번개를 두른",
+    "text_ko": "순간 - {r}{r}, 이것을 파괴한다: 이번 턴 당신에게 가해질 다음 피해 1을 방지한다. 이렇게 피해를 방지하면, 번개의 화신 토큰 1개를 생성한다."
+  },
+  "QgJQKQKbPcQRM9BJ9qkGG": {
+    "_name_en": "Laden with Earth",
+    "name_ko": "대지를 짊어진",
+    "text_ko": "이번 턴 당신의 다음 공격이 +3{p}을 얻는다.\n대지 결속 - 이 카드를 사용하기 위해 대지 카드가 피치되었다면, 대지의 화신 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "kRfJmWQQmDCrHtkFtmLQt": {
+    "_name_en": "Laden with Frost",
+    "name_ko": "서리를 짊어진",
+    "text_ko": "이번 턴 당신의 다음 공격이 +3{p}을 얻는다.\n얼음 결속 - 이 카드를 사용하기 위해 얼음 카드가 피치되었다면, 대상 영웅의 조종 하에 프로스트바이트 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "kg8PPbzPQHbJBccCwwh6f": {
+    "_name_en": "Laden with Lightning",
+    "name_ko": "번개를 짊어진",
+    "text_ko": "이번 턴 당신의 다음 공격이 +3{p}을 얻는다.\n번개 결속 - 이 카드를 사용하기 위해 번개 카드가 피치되었다면, 번개의 화신 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "rpqF9GbWN7Kkb6hPKPnJk": {
+    "_name_en": "Lady Barthimont",
+    "name_ko": "바르티몬트 부인",
+    "text_ko": "바르티몬트가 아스날에 뒷면으로 있는 동안, 당신의 턴 시작 시, 그녀를 앞면으로 뒤집을 수 있다.\n바르티몬트가 아스날에 앞면으로 있는 동안, 당신이 공격 액션 카드를 사용할 때마다, 당신 덱 맨 위 카드를 추방한다. 추방된 카드가 {p} 6 이상이면, 그 공격이 도미네이트를 얻고 바르티몬트에 교훈 카운터를 놓는다. 그런 다음 그녀에게 교훈 카운터가 2개 이상이면, 그녀를 추방하고 덱에서 스페셜라이제이션 카드를 찾아 아스날에 앞면으로 놓은 뒤, 덱을 섞는다."
+  },
+  "mMzzGF76cFfFHJQJTFcnB": {
+    "_name_en": "Lair of the Spider",
+    "name_ko": "거미의 소굴",
+    "text_ko": "이 카드가 고 어게인을 가진 공격을 방어할 때, 공격하는 영웅에게 표식을 남긴다."
+  },
+  "qmzNwRPnh8gkrdKdLwCbt": {
+    "_name_en": "Last Ditch Effort",
+    "name_ko": "최후의 발악",
+    "text_ko": "당신이 최후의 발악을 사용할 때, 당신의 덱에 카드가 없다면, 이것이 +4{p}과 고 어게인을 얻는다."
+  },
+  "mm6rHKbCkKKfD6h6tCMcK": {
+    "_name_en": "Laughing Knee-Slappers",
+    "name_ko": "웃음 짓는 무릎치기",
+    "text_ko": "당신이 마이트 토큰과 비거 토큰을 조종하고 있다면, 이 카드가 +2{d}을 얻는다.\n블레이드 브레이크"
+  },
+  "GzTpzLGB99zRcW9w7tKd8": {
+    "_name_en": "Lava Burst",
+    "name_ko": "용암 폭발",
+    "text_ko": "럽처 - 용암 폭발이 체인 링크 4 이상으로 사용되면, +3{p}을 가진다."
+  },
+  "BFpBkbT788fWNrCgGcWHt": {
+    "_name_en": "Lava Vein Loyalty",
+    "name_ko": "용암 혈맥의 충성",
+    "text_ko": "당신이 드라코닉 체인 링크를 2개 이상 조종하고 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "pdfbRhNQ7rBq8r8HfcBbt": {
+    "_name_en": "Lava Vein Loyalty",
+    "name_ko": "용암 혈맥의 충성",
+    "text_ko": "당신이 드라코닉 체인 링크를 2개 이상 조종하고 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "KTF8r6hgr8f89Gn9PpGn6": {
+    "_name_en": "Lava Vein Loyalty",
+    "name_ko": "용암 혈맥의 충성",
+    "text_ko": "당신이 드라코닉 체인 링크를 2개 이상 조종하고 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "8jkrbgKtBmnwdwNR7cKHn": {
+    "_name_en": "Lay Down the Challenge",
+    "name_ko": "도전장을 내밀다",
+    "text_ko": "대상 영웅을 인티미데이트한 뒤, 그가 당신보다 손에 카드가 많다면, 카드 1장을 뽑는다.\n고 어게인"
+  },
+  "trdLjTnNnn6NjM7DzrcQh": {
+    "_name_en": "Lay Down the Law",
+    "name_ko": "법을 집행하다",
+    "text_ko": "타워 - 이 카드가 {p} 13 이상이면, 비-장비 카드는 이 카드를 방어하는 동안 -1{d}을 얻는다."
+  },
+  "fnrjjBNqBwWQb7PhMtmzC": {
+    "_name_en": "Lay Low",
+    "name_ko": "숨죽이다",
+    "text_ko": "당신이 표식을 가지고 있다면, 이 카드를 사용할 수 없다.\n방어 영웅이 표식을 가지고 있다면, 이번 턴 그의 다음 공격이 -1{p}을 얻는다."
+  },
+  "Jw6CQTrR7njDNnNMCfNC7": {
+    "_name_en": "Lay to Rest",
+    "name_ko": "안식에 들게 하다",
+    "text_ko": "이 카드가 섀도우 영웅을 공격하면, +1{p}을 얻는다.\n이 카드가 영웅을 명중하면, 그의 추방 구역에 있는 카드 1장을 뒷면으로 뒤집을 수 있다."
+  },
+  "zr9nbKgKmqFGbQTntjT8p": {
+    "_name_en": "Lay to Rest",
+    "name_ko": "안식에 들게 하다",
+    "text_ko": "이 카드가 섀도우 영웅을 공격하면, +1{p}을 얻는다.\n이 카드가 영웅을 명중하면, 그의 추방 구역에 있는 카드 1장을 뒷면으로 뒤집을 수 있다."
+  },
+  "FgCfCKNMFC7rRC8r7GMPj": {
+    "_name_en": "Lay to Rest",
+    "name_ko": "안식에 들게 하다",
+    "text_ko": "이 카드가 섀도우 영웅을 공격하면, +1{p}을 얻는다.\n이 카드가 영웅을 명중하면, 그의 추방 구역에 있는 카드 1장을 뒷면으로 뒤집을 수 있다."
+  },
+  "JcNpbqjGjLkFtBNjmtDfD": {
+    "_name_en": "Lay Waste",
+    "name_ko": "파괴하다",
+    "text_ko": "부스트\n이 카드는 장비로 방어할 수 없다."
+  },
+  "BhNdN8jj6GHKjncPhRqzT": {
+    "_name_en": "Lay Waste",
+    "name_ko": "파괴하다",
+    "text_ko": "부스트\n이 카드는 장비로 방어할 수 없다."
+  },
+  "Qcj66Pf677BBrkJKWFpPk": {
+    "_name_en": "Lay Waste",
+    "name_ko": "파괴하다",
+    "text_ko": "부스트\n이 카드는 장비로 방어할 수 없다."
   }
 }
