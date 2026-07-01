@@ -7461,5 +7461,645 @@
     "_name_en": "Evo Speedslip",
     "name_ko": "에보 스피드슬립",
     "text_ko": "당신이 베이스 다리 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n이 카드가 장착될 때, 이번 턴 당신이 사용하는 다음 공격 액션 카드가 부스트를 얻는다.\n아케인 배리어 1"
+  },
+  "Hrt698DhrRNhNtJ8qFN8w": {
+    "_name_en": "Evo Steel Soul Controller",
+    "name_ko": "에보 강철영혼 제어기",
+    "text_ko": "당신이 베이스 팔 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n이것이 다른 이름의 에보로 변형되거나 그것에서 변형될 때, 당신의 무덤에서 {p} 6인 공격 액션 카드 1장을 당신의 덱 다섯 번째 위치에 놓을 수 있다. 그 에보가 영웅이라면, 대신 이 효과가 두 번 발동한다.\n템퍼"
+  },
+  "cqk7QPJBgLDdNCnfgMwrH": {
+    "_name_en": "Evo Steel Soul Memory",
+    "name_ko": "에보 강철영혼 기억",
+    "text_ko": "당신이 베이스 머리 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n이것이 다른 이름의 에보로 변형되거나 그것에서 변형될 때, 턴 종료 시까지 당신의 영웅이 +1{i}을 얻는다. 그 에보가 영웅이라면, 대신 이 효과가 두 번 발동한다.\n템퍼"
+  },
+  "Mmwtq8HtKPFpp6TcrF9fM": {
+    "_name_en": "Evo Steel Soul Processor",
+    "name_ko": "에보 강철영혼 프로세서",
+    "text_ko": "당신이 베이스 가슴 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n이것이 다른 이름의 에보로 변형되거나 그것에서 변형될 때, {r}{r}{r}을 얻는다. 그 에보가 영웅이라면, 대신 이 효과가 두 번 발동한다.\n템퍼"
+  },
+  "tP6fcfbgwkrhMPdrrgqMw": {
+    "_name_en": "Evo Steel Soul Tower",
+    "name_ko": "에보 강철영혼 타워",
+    "text_ko": "당신이 베이스 다리 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n이것이 다른 이름의 에보로 변형되거나 그것에서 변형될 때, 행동권 1을 얻는다. 그 에보가 영웅이라면, 대신 이 효과가 두 번 발동한다.\n템퍼"
+  },
+  "qCj8gpDLNQpKTNfhM8jbL": {
+    "_name_en": "Evo Tekloscope",
+    "name_ko": "에보 테클로스코프",
+    "text_ko": "당신이 베이스 머리 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n당신의 테클로 블래스터 공격들은 임의의 상대 영웅을 대상으로 할 수 있다.\n배틀원"
+  },
+  "Bfbgtw7tPPWCMgFh8gDmc": {
+    "_name_en": "Evo Thruster",
+    "name_ko": "에보 추진기",
+    "text_ko": "당신이 베이스 다리 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n턴당 1회 순간 - 이것 아래의 카드 1장을 파괴한다: 이번 턴에 대상 무기로 추가로 한 번 더 공격할 수 있다.\n블레이드 브레이크"
+  },
+  "9th8QzMpd9n9fpzbHbwJJ": {
+    "_name_en": "Evo Whizz Bang",
+    "name_ko": "에보 휘즈 뱅",
+    "text_ko": "당신이 베이스 머리 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n이 카드가 장착될 때, 최대 1개의 대상 공격이 +1{p}을 얻는다."
+  },
+  "MdmK9dmLDpbC7GFcz6W7C": {
+    "_name_en": "Evo Zip Line",
+    "name_ko": "에보 짚라인",
+    "text_ko": "당신이 베이스 다리 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n이 카드가 장착될 때, 최대 1개의 대상 공격이 고 어게인을 얻는다."
+  },
+  "gwnNzfNWWNnk6KRQnp7MW": {
+    "_name_en": "Evo Zoom Call",
+    "name_ko": "에보 줌 콜",
+    "text_ko": "당신이 베이스 머리 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n이 카드가 장착될 때, 당신의 손에서 카드 1장을 추방할 수 있다. 그렇게 하면, 카드 1장을 뽑는다."
+  },
+  "KMpjC8BHFrCfjpbNQTGnP": {
+    "_name_en": "Excessive Bloodloss",
+    "name_ko": "과다 출혈",
+    "text_ko": "컨트랙트 - 당신은 상대의 빨간색 카드를 추방하기로 계약되어 있다. 이 계약을 완수할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그 영웅의 덱 맨 위 카드를 추방한다. 그것이 빨간색이면, 이 과정을 한 번 더 반복한다."
+  },
+  "B77ffmH8r7GWqrKcwgDwN": {
+    "_name_en": "Excessive Bloodloss",
+    "name_ko": "과다 출혈",
+    "text_ko": "컨트랙트 - 당신은 상대의 빨간색 카드를 추방하기로 계약되어 있다. 이 계약을 완수할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그 영웅의 덱 맨 위 카드를 추방한다. 그것이 빨간색이면, 이 과정을 한 번 더 반복한다."
+  },
+  "wzB7GqTmmpNTjqtQcMk7C": {
+    "_name_en": "Excessive Bloodloss",
+    "name_ko": "과다 출혈",
+    "text_ko": "컨트랙트 - 당신은 상대의 빨간색 카드를 추방하기로 계약되어 있다. 이 계약을 완수할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그 영웅의 덱 맨 위 카드를 추방한다. 그것이 빨간색이면, 이 과정을 한 번 더 반복한다."
+  },
+  "dHGPHrcmzW8TJT6m8mrPp": {
+    "_name_en": "Expedite",
+    "name_ko": "신속 처리",
+    "text_ko": "부스트\n이 카드가 명중하면, 당신의 손에서 비용 0 또는 1인 아이템을 전장에 놓을 수 있다."
+  },
+  "LjzDff6gRW8cmMRCn6MpN": {
+    "_name_en": "Expedite",
+    "name_ko": "신속 처리",
+    "text_ko": "부스트\n이 카드가 명중하면, 당신의 손에서 비용 0 또는 1인 아이템을 전장에 놓을 수 있다."
+  },
+  "9wKjTzmD9hzNBRc6PjLwf": {
+    "_name_en": "Expedite",
+    "name_ko": "신속 처리",
+    "text_ko": "부스트\n이 카드가 명중하면, 당신의 손에서 비용 0 또는 1인 아이템을 전장에 놓을 수 있다."
+  },
+  "LhN9jPcQHGJ796r79BqGR": {
+    "_name_en": "Expedition to Azuro Keys",
+    "name_ko": "아주로 열쇠 원정",
+    "text_ko": "이 카드가 공격할 때, 트레저 아일랜드에 골드 카운터를 올릴 수 있다."
+  },
+  "qpnnMW6TWQPQqMLqrbD8d": {
+    "_name_en": "Expedition to Blackwater Strait",
+    "name_ko": "검은물 해협 원정",
+    "text_ko": "이 카드가 공격할 때, 트레저 아일랜드에 골드 카운터를 올릴 수 있다."
+  },
+  "nDzNGcF9bfPwfHrztkHdL": {
+    "_name_en": "Expedition to Dreadfall Reach",
+    "name_ko": "공포추락 절벽 원정",
+    "text_ko": "이 카드가 공격할 때, 트레저 아일랜드에 골드 카운터를 올릴 수 있다."
+  },
+  "bMq9wnBF99pzRHDq6qNFR": {
+    "_name_en": "Expedition to Horizon's Mantle",
+    "name_ko": "지평선 망토 원정",
+    "text_ko": "이 카드가 공격할 때, 트레저 아일랜드에 골드 카운터를 올릴 수 있다."
+  },
+  "dWbFtRKNWnmPBPpBLrFqF": {
+    "_name_en": "Expendable Limbs",
+    "name_ko": "소모품 사지",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 당신의 손에서 무작위 카드 1장을 추방한다.\n이렇게 {p}이 6 이상인 카드가 추방되면, 당신의 다음 행동 단계 동안 당신의 추방 구역에서 그것을 사용할 수 있다."
+  },
+  "wPLfnbgJtbFDq7kgKjW6r": {
+    "_name_en": "Exploding Aether",
+    "name_ko": "폭발하는 에테르",
+    "text_ko": "앰프 3\n고 어게인"
+  },
+  "wngpKCpwWbfBCr7kPKmmJ": {
+    "_name_en": "Exploding Aether",
+    "name_ko": "폭발하는 에테르",
+    "text_ko": "앰프 2\n고 어게인"
+  },
+  "bC8kjBnNK7hHFCRKhnhhH": {
+    "_name_en": "Exploding Aether",
+    "name_ko": "폭발하는 에테르",
+    "text_ko": "앰프 1\n고 어게인"
+  },
+  "GNLcn7HJG7MfhgGMQDPJ7": {
+    "_name_en": "Explosive Growth",
+    "name_ko": "폭발적인 성장",
+    "text_ko": "대지 퓨전\n폭발적인 성장이 퓨전되었다면, 이것이 피해를 줄 때마다, 이번 전투 체인에 공격들이 +1{p}을 얻는다.\n당신이 폭발적인 성장으로 공격할 때, 대상 영웅에게 비전 피해 1을 준다."
+  },
+  "RTjbpgTNHN9bKgKNdKwpP": {
+    "_name_en": "Explosive Growth",
+    "name_ko": "폭발적인 성장",
+    "text_ko": "대지 퓨전\n폭발적인 성장이 퓨전되었다면, 이것이 피해를 줄 때마다, 이번 전투 체인에 공격들이 +1{p}을 얻는다.\n당신이 폭발적인 성장으로 공격할 때, 대상 영웅에게 비전 피해 1을 준다."
+  },
+  "TncBtwwwHQQ7G86qfbgFP": {
+    "_name_en": "Explosive Growth",
+    "name_ko": "폭발적인 성장",
+    "text_ko": "대지 퓨전\n폭발적인 성장이 퓨전되었다면, 이것이 피해를 줄 때마다, 이번 전투 체인에 공격들이 +1{p}을 얻는다.\n당신이 폭발적인 성장으로 공격할 때, 대상 영웅에게 비전 피해 1을 준다."
+  },
+  "d7bwjcFhcrtN6btzhrdWB": {
+    "_name_en": "Exposed",
+    "name_ko": "노출되다",
+    "text_ko": "당신이 표식되어 있다면, 이 카드를 사용할 수 없다.\n대상 공격이 +1{p}을 얻는다.\n방어 영웅을 표식한다."
+  },
+  "bg7WdCTFT99CBNprwhWP8": {
+    "_name_en": "Exposed to the Elements",
+    "name_ko": "원소에 노출되다",
+    "text_ko": "대지 그리고/또는 얼음 퓨전\n원소에 노출되다가 대지 카드와 퓨전되었다면, 대상 장비에 -1{d} 카운터를 올린다.\n원소에 노출되다가 얼음 카드와 퓨전되었다면, {d}이 0인, 대상 영웅이 조종하는 장비를 그 영웅이 {r}{r}을 지불하지 않는 한 파괴한다."
+  },
+  "pfNbbR8kGzBCDCMnFLmNH": {
+    "_name_en": "Express Lightning",
+    "name_ko": "쾌속 번개",
+    "text_ko": "쾌속 번개를 사용하기 위한 추가 비용으로, 당신 영웅의 소울을 충전할 수 있다."
+  },
+  "DCdPb6ccGkkjwDprnLRPF": {
+    "_name_en": "Express Lightning",
+    "name_ko": "쾌속 번개",
+    "text_ko": "쾌속 번개를 사용하기 위한 추가 비용으로, 당신 영웅의 소울을 충전할 수 있다."
+  },
+  "JwCWgLd9Bn9dztK9PHKkn": {
+    "_name_en": "Express Lightning",
+    "name_ko": "쾌속 번개",
+    "text_ko": "쾌속 번개를 사용하기 위한 추가 비용으로, 당신 영웅의 소울을 충전할 수 있다."
+  },
+  "CzcCpTjr7dMR96NzwhLdk": {
+    "_name_en": "Extinguish the Flames",
+    "name_ko": "불꽃을 끄다",
+    "text_ko": "스텔스\n컨트랙트 - 당신은 이름에 신드라가 들어간 표식된 영웅을 명중시키기로 계약되어 있다. 이 계약을 완수할 때마다, 카드 1장을 뽑는다."
+  },
+  "RmRmtQCGDHrktQmrn7KhF": {
+    "_name_en": "Exude Confidence",
+    "name_ko": "자신감을 발산하다",
+    "text_ko": "자신감을 발산하다가 {p}이 같거나 높은 카드로 방어되지 않는 동안, 방어 영웅은 이번 전투 체인에 순간이나 방어 반응을 사용하거나 활성화할 수 없다.\n순간 - {r}{r}{r}: 자신감을 발산하다가 +2{p}을 얻는다. 자신감을 발산하다가 공격 중일 때만 이 능력을 활성화한다."
+  },
+  "N77hdGp96fNQnzc79hqN9": {
+    "_name_en": "Eye of Ophidia",
+    "name_ko": "오피디아의 눈",
+    "text_ko": "레전더리\n오피디아의 눈을 피치할 때, 옵트 2."
+  },
+  "dzTtNhGMLKzQj8FpPffbB": {
+    "_name_en": "Ez Sqeez Bookie Syndicate",
+    "name_ko": "이지 스퀴즈 도박 조합",
+    "text_ko": "턴 종료 시까지, 당신이 영웅을 공격할 때마다, 그 영웅과 내기를 건다. 승자는 골드 토큰 2개를 생성한다."
+  },
+  "LTzk7nGqnkqRdddd9LRjQ": {
+    "_name_en": "Fabric of Blossoms",
+    "name_ko": "꽃잎의 직물",
+    "text_ko": "'봄의 꽃'을 장착한다. 그렇게 하지 않으면, 이 카드를 무효화한다."
+  },
+  "7hQbqFfrRpbMKBWT8DG97": {
+    "_name_en": "Fabric of Hope",
+    "name_ko": "희망의 직물",
+    "text_ko": "'희망 상인의 두건'을 장착한다. 그렇게 하지 않으면, 이 카드를 무효화한다."
+  },
+  "jRmPPnCdbT97fBdhK9jhq": {
+    "_name_en": "Fabric of Providence",
+    "name_ko": "섭리의 직물",
+    "text_ko": "레전더리\n'섭리의 왕관'을 장착한다. 그렇게 하지 않으면, 이 카드를 무효화한다."
+  },
+  "6LLwpNzLJBgr8c8nTqdmr": {
+    "_name_en": "Fabric of Scales",
+    "name_ko": "비늘의 직물",
+    "text_ko": "'스냅드래곤 스케일러즈'를 장착한다. 그렇게 하지 않으면, 이 카드를 무효화한다."
+  },
+  "NTnphGB9GCpfrLRQRcNbj": {
+    "_name_en": "Fabric of Spring",
+    "name_ko": "봄의 직물",
+    "text_ko": "'파이엔달의 봄 튜닉'을 장착한다. 그렇게 하지 않으면, 이 카드를 무효화한다."
+  },
+  "cjJpkCtJwndP7FwzwDDQc": {
+    "_name_en": "Fabricate",
+    "name_ko": "제작하다",
+    "text_ko": "다음 중 2개 선택;\n\n당신의 인벤토리에서 이름에 '프로토(Proto)'가 들어간 베이스 장비를 장착한다.\n이번 턴 당신이 조종하는 에보 지속물들이 +1{d}을 얻는다.\n당신이 조종하는 에보 지속물 아래에 이것을 놓는다.\n당신의 손에서 에보 1개를 추방할 수 있다. 그렇게 하면, 카드 1장을 뽑는다."
+  },
+  "WfL7bkMHHG7DNGr6fDRWD": {
+    "_name_en": "Face Adversity",
+    "name_ko": "역경에 맞서다",
+    "text_ko": "이 카드는 그 공격의 조종자가 이번 턴에 카드를 뽑았을 때만 공격을 방어할 수 있다.\n블레이드 브레이크"
+  },
+  "Q8bMrFtWrMrdPC7KtGbFz": {
+    "_name_en": "Face Purgatory",
+    "name_ko": "지옥과 마주하다",
+    "text_ko": "이 카드가 공격 액션 카드와 비-공격 액션 카드와 함께 방어할 때, 공격하는 영웅은 카드 1장을 버리고 당신은 카드 1장을 뽑는다.\n블레이드 브레이크"
+  },
+  "bcKbBC6rpD6rTJ8dFLLpN": {
+    "_name_en": "Fact-Finding Mission",
+    "name_ko": "정보 수집 임무",
+    "text_ko": "이 카드가 영웅을 명중하면, 그 영웅의 아스날이나 장비 구역에 있는 뒷면 카드 1장을 볼 수 있다."
+  },
+  "MdHHgpMCDBkpJFFNh9wqd": {
+    "_name_en": "Fact-Finding Mission",
+    "name_ko": "정보 수집 임무",
+    "text_ko": "이 카드가 영웅을 명중하면, 그 영웅의 아스날이나 장비 구역에 있는 뒷면 카드 1장을 볼 수 있다."
+  },
+  "tgTDwMGbBwknnTNjTTKJJ": {
+    "_name_en": "Fact-Finding Mission",
+    "name_ko": "정보 수집 임무",
+    "text_ko": "이 카드가 영웅을 명중하면, 그 영웅의 아스날이나 장비 구역에 있는 뒷면 카드 1장을 볼 수 있다."
+  },
+  "QHNfbDkffrKWgwDw7MjwQ": {
+    "_name_en": "Fai",
+    "name_ko": "파이",
+    "text_ko": "당신은 무덤에 피닉스 플레임을 둔 채 게임을 시작할 수 있다.\n턴당 1회 순간 - {r}{r}{r}: 당신의 무덤에서 피닉스 플레임 1장을 손으로 되돌린다. 이 능력은 당신이 조종하는 드라코닉 체인 링크 1개당 {r} 적은 비용이 든다."
+  },
+  "RjNJbgTJn7bJrjJHBdfC8": {
+    "_name_en": "Fai, Rising Rebellion",
+    "name_ko": "파이, 떠오르는 반란",
+    "text_ko": "당신은 무덤에 피닉스 플레임을 둔 채 게임을 시작할 수 있다.\n턴당 1회 순간 - {r}{r}{r}: 당신의 무덤에서 피닉스 플레임 1장을 손으로 되돌린다. 이 능력은 당신이 조종하는 드라코닉 체인 링크 1개당 {r} 적은 비용이 든다."
+  },
+  "6KgPjKJBhMkRQgKDdhnbL": {
+    "_name_en": "Falcon Wing",
+    "name_ko": "매의 날개",
+    "text_ko": "매의 날개가 조준 카운터를 가졌다면, +1{p}을 가진다.\n고 어게인"
+  },
+  "tpbMRQDzgf7p8WGmMm9wt": {
+    "_name_en": "Falcon Wing",
+    "name_ko": "매의 날개",
+    "text_ko": "매의 날개가 조준 카운터를 가졌다면, +1{p}을 가진다.\n고 어게인"
+  },
+  "MgM8rpdGfh97ChtG7RQ9L": {
+    "_name_en": "Falcon Wing",
+    "name_ko": "매의 날개",
+    "text_ko": "매의 날개가 조준 카운터를 가졌다면, +1{p}을 가진다.\n고 어게인"
+  },
+  "Trqb96WQpRWK88QHt9WrL": {
+    "_name_en": "Familiar Stench",
+    "name_ko": "익숙한 악취",
+    "text_ko": "브루트 카드 1개 이상이 이 카드를 방어하면, 비거 토큰 1개를 생성한다."
+  },
+  "pNJRPDHg7LnKQWhNctPkD": {
+    "_name_en": "Familiar Story",
+    "name_ko": "익숙한 이야기",
+    "text_ko": "가디언 카드 1개 이상이 이 카드를 방어하면, 컨피던스 토큰 1개를 생성한다."
+  },
+  "RBcRMcBrm89m6pcTDQnP9": {
+    "_name_en": "Fang",
+    "name_ko": "팽",
+    "text_ko": "당신이 표식된 영웅을 명중할 때마다, 충성 토큰 1개를 생성한다.\n당신이 충성 토큰을 3개 이상 조종하고 있다면, 단검 공격은 당신이 활성화하는 데 {r} 적은 비용이 든다."
+  },
+  "QqDQKkgCz9TM6HDgFkqcL": {
+    "_name_en": "Fang Strike",
+    "name_ko": "팽 스트라이크",
+    "text_ko": "이페머럴\n대상 공격 액션 카드가 +1{p}을 얻는다."
+  },
+  "P9DWCqqTwtKLnhNzLHnnp": {
+    "_name_en": "Fang, Dracai of Blades",
+    "name_ko": "팽, 칼날의 드라카이",
+    "text_ko": "당신이 표식된 영웅을 명중할 때마다, 충성 토큰 1개를 생성한다.\n당신이 충성 토큰을 3개 이상 조종하고 있다면, 단검 공격은 당신이 활성화하는 데 {r} 적은 비용이 든다."
+  },
+  "pLKmGWGTTQdcHmhckhcNh": {
+    "_name_en": "Farflight Longbow",
+    "name_ko": "원거리 장궁",
+    "text_ko": "순간 - {r}, {t}: 당신의 손에서 화살 1장을 앞면으로 아스날에 놓는다.\n당신의 화살 공격들은 임의의 상대 영웅이나 아군을 대상으로 할 수 있다."
+  },
+  "TCKTLR7jQp6BDTkbdpfJn": {
+    "_name_en": "Fast and Furious",
+    "name_ko": "질주 폭주",
+    "text_ko": "부스트\n이번 턴에 크랭크한 적이 있다면, 이 카드가 +1{p}을 얻는다.\n이 카드가 부스트로 추방되면, 크랭크를 가진, 당신이 조종하는 아이템 1개에 스팀 카운터를 올린다."
+  },
+  "BjHNqL6gfFwC9NQ7hmkP9": {
+    "_name_en": "Fasting Carcass",
+    "name_ko": "굶주린 시체",
+    "text_ko": "이번 턴 당신이 사용하는 다음 빨간색 액션 카드가 고 어게인을 얻는다.\n고 어게인\n블러드 뎃"
+  },
+  "TPJFqgd8n6gkwz7W9QDGm": {
+    "_name_en": "Fasting Carcass",
+    "name_ko": "굶주린 시체",
+    "text_ko": "이번 턴 당신이 사용하는 다음 노란색 액션 카드가 고 어게인을 얻는다.\n고 어게인\n블러드 뎃"
+  },
+  "kPjnwgCd89bhDLPFqqrPW": {
+    "_name_en": "Fasting Carcass",
+    "name_ko": "굶주린 시체",
+    "text_ko": "이번 턴 당신이 사용하는 다음 파란색 액션 카드가 고 어게인을 얻는다.\n고 어게인\n블러드 뎃"
+  },
+  "NqdJLJhMF9r9NnLdppgtK": {
+    "_name_en": "Fatal Engagement",
+    "name_ko": "치명적인 교전",
+    "text_ko": "이번 체인 링크를 공격 액션 카드가 방어하고 있을 때만 이 카드를 사용한다.\n대상 공격이 +5{p}을 얻는다."
+  },
+  "KHTgDNP9hmH6BfjKr8FFn": {
+    "_name_en": "Fatal Engagement",
+    "name_ko": "치명적인 교전",
+    "text_ko": "이번 체인 링크를 공격 액션 카드가 방어하고 있을 때만 이 카드를 사용한다.\n대상 공격이 +4{p}을 얻는다."
+  },
+  "HFtJKqJgR6tQqRNF99gmq": {
+    "_name_en": "Fatal Engagement",
+    "name_ko": "치명적인 교전",
+    "text_ko": "이번 체인 링크를 공격 액션 카드가 방어하고 있을 때만 이 카드를 사용한다.\n대상 공격이 +3{p}을 얻는다."
+  },
+  "rHQbwp8qrzCcfGm9GQFqp": {
+    "_name_en": "Fate Foreseen",
+    "name_ko": "예견된 운명",
+    "text_ko": "옵트 1"
+  },
+  "w8QN7hhNck8pQJHcc9rFj": {
+    "_name_en": "Fate Foreseen",
+    "name_ko": "예견된 운명",
+    "text_ko": "옵트 1"
+  },
+  "mbF7WMCnnpGHh9bwBwBKf": {
+    "_name_en": "Fate Foreseen",
+    "name_ko": "예견된 운명",
+    "text_ko": "옵트 1"
+  },
+  "BtjHtqNphG79QrFCG6TQ9": {
+    "_name_en": "Fatigue Shot",
+    "name_ko": "피로의 사격",
+    "text_ko": "피로의 사격이 영웅을 명중하면, 그 영웅의 다음 턴에 사용하는 첫 공격 액션 카드의 기본 {p}이 절반(올림)으로 줄어든다."
+  },
+  "LcwPJL87FjznLJQjKdhfN": {
+    "_name_en": "Fatigue Shot",
+    "name_ko": "피로의 사격",
+    "text_ko": "피로의 사격이 영웅을 명중하면, 그 영웅의 다음 턴에 사용하는 첫 공격 액션 카드의 기본 {p}이 절반(올림)으로 줄어든다."
+  },
+  "wDQpwcjHkdqjhpJhCHLft": {
+    "_name_en": "Fatigue Shot",
+    "name_ko": "피로의 사격",
+    "text_ko": "피로의 사격이 영웅을 명중하면, 그 영웅의 다음 턴에 사용하는 첫 공격 액션 카드의 기본 {p}이 절반(올림)으로 줄어든다."
+  },
+  "bzPDgqKBRNH7JQjcqWbfk": {
+    "_name_en": "Fault Line",
+    "name_ko": "단층선",
+    "text_ko": "당신의 아스날에 카드가 있다면, 이 카드가 +1{p}을 얻는다.\n크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 모든 아스날에 있는 모든 카드를 소유자의 덱 맨 아래에 놓는다."
+  },
+  "n9FtLHDg97rfrTNJDMBG6": {
+    "_name_en": "Fealty",
+    "name_ko": "충성",
+    "text_ko": "순간 - 이것을 파괴한다: 이번 턴 당신이 사용하는 다음 카드는 드라코닉이다. 당신의 종료 단계 시작 시, 이번 턴에 충성 토큰을 생성하거나 드라코닉 카드를 사용하지 않았다면, 이것을 파괴한다."
+  },
+  "h6J7CzPwdkTCKcbK7Jc8T": {
+    "_name_en": "Fearless Confrontation",
+    "name_ko": "두려움 없는 대치",
+    "text_ko": "순간 - 이 카드를 버린다: 대상 공격이 -1{p}을 얻고 도미네이트를 잃고 얻을 수 없다."
+  },
+  "pdwzQtmTgqMnFqkPQKNhq": {
+    "_name_en": "Feign Death",
+    "name_ko": "죽은 척하기",
+    "text_ko": "이번 턴에 당신의 영웅이 피해를 받은 적이 있을 때만 죽은 척하기를 사용한다.\n이번 턴 당신의 영웅이 다음에 피해를 받게 될 경우, 방지한다."
+  },
+  "rcQDk66HmLFR6mKt78BWT": {
+    "_name_en": "Feign Vengeance",
+    "name_ko": "복수를 가장하다",
+    "text_ko": "이 체인 링크가 해결될 때, 이 카드를 방어하는 카드가 있다면, 카드 1장을 뽑는다.\n고 어게인"
+  },
+  "KGLtMJpW96RGNDCDf9P7T": {
+    "_name_en": "Feisty Locals",
+    "name_ko": "혈기왕성한 현지인",
+    "text_ko": "이 카드가 액션 카드로 방어되면, +2{p}을 얻는다."
+  },
+  "Bzd7tkQJqf6MhKpQhDH6r": {
+    "_name_en": "Feisty Locals",
+    "name_ko": "혈기왕성한 현지인",
+    "text_ko": "이 카드가 액션 카드로 방어되면, +2{p}을 얻는다."
+  },
+  "BtFKjW9dLTMfpqcB8jkwT": {
+    "_name_en": "Feisty Locals",
+    "name_ko": "혈기왕성한 현지인",
+    "text_ko": "이 카드가 액션 카드로 방어되면, +2{p}을 얻는다."
+  },
+  "PkQPFgMNLn69hmMnq7jCC": {
+    "_name_en": "Felling of the Crown",
+    "name_ko": "왕관의 몰락",
+    "text_ko": "당신의 추방 구역에 대지 카드가 4장 이상 있다면, 이 카드가 +4{p}을 얻는다.\n분해 - 이 카드가 공격할 때, 당신의 무덤에서 대지 카드 2장과 액션 카드 1장을 추방할 수 있다. 그렇게 하면, 각 영웅은 자신의 손에서 카드 1장을 덱 맨 아래에 놓는다."
+  },
+  "W8khCTMWQrNPPPCpH6cgL": {
+    "_name_en": "Felling Swing",
+    "name_ko": "쓰러뜨리는 휘두르기",
+    "text_ko": "이번 턴 당신의 다음 도끼 공격이 +6{p}을 얻는다.\n고 어게인"
+  },
+  "RNTCqkRgmcHbcjjNph96G": {
+    "_name_en": "Felling Swing",
+    "name_ko": "쓰러뜨리는 휘두르기",
+    "text_ko": "이번 턴 당신의 다음 도끼 공격이 +5{p}을 얻는다.\n고 어게인"
+  },
+  "P8TDDpgPhhWHncTNcpC7n": {
+    "_name_en": "Felling Swing",
+    "name_ko": "쓰러뜨리는 휘두르기",
+    "text_ko": "이번 턴 당신의 다음 도끼 공격이 +4{p}을 얻는다.\n고 어게인"
+  },
+  "FjH7WBT6NtmQjrBHBkbTk": {
+    "_name_en": "Fender Bender",
+    "name_ko": "펜더 벤더",
+    "text_ko": "부스트\n이 카드는 자신을 방어하는 장비 수만큼 +X{p}을 얻는다."
+  },
+  "RQTzJCzpBPBbNHDRF8DCN": {
+    "_name_en": "Fender Bender",
+    "name_ko": "펜더 벤더",
+    "text_ko": "부스트\n이 카드는 자신을 방어하는 장비 수만큼 +X{p}을 얻는다."
+  },
+  "gjCWLwWCRRfm6J66cNL7q": {
+    "_name_en": "Fender Bender",
+    "name_ko": "펜더 벤더",
+    "text_ko": "부스트\n이 카드는 자신을 방어하는 장비 수만큼 +X{p}을 얻는다."
+  },
+  "CPNhjTPwJ9W6Mm6cNRFHd": {
+    "_name_en": "Feral Instinct",
+    "name_ko": "야생의 본능",
+    "text_ko": "이번 턴에 상대를 인티미데이트했다면, 이 카드는 {r}{r}{r} 적은 비용으로 사용된다."
+  },
+  "BM9WbbJkzGzdmtqMcMLJ6": {
+    "_name_en": "Fertile Ground",
+    "name_ko": "비옥한 대지",
+    "text_ko": "2{h}을 얻는다\n당신의 추방 구역에 대지 카드가 4장 이상 있다면, 대신 5{h}을 얻는다."
+  },
+  "WJ6Ph7N8hNj8tbDnPTHMw": {
+    "_name_en": "Fertile Ground",
+    "name_ko": "비옥한 대지",
+    "text_ko": "2{h}을 얻는다\n당신의 추방 구역에 대지 카드가 4장 이상 있다면, 대신 4{h}을 얻는다."
+  },
+  "FzJFdPw6hFwTLCkTrPf8p": {
+    "_name_en": "Fertile Ground",
+    "name_ko": "비옥한 대지",
+    "text_ko": "2{h}을 얻는다\n당신의 추방 구역에 대지 카드가 4장 이상 있다면, 대신 3{h}을 얻는다."
+  },
+  "cDDzQzMWRRDWjQdBC6PqN": {
+    "_name_en": "Fervent Forerunner",
+    "name_ko": "열렬한 선구자",
+    "text_ko": "열렬한 선구자가 명중하면, 옵트 2.\n열렬한 선구자가 아스날에서 사용되면, 고 어게인을 얻는다."
+  },
+  "qJTwtcgqMDCBwTqNWjNHJ": {
+    "_name_en": "Fervent Forerunner",
+    "name_ko": "열렬한 선구자",
+    "text_ko": "열렬한 선구자가 명중하면, 옵트 2.\n열렬한 선구자가 아스날에서 사용되면, 고 어게인을 얻는다."
+  },
+  "zQMMbcBbbRKKJcTwcCPPQ": {
+    "_name_en": "Fervent Forerunner",
+    "name_ko": "열렬한 선구자",
+    "text_ko": "열렬한 선구자가 명중하면, 옵트 2.\n열렬한 선구자가 아스날에서 사용되면, 고 어게인을 얻는다."
+  },
+  "p7CLrzj7kGMtt8cLfMdqT": {
+    "_name_en": "Fiddle-dee",
+    "name_ko": "피들-디",
+    "text_ko": "액션 - 이것을 파괴한다: 각 영웅이 마이트 토큰 1개를 생성한다. 고 어게인"
+  },
+  "6dNCtnqWjTwr88JCckKDG": {
+    "_name_en": "Fiddler's Green",
+    "name_ko": "피들러스 그린",
+    "text_ko": "이 카드가 임의의 곳에서 당신의 무덤에 놓이면, 3{h}을 얻는다."
+  },
+  "bR7C7tbtGczDWnbDHjTD7": {
+    "_name_en": "Fiddler's Green",
+    "name_ko": "피들러스 그린",
+    "text_ko": "이 카드가 임의의 곳에서 당신의 무덤에 놓이면, 2{h}을 얻는다."
+  },
+  "7bLzzWQGtNWkHWzjkcdQn": {
+    "_name_en": "Fiddler's Green",
+    "name_ko": "피들러스 그린",
+    "text_ko": "이 카드가 임의의 곳에서 당신의 무덤에 놓이면, 1{h}을 얻는다."
+  },
+  "CdcPgtHftqzGHjTcWNBJp": {
+    "_name_en": "Fight Dirty",
+    "name_ko": "비겁하게 싸우다",
+    "text_ko": "이 카드가 레버드(Revered) 카드로 방어되면, +1{p}을 얻는다.\n이 카드가 레버드 영웅을 명중하면, 그 영웅의 덱 맨 위 카드를 파괴한다."
+  },
+  "7ckBwwLJzbdbMHW7kWnNw": {
+    "_name_en": "Fight Fair",
+    "name_ko": "공정하게 싸우다",
+    "text_ko": "이 카드가 레바일드(Reviled) 카드로 방어되면, +1{p}을 얻는다.\n이 카드가 레바일드 영웅을 명중하면, 이것을 소유자의 덱 맨 아래에 놓는다."
+  },
+  "fpbDMC7pMtnNHCJrkcTww": {
+    "_name_en": "Fight from Behind",
+    "name_ko": "역경 속에서 싸우다",
+    "text_ko": "이 카드가 공격하거나 방어할 때, 당신이 다른 모든 영웅보다 {h}가 적다면, 관중이 당신에게 환호한다."
+  },
+  "mqjq8Pk9hNz6gK8bck9Hm": {
+    "_name_en": "Fight from Behind",
+    "name_ko": "역경 속에서 싸우다",
+    "text_ko": "이 카드가 공격하거나 방어할 때, 당신이 다른 모든 영웅보다 {h}가 적다면, 관중이 당신에게 환호한다."
+  },
+  "K6zRWPRdP76bFfKgHw7Fd": {
+    "_name_en": "Fight from Behind",
+    "name_ko": "역경 속에서 싸우다",
+    "text_ko": "이 카드가 공격하거나 방어할 때, 당신이 다른 모든 영웅보다 {h}가 적다면, 관중이 당신에게 환호한다."
+  },
+  "TMKn79cNDqQp6PJGGrBqj": {
+    "_name_en": "Fight Night Prize Purse",
+    "name_ko": "파이트 나이트 상금",
+    "text_ko": "상대 1명을 선택한다. 각자 골드 토큰 1개를 생성한다."
+  },
+  "rd8gCbPjLCWcPLdqbMRWm": {
+    "_name_en": "Fightmaster Kox",
+    "name_ko": "격투사범 콕스",
+    "text_ko": "액션 - {t}, 당신이 조종하는 골드 1개를 파괴한다: 이벤트 덱 맨 위 3장을 확인한 뒤, 원하는 순서로 되돌린다. 고 어게인"
+  },
+  "cWRWbKczR8N8F6nGBMNG7": {
+    "_name_en": "Figment of Erudition",
+    "name_ko": "박식의 피그먼트",
+    "text_ko": "레전더리\n이 카드가 전장에 들어올 때, 폰더 토큰 1개를 생성한다."
+  },
+  "gKQKG87JCtBgqDDrcBmcF": {
+    "_name_en": "Figment of Judgment",
+    "name_ko": "심판의 피그먼트",
+    "text_ko": "레전더리\n이 카드가 전장에 들어올 때, 임의의 추방 구역에 있는 카드 1장을 뒷면으로 뒤집을 수 있다."
+  },
+  "FhzPFCDrDhK8QbjFRfHLk": {
+    "_name_en": "Figment of Protection",
+    "name_ko": "보호의 피그먼트",
+    "text_ko": "레전더리\n이 카드가 전장에 들어올 때, 스펙트럴 실드 토큰 1개를 생성한다."
+  },
+  "kJdRmr6CLhJ9LznJkmcJb": {
+    "_name_en": "Figment of Ravages",
+    "name_ko": "황폐의 피그먼트",
+    "text_ko": "레전더리\n이 카드가 전장에 들어올 때, 아무 대상에게 비전 피해 1을 준다."
+  },
+  "ThhTfhmkkjr6DJR8hwQjt": {
+    "_name_en": "Figment of Rebirth",
+    "name_ko": "환생의 피그먼트",
+    "text_ko": "레전더리\n이 카드가 전장에 들어올 때, 당신의 무덤에서 노란색 액션 카드 1장을 덱 맨 위에 놓을 수 있다."
+  },
+  "mtTHBQB9qrJDzrMpJtfRw": {
+    "_name_en": "Figment of Tenacity",
+    "name_ko": "끈기의 피그먼트",
+    "text_ko": "레전더리\n이 카드가 전장에 들어올 때, 이번 턴 당신의 다음 공격이 도미네이트를 얻는다."
+  },
+  "zcGjRmHTgMkN7Fwzhkkp6": {
+    "_name_en": "Figment of Triumph",
+    "name_ko": "승리의 피그먼트",
+    "text_ko": "레전더리\n이 카드가 전장에 들어올 때, 이번 턴 상대가 조종하는 공격 액션 카드들이 -1{p}을 얻는다."
+  },
+  "qrhLKPQDzcR99cHLz7jgq": {
+    "_name_en": "Figment of War",
+    "name_ko": "전쟁의 피그먼트",
+    "text_ko": "레전더리\n이 카드가 전장에 들어올 때, 용기 토큰 1개를 생성한다."
+  },
+  "wrn8fmpTQHjKLzzHtqwNG": {
+    "_name_en": "Final Act",
+    "name_ko": "마지막 공연",
+    "text_ko": "이 카드가 공격할 때, +X{p}을 얻는다. X는 모든 피치 존에 있는 카드 수의 두 배이다."
+  },
+  "PHz8kWCt6rw6Q6jMgbdQC": {
+    "_name_en": "Find Center",
+    "name_ko": "중심 찾기",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 학춤이었다면, 중심 찾기는 당신이 조종하는 체인 링크 수보다 {r} 비용이 낮은 카드로 방어될 수 없고, \"이 카드가 명중하면, 젠 상태(Zen State) 토큰 1개를 생성한다\"를 얻는다."
+  },
+  "PgCtkKz6JjJQ9mgKK679T": {
+    "_name_en": "Fingers of Fragmentation",
+    "name_ko": "분열의 손가락",
+    "text_ko": "순간 - {r}{r}, 이것을 파괴한다: 프래그먼트한 대상 공격 액션 카드가 +2{p}을 얻는다."
+  },
+  "P8MBHdhfJLMQ6qdPdWpCL": {
+    "_name_en": "Fire and Brimstone",
+    "name_ko": "불과 유황",
+    "text_ko": "레전더리\n이 카드는 당신이 조종하는 드라코닉 체인 링크 1개당 {r} 적은 비용으로 사용된다.\n당신이 조종하는 단검들이 +1{p}을 얻고, 이번 턴에 그것들 각각으로 추가로 한 번 더 공격할 수 있다."
+  },
+  "qnr8rHRmfzBbrgbjM9GjG": {
+    "_name_en": "Fire in the Hole",
+    "name_ko": "폭탄이다",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +3{p}을 얻는다.\n당신이 조종하는 활 1개를 {u}할 수 있다.\n고 어게인"
+  },
+  "fJ6NzRBP9hRRcQLPLTDrf": {
+    "_name_en": "Fire Tenet: Strike First",
+    "name_ko": "불의 계율: 먼저 치다",
+    "text_ko": "이 카드가 공격할 때, 이번 전투 체인에 당신의 다음 드라코닉 공격이 +1{p}을 얻는다.\n고 어게인"
+  },
+  "wLWmztzbRkrFkgzPCP6hT": {
+    "_name_en": "Fire Tenet: Strike First",
+    "name_ko": "불의 계율: 먼저 치다",
+    "text_ko": "이 카드가 공격할 때, 이번 전투 체인에 당신의 다음 드라코닉 공격이 +1{p}을 얻는다.\n고 어게인"
+  },
+  "M9QNfBrcmp9zBJhztzDM7": {
+    "_name_en": "Fire Tenet: Strike First",
+    "name_ko": "불의 계율: 먼저 치다",
+    "text_ko": "이 카드가 공격할 때, 이번 전투 체인에 당신의 다음 드라코닉 공격이 +1{p}을 얻는다.\n고 어게인"
+  },
+  "wtncTCQkTwF99wgkzMhTm": {
+    "_name_en": "Fire that Burns Within",
+    "name_ko": "안에서 타오르는 불",
+    "text_ko": "이 카드가 공격할 때, 피닉스 플레임 1장을 버릴 수 있다. 그렇게 하면, 카드 1장을 뽑고 이 카드가 +2{p}을 얻는다.\n고 어게인"
+  },
+  "FKCrQMngDF9nMT99qzNjn": {
+    "_name_en": "Firebreathing",
+    "name_ko": "불뿜기",
+    "text_ko": "순간 - {r}: 불뿜기가 +1{p}을 얻는다. 불뿜기가 공격 중일 때만 이 능력을 활성화한다."
+  },
+  "kHP6QW9GNhJzkDjq7nGpk": {
+    "_name_en": "Firewall",
+    "name_ko": "방화벽",
+    "text_ko": "이 카드가 방어할 때, 당신의 덱 맨 위 카드를 공개한다. 그것이 에보라면, 덱 맨 위에 놓는다. 그렇지 않으면, 맨 아래에 놓는다."
+  },
+  "zRdT7QbmBfgd7DKBwjfGd": {
+    "_name_en": "Firewall",
+    "name_ko": "방화벽",
+    "text_ko": "이 카드가 방어할 때, 당신의 덱 맨 위 카드를 공개한다. 그것이 에보라면, 덱 맨 위에 놓는다. 그렇지 않으면, 맨 아래에 놓는다."
+  },
+  "qQQr98pt8gmgGdttPNTH7": {
+    "_name_en": "Firewall",
+    "name_ko": "방화벽",
+    "text_ko": "이 카드가 방어할 때, 당신의 덱 맨 위 카드를 공개한다. 그것이 에보라면, 덱 맨 위에 놓는다. 그렇지 않으면, 맨 아래에 놓는다."
+  },
+  "BwjpdtTFfBRTJHgKMM6rn": {
+    "_name_en": "First Tenet of Chi: Moon",
+    "name_ko": "기의 제1계율: 달",
+    "text_ko": "이번 턴 당신의 다음 파란색 공격이 \"이 카드가 공격할 때, 카드 1장을 뽑는다\"를 얻는다.\n고 어게인"
+  },
+  "rtLfTrnFcDBQhtbFprGRD": {
+    "_name_en": "First Tenet of Chi: Tide",
+    "name_ko": "기의 제1계율: 조류",
+    "text_ko": "이번 턴 당신의 다음 파란색 공격이 +2{p}을 얻는다.\n고 어게인"
+  },
+  "tCjqz6rHFKTmDpDkfHmzm": {
+    "_name_en": "First Tenet of Chi: Wind",
+    "name_ko": "기의 제1계율: 바람",
+    "text_ko": "이번 턴 당신이 사용하는 다음 파란색 액션 카드가 고 어게인을 얻는다.\n고 어게인"
+  },
+  "KGqmhqzwPDDcr6MNr76gB": {
+    "_name_en": "Fish Fingers",
+    "name_ko": "생선 손가락",
+    "text_ko": "액션 - {r}, 이것을 파괴한다: 이번 턴 당신의 다음 공격이 +1{p}을 얻는다. 고 어게인\n블레이드 브레이크"
   }
 }
