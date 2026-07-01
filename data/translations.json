@@ -16233,5 +16233,755 @@
     "_name_en": "Recoil",
     "name_ko": "반동",
     "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 헤드 잽이었다면, 이 카드는 \"이 카드가 영웅을 명중하면, 그가 자신의 손에서 카드 1장을 덱 맨 위에 놓는다\"를 가진다."
+  },
+  "kcj8HPFjdMwbgFTNw7GmJ": {
+    "_name_en": "Red Alert Boots",
+    "name_ko": "적색경보 부츠",
+    "text_ko": "이번 체인 링크에 공격 반응이 사용되거나 활성화된 적이 있다면, 이 카드가 +1{d}을 얻는다.\n블레이드 브레이크"
+  },
+  "j9NnkHbJbdLdDLg9QtPht": {
+    "_name_en": "Red Alert Gloves",
+    "name_ko": "적색경보 장갑",
+    "text_ko": "이번 체인 링크에 공격 반응이 사용되거나 활성화된 적이 있다면, 이 카드가 +1{d}을 얻는다.\n블레이드 브레이크"
+  },
+  "cTk6wFnMDN7z6WHfDPmrQ": {
+    "_name_en": "Red Alert Vest",
+    "name_ko": "적색경보 조끼",
+    "text_ko": "이번 체인 링크에 공격 반응이 사용되거나 활성화된 적이 있다면, 이 카드가 +1{d}을 얻는다.\n블레이드 브레이크"
+  },
+  "Lf6kGcR7qqdFHCHLnGkng": {
+    "_name_en": "Red Alert Visor",
+    "name_ko": "적색경보 바이저",
+    "text_ko": "이번 체인 링크에 공격 반응이 사용되거나 활성화된 적이 있다면, 이 카드가 +1{d}을 얻는다.\n블레이드 브레이크"
+  },
+  "tnznnMJqJfzTqCn8QBgBz": {
+    "_name_en": "Red Fin Harpoon",
+    "name_ko": "붉은지느러미 작살",
+    "text_ko": "고 피시 - 이 카드가 영웅을 명중하면, 그가 자신의 손에서 카드 1장을 선택해 공개한다. 그것이 빨간색이면, 그가 버리고 당신이 골드 토큰 1개를 생성한다. 이번 턴에 대포를 활성화한 적이 있다면, 대신 그의 손을 확인하고 당신이 카드를 선택한다."
+  },
+  "GRJN6ctjz9wPmFn9K7WHn": {
+    "_name_en": "Red Hot",
+    "name_ko": "이글거리는 열기",
+    "text_ko": "드로마이 또는 파이 스페셜라이제이션\n럽처 - 이글거리는 열기가 체인 링크 4 이상으로 사용되면, \"당신이 이것으로 공격할 때, 당신 덱 맨 위 X장을 공개한다. X는 당신이 조종하는 드라코닉 체인 링크 수이다. 아무 대상에게 이렇게 공개된 빨간색 카드 수만큼 피해를 준 뒤, 덱을 섞는다\"를 가진다."
+  },
+  "FLHmj9MjCgFPBzgFGKRFW": {
+    "_name_en": "Red in the Ledger",
+    "name_ko": "장부의 적자",
+    "text_ko": "아잘레아 스페셜라이제이션\n장부의 적자가 영웅을 명중하면, 그는 다음 턴 동안 액션을 1개 초과해 사용하거나 활성화할 수 없다."
+  },
+  "6fGDjThJfHN7ttFCHGGnC": {
+    "_name_en": "Red Liner",
+    "name_ko": "레드 라이너",
+    "text_ko": "턴당 1회 액션 - 0: 당신의 아스날에 카드가 없다면, 당신의 손에서 화살 카드를 앞면으로 아스날에 놓는다. 고 어게인"
+  },
+  "NLQzm9gf8hckWCdCrC8bp": {
+    "_name_en": "Red Lure Harpoon",
+    "name_ko": "붉은 미끼 작살",
+    "text_ko": "이번 턴에 대포를 활성화한 적이 있다면, 이 카드가 \"이 카드가 영웅을 명중하면, 그의 무덤에서 빨간색 액션 카드를 추방한다. 당신의 다음 턴 종료 시까지 그것을 사용할 수 있다\"를 얻는다."
+  },
+  "7PtLHnBmRQffFP9ghNpJG": {
+    "_name_en": "Redback Shroud",
+    "name_ko": "붉은등거미 수의",
+    "text_ko": "붉은등거미 수의가 당신의 무덤에 있는 동안, 당신의 턴 시작 시, 당신이 조종하는 실버 2개를 파괴할 수 있다. 그렇게 하면, 붉은등거미 수의를 장착한다.\n공격 반응 - 붉은등거미 수의를 파괴한다: 이번 턴 당신이 사용하는 다음 공격 반응 카드가 사용하는 데 {r}이 덜 든다.\n배틀원"
+  },
+  "HWLzjqBjW6KJQ8gJNbRwJ": {
+    "_name_en": "Redspine Manta",
+    "name_ko": "붉은가시 만타",
+    "text_ko": "액션 - {t}: 당신의 손에서 화살을 앞면으로 아스날에 놓는다. 고 어게인"
+  },
+  "mwWD7hrDkKWWkDdchGbc9": {
+    "_name_en": "Reduce to Runechant",
+    "name_ko": "룬챈트로 환원하다",
+    "text_ko": "당신이 조종하는 룬챈트 1개당 룬챈트로 환원하다는 사용하는 데 {r}이 덜 든다.\n룬챈트 토큰 1개를 생성한다."
+  },
+  "CGPcNWJRc8pnPfCbQHtwJ": {
+    "_name_en": "Reduce to Runechant",
+    "name_ko": "룬챈트로 환원하다",
+    "text_ko": "당신이 조종하는 룬챈트 1개당 룬챈트로 환원하다는 사용하는 데 {r}이 덜 든다.\n룬챈트 토큰 1개를 생성한다."
+  },
+  "DNRzWPmnLQdMTb7MGftNw": {
+    "_name_en": "Reduce to Runechant",
+    "name_ko": "룬챈트로 환원하다",
+    "text_ko": "당신이 조종하는 룬챈트 1개당 룬챈트로 환원하다는 사용하는 데 {r}이 덜 든다.\n룬챈트 토큰 1개를 생성한다."
+  },
+  "8BgkFbrc7PmgQhT8bK6BC": {
+    "_name_en": "Redwood Hammer",
+    "name_ko": "레드우드 망치",
+    "text_ko": "턴당 1회 액션 - {r}{r}{r}: 공격\n이것으로 공격하기 위해 대지 카드가 피치되었다면, 그 공격이 +1{p}을 얻는다."
+  },
+  "kcGqqmnbcLKkFDNCnqbNh": {
+    "_name_en": "Reek of Corruption",
+    "name_ko": "타락의 악취",
+    "text_ko": "이번 턴에 오라를 사용하거나 생성한 적이 있다면, 타락의 악취가 \"이 카드가 영웅을 명중하면, 그가 카드 1장을 버린다\"를 얻는다."
+  },
+  "MGLnDGFfchbLBBBzHRGFD": {
+    "_name_en": "Reek of Corruption",
+    "name_ko": "타락의 악취",
+    "text_ko": "이번 턴에 오라를 사용하거나 생성한 적이 있다면, 타락의 악취가 \"이 카드가 영웅을 명중하면, 그가 카드 1장을 버린다\"를 얻는다."
+  },
+  "QrC9WRqBkFRtzwGCLp9BG": {
+    "_name_en": "Reek of Corruption",
+    "name_ko": "타락의 악취",
+    "text_ko": "이번 턴에 오라를 사용하거나 생성한 적이 있다면, 타락의 악취가 \"이 카드가 영웅을 명중하면, 그가 카드 1장을 버린다\"를 얻는다."
+  },
+  "QPHcwktfpnPBPfqHCDfKw": {
+    "_name_en": "Reel In",
+    "name_ko": "낚아 올리다",
+    "text_ko": "당신 덱 맨 위 X+1장을 확인한다. 함정 최대 4개를 선택해 공개하고 손에 놓은 뒤, 덱을 섞는다.\n리로드"
+  },
+  "dtg9jMjQFFbmncCBNHjW9": {
+    "_name_en": "Refraction Bolters",
+    "name_ko": "굴절 볼터",
+    "text_ko": "당신이 조종하는 무기가 명중할 때, 굴절 볼터를 파괴할 수 있다. 그렇게 하면, 그 공격이 고 어게인을 얻는다.\n배틀원"
+  },
+  "qWzngwMHHKwBJT6BKkF9r": {
+    "_name_en": "Regain Composure",
+    "name_ko": "평정을 되찾다",
+    "text_ko": "이번 턴 당신의 다음 공격이 +1{p}과 \"이것이 명중하면, 당신의 영웅을 {u}한다\"를 얻는다.\n고 어게인"
+  },
+  "NBHQRhkBP8d99d8Nm96zb": {
+    "_name_en": "Regicide",
+    "name_ko": "왕시해",
+    "text_ko": "레전더리 아라크니 스페셜라이제이션\n이 카드가 로열 영웅을 명중하면, 그가 게임에서 패배한다.\n전투 체인이 종료되면, 당신이 게임에서 패배한다.\n왕시해는 방어 영웅의 추방 구역에 있는 카드와 같은 이름의 카드로 방어할 수 없다."
+  },
+  "k8CgTdPKWcmLb78HKgHjk": {
+    "_name_en": "Regrowth // Shock",
+    "name_ko": "재생 // 충격",
+    "text_ko": "멜드\n비용이 X보다 낮은 공격 액션 카드를 당신의 무덤에서 손으로 되돌린다. X는 이번 턴에 당신이 상대 영웅에게 준 총 비전 피해이다. 고 어게인\n//\n아무 대상에게 비전 피해 1을 준다."
+  },
+  "J9LLjWpb6hwCtGPgdrg9h": {
+    "_name_en": "Regurgitating Slog",
+    "name_ko": "역류하는 진창",
+    "text_ko": "역류하는 진창을 사용하기 위한 추가 비용으로, 당신의 무덤에서 슬로기즘이라는 이름의 카드를 추방할 수 있다. 그렇게 하면, 역류하는 진창이 도미네이트를 얻는다."
+  },
+  "W7kjMQq9pJGQrBDPhhbgT": {
+    "_name_en": "Regurgitating Slog",
+    "name_ko": "역류하는 진창",
+    "text_ko": "역류하는 진창을 사용하기 위한 추가 비용으로, 당신의 무덤에서 슬로기즘이라는 이름의 카드를 추방할 수 있다. 그렇게 하면, 역류하는 진창이 도미네이트를 얻는다."
+  },
+  "br9CQqckKLHbJmqnrLnfR": {
+    "_name_en": "Regurgitating Slog",
+    "name_ko": "역류하는 진창",
+    "text_ko": "역류하는 진창을 사용하기 위한 추가 비용으로, 당신의 무덤에서 슬로기즘이라는 이름의 카드를 추방할 수 있다. 그렇게 하면, 역류하는 진창이 도미네이트를 얻는다."
+  },
+  "96KF7bgGdkjfMm9zRfLKj": {
+    "_name_en": "Reincarnate",
+    "name_ko": "환생",
+    "text_ko": "이것이 무작위로 버려지면, 소유자의 덱 맨 아래에 놓는다."
+  },
+  "Qww77MgHTjLnBWCJ7NTDp": {
+    "_name_en": "Reincarnate",
+    "name_ko": "환생",
+    "text_ko": "이것이 무작위로 버려지면, 소유자의 덱 맨 아래에 놓는다."
+  },
+  "DPDqwkWf9krhLLDWpmDwD": {
+    "_name_en": "Reincarnate",
+    "name_ko": "환생",
+    "text_ko": "이것이 무작위로 버려지면, 소유자의 덱 맨 아래에 놓는다."
+  },
+  "GjBwbt7gjn8pNKHWMTmGm": {
+    "_name_en": "Reinforce Steel",
+    "name_ko": "강철을 보강하다",
+    "text_ko": "당신이 조종하는, 기본 {d} 3 이하인 가디언 보조 무기에서 -1{d} 카운터 1개를 제거한다."
+  },
+  "Fdn6HgNgF9gtLhHGckWKp": {
+    "_name_en": "Reinforce Steel",
+    "name_ko": "강철을 보강하다",
+    "text_ko": "당신이 조종하는, 기본 {d} 2 이하인 가디언 보조 무기에서 -1{d} 카운터 1개를 제거한다."
+  },
+  "gG7HktC9HdknC8z8pMGjw": {
+    "_name_en": "Reinforce Steel",
+    "name_ko": "강철을 보강하다",
+    "text_ko": "당신이 조종하는, 기본 {d} 1 이하인 가디언 보조 무기에서 -1{d} 카운터 1개를 제거한다."
+  },
+  "LG8rDGDD9gFGCJnQrjwPf": {
+    "_name_en": "Reinforce the Line",
+    "name_ko": "전선을 강화하다",
+    "text_ko": "대상 방어하는 공격 액션 카드가 +4{d}을 얻는다."
+  },
+  "9phFJ8cHN7MGqDp8Kppw7": {
+    "_name_en": "Reinforce the Line",
+    "name_ko": "전선을 강화하다",
+    "text_ko": "대상 방어하는 공격 액션 카드가 +3{d}을 얻는다."
+  },
+  "GKhGdJJjhHfK7N6jFkQBC": {
+    "_name_en": "Reinforce the Line",
+    "name_ko": "전선을 강화하다",
+    "text_ko": "대상 방어하는 공격 액션 카드가 +2{d}을 얻는다."
+  },
+  "K6DhzmKQ7HwHDGrnMkMTR": {
+    "_name_en": "Rejuvenate",
+    "name_ko": "회춘하다",
+    "text_ko": "3{h}을 얻는다\n이번 턴에 퓨전한 적이 있다면, 회춘하다를 순간 카드인 것처럼 사용할 수 있다."
+  },
+  "NBcM69zNPL7kFjptNzmWc": {
+    "_name_en": "Rejuvenate",
+    "name_ko": "회춘하다",
+    "text_ko": "2{h}을 얻는다\n이번 턴에 퓨전한 적이 있다면, 회춘하다를 순간 카드인 것처럼 사용할 수 있다."
+  },
+  "QnhtjH6jDLQcJThkQgJ7K": {
+    "_name_en": "Rejuvenate",
+    "name_ko": "회춘하다",
+    "text_ko": "1{h}을 얻는다\n이번 턴에 퓨전한 적이 있다면, 회춘하다를 순간 카드인 것처럼 사용할 수 있다."
+  },
+  "JzpDJJgqRBD7g7qjfFBkW": {
+    "_name_en": "Release the Tension",
+    "name_ko": "긴장을 풀어놓다",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +3{p}과 \"이번 체인 링크에서 방어 반응은 아스날에서 사용할 수 없다\"를 얻는다.\n고 어게인"
+  },
+  "PF6BCk9FDPwPzgr6PhKw7": {
+    "_name_en": "Release the Tension",
+    "name_ko": "긴장을 풀어놓다",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +2{p}과 \"이번 체인 링크에서 방어 반응은 아스날에서 사용할 수 없다\"를 얻는다.\n고 어게인"
+  },
+  "gHHKtLnq67JtqNPwgNpr8": {
+    "_name_en": "Release the Tension",
+    "name_ko": "긴장을 풀어놓다",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +1{p}과 \"이번 체인 링크에서 방어 반응은 아스날에서 사용할 수 없다\"를 얻는다.\n고 어게인"
+  },
+  "DDBjrbFWMHqkc7Pkqr6f6": {
+    "_name_en": "Relentless Pursuit",
+    "name_ko": "집요한 추적",
+    "text_ko": "대상 상대 영웅에게 표식을 남긴다.\n이번 턴에 그를 공격한 적이 있다면, 이것을 소유자의 덱 맨 아래에 놓는다.\n고 어게인"
+  },
+  "fJpTHprkwHkCQhK9nzFDR": {
+    "_name_en": "Remembrance",
+    "name_ko": "추억",
+    "text_ko": "당신의 무덤에서 액션 카드 최대 3장을 덱에 섞는다.\n추억을 추방한다."
+  },
+  "M9wDtMRwDFB9chfhJRNWJ": {
+    "_name_en": "Remorseless",
+    "name_ko": "무자비함",
+    "text_ko": "무자비함이 앞면으로 당신의 아스날에 놓이면, 턴 종료 시까지 \"방어 반응 카드는 아스날에서 무자비함의 체인 링크로 사용될 수 없다\"를 얻는다.\n무자비함이 영웅을 명중하면, 그의 다음 턴 종료 시까지, 그가 액션 카드를 사용할 때마다, 1{h}을 잃는다."
+  },
+  "wPRqFt9jMPmdRLQmhb8jt": {
+    "_name_en": "Rend Flesh",
+    "name_ko": "살점을 찢다",
+    "text_ko": "턴 종료 시까지, 당신이 조종하는 검이 영웅을 명중할 때마다, 여기에서 +1{p} 카운터 1개를 제거할 수 있다. 그렇게 하면, 그가 2{h}을 잃는다.\n고 어게인"
+  },
+  "6dCLFb9TTGPNKHFqH7mzw": {
+    "_name_en": "Renounce Grandeur",
+    "name_ko": "장엄함을 포기하다",
+    "text_ko": "방어 영웅이 오라 토큰을 조종하고 있다면, 이 카드가 +1{p}을 얻는다.\n크러쉬 - 이 카드가 영웅에게 피해 4 이상을 줄 때, 그는 자신의 다음 턴 동안 오라 토큰을 생성할 수 없다."
+  },
+  "LCjKgbbdRKBLnqPnhdncC": {
+    "_name_en": "Renounce Violence",
+    "name_ko": "폭력을 포기하다",
+    "text_ko": "마이트 토큰 최대 3개를 파괴한다. 이렇게 파괴된 토큰 1개당 터프니스 토큰 1개를 생성한다."
+  },
+  "dkWqMzLQfPdRHktgJrMK8": {
+    "_name_en": "Requiem for the Damned",
+    "name_ko": "저주받은 자를 위한 진혼곡",
+    "text_ko": "당신의 추방 구역에서 이것을 사용할 수 있다.\n이번 턴에 영웅이 {h}을 잃은 적이 있다면, 이것을 순간 카드인 것처럼 사용할 수 있다.\n엘로퀀스 토큰 1개를 생성한다.\n블러드 뎃"
+  },
+  "CBc98j9J9PmqRKNdTchgW": {
+    "_name_en": "Resounding Courage",
+    "name_ko": "우렁찬 용기",
+    "text_ko": "대상 라이트 워리어 공격이 +3{p}을 얻는다.\n이번 턴에 충전한 적이 있다면, 용기 토큰 1개를 생성한다."
+  },
+  "dGQMGKjkBHPGpLCQjgm7P": {
+    "_name_en": "Resounding Courage",
+    "name_ko": "우렁찬 용기",
+    "text_ko": "대상 라이트 워리어 공격이 +2{p}을 얻는다.\n이번 턴에 충전한 적이 있다면, 용기 토큰 1개를 생성한다."
+  },
+  "gW8BgNnBNK8JNCH7DC8cd": {
+    "_name_en": "Resounding Courage",
+    "name_ko": "우렁찬 용기",
+    "text_ko": "대상 라이트 워리어 공격이 +1{p}을 얻는다.\n이번 턴에 충전한 적이 있다면, 용기 토큰 1개를 생성한다."
+  },
+  "DrDF9kFdf8r9M7chBwcK6": {
+    "_name_en": "Restless Bones",
+    "name_ko": "불안한 뼈",
+    "text_ko": "이 카드가 공격할 때, 카드 1장을 버리거나 당신 덱 맨 위 카드를 파괴할 수 있다. 그 카드가 워터리 그레이브를 가졌다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "7kCDQpqnLkNbQmzzkcJcz": {
+    "_name_en": "Restless Bones",
+    "name_ko": "불안한 뼈",
+    "text_ko": "이 카드가 공격할 때, 카드 1장을 버리거나 당신 덱 맨 위 카드를 파괴할 수 있다. 그 카드가 워터리 그레이브를 가졌다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "G6qbqK8tRPRF7dMhBRf7C": {
+    "_name_en": "Restless Bones",
+    "name_ko": "불안한 뼈",
+    "text_ko": "이 카드가 공격할 때, 카드 1장을 버리거나 당신 덱 맨 위 카드를 파괴할 수 있다. 그 카드가 워터리 그레이브를 가졌다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "cFpmN9tpMR8cLKDzkNtzz": {
+    "_name_en": "Restless Coalescence",
+    "name_ko": "쉼 없는 결합체",
+    "text_ko": "이것이 전장에 들어올 때, 당신이 조종하는 오라들에서 +1{p} 카운터를 원하는 수만큼 이것으로 옮긴다.\n턴당 1회 순간 - 여기에서 +1{p} 카운터 1개를 제거한다: 스펙트럴 실드 토큰 1개를 생성한다.\n워드 2"
+  },
+  "JMzGFRDF8qTWJCLPRfQgH": {
+    "_name_en": "Restvine Elixir",
+    "name_ko": "휴식포도 영약",
+    "text_ko": "이번 턴 당신의 다음 공격이 +3{p}을 얻는다.\n당신이 조종하는 관성 토큰 1개를 파괴할 수 있다. 그렇게 하면, 1{h}을 얻는다.\n고 어게인"
+  },
+  "RTbHRmf96T8Pz7MD7KLc7": {
+    "_name_en": "Retrace the Past",
+    "name_ko": "과거를 되짚다",
+    "text_ko": "카츠 스페셜라이제이션\n콤보 - 이 카드가 공격할 때, 이번 전투 체인에서 마지막 공격이 이름에 거스트웨이브가 들어간 카드였다면, 카드 이름 1개를 지정한다. 그렇게 하면, 이 카드가 그 이름, +2{p}, 고 어게인을 얻는다."
+  },
+  "CDPwNh676DmWHj7dJzD6N": {
+    "_name_en": "Return Fire",
+    "name_ko": "반격 사격",
+    "text_ko": "이 카드가 방어할 때, 당신의 손에서 화살 1장을 추방할 수 있다. 그렇게 하면, 당신의 다음 턴 시작 시, 앞면으로 아스날에 놓고 턴 종료 시까지 +3{p}을 얻는다."
+  },
+  "HckWC8fcRWrtzDGbzkNBJ": {
+    "_name_en": "Rev Up",
+    "name_ko": "가속 상승",
+    "text_ko": "당신이 하이퍼 드라이버를 조종하고 있다면, 이 카드는 사용하는 데 {r}이 덜 든다.\n부스트"
+  },
+  "mzgjKKhK8DFNCTtfTNrGk": {
+    "_name_en": "Rev Up",
+    "name_ko": "가속 상승",
+    "text_ko": "당신이 하이퍼 드라이버를 조종하고 있다면, 이 카드는 사용하는 데 {r}이 덜 든다.\n부스트"
+  },
+  "f7f6TfTFjkgtcbQJ9rhDC": {
+    "_name_en": "Rev Up",
+    "name_ko": "가속 상승",
+    "text_ko": "당신이 하이퍼 드라이버를 조종하고 있다면, 이 카드는 사용하는 데 {r}이 덜 든다.\n부스트"
+  },
+  "z9Jm6MkWcjqRHwQWkgRDj": {
+    "_name_en": "Revel in Runeblood",
+    "name_ko": "룬피에 취하다",
+    "text_ko": "이번 턴에 공격 액션 카드와 다른 비공격 액션 카드를 사용한 적이 있다면, 룬챈트 토큰 4개를 생성한다.\n당신의 종료 단계 시작 시, 당신이 조종하는 모든 룬챈트를 파괴한다.\n고 어게인"
+  },
+  "8qnmTn7hKdCQzbhF7bNHD": {
+    "_name_en": "Reverberate",
+    "name_ko": "메아리치다",
+    "text_ko": "대상 상대 영웅에게 비전 피해 3을 준다.\n메아리치다가 피해를 주면, 당신의 손에서 {r} 비용이 메아리치다가 준 피해 이하인 위저드 '비공격' 액션 카드를 추방할 수 있다. 그렇게 하면, 이번 턴 그것을 순간 카드인 것처럼 사용할 수 있다."
+  },
+  "nDWTKLbTdknK7Rfbp8mPM": {
+    "_name_en": "Reverberate",
+    "name_ko": "메아리치다",
+    "text_ko": "대상 상대 영웅에게 비전 피해 2를 준다.\n메아리치다가 피해를 주면, 당신의 손에서 {r} 비용이 메아리치다가 준 피해 이하인 위저드 '비공격' 액션 카드를 추방할 수 있다. 그렇게 하면, 이번 턴 그것을 순간 카드인 것처럼 사용할 수 있다."
+  },
+  "JBKPrLhtDj77ttccNgnqD": {
+    "_name_en": "Reverberate",
+    "name_ko": "메아리치다",
+    "text_ko": "대상 상대 영웅에게 비전 피해 1을 준다.\n메아리치다가 피해를 주면, 당신의 손에서 {r} 비용이 메아리치다가 준 피해 이하인 위저드 '비공격' 액션 카드를 추방할 수 있다. 그렇게 하면, 이번 턴 그것을 순간 카드인 것처럼 사용할 수 있다."
+  },
+  "FfHjRwfgzHqngmjCpdCHf": {
+    "_name_en": "Reverent Rerebrace",
+    "name_ko": "경건한 팔갑",
+    "text_ko": "당신이 제니스 블레이드를 연마하게 될 경우, 대신 {r}을 지불하고 이것을 파괴할 수 있다. 그렇게 하면, 그것을 추가로 한 번 더 연마한다.\n템퍼"
+  },
+  "GCrJthLPkqzBMpRFmnFFK": {
+    "_name_en": "Revolting Gesture",
+    "name_ko": "역겨운 몸짓",
+    "text_ko": "이번 턴 당신의 다음 공격이 +3{p}을 얻는다.\n마이트 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "jBcWwLwbkkMjtgW7pTW8J": {
+    "_name_en": "Rewind",
+    "name_ko": "되감기",
+    "text_ko": "대상 '비공격' 액션 카드를 무효화하고 소유자의 손으로 되돌린다. 그런 다음 그 영웅이 액션 포인트 1을 얻는다."
+  },
+  "KnwNm8LC9DNpT8wMzDnFn": {
+    "_name_en": "Reya, the Unyielding",
+    "name_ko": "레야, 불굴의 자",
+    "text_ko": "당신이 소유한 블록 카드와 당신이 조종하는, {d} 1 이상인 장비가 프로텍트를 얻는다.\n다른 영웅을 보호할 때마다, 골드 토큰 1개를 생성한다."
+  },
+  "wNRqrHCn6rrKLhrDkqPwp": {
+    "_name_en": "Rhinar",
+    "name_ko": "리나르",
+    "text_ko": "당신의 액션 단계 동안 {p} 6 이상인 카드를 버릴 때마다, 인티미데이트한다."
+  },
+  "wr9wBtTWwRrPrdhCRHCdN": {
+    "_name_en": "Rhinar, Reckless Rampage",
+    "name_ko": "리나르, 무모한 광란",
+    "text_ko": "당신의 액션 단계 동안 {p} 6 이상인 카드를 버릴 때마다, 인티미데이트한다."
+  },
+  "TwgRkcgHd9bW9Fb8JjwdF": {
+    "_name_en": "Riches of Trōpal-Dhani",
+    "name_ko": "트로팔다니의 부",
+    "text_ko": "레전더리\n이것이 피치되면, 골드 토큰 1개를 생성한다."
+  },
+  "dp6nprbWWLQwqMdcwW6Wz": {
+    "_name_en": "Richter Scale",
+    "name_ko": "리히터 규모",
+    "text_ko": "액션 - 이것을 파괴한다: 지진 파동 토큰 2개를 생성한다.\n배틀원"
+  },
+  "QTCtQrNNqdCGRr8CFmqcp": {
+    "_name_en": "Riddle with Regret",
+    "name_ko": "후회로 가득 채우다",
+    "text_ko": "고 어게인\n각 영웅의 종료 단계 시작 시, 그가 X{h}을 잃는다. X는 이것이 발동될 때 그가 조종하고 있던 오라 수이다. X가 3 이상이면, 이것을 파괴한다."
+  },
+  "fR8fP8Q7BrTwbtKdzhdft": {
+    "_name_en": "Ride the Tailwind",
+    "name_ko": "순풍을 타다",
+    "text_ko": "순풍을 타다가 명중하면, 이번 전투 체인에서 당신이 사용하는, 기본 {p} 2 이하인 다음 공격 액션 카드가 고 어게인을 얻는다.\n고 어게인"
+  },
+  "HDfh7R89gWDg8wLLkGz6q": {
+    "_name_en": "Ride the Tailwind",
+    "name_ko": "순풍을 타다",
+    "text_ko": "순풍을 타다가 명중하면, 이번 전투 체인에서 당신이 사용하는, 기본 {p} 2 이하인 다음 공격 액션 카드가 고 어게인을 얻는다.\n고 어게인"
+  },
+  "qPrPznRzbC6tGqw69CpT6": {
+    "_name_en": "Ride the Tailwind",
+    "name_ko": "순풍을 타다",
+    "text_ko": "순풍을 타다가 명중하면, 이번 전투 체인에서 당신이 사용하는, 기본 {p} 2 이하인 다음 공격 액션 카드가 고 어게인을 얻는다.\n고 어게인"
+  },
+  "nRKmkHTJRpnDWndNgfTwk": {
+    "_name_en": "Ridge Rider Shot",
+    "name_ko": "능선 질주 사격",
+    "text_ko": "능선 질주 사격이 앞면으로 당신의 아스날에 놓이면, 옵트 1."
+  },
+  "WRqmkMpqpJPWNmrdPzdpT": {
+    "_name_en": "Ridge Rider Shot",
+    "name_ko": "능선 질주 사격",
+    "text_ko": "능선 질주 사격이 앞면으로 당신의 아스날에 놓이면, 옵트 1."
+  },
+  "mDmCFWkbbbfR7dD87Fnc8": {
+    "_name_en": "Ridge Rider Shot",
+    "name_ko": "능선 질주 사격",
+    "text_ko": "능선 질주 사격이 앞면으로 당신의 아스날에 놓이면, 옵트 1."
+  },
+  "CHDCcjjDjPKfpnR6HmWRR": {
+    "_name_en": "Rift Bind",
+    "name_ko": "균열 결박",
+    "text_ko": "당신의 추방 구역에서 균열 결박을 사용할 수 있다. 그렇게 하면, +X{p}을 얻는다. X는 이번 턴에 당신이 사용한 '비공격' 액션 카드의 수이다.\n블러드 뎃"
+  },
+  "KTbwfNgmD8J97RzwqhQMD": {
+    "_name_en": "Rift Bind",
+    "name_ko": "균열 결박",
+    "text_ko": "당신의 추방 구역에서 균열 결박을 사용할 수 있다. 그렇게 하면, +X{p}을 얻는다. X는 이번 턴에 당신이 사용한 '비공격' 액션 카드의 수이다.\n블러드 뎃"
+  },
+  "PTR7kfMCdM6TmztT8d7GM": {
+    "_name_en": "Rift Bind",
+    "name_ko": "균열 결박",
+    "text_ko": "당신의 추방 구역에서 균열 결박을 사용할 수 있다. 그렇게 하면, +X{p}을 얻는다. X는 이번 턴에 당신이 사용한 '비공격' 액션 카드의 수이다.\n블러드 뎃"
+  },
+  "kgNHt6z9pwBJLNLKqNc7c": {
+    "_name_en": "Rift Breaker",
+    "name_ko": "균열 파괴자",
+    "text_ko": "이 카드가 영웅을 명중하면, 그가 조종하는 라이트닝 플로우 토큰 1개를 파괴한다."
+  },
+  "NTTNLDR97DQMKrFCDz8FT": {
+    "_name_en": "Rift Breaker",
+    "name_ko": "균열 파괴자",
+    "text_ko": "이 카드가 영웅을 명중하면, 그가 조종하는 라이트닝 플로우 토큰 1개를 파괴한다."
+  },
+  "p9ccrThgrP8Jt6JNkcTGM": {
+    "_name_en": "Rift Breaker",
+    "name_ko": "균열 파괴자",
+    "text_ko": "이 카드가 영웅을 명중하면, 그가 조종하는 라이트닝 플로우 토큰 1개를 파괴한다."
+  },
+  "Tp7nmGfdwmJP7gzgftM9T": {
+    "_name_en": "Rift Skitter",
+    "name_ko": "균열 종종걸음",
+    "text_ko": "룬 게이트\n고 어게인\n블러드 뎃"
+  },
+  "fCDfkDQBmt7KR6QL7gmcH": {
+    "_name_en": "Rift Skitter",
+    "name_ko": "균열 종종걸음",
+    "text_ko": "룬 게이트\n고 어게인\n블러드 뎃"
+  },
+  "LpKnp8tDfwH9cR7qLGjzc": {
+    "_name_en": "Rift Skitter",
+    "name_ko": "균열 종종걸음",
+    "text_ko": "룬 게이트\n고 어게인\n블러드 뎃"
+  },
+  "hwbWNb8gDkQ7nrWwG6kWp": {
+    "_name_en": "Rifted Torment",
+    "name_ko": "균열의 고뇌",
+    "text_ko": "당신의 추방 구역에서 균열의 고뇌를 사용할 수 있다. 그렇게 하면, 대상 영웅에게 비전 피해 1을 준다.\n블러드 뎃"
+  },
+  "7LKCmfjBPcH9jhkrKRttq": {
+    "_name_en": "Rifted Torment",
+    "name_ko": "균열의 고뇌",
+    "text_ko": "당신의 추방 구역에서 균열의 고뇌를 사용할 수 있다. 그렇게 하면, 대상 영웅에게 비전 피해 1을 준다.\n블러드 뎃"
+  },
+  "BCHMTFpN9Nb7JrWh6T6nk": {
+    "_name_en": "Rifted Torment",
+    "name_ko": "균열의 고뇌",
+    "text_ko": "당신의 추방 구역에서 균열의 고뇌를 사용할 수 있다. 그렇게 하면, 대상 영웅에게 비전 피해 1을 준다.\n블러드 뎃"
+  },
+  "fbKhDHT7dDzFfh7cpBjkJ": {
+    "_name_en": "Rifting",
+    "name_ko": "균열 열기",
+    "text_ko": "균열 열기가 명중하면, 이번 턴 당신의 다음 '비공격' 액션 카드를 순간 카드인 것처럼 사용할 수 있다."
+  },
+  "ngDCfBTHCC9RGG6mQFcQp": {
+    "_name_en": "Rifting",
+    "name_ko": "균열 열기",
+    "text_ko": "균열 열기가 명중하면, 이번 턴 당신의 다음 '비공격' 액션 카드를 순간 카드인 것처럼 사용할 수 있다."
+  },
+  "jNHCpjQbFbfjnj8KD9rjg": {
+    "_name_en": "Rifting",
+    "name_ko": "균열 열기",
+    "text_ko": "균열 열기가 명중하면, 이번 턴 당신의 다음 '비공격' 액션 카드를 순간 카드인 것처럼 사용할 수 있다."
+  },
+  "jrGCfgFzjRwjWMNCCPzmc": {
+    "_name_en": "Riggermortis",
+    "name_ko": "리거모티스",
+    "text_ko": "액션 - {r}, {t}: 공격\n워터리 그레이브"
+  },
+  "GqCNMQPtbqzPLdDPpgMMf": {
+    "_name_en": "Right Behind You",
+    "name_ko": "바로 뒤에",
+    "text_ko": "이 카드가 손의 다른 카드와 함께 방어할 때, 이 카드가 +1{d}을 얻고 당신 덱 맨 위 카드를 확인할 수 있다. 맨 아래에 놓을 수 있다."
+  },
+  "BcfndcHwnNwgDkzbrCPJF": {
+    "_name_en": "Right Behind You",
+    "name_ko": "바로 뒤에",
+    "text_ko": "이 카드가 손의 다른 카드와 함께 방어할 때, 이 카드가 +1{d}을 얻고 당신 덱 맨 위 카드를 확인할 수 있다. 맨 아래에 놓을 수 있다."
+  },
+  "CKzzwp7mqrF6C68bPDcHm": {
+    "_name_en": "Right Behind You",
+    "name_ko": "바로 뒤에",
+    "text_ko": "이 카드가 손의 다른 카드와 함께 방어할 때, 이 카드가 +1{d}을 얻고 당신 덱 맨 위 카드를 확인할 수 있다. 맨 아래에 놓을 수 있다."
+  },
+  "WjTbCjjCgPncF9w7WH9Q8": {
+    "_name_en": "Righteous Cleansing",
+    "name_ko": "정화의 심판",
+    "text_ko": "크러쉬 - 정화의 심판이 영웅에게 피해 4 이상을 줄 때, 그의 덱 맨 위 5장을 확인한다. 그중 같은 이름을 가진 카드 1장 이상을 추방한 뒤, 나머지를 원하는 순서로 그의 덱 맨 위에 놓는다."
+  },
+  "FDktk7t9NkNdLDQQhCPBR": {
+    "_name_en": "Riled Up",
+    "name_ko": "격앙된",
+    "text_ko": "이번 턴에 {p} 6 이상인 카드를 버린 적이 있다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "B9HmMb6jB9M8kWFLH86fT": {
+    "_name_en": "Riled Up",
+    "name_ko": "격앙된",
+    "text_ko": "이번 턴에 {p} 6 이상인 카드를 버린 적이 있다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "gnjKkBhQtpnDgQ6Q6KD9G": {
+    "_name_en": "Riled Up",
+    "name_ko": "격앙된",
+    "text_ko": "이번 턴에 {p} 6 이상인 카드를 버린 적이 있다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "qCzFmGMk9nBPJPWMwdL97": {
+    "_name_en": "Ring of Roses",
+    "name_ko": "장미의 고리",
+    "text_ko": "레전더리 버던스 스페셜라이제이션\n각 턴 처음으로 비전 피해를 줄 때, 1{h}을 얻는다."
+  },
+  "NNFqk8C7PnFchKpGJMfph": {
+    "_name_en": "Rip Off the Top",
+    "name_ko": "맨 위를 훑다",
+    "text_ko": "카드 1장을 뽑은 뒤, 당신의 손에서 무작위 카드 1장을 피치한다. 그것이 {p} 6 이상이면, 이번 턴 당신의 다음 공격이 +3{p}을 얻는다.\n고 어게인"
+  },
+  "9dRcPdjTTpWLNzbfhJwqB": {
+    "_name_en": "Rip Through Reality",
+    "name_ko": "현실을 찢다",
+    "text_ko": "당신의 추방 구역에서 현실을 찢다를 사용할 수 있다.\n이번 턴에 상대 영웅에게 비전 피해를 준 적이 있다면, 현실을 찢다가 고 어게인을 얻는다.\n블러드 뎃"
+  },
+  "mnLRJkkw9HjGbDRGwTmgh": {
+    "_name_en": "Rip Through Reality",
+    "name_ko": "현실을 찢다",
+    "text_ko": "당신의 추방 구역에서 현실을 찢다를 사용할 수 있다.\n이번 턴에 상대 영웅에게 비전 피해를 준 적이 있다면, 현실을 찢다가 고 어게인을 얻는다.\n블러드 뎃"
+  },
+  "pkLRpwfMwHKhkdBGJmFW6": {
+    "_name_en": "Rip Through Reality",
+    "name_ko": "현실을 찢다",
+    "text_ko": "당신의 추방 구역에서 현실을 찢다를 사용할 수 있다.\n이번 턴에 상대 영웅에게 비전 피해를 준 적이 있다면, 현실을 찢다가 고 어게인을 얻는다.\n블러드 뎃"
+  },
+  "g89MkbrrTtJkGwFwDKpfB": {
+    "_name_en": "Rip Up Their Virtues",
+    "name_ko": "그들의 미덕을 찢어발기다",
+    "text_ko": "터프니스 토큰 최대 3개를 파괴한다. 이렇게 파괴된 토큰 1개당 마이트 토큰 1개를 생성한다."
+  },
+  "QqfKkBhgJfFFnDLmwcHfL": {
+    "_name_en": "Ripple Away",
+    "name_ko": "잔물결처럼 사라지다",
+    "text_ko": "순간 - 이것을 버린다: 이번 턴 액션 카드 효과로 토큰을 1개 이상 생성하게 될 경우, 대신 각 토큰을 그 수에서 1을 뺀 만큼 생성한다."
+  },
+  "rW8N7tr9TF98TM8fwMfJd": {
+    "_name_en": "Rippling Wave",
+    "name_ko": "물결치는 파도",
+    "text_ko": "클로크\n순간 - {c}{c}{c}, 이것을 앞면으로 뒤집는다: 방어하는 파란색 공격 액션 카드를 소유자의 손으로 되돌릴 수 있다.\n블레이드 브레이크"
+  },
+  "DhffBQC7PHwzdJpjTjNBm": {
+    "_name_en": "Riptide",
+    "name_ko": "립타이드",
+    "text_ko": "당신이 손의 카드를 사용할 때마다, 손의 카드 1장을 뒷면으로 아스날에 놓을 수 있다.\n당신이 조종하는 함정이 발동할 때마다, 공격하는 영웅에게 피해 1을 준다."
+  },
+  "RNfgGmc8wHgBrmC6gkqBd": {
+    "_name_en": "Riptide, Lurker of the Deep",
+    "name_ko": "립타이드, 심연의 잠복자",
+    "text_ko": "당신이 손의 카드를 사용할 때마다, 손의 카드 1장을 뒷면으로 아스날에 놓을 수 있다.\n당신이 조종하는 함정이 발동할 때마다, 공격하는 영웅에게 피해 1을 준다."
+  },
+  "qPpWLgMftfnqDktRHcCWB": {
+    "_name_en": "Rise Above",
+    "name_ko": "일어서다",
+    "text_ko": "일어서다의 {r} 비용을 지불하는 대신, 당신의 손에서 카드 1장을 덱 맨 위에 놓을 수 있다."
+  },
+  "M7DR7HgnDFJ8p96tCqDTn": {
+    "_name_en": "Rise Above",
+    "name_ko": "일어서다",
+    "text_ko": "일어서다의 {r} 비용을 지불하는 대신, 당신의 손에서 카드 1장을 덱 맨 위에 놓을 수 있다."
+  },
+  "CnFqQqpDD6QB89wpppRfw": {
+    "_name_en": "Rise Above",
+    "name_ko": "일어서다",
+    "text_ko": "일어서다의 {r} 비용을 지불하는 대신, 당신의 손에서 카드 1장을 덱 맨 위에 놓을 수 있다."
+  },
+  "MgfGgqG7wRNbwNGNmjKJr": {
+    "_name_en": "Rise from the Ashes",
+    "name_ko": "잿더미에서 일어나다",
+    "text_ko": "이번 턴 당신이 사용하는 다음 드라코닉 또는 닌자 공격 액션 카드가 +3{p}을 얻는다.\n당신의 무덤에서 피닉스 플레임을 손으로 되돌릴 수 있다.\n고 어게인"
+  },
+  "bnBcm8CFRhPzFPbNmwbRG": {
+    "_name_en": "Rise from the Ashes",
+    "name_ko": "잿더미에서 일어나다",
+    "text_ko": "이번 턴 당신이 사용하는 다음 드라코닉 또는 닌자 공격 액션 카드가 +2{p}을 얻는다.\n당신의 무덤에서 피닉스 플레임을 손으로 되돌릴 수 있다.\n고 어게인"
+  },
+  "JNchKhPQf6PpwzgqNQQM9": {
+    "_name_en": "Rise from the Ashes",
+    "name_ko": "잿더미에서 일어나다",
+    "text_ko": "이번 턴 당신이 사용하는 다음 드라코닉 또는 닌자 공격 액션 카드가 +1{p}을 얻는다.\n당신의 무덤에서 피닉스 플레임을 손으로 되돌릴 수 있다.\n고 어게인"
+  },
+  "7G8RpL8NqHQQH86gGbnwk": {
+    "_name_en": "Rise Up",
+    "name_ko": "일어서다",
+    "text_ko": "드로마이 또는 파이 스페셜라이제이션\n럽처 - 일어서다가 체인 링크 4 이상으로 사용되면, 도미네이트와 +X{p}을 가진다. X는 당신이 조종하는 피닉스 플레임 수의 2배이다."
+  },
+  "99mLLCjqp78PFD7mcGktB": {
+    "_name_en": "Rising Energy",
+    "name_ko": "치솟는 활력",
+    "text_ko": "이번 턴에 카드를 뽑은 적이 있다면, 이 카드는 사용하는 데 {r}이 덜 든다."
+  },
+  "8q67M7Fw6zfwfRktjNP7J": {
+    "_name_en": "Rising Energy",
+    "name_ko": "치솟는 활력",
+    "text_ko": "이번 턴에 카드를 뽑은 적이 있다면, 이 카드는 사용하는 데 {r}이 덜 든다."
+  },
+  "L6NBmDrd7jCjf76kgNB8C": {
+    "_name_en": "Rising Energy",
+    "name_ko": "치솟는 활력",
+    "text_ko": "이번 턴에 카드를 뽑은 적이 있다면, 이 카드는 사용하는 데 {r}이 덜 든다."
+  },
+  "C7zhnMLhctLTpqN7CnrjT": {
+    "_name_en": "Rising Knee Thrust",
+    "name_ko": "솟구치는 무릎치기",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 다리 태클이었다면, 솟구치는 무릎치기가 +2{p}과 고 어게인을 얻는다."
+  },
+  "q7ctPDWzHDk667rcJW9TL": {
+    "_name_en": "Rising Knee Thrust",
+    "name_ko": "솟구치는 무릎치기",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 다리 태클이었다면, 솟구치는 무릎치기가 +2{p}과 고 어게인을 얻는다."
+  },
+  "jdLb9qCbwmwjj9N6rNrnn": {
+    "_name_en": "Rising Knee Thrust",
+    "name_ko": "솟구치는 무릎치기",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 다리 태클이었다면, 솟구치는 무릎치기가 +2{p}과 고 어게인을 얻는다."
+  },
+  "HNT9PzL7tQJdKdKP8fNRz": {
+    "_name_en": "Rising Power",
+    "name_ko": "치솟는 힘",
+    "text_ko": "이번 턴에 카드를 뽑은 적이 있다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "7Cftm8TM9jQpwggJdLkTW": {
+    "_name_en": "Rising Power",
+    "name_ko": "치솟는 힘",
+    "text_ko": "이번 턴에 카드를 뽑은 적이 있다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "pQzndWKCf7PkBDGrrbGGp": {
+    "_name_en": "Rising Power",
+    "name_ko": "치솟는 힘",
+    "text_ko": "이번 턴에 카드를 뽑은 적이 있다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "hPWBFwq8Nmf96PM87BF6t": {
+    "_name_en": "Rising Resentment",
+    "name_ko": "치솟는 원한",
+    "text_ko": "치솟는 원한이 명중하면, 당신의 손에서 비용이 당신이 조종하는 드라코닉 체인 링크 수보다 낮은 공격 액션 카드 1장을 추방할 수 있다. 그렇게 하면, 그것이 사용하는 데 {r}이 덜 들고 이번 턴 그것을 사용할 수 있다.\n고 어게인"
+  },
+  "WCgtGGznkpKghPh6LwwzG": {
+    "_name_en": "Rising Resentment",
+    "name_ko": "치솟는 원한",
+    "text_ko": "치솟는 원한이 명중하면, 당신의 손에서 비용이 당신이 조종하는 드라코닉 체인 링크 수보다 낮은 공격 액션 카드 1장을 추방할 수 있다. 그렇게 하면, 그것이 사용하는 데 {r}이 덜 들고 이번 턴 그것을 사용할 수 있다.\n고 어게인"
+  },
+  "6FrQwLkL6fft9mWQcDM6R": {
+    "_name_en": "Rising Resentment",
+    "name_ko": "치솟는 원한",
+    "text_ko": "치솟는 원한이 명중하면, 당신의 손에서 비용이 당신이 조종하는 드라코닉 체인 링크 수보다 낮은 공격 액션 카드 1장을 추방할 수 있다. 그렇게 하면, 그것이 사용하는 데 {r}이 덜 들고 이번 턴 그것을 사용할 수 있다.\n고 어게인"
+  },
+  "Dr8NPdFcFHJzh7rGjbpFw": {
+    "_name_en": "Rising Solartide",
+    "name_ko": "치솟는 태양의 물결",
+    "text_ko": "치솟는 태양의 물결이 명중하면, 당신 영웅의 소울에 놓는다."
+  },
+  "GtRc9H8qfcRhrkpqCmhrt": {
+    "_name_en": "Rising Solartide",
+    "name_ko": "치솟는 태양의 물결",
+    "text_ko": "치솟는 태양의 물결이 명중하면, 당신 영웅의 소울에 놓는다."
+  },
+  "kqMJRRjLHfnPFBL6nDHPc": {
+    "_name_en": "Rising Solartide",
+    "name_ko": "치솟는 태양의 물결",
+    "text_ko": "치솟는 태양의 물결이 명중하면, 당신 영웅의 소울에 놓는다."
+  },
+  "cDdGBtFJkhzCrmgC6bmfb": {
+    "_name_en": "Rising Speed",
+    "name_ko": "치솟는 속도",
+    "text_ko": "이번 턴에 카드를 뽑은 적이 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "7QpRQBkcWN7fWjnwdhgQ6": {
+    "_name_en": "Rising Speed",
+    "name_ko": "치솟는 속도",
+    "text_ko": "이번 턴에 카드를 뽑은 적이 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "BhQ9Pr8pQbhkCmCHG8hhT": {
+    "_name_en": "Rising Speed",
+    "name_ko": "치솟는 속도",
+    "text_ko": "이번 턴에 카드를 뽑은 적이 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "PtqHmkzqPMf9KBfk88QrR": {
+    "_name_en": "Rising Sun, Setting Moon",
+    "name_ko": "떠오르는 해, 지는 달",
+    "text_ko": "레전더리\n카드 1장을 뽑은 뒤, 당신의 손에서 카드 1장을 덱 맨 아래에 놓는다.\n이번 턴에 다른 파란색 카드를 사용한 적이 있다면, 초월한다."
+  },
+  "m8qP9TTpMfdKndW7wN7M7": {
+    "_name_en": "Rising Tide",
+    "name_ko": "밀려오는 물결",
+    "text_ko": "이번 턴에 다른 파란색 카드를 사용한 적이 있다면, 이 카드가 +2{p}을 얻는다."
+  },
+  "TpGpMftp8NQqNQWmLqTRr": {
+    "_name_en": "Rites of Earthlore",
+    "name_ko": "대지술의 의식",
+    "text_ko": "이것이 전장에 들어올 때, 지진 파동 토큰 1개를 생성한다.\n당신의 턴 시작 시, 이것을 파괴한 뒤, 이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 +3{p}을 얻는다."
+  },
+  "BjKkfgpdLQGfLjTWmBPwk": {
+    "_name_en": "Rites of Earthlore",
+    "name_ko": "대지술의 의식",
+    "text_ko": "이것이 전장에 들어올 때, 지진 파동 토큰 1개를 생성한다.\n당신의 턴 시작 시, 이것을 파괴한 뒤, 이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 +2{p}을 얻는다."
+  },
+  "BjLPLzfr8BdLtTpPQNf6c": {
+    "_name_en": "Rites of Earthlore",
+    "name_ko": "대지술의 의식",
+    "text_ko": "이것이 전장에 들어올 때, 지진 파동 토큰 1개를 생성한다.\n당신의 턴 시작 시, 이것을 파괴한 뒤, 이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 +1{p}을 얻는다."
+  },
+  "bq8bmCkrPKHgb7fMRPkjM": {
+    "_name_en": "Rites of Lightning",
+    "name_ko": "번개의 의식",
+    "text_ko": "번개 퓨전\n당신이 번개의 의식으로 공격할 때, 그것이 퓨전되었다면, 대상 영웅에게 비전 피해 1을 준다.\n이번 턴에 비전 피해를 준 적이 있다면, 번개의 의식이 고 어게인을 얻는다."
+  },
+  "pLLbKwrPTTKBgzbQB6mhT": {
+    "_name_en": "Rites of Lightning",
+    "name_ko": "번개의 의식",
+    "text_ko": "번개 퓨전\n당신이 번개의 의식으로 공격할 때, 그것이 퓨전되었다면, 대상 영웅에게 비전 피해 1을 준다.\n이번 턴에 비전 피해를 준 적이 있다면, 번개의 의식이 고 어게인을 얻는다."
+  },
+  "BQDWRBw9TQDmGFNBHFMfR": {
+    "_name_en": "Rites of Lightning",
+    "name_ko": "번개의 의식",
+    "text_ko": "번개 퓨전\n당신이 번개의 의식으로 공격할 때, 그것이 퓨전되었다면, 대상 영웅에게 비전 피해 1을 준다.\n이번 턴에 비전 피해를 준 적이 있다면, 번개의 의식이 고 어게인을 얻는다."
+  },
+  "qTbnWfWzCJMrcf8BqjNqg": {
+    "_name_en": "Rites of Replenishment",
+    "name_ko": "보충의 의식",
+    "text_ko": "대지 퓨전\n당신이 보충의 의식으로 공격할 때, 이번 턴에 비전 피해를 준 적이 있다면, 당신의 무덤에서 '비공격' 액션 카드를 덱 맨 아래에 놓을 수 있다.\n당신이 보충의 의식으로 공격할 때, 그것이 퓨전되었다면, 당신의 무덤에서 공격 액션 카드를 덱 맨 아래에 놓을 수 있다."
+  },
+  "zjNjqfQnkMnJ7Tmgctt96": {
+    "_name_en": "Rites of Replenishment",
+    "name_ko": "보충의 의식",
+    "text_ko": "대지 퓨전\n당신이 보충의 의식으로 공격할 때, 이번 턴에 비전 피해를 준 적이 있다면, 당신의 무덤에서 '비공격' 액션 카드를 덱 맨 아래에 놓을 수 있다.\n당신이 보충의 의식으로 공격할 때, 그것이 퓨전되었다면, 당신의 무덤에서 공격 액션 카드를 덱 맨 아래에 놓을 수 있다."
+  },
+  "LgtdCQPP7R69PtcwbrHPC": {
+    "_name_en": "Rites of Replenishment",
+    "name_ko": "보충의 의식",
+    "text_ko": "대지 퓨전\n당신이 보충의 의식으로 공격할 때, 이번 턴에 비전 피해를 준 적이 있다면, 당신의 무덤에서 '비공격' 액션 카드를 덱 맨 아래에 놓을 수 있다.\n당신이 보충의 의식으로 공격할 때, 그것이 퓨전되었다면, 당신의 무덤에서 공격 액션 카드를 덱 맨 아래에 놓을 수 있다."
+  },
+  "Kh8MDbwK76BTHkdjzDFTK": {
+    "_name_en": "Roar of the Tiger",
+    "name_ko": "호랑이의 포효",
+    "text_ko": "당신의 손에 크라우칭 타이거를 생성한다.\n이번 턴 당신이 조종하는 크라우칭 타이거들이 +1{p}을 얻는다.\n고 어게인"
   }
 }
