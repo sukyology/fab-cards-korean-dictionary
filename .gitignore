@@ -5,3 +5,5 @@ public/cards.json
 public/keywords.json
 # 다운로드 캐시
 .cache/
+# Cloudflare Worker(wrangler) 로컬 캐시/상태
+.wrangler/
