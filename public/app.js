@@ -11,6 +11,10 @@ let fuse = null;
 let activeColor = ""; // "", "Red", "Yellow", "Blue", "__translated"
 const PAGE_SIZE = 60;
 
+// 이미지 로딩 토글(느린 환경에서 번역만 빠르게 보고 싶은 사용자를 위한 설정)
+const IMG_TOGGLE_KEY = "fab-images-enabled";
+let imagesEnabled = localStorage.getItem(IMG_TOGGLE_KEY) !== "0";
+
 const $ = (sel) => document.querySelector(sel);
 const statusEl = $("#status");
 const resultsEl = $("#results");
@@ -59,9 +63,9 @@ function cardEl(card) {
   el.className = "card";
   el.tabIndex = 0;
 
-  const img = card.image
+  const img = imagesEnabled && card.image
     ? `<img class="card-img" loading="lazy" src="${card.image}" alt="${escapeHtml(card.name)}" />`
-    : `<div class="card-img placeholder">이미지 없음</div>`;
+    : `<div class="card-img placeholder">${card.image ? "이미지 숨김" : "이미지 없음"}</div>`;
 
   const koBadge = card.name_ko || card.text_ko ? `<span class="badge-ko">한글</span>` : "";
   const enSub = card.name_ko ? `<div class="card-name-en">${escapeHtml(card.name)}</div>` : "";
@@ -145,6 +149,14 @@ function renderMore() {
   }
 }
 
+// 이미지 표시 설정이 바뀌었을 때 이미 그려진 카드들을 다시 그림(스크롤 위치 유지)
+function rerenderVisible() {
+  resultsEl.innerHTML = "";
+  const frag = document.createDocumentFragment();
+  for (const card of currentList.slice(0, shown)) frag.appendChild(cardEl(card));
+  resultsEl.appendChild(frag);
+}
+
 // 무한 스크롤
 window.addEventListener("scroll", () => {
   if (moreEl.hidden) return;
@@ -179,9 +191,11 @@ function statRow(card) {
 }
 
 function openModal(card) {
-  const img = card.image
+  const img = imagesEnabled && card.image
     ? `<img class="detail-img" src="${card.image}" alt="${escapeHtml(card.name)}" />`
-    : `<div class="detail-img card-img placeholder">이미지 없음</div>`;
+    : card.image
+      ? `<button type="button" class="detail-img card-img placeholder placeholder-btn" id="modal-img-reveal">이미지 숨김<br /><span class="reveal-hint">눌러서 보기</span></button>`
+      : `<div class="detail-img card-img placeholder">이미지 없음</div>`;
 
   const koText = card.text_ko
     ? `<div class="text-block text-ko"><h4>한글 효과</h4><div class="body">${renderText(card.text_ko)}</div></div>`
@@ -220,6 +234,19 @@ function openModal(card) {
       </div>
     </div>`;
   modalBody.querySelector("#contribute-open").addEventListener("click", () => openContributeForm(card));
+
+  // 이미지 전체 로딩이 꺼져 있어도 이 카드만 눌러서 개별적으로 볼 수 있게 함(전역 설정은 바꾸지 않음)
+  const revealBtn = modalBody.querySelector("#modal-img-reveal");
+  if (revealBtn) {
+    revealBtn.addEventListener("click", () => {
+      const realImg = document.createElement("img");
+      realImg.className = "detail-img";
+      realImg.src = card.image;
+      realImg.alt = card.name;
+      revealBtn.replaceWith(realImg);
+    });
+  }
+
   modal.hidden = false;
   document.body.style.overflow = "hidden";
 }
@@ -326,6 +353,15 @@ document.addEventListener("keydown", (e) => {
 // 검색: Enter를 눌렀을 때만 실행
 $("#search").addEventListener("keydown", (e) => {
   if (e.key === "Enter") render(e.target.value.trim());
+});
+
+// 이미지 로딩 토글
+const imgToggle = $("#img-toggle");
+imgToggle.checked = imagesEnabled;
+imgToggle.addEventListener("change", () => {
+  imagesEnabled = imgToggle.checked;
+  localStorage.setItem(IMG_TOGGLE_KEY, imagesEnabled ? "1" : "0");
+  rerenderVisible();
 });
 
 // 색상 필터
