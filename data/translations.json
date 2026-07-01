@@ -12521,5 +12521,635 @@
     "_name_en": "Machinations of Dominion",
     "name_ko": "지배의 책략",
     "text_ko": "이번 턴 당신이 사용하는 다음 룬블레이드 공격 액션 카드가 오버파워와 \"이번 턴에 오라를 사용하거나 생성한 적이 있다면, 이 카드가 고 어게인을 얻는다\"를 얻는다.\n고 어게인"
+  },
+  "DRLzM9pggPjG76K6pFPt7": {
+    "_name_en": "Macho Grande",
+    "name_ko": "마초 그란데",
+    "text_ko": "도미네이트"
+  },
+  "rhW9zNJCfhP8RG7fHCLLH": {
+    "_name_en": "Macho Grande",
+    "name_ko": "마초 그란데",
+    "text_ko": "도미네이트"
+  },
+  "BQQmhzNRTm7rMzD87cFqR": {
+    "_name_en": "Macho Grande",
+    "name_ko": "마초 그란데",
+    "text_ko": "도미네이트"
+  },
+  "FpCPnCGzzFrgrPpjpFP66": {
+    "_name_en": "Madcap Charger",
+    "name_ko": "미친 돌격자",
+    "text_ko": "미친 돌격자를 사용하기 위한 추가 비용으로, 무작위 카드 1장을 버린다.\n버린 카드가 {p} 6 이상이면, 미친 돌격자가 고 어게인을 가진다."
+  },
+  "G7CgnmK9Wt8RNgrDFRBRW": {
+    "_name_en": "Madcap Charger",
+    "name_ko": "미친 돌격자",
+    "text_ko": "미친 돌격자를 사용하기 위한 추가 비용으로, 무작위 카드 1장을 버린다.\n버린 카드가 {p} 6 이상이면, 미친 돌격자가 고 어게인을 가진다."
+  },
+  "THfGwNNRhtRrDpdtzFhwh": {
+    "_name_en": "Madcap Charger",
+    "name_ko": "미친 돌격자",
+    "text_ko": "미친 돌격자를 사용하기 위한 추가 비용으로, 무작위 카드 1장을 버린다.\n버린 카드가 {p} 6 이상이면, 미친 돌격자가 고 어게인을 가진다."
+  },
+  "BPLmjtD9kP7DT9mJwbkR9": {
+    "_name_en": "Madcap Muscle",
+    "name_ko": "미친 근력",
+    "text_ko": "미친 근력을 사용하기 위한 추가 비용으로, 무작위 카드 1장을 버린다.\n버린 카드가 {p} 6 이상이면, 미친 근력이 +3{p}을 가진다."
+  },
+  "JwfGnKbwmrTdnztBM89Wb": {
+    "_name_en": "Madcap Muscle",
+    "name_ko": "미친 근력",
+    "text_ko": "미친 근력을 사용하기 위한 추가 비용으로, 무작위 카드 1장을 버린다.\n버린 카드가 {p} 6 이상이면, 미친 근력이 +3{p}을 가진다."
+  },
+  "JDBd7rjPKpDDWWHQFRLND": {
+    "_name_en": "Madcap Muscle",
+    "name_ko": "미친 근력",
+    "text_ko": "미친 근력을 사용하기 위한 추가 비용으로, 무작위 카드 1장을 버린다.\n버린 카드가 {p} 6 이상이면, 미친 근력이 +3{p}을 가진다."
+  },
+  "NgGrjfPkc9BMGcrDBKNCT": {
+    "_name_en": "Mage Hunter Arrow",
+    "name_ko": "메이지 헌터 화살",
+    "text_ko": "순간 - 이것을 파괴한다: 이번 턴 당신이 다음에 비전 피해를 받게 될 경우, 그 피해 3을 방지한다. 이것이 당신의 아스날에 앞면으로 있는 동안에만 이것을 활성화한다.\n이 카드가 룬블레이드 또는 위저드 영웅을 명중하면, 그가 조종하는 오라 1개를 파괴할 수 있다."
+  },
+  "T6b7mmKBRHjBq9TQwfRB7": {
+    "_name_en": "Mage Master Boots",
+    "name_ko": "마스터 메이지의 부츠",
+    "text_ko": "액션 - {r}, 이것을 파괴한다: 이번 턴 당신이 다음에 사용하는 비공격 액션 카드가 고 어게인을 얻는다. 고 어게인"
+  },
+  "JH8mLKJQjfKTt9Nb7Whf6": {
+    "_name_en": "Magmatic Carapace",
+    "name_ko": "마그마 갑각",
+    "text_ko": "당신이 오라를 사용할 때마다, 이것을 {t}하고 {r}을 지불할 수 있다. 그렇게 하면, 지진 파동 토큰 1개를 생성한다.\n가드웰"
+  },
+  "W8qgQqqTzWMFFcCCzTLGg": {
+    "_name_en": "Magrar",
+    "name_ko": "마그라",
+    "text_ko": "제니스 스페셜라이제이션\n액션 - 이것을 파괴한다: 젠 스테이트 토큰과 관성 토큰을 생성한다."
+  },
+  "CwJMHg9zGWTRtRFhbWNbf": {
+    "_name_en": "Malefic Incantation",
+    "name_ko": "사악한 주문",
+    "text_ko": "고 어게인\n이 카드는 시구 카운터 3개를 지닌 채 전장에 들어온다. 카운터가 없으면, 파괴한다.\n턴당 한 번, 당신이 공격 액션 카드를 사용할 때, 이것에서 시구 카운터 1개를 제거한다. 그렇게 하면, 룬챈트 토큰 1개를 생성한다."
+  },
+  "kbTJ7t7MLfLRNprLbJQRQ": {
+    "_name_en": "Malefic Incantation",
+    "name_ko": "사악한 주문",
+    "text_ko": "고 어게인\n이 카드는 시구 카운터 2개를 지닌 채 전장에 들어온다. 카운터가 없으면, 파괴한다.\n턴당 한 번, 당신이 공격 액션 카드를 사용할 때, 이것에서 시구 카운터 1개를 제거한다. 그렇게 하면, 룬챈트 토큰 1개를 생성한다."
+  },
+  "9GqP669FDfnpMzmL7t7JW": {
+    "_name_en": "Malefic Incantation",
+    "name_ko": "사악한 주문",
+    "text_ko": "고 어게인\n이 카드는 시구 카운터를 지닌 채 전장에 들어온다. 카운터가 없으면, 파괴한다.\n턴당 한 번, 당신이 공격 액션 카드를 사용할 때, 이것에서 시구 카운터 1개를 제거한다. 그렇게 하면, 룬챈트 토큰 1개를 생성한다."
+  },
+  "dhMB8PhdHndJLzwgtF9t7": {
+    "_name_en": "Malign",
+    "name_ko": "흉조",
+    "text_ko": "스텔스\n흉조가 줄 피해는 방지할 수 없다."
+  },
+  "MTrq7nz6z7Gh7wPpKRwRb": {
+    "_name_en": "Malign",
+    "name_ko": "흉조",
+    "text_ko": "스텔스\n흉조가 줄 피해는 방지할 수 없다."
+  },
+  "MLtndtdrWkKgdDFD98HCp": {
+    "_name_en": "Malign",
+    "name_ko": "흉조",
+    "text_ko": "스텔스\n흉조가 줄 피해는 방지할 수 없다."
+  },
+  "hnDrHbrPbqpmKb6LDdGD9": {
+    "_name_en": "Man Overboard",
+    "name_ko": "실종자 발생",
+    "text_ko": "이 카드가 공격할 때, 아군 1개를 버릴 수 있다. 그렇게 하면, 이 카드가 +1{p}과 고 어게인을 얻는다."
+  },
+  "khhhLhCrTWF7FJzn6KMkp": {
+    "_name_en": "Man Overboard",
+    "name_ko": "실종자 발생",
+    "text_ko": "이 카드가 공격할 때, 아군 1개를 버릴 수 있다. 그렇게 하면, 이 카드가 +1{p}과 고 어게인을 얻는다."
+  },
+  "wPjK8RMLkQcp7BDrTLfpc": {
+    "_name_en": "Man Overboard",
+    "name_ko": "실종자 발생",
+    "text_ko": "이 카드가 공격할 때, 아군 1개를 버릴 수 있다. 그렇게 하면, 이 카드가 +1{p}과 고 어게인을 얻는다."
+  },
+  "PRzqJ97HHdM6f8bLKhGzQ": {
+    "_name_en": "Mandible Claw",
+    "name_ko": "큰턱 발톱",
+    "text_ko": "턴당 1회 액션 - {r}{r}: 공격\n이번 턴에 {p} 6 이상인 카드를 버린 적이 있다면, 이 카드의 공격들이 고 어게인을 얻는다."
+  },
+  "q7GfHcHBpWqCbtghcpnTj": {
+    "_name_en": "Mangle",
+    "name_ko": "난도질",
+    "text_ko": "크러쉬 - 이 카드가 영웅에게 피해 4 이상을 줄 때, 그가 조종하는 -1{d} 카운터가 있는 대상 장비를 파괴한다."
+  },
+  "tGKpbmMLD7nkRRmzmRckm": {
+    "_name_en": "Manifest Muscle",
+    "name_ko": "근력을 드러내다",
+    "text_ko": "이번 턴에 카드를 생성한 적이 있다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "f8QrwNNrtgKcB8MwLRQh8": {
+    "_name_en": "Manifestation of Miragai",
+    "name_ko": "미라가이의 현신",
+    "text_ko": "이 카드는 +1{p} 카운터 2개를 지닌 채 전장에 들어온다. 이 카드를 사용하기 위해 치 카드가 피치되었다면, 대신 +1{p} 카운터 4개를 지닌 채 전장에 들어온다.\n워드 X. X는 이것에 있는 +1{p} 카운터 수이다."
+  },
+  "RbgFbTMtHzGhq8dmDLwpG": {
+    "_name_en": "March of Loyalty",
+    "name_ko": "충성의 행진",
+    "text_ko": "이번 턴에 충성 토큰을 생성한 적이 있다면, 이 카드가 고 어게인을 얻는다"
+  },
+  "FRDf9rPtwMg7MjfK6wWNP": {
+    "_name_en": "Mark of Lightning",
+    "name_ko": "번개의 표식",
+    "text_ko": "당신이 조종하는 번개 또는 엘리멘탈 공격이 손의 카드로 방어될 때마다, 번개의 표식을 파괴할 수 있다. 그렇게 하면, 그 공격이 방어 영웅에게 피해 1을 준다."
+  },
+  "bQMPhRRzw8c6RgGK6crJn": {
+    "_name_en": "Mark of the Beast",
+    "name_ko": "짐승의 표식",
+    "text_ko": "짐승의 표식이 어디에서든 당신의 무덤에 놓이게 될 경우, 대신 추방한다.\n블러드 뎃"
+  },
+  "hCc9J9k6MLJPh7rgzRhwg": {
+    "_name_en": "Mark of the Black Widow",
+    "name_ko": "검은 과부의 표식",
+    "text_ko": "스텔스\n이 카드가 표식이 있는 영웅을 명중하면, 그가 자신의 손에서 카드 1장을 추방한다."
+  },
+  "8PNj9qcfb8mnpfGwQBncz": {
+    "_name_en": "Mark of the Black Widow",
+    "name_ko": "검은 과부의 표식",
+    "text_ko": "스텔스\n이 카드가 표식이 있는 영웅을 명중하면, 그가 자신의 손에서 카드 1장을 추방한다."
+  },
+  "LwCDpdzLhqfQCJNBFCMcj": {
+    "_name_en": "Mark of the Black Widow",
+    "name_ko": "검은 과부의 표식",
+    "text_ko": "스텔스\n이 카드가 표식이 있는 영웅을 명중하면, 그가 자신의 손에서 카드 1장을 추방한다."
+  },
+  "9JwCpdKkGbHhD6JfmK687": {
+    "_name_en": "Mark of the Funnel Web",
+    "name_ko": "깔때기 거미의 표식",
+    "text_ko": "스텔스\n이 카드가 표식이 있는 영웅을 명중하면, 그의 아스날에 있는 카드 1장을 추방한다."
+  },
+  "nDLtfLWzrmGBGbB8mFdDw": {
+    "_name_en": "Mark of the Funnel Web",
+    "name_ko": "깔때기 거미의 표식",
+    "text_ko": "스텔스\n이 카드가 표식이 있는 영웅을 명중하면, 그의 아스날에 있는 카드 1장을 추방한다."
+  },
+  "PPzjfmqjC76wFt8RHT8K8": {
+    "_name_en": "Mark of the Funnel Web",
+    "name_ko": "깔때기 거미의 표식",
+    "text_ko": "스텔스\n이 카드가 표식이 있는 영웅을 명중하면, 그의 아스날에 있는 카드 1장을 추방한다."
+  },
+  "M9DL6cPLrKkmDhGpQL7Mg": {
+    "_name_en": "Mark of the Huntsman",
+    "name_ko": "사냥꾼의 표식",
+    "text_ko": "턴당 1회 액션 - {r}{r}: 공격. 고 어게인\n이 카드가 영웅을 명중하면, 이것을 파괴하고 그에게 표식을 남기는 것을 선택할 수 있다.\n이것이 표식이 있는 영웅을 공격하고 있다면, +1{p}을 얻는다."
+  },
+  "qDPLzntJrMhgwd86gTN97": {
+    "_name_en": "Mark the Prey",
+    "name_ko": "사냥감에 표식을 남기다",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 그에게 표식을 남긴다."
+  },
+  "cJwfJgPHC8M7fQgrMhKHC": {
+    "_name_en": "Mark the Prey",
+    "name_ko": "사냥감에 표식을 남기다",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 그에게 표식을 남긴다."
+  },
+  "7qKwRbLbdMzcBLLJK9d6R": {
+    "_name_en": "Mark the Prey",
+    "name_ko": "사냥감에 표식을 남기다",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 그에게 표식을 남긴다."
+  },
+  "DcFccRh7KttKMbFkHnPqh": {
+    "_name_en": "Mark with Magma",
+    "name_ko": "마그마로 표식을 남기다",
+    "text_ko": "당신이 드라코닉 체인 링크를 2개 이상 조종하고 있다면, 이 카드가 고 어게인과 \"이 카드가 영웅을 명중하면, 그에게 표식을 남긴다\"를 얻는다."
+  },
+  "d7MHfCqtjhKzp6cLRJQCQ": {
+    "_name_en": "Marked",
+    "name_ko": "표식",
+    "text_ko": "당신은 상대가 당신을 명중시킬 때까지 표식이 있다"
+  },
+  "N7PFFQLkdzRMDhzDWJWwW": {
+    "_name_en": "Marlynn",
+    "name_ko": "말린",
+    "text_ko": "액션 - {t}, 당신이 조종하는 골드 1개를 파괴한다: 당신의 손에 골드핀 작살을 생성한다. 고 어게인\n당신의 액션 단계 동안 카드를 뽑을 때마다, 당신의 손에서 화살 1장을 앞면으로 아스날에 놓을 수 있다."
+  },
+  "rTNChdmHbjN7HPNJJLzCt": {
+    "_name_en": "Marlynn, Treasure Hunter",
+    "name_ko": "말린, 보물 사냥꾼",
+    "text_ko": "액션 - {t}, 당신이 조종하는 골드 1개를 파괴한다: 당신의 손에 골드핀 작살을 생성한다. 고 어게인\n당신의 액션 단계 동안 카드를 뽑을 때마다, 당신의 손에서 화살 1장을 앞면으로 아스날에 놓을 수 있다."
+  },
+  "mTf6RCrQ8NpGBBdbC6dQj": {
+    "_name_en": "Mask of Deceit",
+    "name_ko": "기만의 가면",
+    "text_ko": "아라크니 스페셜라이제이션\n이 카드가 방어할 때, 무작위 혼돈의 요원이 된다. 공격하는 영웅에게 표식이 있다면, 대신 혼돈의 요원을 선택한다.\n블레이드 브레이크"
+  },
+  "WLbcgwmGhWDWgdcbdjgWt": {
+    "_name_en": "Mask of Malicious Manifestations",
+    "name_ko": "악의적 현신의 가면",
+    "text_ko": "액션 - {r}, 당신의 손이나 아스날에서 카드 1장을 덱 맨 아래에 놓는다, 악의적 현신의 가면을 파괴한다: 공격 액션 카드를 공개할 때까지 당신 덱 맨 위에서 카드를 공개한다. 그것을 손에 놓은 뒤, 덱을 섞는다. 고 어게인\n블레이드 브레이크"
+  },
+  "7qrdPcNmtPt9HN6TQHNJR": {
+    "_name_en": "Mask of Many Faces",
+    "name_ko": "다면의 가면",
+    "text_ko": "순간 - {r}, 다면의 가면을 파괴한다: 카드 이름 1개를 지정한다. 이번 턴 당신이 사용하는 다음 공격 액션 카드가 그 이름을 얻는다.\n블레이드 브레이크"
+  },
+  "GrB8WmQjkqnGJhDBwKQtn": {
+    "_name_en": "Mask of Momentum",
+    "name_ko": "탄력의 가면",
+    "text_ko": "턴당 1회 효과 - 당신이 조종하는 공격 액션 카드가 연속으로 3번째 이상 명중한 체인 링크일 때, 카드 1장을 뽑는다.\n블레이드 브레이크"
+  },
+  "RnjfWPNBLBd9nGR8RdhnT": {
+    "_name_en": "Mask of Perdition",
+    "name_ko": "파멸의 가면",
+    "text_ko": "파멸의 가면이 당신의 무덤에 있는 동안, 당신의 턴 시작 시, 당신이 조종하는 실버 2개를 파괴할 수 있다. 그렇게 하면, 파멸의 가면을 장착한다.\n공격 반응 - 파멸의 가면을 파괴한다: 대상 어쌔신 공격 액션 카드가 \"이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다\"를 얻는다.\n배틀원"
+  },
+  "qdzjnDqPpGjnHHqPgzmQC": {
+    "_name_en": "Mask of Recurring Nightmares",
+    "name_ko": "되풀이되는 악몽의 가면",
+    "text_ko": "턴당 1회 공격 반응 - {c}{c}{c}: 대상 방어 영웅이 자신의 손에서 카드 1장을 추방한다.\n블레이드 브레이크"
+  },
+  "bbr8GPmnDkdphMkdpWkcM": {
+    "_name_en": "Mask of Shifting Perspectives",
+    "name_ko": "관점 전환의 가면",
+    "text_ko": "공격 반응 - 관점 전환의 가면을 파괴한다: 이번 턴에 단검이 명중할 때마다, 당신의 손에서 카드 1장을 덱 맨 아래에 놓을 수 있다. 그렇게 하면, 카드 1장을 뽑는다."
+  },
+  "GBDFTmjdTmgRCdHngGWNR": {
+    "_name_en": "Mask of the Pouncing Lynx",
+    "name_ko": "도약하는 스라소니의 가면",
+    "text_ko": "당신이 조종하는 공격 액션 카드가 명중할 때, 도약하는 스라소니의 가면을 파괴할 수 있다. 그렇게 하면, 당신의 덱에서 {p} 2 이하인 공격 액션 카드를 찾아 추방한 뒤, 덱을 섞는다. 이번 턴 그것을 사용할 수 있다.\n블레이드 브레이크"
+  },
+  "g87mMPgfPPFTprgJCCkrQ": {
+    "_name_en": "Mask of the Swarming Claw",
+    "name_ko": "무리 발톱의 가면",
+    "text_ko": "아케인 배리어 1\n스펠보이드 X. X는 당신이 조종하는 체인 링크 수이다."
+  },
+  "pdCLkLqDkmFhBtp7MFMfP": {
+    "_name_en": "Mask of Three Tails",
+    "name_ko": "삼미호의 가면",
+    "text_ko": "순간 - 이것을 파괴한다: 카드 1장을 뽑는다. 이번 전투 체인에서 3회 이상 명중한 적이 있을 때만 이 능력을 활성화한다."
+  },
+  "W9G8Kpb9cNTqNqpm8nJdz": {
+    "_name_en": "Mask of Wizened Whiskers",
+    "name_ko": "노회한 수염의 가면",
+    "text_ko": "이 카드가 방어할 때, 당신의 무덤에서 콤보를 가진 카드 1장을 덱 맨 아래에 놓는다.\n블레이드 브레이크"
+  },
+  "dGqFDHg9FqzfbDcNcLPtP": {
+    "_name_en": "Massacre",
+    "name_ko": "대학살",
+    "text_ko": "당신이 대학살로 공격할 때, 이번 턴에 {p} 6 이상인 카드를 버린 적이 있다면, 대학살이 +2{p}과 인티미데이트를 얻는다.\n대학살이 브루트 공격 액션 카드의 비용을 지불하기 위해 버려지면, 인티미데이트한다."
+  },
+  "MLR9kCDtWdr7c67FQtNw7": {
+    "_name_en": "Master Cog",
+    "name_ko": "마스터 톱니바퀴",
+    "text_ko": "레전더리\n이것이 피치되면, 당신이 조종하는, 크랭크를 가진 아이템에 스팀 카운터를 놓을 수 있다."
+  },
+  "F7Btpwc6Cgn79D67Hkbpd": {
+    "_name_en": "Maul",
+    "name_ko": "메울",
+    "text_ko": "하나 또는 둘 다 선택한다;\n- 기본 {p} 1 이하인 대상 공격 액션 카드가 +3{p}을 얻는다.\n- 대상 크라우칭 타이거가 \"이것이 명중하면, 당신의 추방 구역에 크라우칭 타이거 2개를 생성한다. 이번 턴 그것들을 사용할 수 있다\"를 얻는다."
+  },
+  "Dg8tJh9RNQKhFWfqd8qDT": {
+    "_name_en": "Mauling Qi",
+    "name_ko": "포효하는 기",
+    "text_ko": "콤보 - 이것이 명중할 때, 이번 전투 체인에서 마지막 공격이 크라우칭 타이거였다면, 각 상대 영웅에게 피해 1을 준다."
+  },
+  "9CDHQQCrpWcFb7WnQPnJN": {
+    "_name_en": "Mauvrion Skies",
+    "name_ko": "모브리온의 하늘",
+    "text_ko": "이번 턴 당신이 사용하는 다음 룬블레이드 공격 액션 카드가 고 어게인과 \"이것이 명중하면, 룬챈트 토큰 3개를 생성한다\"를 얻는다.\n고 어게인"
+  },
+  "qgBwpjpHqRJFddcwwbCK8": {
+    "_name_en": "Mauvrion Skies",
+    "name_ko": "모브리온의 하늘",
+    "text_ko": "이번 턴 당신이 사용하는 다음 룬블레이드 공격 액션 카드가 고 어게인과 \"이것이 명중하면, 룬챈트 토큰 2개를 생성한다\"를 얻는다.\n고 어게인"
+  },
+  "tpCTjhFnCPJKBbPbRnFLM": {
+    "_name_en": "Mauvrion Skies",
+    "name_ko": "모브리온의 하늘",
+    "text_ko": "이번 턴 당신이 사용하는 다음 룬블레이드 공격 액션 카드가 고 어게인과 \"이것이 명중하면, 룬챈트 토큰 1개를 생성한다\"를 얻는다.\n고 어게인"
+  },
+  "mkDw7d9PKRDtJT7bCCRjh": {
+    "_name_en": "Maximum Velocity",
+    "name_ko": "최대 속도",
+    "text_ko": "이번 턴에 3회 이상 부스트한 적이 있을 때만 이 카드를 사용한다."
+  },
+  "tqBKqzRbFHWtBLQ7hhDgW": {
+    "_name_en": "Maxx 'The Hype' Nitro",
+    "name_ko": "맥스 '더 하이프' 니트로",
+    "text_ko": "턴당 1회 액션 - {r}{r}: 스팀 카운터 2개를 가진 하이퍼 드라이버 토큰 1개를 생성한다. 이번 턴에 부스트한 적이 있을 때만 이 능력을 활성화한다.\n당신이 조종하는 하이퍼 드라이버들은 크랭크를 얻는다."
+  },
+  "z7bLz9hhPDcwmTdQGf6TK": {
+    "_name_en": "Maxx Nitro",
+    "name_ko": "맥스 니트로",
+    "text_ko": "턴당 1회 액션 - {r}{r}: 스팀 카운터 2개를 가진 하이퍼 드라이버 토큰 1개를 생성한다. 이번 턴에 부스트한 적이 있을 때만 이 능력을 활성화한다.\n당신이 조종하는 하이퍼 드라이버들은 크랭크를 얻는다."
+  },
+  "JgFBnrrK6K8qTw8nk9jK9": {
+    "_name_en": "mBrio Base Cortex",
+    "name_ko": "엠브리오 베이스 코어텍스",
+    "text_ko": "당신이 하이퍼 드라이버를 조종하고 있다면, 이 카드가 +2{d}을 얻는다.\n가드웰"
+  },
+  "RDcn7fQgNLdCnRwjJ8pPK": {
+    "_name_en": "mBrio Base Digits",
+    "name_ko": "엠브리오 베이스 디지츠",
+    "text_ko": "순간 - 이것과 당신이 조종하는 톱니바퀴 1개를 {t}한다: 이 카드가 턴 종료 시까지 +1{d}을 얻는다.\n템퍼"
+  },
+  "MLfgFRDKbTbWj8fBgMrjJ": {
+    "_name_en": "mBrio Base Vizier",
+    "name_ko": "엠브리오 베이스 바이저",
+    "text_ko": "당신이 비전 피해를 받게 될 경우, 당신이 조종하는 하이퍼 드라이버에서 스팀 카운터 1개를 제거해 그 피해 1을 방지할 수 있다.\n아케인 배리어 1"
+  },
+  "dBjPM7HpftQtBRzdTwhQj": {
+    "_name_en": "mBrio Base Walkers",
+    "name_ko": "엠브리오 베이스 워커스",
+    "text_ko": "쿠엘 1"
+  },
+  "rpF86BNmBttKMGpckqJnq": {
+    "_name_en": "Meat and Greet",
+    "name_ko": "회식과 만남",
+    "text_ko": "이것이 명중하면, 룬챈트 토큰 1개를 생성한다.\n이번 턴에 상대 영웅에게 비전 피해를 준 적이 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "7cFGrC8JzLcFjRzJ8fnWH": {
+    "_name_en": "Meat and Greet",
+    "name_ko": "회식과 만남",
+    "text_ko": "이것이 명중하면, 룬챈트 토큰 1개를 생성한다.\n이번 턴에 상대 영웅에게 비전 피해를 준 적이 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "kMHrRGnggnJtkzk7PhbH8": {
+    "_name_en": "Meat and Greet",
+    "name_ko": "회식과 만남",
+    "text_ko": "이것이 명중하면, 룬챈트 토큰 1개를 생성한다.\n이번 턴에 상대 영웅에게 비전 피해를 준 적이 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "KFh8LdDmdJdmn9RJc8hhJ": {
+    "_name_en": "Mechanical Strength",
+    "name_ko": "기계적 힘",
+    "text_ko": "에보 업그레이드 - 이 카드가 +X{p}을 얻는다. X는 당신이 장착한 에보의 수이다."
+  },
+  "pHCcrc7zRQnTFLfqcpgjd": {
+    "_name_en": "Mechanical Strength",
+    "name_ko": "기계적 힘",
+    "text_ko": "에보 업그레이드 - 이 카드가 +X{p}을 얻는다. X는 당신이 장착한 에보의 수이다."
+  },
+  "7FfRqNrB8z7L6HjzTpbJd": {
+    "_name_en": "Mechanical Strength",
+    "name_ko": "기계적 힘",
+    "text_ko": "에보 업그레이드 - 이 카드가 +X{p}을 얻는다. X는 당신이 장착한 에보의 수이다."
+  },
+  "BWQhCMHmkKGCnHfNQ8jKH": {
+    "_name_en": "Medkit",
+    "name_ko": "구급상자",
+    "text_ko": "액션 - 이것을 소유자의 덱 맨 아래에 놓는다: 2{h}을 얻는다"
+  },
+  "GmnHWfMKzgJgpWKhQBmrM": {
+    "_name_en": "Meet Madness",
+    "name_ko": "광기와의 만남",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 무작위로 하나를 선택한다;\n- 그가 자신의 손에서 카드 1장을 선택한다. 그것을 추방한다.\n- 그가 자신의 아스날에서 카드 1장을 선택한다. 그것을 추방한다.\n- 그의 덱 맨 위 카드를 추방한다."
+  },
+  "DG7DRnLw6kjDcMGH6hCmg": {
+    "_name_en": "Meganetic Lockwave",
+    "name_ko": "메가네틱 락웨이브",
+    "text_ko": "대상 영웅이 자신이 조종하는 장비 X개를 선택한 뒤, 당신이 그중 1개를 선택한다. 그 영웅은 가능하다면 이번 턴 당신의 공격을 그 장비로 방어해야 한다.\n고 어게인"
+  },
+  "mBBqLnhkqmdBbQKnq7DMF": {
+    "_name_en": "Meganetic Protocol",
+    "name_ko": "메가네틱 프로토콜",
+    "text_ko": "에보 업그레이드 - 방어 영웅은 가능하다면 자신이 조종하는, -1{d} 카운터가 있는 장비 X개로 이 카드를 방어해야 한다. X는 당신이 장착한 에보의 수이다."
+  },
+  "8hKgjhRrpGHqPGg76pzBN": {
+    "_name_en": "Meganetic Shockwave",
+    "name_ko": "메가네틱 쇼크웨이브",
+    "text_ko": "방어 영웅은 자신이 조종하는 장비 X개로 메가네틱 쇼크웨이브를 방어해야 한다. X는 이번 전투 체인에서 당신이 부스트한 횟수이다."
+  },
+  "npDPz98H6BnJGDzHBmdGk": {
+    "_name_en": "Melody, Sing-along",
+    "name_ko": "멜로디, 싱얼롱",
+    "text_ko": "당신이 노래를 사용할 때마다, 게임에 있는 다른 영웅 수만큼 카퍼 토큰을 생성한다."
+  },
+  "CfdKKTqndtGPNzdh6gJ8w": {
+    "_name_en": "Melting Point",
+    "name_ko": "녹는점",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +4{p}을 얻는다.\n이것에 조준 카운터가 있다면, \"이 카드가 영웅을 명중하면, 그가 조종하는, 기본 {p} 1인 한손 무기 1개를 파괴한다\"를 얻는다.\n고 어게인"
+  },
+  "GHbp8dhJWHFLQdgCqHmjr": {
+    "_name_en": "Memorial Ground",
+    "name_ko": "추모의 땅",
+    "text_ko": "당신의 무덤에서 비용 2 이하인 대상 공격 액션 카드를 덱 맨 위에 놓는다."
+  },
+  "N6qKrNNGTDhDB9mWtqWpq": {
+    "_name_en": "Memorial Ground",
+    "name_ko": "추모의 땅",
+    "text_ko": "당신의 무덤에서 비용 1 이하인 대상 공격 액션 카드를 덱 맨 위에 놓는다."
+  },
+  "bfGrrnP6HphFqNwtGCppJ": {
+    "_name_en": "Memorial Ground",
+    "name_ko": "추모의 땅",
+    "text_ko": "당신의 무덤에서 비용 0인 대상 공격 액션 카드를 덱 맨 위에 놓는다."
+  },
+  "TkhKrkDWhcwTJbHng7TrP": {
+    "_name_en": "Mental Block",
+    "name_ko": "정신의 방벽",
+    "text_ko": "순간 - 이것을 버린다: 이번 턴 당신에게 가해질 다음 피해 2를 방지한다. 이렇게 처음 피해를 방지하면, 폰더 토큰 1개를 생성한다."
+  },
+  "q7wHrf9PJpkmfdBQWQBzz": {
+    "_name_en": "Merciful Retribution",
+    "name_ko": "자비로운 응징",
+    "text_ko": "당신이 조종하는 오라나 공격 액션 카드가 파괴될 때마다, 대상 영웅에게 비전 피해 1을 준다. 그것이 토큰이 아닌 라이트 카드라면, 소울에 놓는다.\n스펙트라"
+  },
+  "nGkpNDKckjzwbzBqM7N8f": {
+    "_name_en": "Merciless Battleaxe",
+    "name_ko": "무자비한 전투도끼",
+    "text_ko": "턴당 1회 액션 - {r}{r}{r}: 공격\n이 카드가 공격할 때, 그 공격의 {p}이 기본값의 2배를 초과하면, 그 공격이 오버파워를 얻는다."
+  },
+  "7ctThgNHLCTRztRgQKhk7": {
+    "_name_en": "Mercurial Skies",
+    "name_ko": "수은의 하늘",
+    "text_ko": "이번 턴 당신이 사용하는 다음 룬블레이드 또는 번개 공격 액션 카드가 고 어게인과 \"이것이 영웅에게 처음 피해를 줄 때, 당신이 조종하는 라이트닝 플로우를 파괴할 수 있다. 그렇게 하면, 그에게 비전 피해 3을 준다\"를 얻는다.\n고 어게인"
+  },
+  "mRgkGjNqnHPpwcwzwLwHJ": {
+    "_name_en": "Mercurial Skies",
+    "name_ko": "수은의 하늘",
+    "text_ko": "이번 턴 당신이 사용하는 다음 룬블레이드 또는 번개 공격 액션 카드가 고 어게인과 \"이것이 영웅에게 처음 피해를 줄 때, 당신이 조종하는 라이트닝 플로우를 파괴할 수 있다. 그렇게 하면, 그에게 비전 피해 2를 준다\"를 얻는다.\n고 어게인"
+  },
+  "RmCnthNDKJ977KcRNmMbg": {
+    "_name_en": "Mercurial Skies",
+    "name_ko": "수은의 하늘",
+    "text_ko": "이번 턴 당신이 사용하는 다음 룬블레이드 또는 번개 공격 액션 카드가 고 어게인과 \"이것이 영웅에게 처음 피해를 줄 때, 당신이 조종하는 라이트닝 플로우를 파괴할 수 있다. 그렇게 하면, 그에게 비전 피해 1을 준다\"를 얻는다.\n고 어게인"
+  },
+  "GgRFLW8zdKbNJtgfFTFkp": {
+    "_name_en": "Meridian Pathway",
+    "name_ko": "자오선 경로",
+    "text_ko": "순간 - {c}{c}{c}: 이번 턴 오라를 순간 카드인 것처럼 사용할 수 있다.\n당신이 치를 피치할 때마다, 이것이 턴 종료 시까지 워드 3을 가지게 할 수 있다."
+  },
+  "RDTDDzfpjwLc9QrLWhqtB": {
+    "_name_en": "Metacarpus Node",
+    "name_ko": "손등 마디의 결절",
+    "text_ko": "당신이 비전 피해를 주는 효과를 가진 카드를 사용할 때마다, {r}을 지불할 수 있다. 그렇게 하면, 대신 그만큼 비전 피해에 1을 더해 주고, 종료 단계 시작 시 손등 마디의 결절을 파괴한다.\n아케인 배리어 1"
+  },
+  "kLWrkbbDknfq8fR8TgHnL": {
+    "_name_en": "Meteoric Impact",
+    "name_ko": "유성의 충격",
+    "text_ko": "아무 대상에게 비전 피해 3을 준다.\n스타폴 - 이번 턴에 순간 카드가 당신의 무덤에 놓인 적이 있다면, 대신 비전 피해 5를 준다."
+  },
+  "pWjWpGdCjTKHFDh9FJCrQ": {
+    "_name_en": "Meteoric Impact",
+    "name_ko": "유성의 충격",
+    "text_ko": "아무 대상에게 비전 피해 2를 준다.\n스타폴 - 이번 턴에 순간 카드가 당신의 무덤에 놓인 적이 있다면, 대신 비전 피해 4를 준다."
+  },
+  "MwqB6GDDJFWdmCBtnHPc9": {
+    "_name_en": "Meteoric Impact",
+    "name_ko": "유성의 충격",
+    "text_ko": "아무 대상에게 비전 피해 1을 준다.\n스타폴 - 이번 턴에 순간 카드가 당신의 무덤에 놓인 적이 있다면, 대신 비전 피해 3을 준다."
+  },
+  "cmbfFHBr6hjhrdmNNQGg6": {
+    "_name_en": "Meteoric Rise",
+    "name_ko": "유성의 상승",
+    "text_ko": "턴당 2회 순간 - {r}: 이 카드가 +1{p}을 얻는다.\n이것이 명중하면, 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "FPCtrDJKLwTRHh7C6ckd6": {
+    "_name_en": "MetEx",
+    "name_ko": "메텍스",
+    "text_ko": "부스트\n이것이 명중하면, 당신의 손에서 비용 0 또는 1인 아이템을 전장에 놓을 수 있다."
+  },
+  "qtnfPdFjH8RTzn6DhHzfC": {
+    "_name_en": "MetEx",
+    "name_ko": "메텍스",
+    "text_ko": "부스트\n이것이 명중하면, 당신의 손에서 비용 0 또는 1인 아이템을 전장에 놓을 수 있다."
+  },
+  "krRzDjQr7CKM9wWkGgLpg": {
+    "_name_en": "MetEx",
+    "name_ko": "메텍스",
+    "text_ko": "부스트\n이것이 명중하면, 당신의 손에서 비용 0 또는 1인 아이템을 전장에 놓을 수 있다."
+  },
+  "9FTLChcm8Jkpnhmhh8CPK": {
+    "_name_en": "Metis, Archangel of Tenacity",
+    "name_ko": "메티스, 불굴의 대천사",
+    "text_ko": "턴당 1회 액션 - {r}{r}: 공격\n메티스가 공격할 때, 당신 영웅의 소울에서 카드 1장을 추방할 수 있다. 그렇게 하면, 이번 턴 당신의 공격들이 도미네이트를 얻는다.\n워드 4"
+  },
+  "MBGNCzRpfLJ6bqMpMzppm": {
+    "_name_en": "MHz Script",
+    "name_ko": "MHz 스크립트",
+    "text_ko": "크랭크\n이 카드는 스팀 카운터 1개를 지닌 채 전장에 들어온다. 당신의 턴 시작 시, 스팀 카운터 1개를 제거하지 않는 한 이것을 파괴한다.\n당신의 메카놀로지스트 공격 액션 카드들이 고 어게인을 얻는다."
+  },
+  "r8fjLMCFnQhFrRjwpMTgK": {
+    "_name_en": "Micro-processor",
+    "name_ko": "마이크로프로세서",
+    "text_ko": "데이터 돌 스페셜라이제이션\n턴당 1회 액션 - 0: 옵트 1\n턴당 1회 액션 - 0: 카드 1장을 뽑은 뒤 당신의 손에서 카드 1장을 덱 맨 위에 놓는다.\n턴당 1회 액션 - 0: 당신 덱 맨 위 카드를 추방한다.\n각 턴 마이크로프로세서를 처음 활성화할 때, 액션 포인트 1을 얻는다."
+  },
+  "mFpKJrtphdgPmTDK7T7PJ": {
+    "_name_en": "Midas Touch",
+    "name_ko": "미다스의 손길",
+    "text_ko": "대상 아군을 파괴한다. 그 조종자가 비용만큼 골드 토큰을 생성한다.\n고 어게인"
+  },
+  "6gqTwGnmHjkCLDqKPWt8c": {
+    "_name_en": "Might",
+    "name_ko": "마이트",
+    "text_ko": "당신의 턴 시작 시, 이것을 파괴한 뒤, 이번 턴 당신의 다음 공격이 +1{p}을 얻는다."
+  },
+  "RGHRQgGJdBhBPgM9Pfgw7": {
+    "_name_en": "Mighty Windup",
+    "name_ko": "강력한 헛스윙",
+    "text_ko": "순간 - 이것을 버린다: 마이트 토큰 1개를 생성한다."
+  },
+  "wWrJrBcLPWcwc7RTrc6Bk": {
+    "_name_en": "Mighty Windup",
+    "name_ko": "강력한 헛스윙",
+    "text_ko": "순간 - 이것을 버린다: 마이트 토큰 1개를 생성한다."
+  },
+  "RjjGjcfnzzmwGGw6DcLWj": {
+    "_name_en": "Mighty Windup",
+    "name_ko": "강력한 헛스윙",
+    "text_ko": "순간 - 이것을 버린다: 마이트 토큰 1개를 생성한다."
+  },
+  "kjJTFcHjQdjkfFNr8kRQw": {
+    "_name_en": "Mightybone Knuckles",
+    "name_ko": "강력한 뼈주먹",
+    "text_ko": "액션 - {r}{r}{r}, 이것을 파괴한다: 마이트 토큰 3개를 생성한다. 당신이 다른 모든 영웅보다 {h}이 많을 때만 이것을 활성화한다. 고 어게인\n블레이드 브레이크"
+  },
+  "RRfwzgrbMbFGNqppnD8rB": {
+    "_name_en": "Miller's Grindstone",
+    "name_ko": "제분업자의 숫돌",
+    "text_ko": "턴당 1회 액션 - {r}{r}{r}: 공격\n이 카드가 영웅을 명중하면, 그와 클래시한다. 당신이 이기면, 그의 덱 맨 위 카드를 파괴한다. 그가 이기면, 여기에 -1{p} 카운터를 놓는다."
+  },
+  "QNqdkrjrQND77MrKwwMtm": {
+    "_name_en": "Mind Meets Might",
+    "name_ko": "정신이 힘을 만나다",
+    "text_ko": "이 카드가 영웅을 명중하면, 그가 자신의 손을 공개하고 {p} 6 이상인 모든 카드를 버린 뒤, 그만큼 카드를 뽑는다.\n미라지"
+  },
+  "LBLTcF8zccK7mKLcDqgPb": {
+    "_name_en": "Mind Warp",
+    "name_ko": "정신 뒤틀림",
+    "text_ko": "대상 영웅에게 비전 피해 2를 준다.\n서지 - 이것이 영웅에게 2 초과의 피해를 주면, 그가 자신의 손을 덱에 섞은 뒤, 그만큼에서 1을 뺀 만큼 카드를 뽑는다."
+  },
+  "MqwKQzHWH9pbKCCrBnzbN": {
+    "_name_en": "Mind's Desire",
+    "name_ko": "마음의 욕망",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다.\n이것이 비공격 액션 카드를 추방할 때마다, 1{h}을 얻는다."
+  },
+  "qQRkbt6WDKDMNbMRrqPC9": {
+    "_name_en": "Mind's Desire",
+    "name_ko": "마음의 욕망",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다.\n이것이 비공격 액션 카드를 추방할 때마다, 1{h}을 얻는다."
+  },
+  "7n96D77LqTKKkhnMrNTwr": {
+    "_name_en": "Mind's Desire",
+    "name_ko": "마음의 욕망",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다.\n이것이 비공격 액션 카드를 추방할 때마다, 1{h}을 얻는다."
+  },
+  "PnhGtMCHdMDGwzLj9JGwQ": {
+    "_name_en": "Mindstate of Tiger",
+    "name_ko": "호랑이의 심상",
+    "text_ko": "당신의 턴 시작 시, 호랑이의 심상을 파괴한 뒤 당신의 손에 크라우칭 타이거를 생성한다."
+  },
+  "RkrCbfz9npggPKrTHFN8z": {
+    "_name_en": "Minerva Themis",
+    "name_ko": "미네르바 테미스",
+    "text_ko": "미네르바가 아스날에 뒷면으로 있는 동안, 당신의 턴 시작 시, 그녀를 앞면으로 뒤집을 수 있다.\n미네르바가 아스날에 앞면으로 있는 동안, 당신이 조종하는 한손 무기가 +1{p}을 가진다. 당신이 조종하는 무기가 명중할 때마다, 미네르바에 교훈 카운터를 놓는다. 그런 다음 그녀에게 교훈 카운터가 3개 이상이면, 그녀를 추방하고 덱에서 스페셜라이제이션 카드를 찾아 아스날에 앞면으로 놓은 뒤, 덱을 섞는다."
+  },
+  "JcKjfFNMNnBQDB8NWhm9C": {
+    "_name_en": "Mini Forcefield",
+    "name_ko": "미니 포스필드",
+    "text_ko": "크랭크\n이 카드는 스팀 카운터 4개를 지닌 채 전장에 들어온다. 당신의 턴 시작 시, 스팀 카운터 1개를 제거하지 않는 한 이것을 파괴한다.\n워드 X. X는 이것에 있는 스팀 카운터 수이다."
+  },
+  "MGkPWTqMmP89btPrFNjdh": {
+    "_name_en": "Mini Forcefield",
+    "name_ko": "미니 포스필드",
+    "text_ko": "크랭크\n이 카드는 스팀 카운터 3개를 지닌 채 전장에 들어온다. 당신의 턴 시작 시, 스팀 카운터 1개를 제거하지 않는 한 이것을 파괴한다.\n워드 X. X는 이것에 있는 스팀 카운터 수이다."
+  },
+  "NWHc8gmFBQMrHFqb67NLh": {
+    "_name_en": "Mini Forcefield",
+    "name_ko": "미니 포스필드",
+    "text_ko": "크랭크\n이 카드는 스팀 카운터 2개를 지닌 채 전장에 들어온다. 당신의 턴 시작 시, 스팀 카운터 1개를 제거하지 않는 한 이것을 파괴한다.\n워드 X. X는 이것에 있는 스팀 카운터 수이다."
+  },
+  "jhhhz6KGqJtTdjBhLTF7B": {
+    "_name_en": "Mini Meataxe",
+    "name_ko": "미니 미트액스",
+    "text_ko": "턴당 1회 액션 - {r}{r}: 공격\n이 카드가 공격할 때, 카드 1장을 뽑은 뒤 무작위 카드 1장을 버린다."
+  },
+  "hFFjjMfRw6J8KhBC7Tdzj": {
+    "_name_en": "Minnowism",
+    "name_ko": "미노이즘",
+    "text_ko": "이번 턴 당신이 사용하는, 기본 {p} 3 이하인 다음 공격 액션 카드가 +3{p}을 얻는다.\n고 어게인"
+  },
+  "CbJgbPBCGkgwbwkLRPd8m": {
+    "_name_en": "Minnowism",
+    "name_ko": "미노이즘",
+    "text_ko": "이번 턴 당신이 사용하는, 기본 {p} 3 이하인 다음 공격 액션 카드가 +2{p}을 얻는다.\n고 어게인"
+  },
+  "BNMTzb6WbFTGp7PFnHD6d": {
+    "_name_en": "Minnowism",
+    "name_ko": "미노이즘",
+    "text_ko": "이번 턴 당신이 사용하는, 기본 {p} 3 이하인 다음 공격 액션 카드가 +1{p}을 얻는다.\n고 어게인"
+  },
+  "Nhdt8dQ86kQhLgFd8cd8z": {
+    "_name_en": "Miragai",
+    "name_ko": "미라가이",
+    "text_ko": "각 턴 당신의 첫 드래곤 공격은 팬텀을 잃고 얻을 수 없다."
+  },
+  "pHgFMqh8jQ6QNGKmNr67Q": {
+    "_name_en": "Miraging Metamorph",
+    "name_ko": "신기루 변신체",
+    "text_ko": "팬텀\n신기루 변신체가 파괴되면, 당신이 조종하는 오라의 사본인 토큰 1개를 생성한다."
+  },
+  "dhmDDqtfNCPcBnzfTKzrp": {
+    "_name_en": "Mischievous Meeps",
+    "name_ko": "장난꾸러기 밉스",
+    "text_ko": "이 카드가 영웅을 명중하면, 그가 조종하는, 비용 2 이하인 아이템의 조종권을 얻는다. 그렇지 않으면, 카드 1장을 뽑는다.\n고 어게인"
   }
 }
