@@ -4258,5 +4258,670 @@
     "_name_en": "Coercive Tendency",
     "name_ko": "강압적인 성향",
     "text_ko": "아라크니 스페셜라이제이션\n방어 영웅의 덱 맨 위 3장을 확인한다. 원하는 순서로 되돌린 뒤, 그 영웅의 덱 맨 위 카드를 추방한다.\n이렇게 계약을 완수하면, 이번 전투 체인에 당신의 어쌔신 공격들이 고 어게인을 얻는다."
+  },
+  "jqrFDnJPwhw6bcQCcrLQT": {
+    "_name_en": "Cog in the Machine",
+    "name_ko": "기계 속 톱니바퀴",
+    "text_ko": "골든 코그 토큰 2개를 생성한다.\n당신이 조종하는 톱니바퀴 1개를 {t}할 수 있다. 그렇게 하면, 이것을 소유자의 덱 맨 아래에 놓는다."
+  },
+  "WLn8D67P6kfgMj6bmRHhz": {
+    "_name_en": "Cognition Field",
+    "name_ko": "인식장",
+    "text_ko": "갤버나이즈 - 이것이 방어할 때, 당신이 조종하는 아이템 1개를 파괴할 수 있다. 그렇게 하면, 이것이 +2{d}을 얻는다."
+  },
+  "RpfpDfqWNgzTTJGFHrFnb": {
+    "_name_en": "Cognition Field",
+    "name_ko": "인식장",
+    "text_ko": "갤버나이즈 - 이것이 방어할 때, 당신이 조종하는 아이템 1개를 파괴할 수 있다. 그렇게 하면, 이것이 +2{d}을 얻는다."
+  },
+  "HK9PTNh6JKQcNK7cqg6Dq": {
+    "_name_en": "Cognition Field",
+    "name_ko": "인식장",
+    "text_ko": "갤버나이즈 - 이것이 방어할 때, 당신이 조종하는 아이템 1개를 파괴할 수 있다. 그렇게 하면, 이것이 +2{d}을 얻는다."
+  },
+  "Kqmkn6mpNKLqKQdRPjMmt": {
+    "_name_en": "Cognition Nodes",
+    "name_ko": "인식 노드",
+    "text_ko": "액션 - {r}: 인식 노드에 스팀 카운터가 없으면, 스팀 카운터 1개를 올린다. 고 어게인\n턴당 1회 공격 반응 - 인식 노드에서 스팀 카운터 1개를 제거한다: 대상 공격 액션 카드가 \"이 카드가 명중하면, 소유자의 덱 맨 아래에 놓는다\"를 얻는다."
+  },
+  "PpnFdNFq8GrzCqrmDTbcW": {
+    "_name_en": "Cogwerx Base Arms",
+    "name_ko": "코그웍스 베이스 팔",
+    "text_ko": "이 카드가 장착될 때, 스팀 카운터 1개를 올린다.\n턴당 1회 순간 - {r}, 이것에서 스팀 카운터 1개를 제거한다: 이번 턴 당신의 다음 메카놀로지스트 공격이 +1{p}을 얻는다. 이번 턴에 부스트했을 때만 이 능력을 활성화한다."
+  },
+  "gqwdRLGrnGc9PbBQjMnpk": {
+    "_name_en": "Cogwerx Base Chest",
+    "name_ko": "코그웍스 베이스 가슴",
+    "text_ko": "이 카드가 장착될 때, 스팀 카운터 1개를 올린다.\n턴당 1회 순간 - {r}, 이것에서 스팀 카운터 1개를 제거한다: {r}{r}을 얻는다. 이번 턴에 부스트했을 때만 이 능력을 활성화한다."
+  },
+  "KGBQtW9fTBCjQpqQTpHNz": {
+    "_name_en": "Cogwerx Base Head",
+    "name_ko": "코그웍스 베이스 머리",
+    "text_ko": "이 카드가 장착될 때, 스팀 카운터 1개를 올린다.\n턴당 1회 순간 - {r}, 이것에서 스팀 카운터 1개를 제거한다: 당신의 추방 구역에서 메카놀로지스트 공격 액션 카드 1장을 덱에 섞는다. 이번 턴에 부스트했을 때만 이 능력을 활성화한다."
+  },
+  "p6cgRTrMmWfjk6hCLH9Jt": {
+    "_name_en": "Cogwerx Base Legs",
+    "name_ko": "코그웍스 베이스 다리",
+    "text_ko": "이 카드가 장착될 때, 스팀 카운터 1개를 올린다.\n턴당 1회 순간 - {r}, 이것에서 스팀 카운터 1개를 제거한다: 행동권 1을 얻는다. 이번 턴에 부스트했을 때만 이 능력을 활성화한다."
+  },
+  "mpNCNfJnPMdk9bgrkj8bB": {
+    "_name_en": "Cogwerx Blunderbuss",
+    "name_ko": "코그웍스 블런더버스",
+    "text_ko": "액션 - {r}{r}, {t}: 공격\n순간 - 당신이 조종하는 톱니바퀴 1개를 {t}한다: 이 카드의 이번 턴 다음 공격이 고 어게인을 얻는다."
+  },
+  "dnhGwzTLMbDMGLfrBgnzz": {
+    "_name_en": "Cogwerx Dovetail",
+    "name_ko": "코그웍스 도브테일",
+    "text_ko": "이 카드가 영웅을 명중하면, 당신이 조종하는 모든 톱니바퀴를 {u}한다.\n턴당 3회 순간 - 당신이 조종하는 톱니바퀴 1개를 {t}한다: 이 카드가 +1{p}을 얻거나 고 어게인을 얻는다."
+  },
+  "cqRf8LJ6Dt86pRfcDdJ7H": {
+    "_name_en": "Cogwerx Tinker Rings",
+    "name_ko": "코그웍스 땜장이 반지",
+    "text_ko": "이 카드가 방어할 때, 골든 코그 토큰 1개를 생성한다.\n블레이드 브레이크"
+  },
+  "NtGRcJrNgDN6LcQtcN7Qb": {
+    "_name_en": "Cogwerx Workshop",
+    "name_ko": "코그웍스 공방",
+    "text_ko": "골든 코그 토큰 1개를 생성한다.\n당신이 조종하는 톱니바퀴 최대 2개에 스팀 카운터를 올린다."
+  },
+  "WMNLQNgmCHD7FwnFFq6dG": {
+    "_name_en": "Cogwerx Zeppelin",
+    "name_ko": "코그웍스 체펠린",
+    "text_ko": "이 카드가 영웅을 명중하면, 당신이 조종하는 톱니바퀴 1개를 {t}할 수 있다. 그렇게 하면, 골든 코그 토큰 1개를 생성한다.\n턴당 2회 순간 - 당신이 조종하는 톱니바퀴 1개를 {t}한다: 이 카드가 +1{p}을 얻는다."
+  },
+  "fJzjdQTnDbfNwGCDWCBNK": {
+    "_name_en": "Cogwerx Zeppelin",
+    "name_ko": "코그웍스 체펠린",
+    "text_ko": "이 카드가 영웅을 명중하면, 당신이 조종하는 톱니바퀴 1개를 {t}할 수 있다. 그렇게 하면, 골든 코그 토큰 1개를 생성한다.\n턴당 2회 순간 - 당신이 조종하는 톱니바퀴 1개를 {t}한다: 이 카드가 +1{p}을 얻는다."
+  },
+  "kNggzqkBtLWRqfhFCMbfQ": {
+    "_name_en": "Cogwerx Zeppelin",
+    "name_ko": "코그웍스 체펠린",
+    "text_ko": "이 카드가 영웅을 명중하면, 당신이 조종하는 톱니바퀴 1개를 {t}할 수 있다. 그렇게 하면, 골든 코그 토큰 1개를 생성한다.\n턴당 2회 순간 - 당신이 조종하는 톱니바퀴 1개를 {t}한다: 이 카드가 +1{p}을 얻는다."
+  },
+  "RGTFQcwQp66wkFBWJBk6T": {
+    "_name_en": "Cold Snap",
+    "name_ko": "한파",
+    "text_ko": "대상 영웅은 {r}{r}{r}을 지불할 수 있다. 그렇지 않으면, 그 영웅의 아스날에 있는 카드나 그가 조종하는 아군 1개를 당신의 다음 턴 시작 시까지 얼린다.\n한파가 아스날에서 사용되었다면, 카드 1장을 뽑는다.\n고 어게인"
+  },
+  "FLLL8HKfHMLKWb9GDpHPL": {
+    "_name_en": "Cold Snap",
+    "name_ko": "한파",
+    "text_ko": "대상 영웅은 {r}{r}을 지불할 수 있다. 그렇지 않으면, 그 영웅의 아스날에 있는 카드나 그가 조종하는 아군 1개를 당신의 다음 턴 시작 시까지 얼린다.\n한파가 아스날에서 사용되었다면, 카드 1장을 뽑는다.\n고 어게인"
+  },
+  "k88LmRGmH9bD7PNrKhNK8": {
+    "_name_en": "Cold Snap",
+    "name_ko": "한파",
+    "text_ko": "대상 영웅은 {r}을 지불할 수 있다. 그렇지 않으면, 그 영웅의 아스날에 있는 카드나 그가 조종하는 아군 1개를 당신의 다음 턴 시작 시까지 얼린다.\n한파가 아스날에서 사용되었다면, 카드 1장을 뽑는다.\n고 어게인"
+  },
+  "DdKKrgzFQJQz6mJtmKFqN": {
+    "_name_en": "Cold Wave",
+    "name_ko": "한랭 파도",
+    "text_ko": "얼음 퓨전\n한랭 파도가 퓨전되었다면, 이번 턴 상대 영웅이 카드를 사용하거나 능력을 활성화하려면 추가로 {r}이 든다."
+  },
+  "B8JgHfW8b76TPwHRwPNHq": {
+    "_name_en": "Cold Wave",
+    "name_ko": "한랭 파도",
+    "text_ko": "얼음 퓨전\n한랭 파도가 퓨전되었다면, 이번 턴 상대 영웅이 카드를 사용하거나 능력을 활성화하려면 추가로 {r}이 든다."
+  },
+  "Rmqh8trcb8QwBwPkQqPhj": {
+    "_name_en": "Cold Wave",
+    "name_ko": "한랭 파도",
+    "text_ko": "얼음 퓨전\n한랭 파도가 퓨전되었다면, 이번 턴 상대 영웅이 카드를 사용하거나 능력을 활성화하려면 추가로 {r}이 든다."
+  },
+  "NzT7pTMkkPCfNr79ftFtG": {
+    "_name_en": "Collapsing Trap",
+    "name_ko": "붕괴 함정",
+    "text_ko": "레전더리 립타이드 스페셜라이제이션\n이 카드가 고 어게인을 가진 공격을 방어하면, 공격하는 영웅은 자신의 손을 버린 뒤 그만큼에서 1을 뺀 수만큼 카드를 뽑는다."
+  },
+  "CQkQQG8z8z8kQLNm8PHDM": {
+    "_name_en": "Colors of Aria",
+    "name_ko": "아리아의 색채",
+    "text_ko": "이 카드가 임의의 구역에서 앞면인 동안, 대지, 얼음, 번개이다."
+  },
+  "p89Wnh7dDNTLmhGjhMkKD": {
+    "_name_en": "Colossal Bearing",
+    "name_ko": "거대한 지지대",
+    "text_ko": "타워 - 이 카드가 {p} 13 이상이면, \"이 카드가 영웅을 명중하면, 그 영웅이 조종하는, {d}이 1 이하인 장비 1개를 파괴한다\"를 얻는다."
+  },
+  "KwnFBgNNkWthnbL6kC8Cj": {
+    "_name_en": "Combustible Courier",
+    "name_ko": "가연성 배달부",
+    "text_ko": "가연성 배달부가 명중하면, 이번 전투 체인에 당신이 다음에 부스트하는 공격이 +3{p}을 얻는다.\n부스트"
+  },
+  "MMFBJgPGkQR8HwNjpjRwN": {
+    "_name_en": "Combustible Courier",
+    "name_ko": "가연성 배달부",
+    "text_ko": "가연성 배달부가 명중하면, 이번 전투 체인에 당신이 다음에 부스트하는 공격이 +3{p}을 얻는다.\n부스트"
+  },
+  "zRWWLdH9LMtHDr6kRpHmF": {
+    "_name_en": "Combustible Courier",
+    "name_ko": "가연성 배달부",
+    "text_ko": "가연성 배달부가 명중하면, 이번 전투 체인에 당신이 다음에 부스트하는 공격이 +3{p}을 얻는다.\n부스트"
+  },
+  "jPkRMNrnkLg7kJhhDRjFK": {
+    "_name_en": "Combustion Point",
+    "name_ko": "연소점",
+    "text_ko": "대상 드라코닉 또는 닌자 공격 액션 카드가 +1{p}을 얻는다.\n당신이 조종하는 드라코닉 체인 링크 수보다 {d}이 낮은 비-장비 방어 카드 1장을 추방할 수 있다."
+  },
+  "NMBKG8cj7JTF6z9FWHhMw": {
+    "_name_en": "Come to Fight",
+    "name_ko": "싸움에 나서다",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 +3{p}을 얻는다.\n고 어게인"
+  },
+  "qr8WW79Hrfcj8DkpKzRfd": {
+    "_name_en": "Come to Fight",
+    "name_ko": "싸움에 나서다",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 +2{p}을 얻는다.\n고 어게인"
+  },
+  "Dc8cHfKHFHkg98Pwn6H96": {
+    "_name_en": "Come to Fight",
+    "name_ko": "싸움에 나서다",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 +1{p}을 얻는다.\n고 어게인"
+  },
+  "6fPwHjKFPwPTCfRgmrkB9": {
+    "_name_en": "Comeback Kicks",
+    "name_ko": "역전의 킥",
+    "text_ko": "관중이 당신에게 환호할 때마다, 당신이 다른 모든 영웅보다 {h}가 적다면, 이것을 파괴할 수 있다. 그렇게 하면, 행동권 1을 얻는다.\n배틀원"
+  },
+  "RLDRbkhHqH6DQCjtqPrMQ": {
+    "_name_en": "Comeback Kid",
+    "name_ko": "역전의 아이",
+    "text_ko": "이 카드가 영웅을 공격할 때, 당신이 그 영웅보다 {h}가 적다면, 관중이 당신에게 환호한다.\n이번 턴에 환호를 받았다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "gzJRqKbNJcdhdrHTjDRfn": {
+    "_name_en": "Comeback Kid",
+    "name_ko": "역전의 아이",
+    "text_ko": "이 카드가 영웅을 공격할 때, 당신이 그 영웅보다 {h}가 적다면, 관중이 당신에게 환호한다.\n이번 턴에 환호를 받았다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "nHTwDwq8BDnkdPrc9c9bW": {
+    "_name_en": "Comeback Kid",
+    "name_ko": "역전의 아이",
+    "text_ko": "이 카드가 영웅을 공격할 때, 당신이 그 영웅보다 {h}가 적다면, 관중이 당신에게 환호한다.\n이번 턴에 환호를 받았다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "BRdKgPG6pJk8pGT7CWCpB": {
+    "_name_en": "Comet Collision",
+    "name_ko": "혜성 충돌",
+    "text_ko": "아무 대상에게 비전 피해 3을 준다.\n스타폴 - 이번 턴에 순간 카드가 무덤에 놓였다면, 대신 비전 피해 4를 준다."
+  },
+  "kLgnHP8nHtnMwHfqN9zkp": {
+    "_name_en": "Comet Collision",
+    "name_ko": "혜성 충돌",
+    "text_ko": "아무 대상에게 비전 피해 2를 준다.\n스타폴 - 이번 턴에 순간 카드가 무덤에 놓였다면, 대신 비전 피해 3을 준다."
+  },
+  "Mbrg9P78qm9PGCdPLbncD": {
+    "_name_en": "Comet Collision",
+    "name_ko": "혜성 충돌",
+    "text_ko": "아무 대상에게 비전 피해 1을 준다.\n스타폴 - 이번 턴에 순간 카드가 무덤에 놓였다면, 대신 비전 피해 2를 준다."
+  },
+  "hNtpt77b8dGgTbkCqzCLB": {
+    "_name_en": "Comet Storm // Shock",
+    "name_ko": "혜성 폭풍 // 충격",
+    "text_ko": "멜드\n아무 대상에게 비전 피해 5를 준다.\n//\n아무 대상에게 비전 피해 1을 준다."
+  },
+  "kMRjHHLzPtgLw7j7PmQqf": {
+    "_name_en": "Command and Conquer",
+    "name_ko": "명령과 정복",
+    "text_ko": "이번 체인 링크에서 방어 반응 카드를 사용할 수 없다. 이 카드가 영웅을 명중하면, 그 영웅의 아스날에 있는 모든 카드를 파괴한다."
+  },
+  "wDgmFWt7nFMQwCGnzHgR9": {
+    "_name_en": "Command Respect",
+    "name_ko": "존경을 명하다",
+    "text_ko": "이 카드가 영웅을 명중하면, 이 카드의 {p}이 기본보다 높다면, 그 영웅의 아스날에 있는 카드 1장을 파괴한다."
+  },
+  "wgbL9K6GfgnDk8GJDfFqF": {
+    "_name_en": "Command Respect",
+    "name_ko": "존경을 명하다",
+    "text_ko": "이 카드가 영웅을 명중하면, 이 카드의 {p}이 기본보다 높다면, 그 영웅의 아스날에 있는 카드 1장을 파괴한다."
+  },
+  "JkQtdwTJzQ7Bw8g8wNtCh": {
+    "_name_en": "Command Respect",
+    "name_ko": "존경을 명하다",
+    "text_ko": "이 카드가 영웅을 명중하면, 이 카드의 {p}이 기본보다 높다면, 그 영웅의 아스날에 있는 카드 1장을 파괴한다."
+  },
+  "89mKDmGqtctqmbdpthJhz": {
+    "_name_en": "Commanding Performance",
+    "name_ko": "위엄있는 공연",
+    "text_ko": "이번 턴 당신의 다음 전사 공격이 +3{p}을 얻는다.\n턴 종료 시까지, 당신의 전사 공격들이 \"이 카드가 공격 액션 카드 1개 이상으로 방어되면, 방어 영웅의 아스날에 있는 카드 1장을 파괴한다\"를 얻는다.\n고 어게인"
+  },
+  "6h97MQcbc89bqd99BGRht": {
+    "_name_en": "Companion of the Claw",
+    "name_ko": "발톱의 동반자",
+    "text_ko": "이 카드가 공격할 때, 이번 턴에 파란색 카드를 피치한 적이 있다면, 당신의 손에 크라우칭 타이거를 생성한다.\n고 어게인"
+  },
+  "6hwzWtTQ8pPqmNwL9dDFP": {
+    "_name_en": "Companion of the Claw",
+    "name_ko": "발톱의 동반자",
+    "text_ko": "이 카드가 공격할 때, 이번 턴에 파란색 카드를 피치한 적이 있다면, 당신의 손에 크라우칭 타이거를 생성한다.\n고 어게인"
+  },
+  "KhmFwJF7JFP9W9c6C8brQ": {
+    "_name_en": "Companion of the Claw",
+    "name_ko": "발톱의 동반자",
+    "text_ko": "이 카드가 공격할 때, 이번 턴에 파란색 카드를 피치한 적이 있다면, 당신의 손에 크라우칭 타이거를 생성한다.\n고 어게인"
+  },
+  "cPR8tmfTh9wKmwtzbtRKR": {
+    "_name_en": "Compass of Sunken Depths",
+    "name_ko": "가라앉은 심연의 나침반",
+    "text_ko": "순간 - {t}: 당신의 덱 맨 위 카드를 확인한다.\n각 턴 당신이 무덤에서 처음으로 사용하는, 워터리 그레이브를 가진 카드가 고 어게인을 얻는다."
+  },
+  "G6kR7rLFDQDjLrLNLL6tp": {
+    "_name_en": "Compounding Anger",
+    "name_ko": "쌓이는 분노",
+    "text_ko": "이 카드는 당신이 조종하는 드라코닉 체인 링크 1개당 {r} 적은 비용으로 사용된다."
+  },
+  "GQzfCQbchkDFn7crcnkrg": {
+    "_name_en": "Concealed Blade",
+    "name_ko": "숨겨진 칼날",
+    "text_ko": "대상 어쌔신 또는 닌자 공격 액션 카드가 +1{p}과 \"이 카드가 명중하면, 당신의 인벤토리에서 단검 1개를 장착한다\"를 얻는다."
+  },
+  "zNKcJKn8rMnzTNrm6jrQM": {
+    "_name_en": "Concealed Nerve Gas",
+    "name_ko": "은폐된 신경가스",
+    "text_ko": "클록드\n이 카드가 뒷면으로 장착된 동안, 고 어게인을 가진 공격이 당신을 명중하면, 이것을 파괴하고 각 상대의 조종 하에 쇠약함 토큰 1개를 생성한다."
+  },
+  "DdnDzmhwpNWtCjm7TqFQM": {
+    "_name_en": "Concealed Object",
+    "name_ko": "숨겨진 물건",
+    "text_ko": "이 카드가 전장에 들어올 때, 관중이 당신에게 야유를 보낸다.\n순간 - {t}: 대상 공격이 +1{p}을 얻는다.\n당신의 종료 단계 시작 시, 이것을 파괴한다."
+  },
+  "mWbfgWG7j8CdTtKHfJgJr": {
+    "_name_en": "Concealed Pathogen",
+    "name_ko": "은폐된 병원균",
+    "text_ko": "클록드\n이 카드가 뒷면으로 장착된 동안, 공격이 당신을 명중하고 그 조종자가 이번 체인 링크에서 공격 반응을 사용하거나 활성화했다면, 이것을 파괴하고 각 상대의 조종 하에 혈농창 토큰 1개를 생성한다."
+  },
+  "QFf8JBQK6HBJ6Tqdzm9HJ": {
+    "_name_en": "Concealed Sedative",
+    "name_ko": "은폐된 진정제",
+    "text_ko": "클록드\n이 카드가 뒷면으로 장착된 동안, {p}이 기본보다 높은 공격이 당신을 명중하면, 이것을 파괴하고 각 상대의 조종 하에 관성 토큰 1개를 생성한다."
+  },
+  "wTwJPcMRB8jf7rwCKzKPF": {
+    "_name_en": "Concoct Disorder",
+    "name_ko": "혼돈을 조제하다",
+    "text_ko": "이 카드가 공격할 때, 각 영웅은 자신의 덱 맨 위 카드를 뒷면으로 아스날에 놓는다. 이렇게 카드가 2장 이상 아스날에 놓이면, 이 카드가 고 어게인을 얻는다."
+  },
+  "pqtLFGFhtmWgjMTMHDJLQ": {
+    "_name_en": "Concoct Disorder",
+    "name_ko": "혼돈을 조제하다",
+    "text_ko": "이 카드가 공격할 때, 각 영웅은 자신의 덱 맨 위 카드를 뒷면으로 아스날에 놓는다. 이렇게 카드가 2장 이상 아스날에 놓이면, 이 카드가 고 어게인을 얻는다."
+  },
+  "jhTpW6FqWNmdHzcHd9j8B": {
+    "_name_en": "Concoct Disorder",
+    "name_ko": "혼돈을 조제하다",
+    "text_ko": "이 카드가 공격할 때, 각 영웅은 자신의 덱 맨 위 카드를 뒷면으로 아스날에 놓는다. 이렇게 카드가 2장 이상 아스날에 놓이면, 이 카드가 고 어게인을 얻는다."
+  },
+  "LFHpbg9HjJqrGt8jHNGHN": {
+    "_name_en": "Concuss",
+    "name_ko": "뇌진탕",
+    "text_ko": "이 카드가 영웅을 명중하면, 이 카드의 {p}이 기본보다 높다면, 그 영웅은 카드 1장을 버린다."
+  },
+  "8GRgqRnNmTCMH8NnfzKPg": {
+    "_name_en": "Concuss",
+    "name_ko": "뇌진탕",
+    "text_ko": "이 카드가 영웅을 명중하면, 이 카드의 {p}이 기본보다 높다면, 그 영웅은 카드 1장을 버린다."
+  },
+  "fLpMkKFnPn9qGw7LgJhmQ": {
+    "_name_en": "Concuss",
+    "name_ko": "뇌진탕",
+    "text_ko": "이 카드가 영웅을 명중하면, 이 카드의 {p}이 기본보다 높다면, 그 영웅은 카드 1장을 버린다."
+  },
+  "mhDbfFjrccQgTtFbcBMkz": {
+    "_name_en": "Condemn to Slaughter",
+    "name_ko": "도살을 선고하다",
+    "text_ko": "이번 턴 당신의 다음 룬블레이드 공격이 +3{p}을 얻는다.\n당신이 조종하는 오라 1개를 파괴할 수 있다. 그렇게 하면, 각 상대는 자신이 조종하는 오라 지속물 1개를 파괴한다.\n고 어게인"
+  },
+  "q7RgDrnHQD8zhhqFhMCFn": {
+    "_name_en": "Condemn to Slaughter",
+    "name_ko": "도살을 선고하다",
+    "text_ko": "이번 턴 당신의 다음 룬블레이드 공격이 +2{p}을 얻는다.\n당신이 조종하는 오라 1개를 파괴할 수 있다. 그렇게 하면, 각 상대는 자신이 조종하는 오라 지속물 1개를 파괴한다.\n고 어게인"
+  },
+  "BzRQ6f66gRqDbfhkC8TRM": {
+    "_name_en": "Condemn to Slaughter",
+    "name_ko": "도살을 선고하다",
+    "text_ko": "이번 턴 당신의 다음 룬블레이드 공격이 +1{p}을 얻는다.\n당신이 조종하는 오라 1개를 파괴할 수 있다. 그렇게 하면, 각 상대는 자신이 조종하는 오라 지속물 1개를 파괴한다.\n고 어게인"
+  },
+  "dzP7wmmnGhcPk78jJpwQ6": {
+    "_name_en": "Conduit of Frostburn",
+    "name_ko": "서리화상 도관",
+    "text_ko": "순간 - 서리화상 도관을 파괴한다: 이번 턴 당신이 사용하는 다음 카드가 비전 피해를 주는 효과를 가졌다면, \"이 카드가 영웅에게 비전 피해를 주면, 그 영웅의 아스날에 있는 얼려진 카드 1장을 파괴한다\"를 얻는다.\n퀠 1"
+  },
+  "WBFjTCfmbwHCr8WNmz8RQ": {
+    "_name_en": "Confidence",
+    "name_ko": "컨피던스",
+    "text_ko": "당신의 턴 시작 시, 이것을 파괴한 뒤, 이번 턴 당신이 사용하는 다음 공격 카드는 비-블록 카드 2장 초과로 방어될 수 없다."
+  },
+  "bLTggK96grfrGWTLqGrqR": {
+    "_name_en": "Conflicting Thoughts",
+    "name_ko": "상충하는 생각",
+    "text_ko": "이 카드가 공격할 때, 옵트 1."
+  },
+  "Fk8qndNHLMFmd9HKQgqWb": {
+    "_name_en": "Conflicting Thoughts",
+    "name_ko": "상충하는 생각",
+    "text_ko": "이 카드가 공격할 때, 옵트 1."
+  },
+  "FM6BwCnpcNT6TQCJmqWgf": {
+    "_name_en": "Conflicting Thoughts",
+    "name_ko": "상충하는 생각",
+    "text_ko": "이 카드가 공격할 때, 옵트 1."
+  },
+  "GtL9zmpkGKMqgBcFfCQgN": {
+    "_name_en": "Confront Adversity",
+    "name_ko": "역경에 맞서다",
+    "text_ko": "이 카드는 그 공격의 조종자가 이번 턴에 비거 토큰을 파괴했을 때만 공격을 방어할 수 있다.\n블레이드 브레이크"
+  },
+  "pmfpWCMWmppfjkQJpTKqC": {
+    "_name_en": "Conquer the Icy Terrain",
+    "name_ko": "얼어붙은 대지를 정복하다",
+    "text_ko": "이 카드가 영웅을 명중하면, 그 영웅은 {r}{r}을 지불할 수 있다. 그렇지 않으면, 당신은 그 영웅의 아스날에 있는 얼려진 카드나 그가 조종하는 얼려진 비-영웅 지속물 1개를 파괴할 수 있다."
+  },
+  "j6CmmkDpqRc7nKtL9Hkc7": {
+    "_name_en": "Conquer the Icy Terrain",
+    "name_ko": "얼어붙은 대지를 정복하다",
+    "text_ko": "이 카드가 영웅을 명중하면, 그 영웅은 {r}{r}을 지불할 수 있다. 그렇지 않으면, 당신은 그 영웅의 아스날에 있는 얼려진 카드나 그가 조종하는 얼려진 비-영웅 지속물 1개를 파괴할 수 있다."
+  },
+  "q8bcn97LGDDMCWB7P69cJ": {
+    "_name_en": "Conquer the Icy Terrain",
+    "name_ko": "얼어붙은 대지를 정복하다",
+    "text_ko": "이 카드가 영웅을 명중하면, 그 영웅은 {r}{r}을 지불할 수 있다. 그렇지 않으면, 당신은 그 영웅의 아스날에 있는 얼려진 카드나 그가 조종하는 얼려진 비-영웅 지속물 1개를 파괴할 수 있다."
+  },
+  "gHzNJcBw6rtnCgNqfftPz": {
+    "_name_en": "Conqueror of the High Seas",
+    "name_ko": "대해의 정복자",
+    "text_ko": "이 카드가 영웅을 명중하면, 그 영웅의 아스날에 있는 모든 카드를 파괴한다. 이렇게 파괴된 카드마다 골드 토큰 1개를 생성한다.\n하이 타이드 - 당신의 피치 존에 파란색 카드가 2장 이상 있다면, 이 카드가 +1{p}과 고 어게인을 얻는다."
+  },
+  "LpGthTWGTT6KK6mg8dqrH": {
+    "_name_en": "Consign to Cosmos // Shock",
+    "name_ko": "우주로 위탁하다 // 충격",
+    "text_ko": "멜드\n임의의 무덤에서 순간 및/또는 오라 카드 X장을 추방한다. X는 이번 턴에 당신이 준 비전 피해량이다.\n//\n아무 대상에게 비전 피해 1을 준다."
+  },
+  "pnDhdJwLcgC8zgTmK9Tkw": {
+    "_name_en": "Constella Contemplation",
+    "name_ko": "콘스텔라의 사색",
+    "text_ko": "폰더 토큰 1개를 생성한다.\n스타폴 - 이번 턴에 순간 카드가 무덤에 놓였다면, 대상 영웅에게 비전 피해 1을 준다."
+  },
+  "TCdgGPCgzDgGCJrwQgdpF": {
+    "_name_en": "Constella Flowslide",
+    "name_ko": "콘스텔라의 흐름사면",
+    "text_ko": "라이트닝 플로우 토큰 1개를 생성한다.\n스타폴 - 이번 턴에 순간 카드가 무덤에 놓였다면, 대상 영웅에게 비전 피해 1을 준다."
+  },
+  "CwhpPfrRGmdGNkjR6Fg8G": {
+    "_name_en": "Constella Tiara",
+    "name_ko": "콘스텔라 티아라",
+    "text_ko": "순간 - {r}{r}, 이것을 파괴한다: 이번 턴 당신에게 가해질 다음 피해 1을 방지한다. 이렇게 피해를 방지하면, 폰더 토큰 1개를 생성한다."
+  },
+  "M6JRMPmrkhRWnW9mhPQwP": {
+    "_name_en": "Constella Uplift",
+    "name_ko": "콘스텔라의 고양",
+    "text_ko": "당신이 조종하는 지팡이 1개를 {u}한다.\n스타폴 - 이번 턴에 순간 카드가 무덤에 놓였다면, 대상 영웅에게 비전 피해 1을 준다."
+  },
+  "hFfmQg8Rc6gttfrhzpcPh": {
+    "_name_en": "Constella Waves",
+    "name_ko": "콘스텔라의 파도",
+    "text_ko": "순간 - 당신의 영웅을 {t}한다, 이것을 파괴한다: 앰프 1"
+  },
+  "RNCWjkhhdhrHCNRncqznq": {
+    "_name_en": "Construct Bank Breaker",
+    "name_ko": "합체: 은행 파괴자",
+    "text_ko": "당신이 렌치 무기를 장착하고 있다면, 그것과 당신이 조종하는 하이퍼 드라이버 3개를 은행 파괴자로 변형한 뒤, 은행 파괴자를 장착한다.\n고 어게인"
+  },
+  "mjFjGKmpGbTCnrJR6fN79": {
+    "_name_en": "Construct Nitro Mechanoid",
+    "name_ko": "합체: 니트로 메카노이드",
+    "text_ko": "대상 메카놀로지스트 머리, 가슴, 팔, 다리, 무기와 당신이 조종하는 하이퍼 드라이버 3개를 니트로 메카노이드로 변형한다. 그렇게 하지 않으면, 이 카드를 무효화한다.\n고 어게인"
+  },
+  "GkqChmpPNNJKWdGDTnFnk": {
+    "_name_en": "Consuming Aftermath",
+    "name_ko": "집어삼키는 여파",
+    "text_ko": "집어삼키는 여파를 사용하기 위한 추가 비용으로, 당신의 손에서 카드 1장을 추방할 수 있다. 이렇게 섀도우 카드가 추방되면, 집어삼키는 여파가 도미네이트를 얻는다."
+  },
+  "8JrJrTrFwTB76GnRhc8hg": {
+    "_name_en": "Consuming Aftermath",
+    "name_ko": "집어삼키는 여파",
+    "text_ko": "집어삼키는 여파를 사용하기 위한 추가 비용으로, 당신의 손에서 카드 1장을 추방할 수 있다. 이렇게 섀도우 카드가 추방되면, 집어삼키는 여파가 도미네이트를 얻는다."
+  },
+  "tGbgpCzdw6Jzk99PLb9Cm": {
+    "_name_en": "Consuming Aftermath",
+    "name_ko": "집어삼키는 여파",
+    "text_ko": "집어삼키는 여파를 사용하기 위한 추가 비용으로, 당신의 손에서 카드 1장을 추방할 수 있다. 이렇게 섀도우 카드가 추방되면, 집어삼키는 여파가 도미네이트를 얻는다."
+  },
+  "G6JkJJNJC8NHMMcDKWGf8": {
+    "_name_en": "Consuming Volition",
+    "name_ko": "집어삼키는 의지",
+    "text_ko": "이번 턴에 비전 피해를 준 적이 있다면, 이 카드가 \"이 카드가 영웅을 명중하면, 그 영웅은 카드 1장을 버린다\"를 얻는다."
+  },
+  "8JdJz9JCbBcDzkzkFbGz9": {
+    "_name_en": "Consuming Volition",
+    "name_ko": "집어삼키는 의지",
+    "text_ko": "이번 턴에 비전 피해를 준 적이 있다면, 이 카드가 \"이 카드가 영웅을 명중하면, 그 영웅은 카드 1장을 버린다\"를 얻는다."
+  },
+  "CFMcBQt8WGbLtPDqbQHKH": {
+    "_name_en": "Consuming Volition",
+    "name_ko": "집어삼키는 의지",
+    "text_ko": "이번 턴에 비전 피해를 준 적이 있다면, 이 카드가 \"이 카드가 영웅을 명중하면, 그 영웅은 카드 1장을 버린다\"를 얻는다."
+  },
+  "qKNBCCbrmp7W96dbb8gFb": {
+    "_name_en": "Contest the Mindfield",
+    "name_ko": "심안을 다투다",
+    "text_ko": "모든 영웅이 -1{i}을 얻는다.\n당신의 턴 시작 시, 이것을 파괴한다."
+  },
+  "tcQQjwMNMtrMM8jnBHN8Q": {
+    "_name_en": "Convection Amplifier",
+    "name_ko": "대류 증폭기",
+    "text_ko": "대류 증폭기는 스팀 카운터 2개를 지닌 채 전장에 들어온다. 대류 증폭기에 스팀 카운터가 없으면, 파괴한다.\n액션 - 대류 증폭기에서 스팀 카운터 1개를 제거한다: 이번 턴 당신이 사용하는 다음 공격 액션 카드가 도미네이트를 얻는다. 고 어게인"
+  },
+  "KkWg6P8mDbHM8thqtMJqQ": {
+    "_name_en": "Convulsions from the Bellows of Hell",
+    "name_ko": "지옥 풀무의 경련",
+    "text_ko": "지옥 풀무의 경련을 사용하기 위한 추가 비용으로, 당신의 무덤에서 무작위 카드 3장을 추방한다.\n이렇게 {p}이 6 이상인 카드가 추방되면, 이번 턴 당신이 사용하는 다음 공격 액션 카드가 +3{p}과 도미네이트를 얻는다.\n고 어게인"
+  },
+  "9BbJPr8gHhRKn6GJtLn8R": {
+    "_name_en": "Convulsions from the Bellows of Hell",
+    "name_ko": "지옥 풀무의 경련",
+    "text_ko": "지옥 풀무의 경련을 사용하기 위한 추가 비용으로, 당신의 무덤에서 무작위 카드 3장을 추방한다.\n이렇게 {p}이 6 이상인 카드가 추방되면, 이번 턴 당신이 사용하는 다음 공격 액션 카드가 +2{p}과 도미네이트를 얻는다.\n고 어게인"
+  },
+  "8PWrKLFjkKmCJWzPn7jmC": {
+    "_name_en": "Convulsions from the Bellows of Hell",
+    "name_ko": "지옥 풀무의 경련",
+    "text_ko": "지옥 풀무의 경련을 사용하기 위한 추가 비용으로, 당신의 무덤에서 무작위 카드 3장을 추방한다.\n이렇게 {p}이 6 이상인 카드가 추방되면, 이번 턴 당신이 사용하는 다음 공격 액션 카드가 +1{p}과 도미네이트를 얻는다.\n고 어게인"
+  },
+  "gzDGmdfm6gHWctgrcgfKf": {
+    "_name_en": "Copper",
+    "name_ko": "코퍼",
+    "text_ko": "액션 - {r}{r}{r}{r}, 이것을 파괴한다: 카드 1장을 뽑는다. 고 어게인"
+  },
+  "kzBc7Bmrk7TfHNwhQK6Lj": {
+    "_name_en": "Copper Cog",
+    "name_ko": "구리 톱니바퀴",
+    "text_ko": "무제한\n크랭크\n이 카드는 스팀 카운터 2개를 지닌 채 전장에 들어온다. 당신의 턴 시작 시, 스팀 카운터 1개를 제거하지 않는 한 이것을 파괴한다."
+  },
+  "C8dnFRThpKLT7Gkh7TJTm": {
+    "_name_en": "Core Reaction",
+    "name_ko": "핵심 반응",
+    "text_ko": "당신의 행동 단계 시작 시, 이것을 파괴하고 아무 대상에게 비전 피해 4를 준다."
+  },
+  "mHLBRgG6qwPR8kznTh8Kd": {
+    "_name_en": "Core Reaction",
+    "name_ko": "핵심 반응",
+    "text_ko": "당신의 행동 단계 시작 시, 이것을 파괴하고 아무 대상에게 비전 피해 3을 준다."
+  },
+  "6mhWMHfB9pFcqz7QJfbhp": {
+    "_name_en": "Core Reaction",
+    "name_ko": "핵심 반응",
+    "text_ko": "당신의 행동 단계 시작 시, 이것을 파괴하고 아무 대상에게 비전 피해 2를 준다."
+  },
+  "9b7hjHNnGDBkfL8jL89bf": {
+    "_name_en": "Coronet Peak",
+    "name_ko": "코로넷 봉우리",
+    "text_ko": "액션 - {r}{r}{r}: 대상 영웅은 {r}을 지불하지 않는 한 카드 1장을 버린다.\n블레이드 브레이크"
+  },
+  "QPTGQGKCgD6B7fR9Nngdn": {
+    "_name_en": "Corrosive Space Dust",
+    "name_ko": "부식성 우주 먼지",
+    "text_ko": "이 카드가 전장을 떠날 때, 대상 영웅에게 비전 피해 1을 준다.\n워드 X. 이 카드가 홀로 카운터를 가졌다면 X는 4이다. 그렇지 않으면, X는 1이다."
+  },
+  "nM8W6pkg66hWdcq7LpNgf": {
+    "_name_en": "Corrosive Space Dust",
+    "name_ko": "부식성 우주 먼지",
+    "text_ko": "이 카드가 전장을 떠날 때, 대상 영웅에게 비전 피해 1을 준다.\n워드 X. 이 카드가 홀로 카운터를 가졌다면 X는 3이다. 그렇지 않으면, X는 1이다."
+  },
+  "dKKCNFfnqk9zMLRzdHHgR": {
+    "_name_en": "Corrosive Space Dust",
+    "name_ko": "부식성 우주 먼지",
+    "text_ko": "이 카드가 전장을 떠날 때, 대상 영웅에게 비전 피해 1을 준다.\n워드 X. 이 카드가 홀로 카운터를 가졌다면 X는 2이다. 그렇지 않으면, X는 1이다."
+  },
+  "L7GjnTRkPzCWDfwjfBj7n": {
+    "_name_en": "Cosmic Awakening",
+    "name_ko": "우주적 각성",
+    "text_ko": "이 카드를 사용하기 위해 기 1개가 피치되었다면, 우주적 각성의 {p}은 10이다.\n기 2개가 피치되었다면, 우주적 각성의 {p}은 15이다.\n기 3개 이상이 피치되었다면, 우주적 각성의 {p}은 20이다."
+  },
+  "tWqk8FWtf7TD9RgWBpKPP": {
+    "_name_en": "Cosmic Duality",
+    "name_ko": "우주적 이중성",
+    "text_ko": "순간 - {r}, 이 카드를 버린다: 대상 영웅에게 비전 피해 1을 준다. 라이트닝 플로우 토큰 1개를 생성한다.\n프래그먼트"
+  },
+  "rQTCqBFcppTWfDwfFkHQN": {
+    "_name_en": "Cosmic Duality",
+    "name_ko": "우주적 이중성",
+    "text_ko": "순간 - {r}, 이 카드를 버린다: 대상 영웅에게 비전 피해 1을 준다. 라이트닝 플로우 토큰 1개를 생성한다.\n프래그먼트"
+  },
+  "WhggpfhhBLDnpKwCkjWDk": {
+    "_name_en": "Cosmic Duality",
+    "name_ko": "우주적 이중성",
+    "text_ko": "순간 - {r}, 이 카드를 버린다: 대상 영웅에게 비전 피해 1을 준다. 라이트닝 플로우 토큰 1개를 생성한다.\n프래그먼트"
+  },
+  "TqcHrNkPMppfprqPbDRRm": {
+    "_name_en": "Cosmic Flare",
+    "name_ko": "우주의 섬광",
+    "text_ko": "{r}{r}{r}을 얻는다"
+  },
+  "wd8WJpB9j7qfWHWFffqWr": {
+    "_name_en": "Cosmic Suture",
+    "name_ko": "우주의 봉합",
+    "text_ko": "이번 턴 당신에게 가해질 다음 피해 4를 방지한다.\n스타폴 - 이번 턴에 순간 카드가 무덤에 놓였다면, 대상 영웅에게 비전 피해 1을 준다."
+  },
+  "PhWgpcwRmzjQ6bDcqcPbW": {
+    "_name_en": "Cosmic Suture",
+    "name_ko": "우주의 봉합",
+    "text_ko": "이번 턴 당신에게 가해질 다음 피해 3을 방지한다.\n스타폴 - 이번 턴에 순간 카드가 무덤에 놓였다면, 대상 영웅에게 비전 피해 1을 준다."
+  },
+  "JRmqMNgWfmdffrT8WKrLf": {
+    "_name_en": "Cosmic Suture",
+    "name_ko": "우주의 봉합",
+    "text_ko": "이번 턴 당신에게 가해질 다음 피해 2를 방지한다.\n스타폴 - 이번 턴에 순간 카드가 무덤에 놓였다면, 대상 영웅에게 비전 피해 1을 준다."
+  },
+  "zMC89pqnzTP7bkmfjmTzQ": {
+    "_name_en": "Cosmo, Scroll of Ancestral Tapestry",
+    "name_ko": "코스모, 선조 태피스트리의 두루마리",
+    "text_ko": "당신의 턴 동안, 워드를 가진, 당신이 조종하는 오라는 자신의 워드와 같은 기본 {p}을 가진 무기이며 턴당 1회 액션 - {r}: 공격\n+1{p} 카운터를 1개 이상 가진 당신의 오라 공격들이 고 어게인을 얻는다."
+  },
+  "cP6jRNBkfK9L8HzGjgpmw": {
+    "_name_en": "Count Your Blessings",
+    "name_ko": "축복을 세다",
+    "text_ko": "X{h}을 얻는다. X는 3에 당신의 무덤에 있는 '축복을 세다'의 수를 더한 값이다."
+  },
+  "gFm9BtgB7HbP6CkbjG8gC": {
+    "_name_en": "Count Your Blessings",
+    "name_ko": "축복을 세다",
+    "text_ko": "X{h}을 얻는다. X는 2에 당신의 무덤에 있는 '축복을 세다'의 수를 더한 값이다."
+  },
+  "7c9ChFNmpbPDdgD7DNKth": {
+    "_name_en": "Count Your Blessings",
+    "name_ko": "축복을 세다",
+    "text_ko": "X{h}을 얻는다. X는 1에 당신의 무덤에 있는 '축복을 세다'의 수를 더한 값이다."
+  },
+  "fQTg89mpRjTDTRmPGkQb6": {
+    "_name_en": "Courage",
+    "name_ko": "용기",
+    "text_ko": "당신이 공격 액션 카드를 사용하거나 무기 공격을 활성화할 때, 이것을 파괴하고 그 공격이 +1{p}을 얻는다."
+  },
+  "cH7LdkrKdFnjP7PLwFDhD": {
+    "_name_en": "Courage of Bladehold",
+    "name_ko": "칼자루의 용기",
+    "text_ko": "액션 - 칼자루의 용기를 파괴한다: 이번 턴 당신의 검 공격들이 {r} 적은 비용으로 사용된다. 고 어게인\n템퍼"
+  },
+  "7H6zRGbKbL8BpgNMgwh97": {
+    "_name_en": "Courageous Crossing",
+    "name_ko": "용감한 횡단",
+    "text_ko": "대상 영웅의 조종 하에 용기 토큰 1개를 생성한다.\n고 어게인\n이 카드가 {p}이 기본보다 높은 공격을 방어하면, 대상 지속물에서 +1{p} 카운터 1개를 제거한다."
+  },
+  "BtzBqJcHbCptkMJMBchgQ": {
+    "_name_en": "Courageous Steelhand",
+    "name_ko": "용맹한 강철손",
+    "text_ko": "이번 턴에 충전했다면, 대상 공격이 +3{p}을 얻는다."
+  },
+  "WKHF6LbqnjdPn6FrHDKcg": {
+    "_name_en": "Courageous Steelhand",
+    "name_ko": "용맹한 강철손",
+    "text_ko": "이번 턴에 충전했다면, 대상 공격이 +2{p}을 얻는다."
+  },
+  "fdTHJDGRFHhBhjmFKfkHp": {
+    "_name_en": "Courageous Steelhand",
+    "name_ko": "용맹한 강철손",
+    "text_ko": "이번 턴에 충전했다면, 대상 공격이 +1{p}을 얻는다."
+  },
+  "Dbhn6rRcrbdRnKbqdPdwh": {
+    "_name_en": "Cracked Bauble",
+    "name_ko": "금간 구슬",
+    "text_ko": "(실드덱이나 부스터 드래프트 형식에서는 원하는 수의 '금간 구슬'을 자신의 카드풀에 추가할 수 있다.)"
+  },
+  "FzFpckchjNncjDCnzQ7Tp": {
+    "_name_en": "Cracker Bauble",
+    "name_ko": "폭죽 구슬",
+    "text_ko": "이 카드가 피치되면, 당신과 대상 상대는 무작위로 이 카드의 양 끝을 선택해 반으로 쪼개질 때까지 잡아당긴다. 그 뒤 각 영웅은 자신이 가진 반쪽 뒷면의 토큰을 생성하고, 이 카드는 사라진다."
+  },
+  "tbc6PrGdmPnPJkbN9DW9q": {
+    "_name_en": "Cracker Jax",
+    "name_ko": "크래커 잭스",
+    "text_ko": "액션 - 이것을 파괴한다: 이번 턴 당신이 사용하는 다음 공격 액션 카드가 +1{p}을 얻는다. 고 어게인"
+  },
+  "KCCLqQp6m8CngWnnQqNrp": {
+    "_name_en": "Crackle from Afar",
+    "name_ko": "멀리서 탁탁거리다",
+    "text_ko": "이 카드가 전장에 들어올 때, 최대 1개의 대상 공격이 +1{p}을 얻는다.\n워드 1"
+  },
+  "tmNrkK9dghWBkfmgLH7MG": {
+    "_name_en": "Crackling",
+    "name_ko": "탁탁거림",
+    "text_ko": "라이트닝 플로우 - 이번 턴에 번개 카드를 사용한 적이 있다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "DKNCGmjBWngRMjmTCbKLr": {
+    "_name_en": "Crackling",
+    "name_ko": "탁탁거림",
+    "text_ko": "라이트닝 플로우 - 이번 턴에 번개 카드를 사용한 적이 있다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "b9Hw6NhDgfdQWLDQffTPC": {
+    "_name_en": "Crane Dance",
+    "name_ko": "학춤",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 소울비드 스트라이크였다면, 학춤이 +1{p}, 고 어게인을 얻고 당신이 조종하는 체인 링크 수보다 기본 {p}이 높은 공격 액션 카드로 방어될 수 없다."
+  },
+  "hdwcfGdrfcJ9bK78tPgRW": {
+    "_name_en": "Crane Dance",
+    "name_ko": "학춤",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 소울비드 스트라이크였다면, 학춤이 +1{p}, 고 어게인을 얻고 당신이 조종하는 체인 링크 수보다 기본 {p}이 높은 공격 액션 카드로 방어될 수 없다."
+  },
+  "KWNMNMjTzTQMRK7FF9J6T": {
+    "_name_en": "Crane Dance",
+    "name_ko": "학춤",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 소울비드 스트라이크였다면, 학춤이 +1{p}, 고 어게인을 얻고 당신이 조종하는 체인 링크 수보다 기본 {p}이 높은 공격 액션 카드로 방어될 수 없다."
+  },
+  "wc9L9bCGdNwhFrRD9Ntr6": {
+    "_name_en": "Cranial Crush",
+    "name_ko": "두개골 분쇄",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅은 다음 행동 단계 동안 카드를 뽑을 수 없다"
+  },
+  "HDnfHcMqHHBkwtWpgbMPF": {
+    "_name_en": "Crankshaft",
+    "name_ko": "크랭크축",
+    "text_ko": "부스트\n이 카드가 부스트로 추방되면, 당신이 조종하는 하이퍼 드라이버 1개에 스팀 카운터를 올린다."
+  },
+  "9fWDqPpBKjMCTghKhBW8p": {
+    "_name_en": "Crankshaft",
+    "name_ko": "크랭크축",
+    "text_ko": "부스트\n이 카드가 부스트로 추방되면, 당신이 조종하는 하이퍼 드라이버 1개에 스팀 카운터를 올린다."
+  },
+  "NTCMFrrQdwdrKLnT8kcfc": {
+    "_name_en": "Crankshaft",
+    "name_ko": "크랭크축",
+    "text_ko": "부스트\n이 카드가 부스트로 추방되면, 당신이 조종하는 하이퍼 드라이버 1개에 스팀 카운터를 올린다."
   }
 }
