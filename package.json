@@ -5,7 +5,6 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "sync": "node scripts/build-data.mjs",
     "build": "node scripts/build-data.mjs",
     "serve": "node scripts/serve.mjs"
   },
