@@ -15606,5 +15606,632 @@
     "_name_en": "Put in Context",
     "name_ko": "관점 조정",
     "text_ko": "이 카드는 기본 {p} 3 이하인 공격만 방어할 수 있다."
+  },
+  "rHG9qHMLWbk6t68GkJ7Mw": {
+    "_name_en": "Put on Ice",
+    "name_ko": "얼려버리다",
+    "text_ko": "당신의 다음 턴 시작 시까지 대상 아군 최대 3개를 얼린다.\n이것이 아스날에서 사용되었다면, 카드 1장을 뽑는다.\n고 어게인"
+  },
+  "WfhcLNHhCBC9kj7wfdqfM": {
+    "_name_en": "Put on Ice",
+    "name_ko": "얼려버리다",
+    "text_ko": "당신의 다음 턴 시작 시까지 대상 아군 최대 2개를 얼린다.\n이것이 아스날에서 사용되었다면, 카드 1장을 뽑는다.\n고 어게인"
+  },
+  "GBLfqjhh9PnPJFJPThWWn": {
+    "_name_en": "Put on Ice",
+    "name_ko": "얼려버리다",
+    "text_ko": "당신의 다음 턴 시작 시까지 대상 아군 최대 1개를 얼린다.\n이것이 아스날에서 사용되었다면, 카드 1장을 뽑는다.\n고 어게인"
+  },
+  "7QhWMkPGMbFjHqn7rk9Gq": {
+    "_name_en": "Putrid Stirrings",
+    "name_ko": "썩어가는 동요",
+    "text_ko": "당신의 추방 구역에서 이것을 사용할 수 있다.\n이번 턴 당신이 룬 게이트하는 다음 공격 액션 카드가 +5{p}을 얻는다.\n고 어게인\n블러드 뎃"
+  },
+  "Kcp6zfhjQtdpz8PpKfPPh": {
+    "_name_en": "Putrid Stirrings",
+    "name_ko": "썩어가는 동요",
+    "text_ko": "당신의 추방 구역에서 이것을 사용할 수 있다.\n이번 턴 당신이 룬 게이트하는 다음 공격 액션 카드가 +4{p}을 얻는다.\n고 어게인\n블러드 뎃"
+  },
+  "mnhNFLR7HKQHf8KNpnFB6": {
+    "_name_en": "Putrid Stirrings",
+    "name_ko": "썩어가는 동요",
+    "text_ko": "당신의 추방 구역에서 이것을 사용할 수 있다.\n이번 턴 당신이 룬 게이트하는 다음 공격 액션 카드가 +3{p}을 얻는다.\n고 어게인\n블러드 뎃"
+  },
+  "FTHfgBjNWbkDzDhCRpjCp": {
+    "_name_en": "Pyroglyphic Protection",
+    "name_ko": "불꽃문자 보호막",
+    "text_ko": "당신의 영웅이 비전 피해를 받게 될 경우, 그 발생원이 줄 비전 피해 3을 방지한다.\n당신의 액션 단계 시작 시, 불꽃문자 보호막을 파괴한다."
+  },
+  "dQ9DC6fLBNbBQdrcrKtQW": {
+    "_name_en": "Pyroglyphic Protection",
+    "name_ko": "불꽃문자 보호막",
+    "text_ko": "당신의 영웅이 비전 피해를 받게 될 경우, 그 발생원이 줄 비전 피해 2를 방지한다.\n당신의 액션 단계 시작 시, 불꽃문자 보호막을 파괴한다."
+  },
+  "PRh9NpRhN76FHztmTm7nt": {
+    "_name_en": "Pyroglyphic Protection",
+    "name_ko": "불꽃문자 보호막",
+    "text_ko": "당신의 영웅이 비전 피해를 받게 될 경우, 그 발생원이 줄 비전 피해 1을 방지한다.\n당신의 액션 단계 시작 시, 불꽃문자 보호막을 파괴한다."
+  },
+  "twGn8N6Pm6ctFgKnjCpL7": {
+    "_name_en": "Qi Unleashed",
+    "name_ko": "풀려난 기",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 크라우칭 타이거였다면, 이 카드가 +4{p}을 얻는다."
+  },
+  "hrPnGKq9czRctFqJqWknC": {
+    "_name_en": "Qi Unleashed",
+    "name_ko": "풀려난 기",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 크라우칭 타이거였다면, 이 카드가 +4{p}을 얻는다."
+  },
+  "mBhNRNw6CMrF8trKHgtCC": {
+    "_name_en": "Qi Unleashed",
+    "name_ko": "풀려난 기",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 크라우칭 타이거였다면, 이 카드가 +4{p}을 얻는다."
+  },
+  "c8tGz8c7GKmBJRLTcQHfJ": {
+    "_name_en": "Quantum Processor",
+    "name_ko": "퀀텀 프로세서",
+    "text_ko": "크랭크\n이 카드는 스팀 카운터 1개를 지닌 채 전장에 들어온다. 당신의 턴 시작 시, 스팀 카운터 1개를 제거하지 않는 한 이것을 파괴한다.\n턴당 1회 순간 - 0: 당신의 손에서 비용 0 또는 1인 메카놀로지스트 아이템을 전장에 놓는다."
+  },
+  "KbcGqTJFnNLmLWMpfzPbT": {
+    "_name_en": "Quartermaster's Boots",
+    "name_ko": "보급관의 부츠",
+    "text_ko": "액션 - {r}{r}, 이것을 파괴한다: 이번 턴 당신이 사용하는 다음 비공격 액션 카드가 고 어게인을 얻는다. 고 어게인\n블레이드 브레이크"
+  },
+  "k8d9d7n7fJRwkRDWG7Kcn": {
+    "_name_en": "Quelling Robe",
+    "name_ko": "진압의 로브",
+    "text_ko": "쿠엘 1"
+  },
+  "QdCcTgDwqq66NHp6qDdTz": {
+    "_name_en": "Quelling Sleeves",
+    "name_ko": "진압의 소매",
+    "text_ko": "쿠엘 1"
+  },
+  "DMht6KBFhqWNdGBJNL7NB": {
+    "_name_en": "Quelling Slippers",
+    "name_ko": "진압의 슬리퍼",
+    "text_ko": "쿠엘 1"
+  },
+  "BzRFcMpm9fmqgDPNdCRQ9": {
+    "_name_en": "Quick Clicks",
+    "name_ko": "빠른 클릭",
+    "text_ko": "액션 - 이것을 파괴한다: 이번 턴 당신의 다음 공격이 고 어게인을 얻는다. 이번 턴에 님블리즘을 사용한 적이 있을 때만 이것을 활성화한다. 고 어게인"
+  },
+  "fbKwcPnqhWKbTWd6M9Wbc": {
+    "_name_en": "Quick Succession",
+    "name_ko": "빠른 연속",
+    "text_ko": "이번 턴 당신이 사용하는 다음 룬블레이드 또는 번개 공격 액션 카드가 고 어게인을 얻는다.\n이번 턴 당신의 다음 3회 공격이 고 어게인을 가지는 동안 +1{p}을 얻는다.\n고 어게인"
+  },
+  "WLRcb8jRrktGNqbttwfWF": {
+    "_name_en": "Quick Succession",
+    "name_ko": "빠른 연속",
+    "text_ko": "이번 턴 당신이 사용하는 다음 룬블레이드 또는 번개 공격 액션 카드가 고 어게인을 얻는다.\n이번 턴 당신의 다음 2회 공격이 고 어게인을 가지는 동안 +1{p}을 얻는다.\n고 어게인"
+  },
+  "HHLWJzrFMfcnpmN8J6MrC": {
+    "_name_en": "Quick Succession",
+    "name_ko": "빠른 연속",
+    "text_ko": "이번 턴 당신이 사용하는 다음 룬블레이드 또는 번개 공격 액션 카드가 고 어게인을 얻는다.\n이번 턴 당신의 다음 공격이 고 어게인을 가지는 동안 +1{p}을 얻는다.\n고 어게인"
+  },
+  "kg7JPwP7pDg9wGqqQ76HT": {
+    "_name_en": "Quickdodge Flexors",
+    "name_ko": "재빠른 회피근",
+    "text_ko": "방어 반응 - {r}: 이것을 활성 체인 링크에 방어 카드로 추가한다. 이번 체인 링크에 기본 {d} 2를 가진다.\n종료 단계 시작 시, 이것이 이번 턴에 방어했다면, 파괴한다."
+  },
+  "cDpMQnr8LwPFGMdgffNb8": {
+    "_name_en": "Quicken",
+    "name_ko": "퀵큰",
+    "text_ko": "당신이 공격 액션 카드를 사용하거나 무기 공격을 활성화할 때, 이것을 파괴하고 그 공격이 고 어게인을 얻는다."
+  },
+  "wB8rTc8NzdB9FkwWqwWwH": {
+    "_name_en": "Quickening Sand",
+    "name_ko": "속성의 모래",
+    "text_ko": "대상 영웅의 조종 하에 퀵큰 토큰 1개를 생성한다.\n고 어게인\n이 카드가 고 어게인을 가진 공격을 방어할 때, 대상 영웅이나 아군을 {t}한다."
+  },
+  "DbWLH6QCRngwP6RHftkdK": {
+    "_name_en": "Quickfire",
+    "name_ko": "속사",
+    "text_ko": "당신이 조종하는 하이퍼 드라이버 1개당 이 카드는 사용하는 데 {r}이 덜 든다.\n이번 턴 당신이 다음에 부스트하는 공격이 +4{p}을 얻는다.\n고 어게인"
+  },
+  "qbdmChqm6wjCBfCFf6FMg": {
+    "_name_en": "Quickfire",
+    "name_ko": "속사",
+    "text_ko": "당신이 조종하는 하이퍼 드라이버 1개당 이 카드는 사용하는 데 {r}이 덜 든다.\n이번 턴 당신이 다음에 부스트하는 공격이 +3{p}을 얻는다.\n고 어게인"
+  },
+  "BGtcnnDGHpFQJt8HpJLkh": {
+    "_name_en": "Quickfire",
+    "name_ko": "속사",
+    "text_ko": "당신이 조종하는 하이퍼 드라이버 1개당 이 카드는 사용하는 데 {r}이 덜 든다.\n이번 턴 당신이 다음에 부스트하는 공격이 +2{p}을 얻는다.\n고 어게인"
+  },
+  "MLc97c6bqmKcPCtNg9M9q": {
+    "_name_en": "Quicksilver Dagger",
+    "name_ko": "퀵실버 단검",
+    "text_ko": "턴당 1회 액션 - {r}: 공격\n이번 턴에 당신이 조종하는 다른 무기가 고 어게인을 얻은 적이 있다면, 이 카드의 공격들이 고 어게인을 얻는다."
+  },
+  "DmpnhzMR7WhCgkFWncRkk": {
+    "_name_en": "Quickstep",
+    "name_ko": "퀵스텝",
+    "text_ko": "액션 - 이것을 파괴한다: 각 영웅이 퀵큰 토큰을 생성한다. 고 어게인"
+  },
+  "FcJ9DMBN6LLbBJGhJ9Kkt": {
+    "_name_en": "Quiver of Abyssal Depths",
+    "name_ko": "심연의 화살통",
+    "text_ko": "순간 - {r}{r}{r}, 심연의 화살통을 파괴한다: 당신의 무덤에서 서로 다른 이름을 가진 화살 최대 3개를 덱에 섞는다."
+  },
+  "Pc9dDNQmwKnmDbgf6jrLH": {
+    "_name_en": "Quiver of Rustling Leaves",
+    "name_ko": "바스락 잎사귀의 화살통",
+    "text_ko": "순간 - {r}{r}{r}: 당신 덱 맨 위 카드를 공개한다. 그것이 화살이라면, 앞면으로 아스날에 놓고 바스락 잎사귀의 화살통을 파괴한다."
+  },
+  "GcD9dDfgTK8tmn7H8ccTk": {
+    "_name_en": "Radiant Flow",
+    "name_ko": "찬란한 흐름",
+    "text_ko": "순간 - 이것과 당신 영웅의 소울에서 카드 1장을 추방한다: 이번 턴 당신 영웅에게 가해질 다음 피해 2를 방지한다."
+  },
+  "rtJ8hLmrbcrkzLjGjjfJk": {
+    "_name_en": "Radiant Forcefield",
+    "name_ko": "찬란한 역장",
+    "text_ko": "당신의 영웅이 피해를 받게 될 경우, 당신 영웅의 소울에서 카드 1장을 추방하여 그 피해 1을 방지할 수 있다.\n당신 영웅의 소울에 카드가 없으면, 이것을 파괴한다."
+  },
+  "gmKLgjmBKHDRjnCf7Q7kh": {
+    "_name_en": "Radiant Raiment",
+    "name_ko": "찬란한 예복",
+    "text_ko": "순간 - 이것과 당신 영웅의 소울에서 카드 1장을 추방한다: 이번 턴 당신 영웅에게 가해질 다음 피해 2를 방지한다."
+  },
+  "c6fzD8D8LdtQ8cwnqgTgq": {
+    "_name_en": "Radiant Touch",
+    "name_ko": "찬란한 손길",
+    "text_ko": "순간 - 이것과 당신 영웅의 소울에서 카드 1장을 추방한다: 이번 턴 당신 영웅에게 가해질 다음 피해 2를 방지한다."
+  },
+  "mMbkbwz6rkpPTLcjthNJT": {
+    "_name_en": "Radiant View",
+    "name_ko": "찬란한 시야",
+    "text_ko": "순간 - 이것과 당신 영웅의 소울에서 카드 1장을 추방한다: 이번 턴 당신 영웅에게 가해질 다음 피해 2를 방지한다."
+  },
+  "bfbfWCWnHw6zP7bfrPGdC": {
+    "_name_en": "Ragamuffin's Hat",
+    "name_ko": "부랑아의 모자",
+    "text_ko": "순간 - 부랑아의 모자를 파괴한다: 카드 1장을 뽑은 뒤 당신의 손에서 카드 1장을 덱 맨 위나 맨 아래에 놓는다. 당신의 손에 카드가 1장일 때만 이 능력을 활성화한다."
+  },
+  "z6fz9gMGF7DDJWfj7D6Wp": {
+    "_name_en": "Rage Baiters",
+    "name_ko": "분노 유발자",
+    "text_ko": "공격 반응 - {r}, {t}: 스텔스를 가진 대상 공격이 \"이 카드가 영웅을 명중하면, 그에게 표식을 남긴다\"를 얻는다.\n블레이드 브레이크"
+  },
+  "nfhcD8HGDHLDNCGhfLnKK": {
+    "_name_en": "Rage Specter",
+    "name_ko": "분노의 망령",
+    "text_ko": "이것이 전장에 들어올 때, 당신이 다른 일루저니스트 오라를 조종하고 있지 않다면, 액션 포인트 1을 얻는다.\n당신의 턴 동안, 이것은 워드 6을 가진다. 그렇지 않으면, 이것은 워드 1을 가진다."
+  },
+  "6C9QJwPPMFCtRjjTmFq7z": {
+    "_name_en": "Raging Onslaught",
+    "name_ko": "격노의 맹공"
+  },
+  "dMJht8gmwFJG8cKdpzCnw": {
+    "_name_en": "Raging Onslaught",
+    "name_ko": "격노의 맹공"
+  },
+  "DdH9qjhnPGKnpr9fTfNjb": {
+    "_name_en": "Raging Onslaught",
+    "name_ko": "격노의 맹공"
+  },
+  "K7KgTFCHdGNnqTkJfPtTG": {
+    "_name_en": "Rain Razors",
+    "name_ko": "빗발치는 면도날",
+    "text_ko": "이번 턴 화살들은 공격하는 동안 +2{p}을 가진다."
+  },
+  "jkdq8cLQJQjrgGcLmPzM6": {
+    "_name_en": "Rainbow Goo Trap",
+    "name_ko": "무지개 끈끈이 함정",
+    "text_ko": "이 카드가 기본값을 초과하는 {p}을 가지고, 도미네이트와 고 어게인을 가진 공격을 방어할 때, 그 공격이 -2{p}을 얻고 능력을 잃고 얻을 수 없게 된다."
+  },
+  "JW7fjRH9gMGGLdgQRjNGk": {
+    "_name_en": "Raise an Army",
+    "name_ko": "군대를 일으키다",
+    "text_ko": "카사이 스페셜라이제이션\n이 카드를 사용하기 위한 추가 비용으로, 당신이 조종하는 골드 X개를 파괴한다.\n신타리 용병 토큰 X개를 생성한다.\n고 어게인"
+  },
+  "MrHJtqLPBJqcQnJ9fNk9z": {
+    "_name_en": "Raise Blades",
+    "name_ko": "검을 들어올리다",
+    "text_ko": "카드 1장을 뽑는다. 당신의 손에서 카드 1장을 덱 맨 위에 놓는다.\n이번 턴 당신의 다음 검 공격이 +3{p}을 얻는다.\n고 어게인"
+  },
+  "tPwwHTwt6hkdjgfzDtMfB": {
+    "_name_en": "Rake Back",
+    "name_ko": "긁어모으다",
+    "text_ko": "이 카드의 {r} 비용을 지불하는 대신, 당신이 조종하는 골드 1개를 파괴할 수 있다.\n이번 턴 당신의 다음 검 공격이 +2{p}과 \"이 카드가 공격할 때, 방어 영웅과 내기한다. 승자는 자신의 무덤에서 장비 카드 1장을 장착할 수 있다\"를 얻는다.\n고 어게인"
+  },
+  "Rp7FC6BPnwwPtMWdhWnJD": {
+    "_name_en": "Rake Over the Coals",
+    "name_ko": "석탄을 갈퀴질하다",
+    "text_ko": "이번 턴 드라코닉 공격들이 +1{p}을 얻는다."
+  },
+  "W6R6JDdMT8g77qmHJCDhG": {
+    "_name_en": "Rake the Embers",
+    "name_ko": "잉걸불을 갈퀴질하다",
+    "text_ko": "애쉬 토큰 1개를 생성한 뒤, 당신이 조종하는 애쉬 최대 3개를 에테르 날개로 변신시킨다.\n고 어게인"
+  },
+  "ctP6TMfCKqwK6QpjG7wLH": {
+    "_name_en": "Rake the Embers",
+    "name_ko": "잉걸불을 갈퀴질하다",
+    "text_ko": "애쉬 토큰 1개를 생성한 뒤, 당신이 조종하는 애쉬 최대 2개를 에테르 날개로 변신시킨다.\n고 어게인"
+  },
+  "pP7GCzgTjQPMNLBFfRbBw": {
+    "_name_en": "Rake the Embers",
+    "name_ko": "잉걸불을 갈퀴질하다",
+    "text_ko": "애쉬 토큰 1개를 생성한 뒤, 당신이 조종하는 애쉬 최대 1개를 에테르 날개로 변신시킨다.\n고 어게인"
+  },
+  "TB9k9LLhgLQm7jD9tnNzk": {
+    "_name_en": "Rally the Coast Guard",
+    "name_ko": "해안경비대를 소집하다",
+    "text_ko": "턴당 1회 순간 - 카드 1장을 버린다: 이 카드가 +3{d}을 얻는다. 이 카드가 방어하는 동안에만 이것을 활성화한다."
+  },
+  "d6WrKcWGr7BHGtWHWT6dt": {
+    "_name_en": "Rally the Coast Guard",
+    "name_ko": "해안경비대를 소집하다",
+    "text_ko": "턴당 1회 순간 - 카드 1장을 버린다: 이 카드가 +3{d}을 얻는다. 이 카드가 방어하는 동안에만 이것을 활성화한다."
+  },
+  "wL7qNGJ7hn86bLDB7kGDG": {
+    "_name_en": "Rally the Coast Guard",
+    "name_ko": "해안경비대를 소집하다",
+    "text_ko": "턴당 1회 순간 - 카드 1장을 버린다: 이 카드가 +3{d}을 얻는다. 이 카드가 방어하는 동안에만 이것을 활성화한다."
+  },
+  "68J8LFDffgJ8j6RJ6FhmD": {
+    "_name_en": "Rally the Rearguard",
+    "name_ko": "후위대를 소집하다",
+    "text_ko": "턴당 1회 순간 - 카드 1장을 버린다: 이 카드가 +3{d}을 얻는다. 이 카드가 방어하는 동안에만 이 능력을 활성화한다."
+  },
+  "hKdWPHqc8bLM9Nkbwmncc": {
+    "_name_en": "Rally the Rearguard",
+    "name_ko": "후위대를 소집하다",
+    "text_ko": "턴당 1회 순간 - 카드 1장을 버린다: 이 카드가 +3{d}을 얻는다. 이 카드가 방어하는 동안에만 이 능력을 활성화한다."
+  },
+  "LQjBwTpQK6MR6LNkpnNPK": {
+    "_name_en": "Rally the Rearguard",
+    "name_ko": "후위대를 소집하다",
+    "text_ko": "턴당 1회 순간 - 카드 1장을 버린다: 이 카드가 +3{d}을 얻는다. 이 카드가 방어하는 동안에만 이 능력을 활성화한다."
+  },
+  "hRRgnn9nCqGDpqQNHhwJm": {
+    "_name_en": "Rally the Underdog",
+    "name_ko": "언더독을 응원하다",
+    "text_ko": "카드 1장을 뽑는다. 당신이 상대보다 {h}이 적다면, 대신 카드 2장을 뽑는다."
+  },
+  "RpM6tCjLdHHdfWcFbJrK6": {
+    "_name_en": "Ram Raider",
+    "name_ko": "충각 습격자",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 당신의 손에서 무작위 카드 1장을 추방한다. 이렇게 {p} 6 이상인 카드가 추방되면, 이 카드가 고 어게인을 얻는다.\n블러드 뎃"
+  },
+  "TF9hTCGJzwkjKNrgjgB6c": {
+    "_name_en": "Ram Raider",
+    "name_ko": "충각 습격자",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 당신의 손에서 무작위 카드 1장을 추방한다. 이렇게 {p} 6 이상인 카드가 추방되면, 이 카드가 고 어게인을 얻는다.\n블러드 뎃"
+  },
+  "JNbQCWttkJgrknfkpKF8p": {
+    "_name_en": "Ram Raider",
+    "name_ko": "충각 습격자",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 당신의 손에서 무작위 카드 1장을 추방한다. 이렇게 {p} 6 이상인 카드가 추방되면, 이 카드가 고 어게인을 얻는다.\n블러드 뎃"
+  },
+  "8CTr7nqzhbgDkPtb8WpCN": {
+    "_name_en": "Rampant Growth // Life",
+    "name_ko": "무성한 성장 // 생명",
+    "text_ko": "멜드\n앰프 X. X는 이번 턴에 당신이 얻은 총 {h}이다.\n//\n1{h}을 얻는다"
+  },
+  "dfzBMM9Tm8Q8jRWdQKp97": {
+    "_name_en": "Rampart of the Ram's Head",
+    "name_ko": "숫양머리 흉벽",
+    "text_ko": "당신이 숫양머리 흉벽으로 방어할 때마다, {r}을 지불할 수 있다. 그렇게 하면, 턴 종료 시까지 +1{d}을 얻는다."
+  },
+  "gcgCpfj86Wq8pMRnjtWpm": {
+    "_name_en": "Random Events Unfold",
+    "name_ko": "무작위 사건이 펼쳐지다",
+    "text_ko": "이벤트 덱을 섞고, 이것을 맨 아래에 놓은 뒤, 맨 위 카드를 뒤집는다."
+  },
+  "6mcbQprDMBHRMTfwnDfL9": {
+    "_name_en": "Ransack and Raze",
+    "name_ko": "약탈하고 파괴하다",
+    "text_ko": "비용 X인 대상 랜드마크를 파괴한다. 골드 토큰 X개를 생성한다.\n고 어게인"
+  },
+  "DbKkp8BjFgtCBGjQCbwjH": {
+    "_name_en": "Rapid Fire",
+    "name_ko": "속사포",
+    "text_ko": "턴 종료 시까지, 당신이 조종하는 화살들이 고 어게인을 얻는다.\n리로드\n고 어게인"
+  },
+  "RCbbcgDkg87qdrBzwpRrD": {
+    "_name_en": "Rapid Reflex",
+    "name_ko": "재빠른 반사",
+    "text_ko": "비용 0인 대상 공격 액션 카드가 +3{p}을 얻는다."
+  },
+  "qJcckjdDhr8gK9nTnpTFC": {
+    "_name_en": "Rapid Reflex",
+    "name_ko": "재빠른 반사",
+    "text_ko": "비용 0인 대상 공격 액션 카드가 +2{p}을 얻는다."
+  },
+  "CKPhFMj8GJGRNdKrRnpzG": {
+    "_name_en": "Rapid Reflex",
+    "name_ko": "재빠른 반사",
+    "text_ko": "비용 0인 대상 공격 액션 카드가 +1{p}을 얻는다."
+  },
+  "Hnc99LmRWtdBFGgrdMNnr": {
+    "_name_en": "Rapturous Applause",
+    "name_ko": "황홀한 박수갈채",
+    "text_ko": "이 카드를 공개하여 클래시에서 이기면, 관중이 당신에게 환호한다."
+  },
+  "zH7KjrFjPkpQdjFLzN7Kd": {
+    "_name_en": "Rapturous Applause",
+    "name_ko": "황홀한 박수갈채",
+    "text_ko": "이 카드를 공개하여 클래시에서 이기면, 관중이 당신에게 환호한다."
+  },
+  "t7WKR6b9wFcWTd9rRBGHp": {
+    "_name_en": "Rapturous Applause",
+    "name_ko": "황홀한 박수갈채",
+    "text_ko": "이 카드를 공개하여 클래시에서 이기면, 관중이 당신에게 환호한다."
+  },
+  "KcrHDMhMgQNfzHwKnPDgt": {
+    "_name_en": "Ratchet Up",
+    "name_ko": "박차를 가하다",
+    "text_ko": "이번 턴에 당신이 조종하는 아이템이 파괴된 적이 있다면, 액션 카드는 이 카드를 방어하는 동안 -1{d}을 얻는다.\n갤버나이즈 - 이 카드가 방어할 때, 당신이 조종하는 아이템 1개를 파괴할 수 있다. 그렇게 하면, 이 카드가 +2{d}을 얻는다."
+  },
+  "FwdNLdm6dDRk6bjk9qwBQ": {
+    "_name_en": "Ratchet Up",
+    "name_ko": "박차를 가하다",
+    "text_ko": "이번 턴에 당신이 조종하는 아이템이 파괴된 적이 있다면, 액션 카드는 이 카드를 방어하는 동안 -1{d}을 얻는다.\n갤버나이즈 - 이 카드가 방어할 때, 당신이 조종하는 아이템 1개를 파괴할 수 있다. 그렇게 하면, 이 카드가 +2{d}을 얻는다."
+  },
+  "nwqRtHp9hhnB9RQgQLkpd": {
+    "_name_en": "Ratchet Up",
+    "name_ko": "박차를 가하다",
+    "text_ko": "이번 턴에 당신이 조종하는 아이템이 파괴된 적이 있다면, 액션 카드는 이 카드를 방어하는 동안 -1{d}을 얻는다.\n갤버나이즈 - 이 카드가 방어할 때, 당신이 조종하는 아이템 1개를 파괴할 수 있다. 그렇게 하면, 이 카드가 +2{d}을 얻는다."
+  },
+  "fQW6hh8zJtbjJrQMzjkpD": {
+    "_name_en": "Rattle Bones",
+    "name_ko": "뼈를 흔들다",
+    "text_ko": "당신의 무덤에서 대상 룬블레이드 공격 액션 카드를 추방한다. 이번 턴 그것을 사용할 수 있다.\n이번 턴에 상대 영웅에게 비전 피해를 준 적이 있다면, 뼈를 흔들다를 순간 카드인 것처럼 사용할 수 있다.\n고 어게인"
+  },
+  "Kfqdk6PhqBd9tKM8T8hmN": {
+    "_name_en": "Ravenous Meataxe",
+    "name_ko": "굶주린 미트액스",
+    "text_ko": "턴당 1회 액션 - {r}{r}: 공격\n굶주린 미트액스로 공격할 때마다, 카드 1장을 뽑은 뒤 무작위 카드 1장을 버린다. 이렇게 {p} 6 이상인 카드가 버려지면, 굶주린 미트액스가 턴 종료 시까지 +2{p}을 얻는다."
+  },
+  "RpjM6dFbhwh7WPQkNLbbF": {
+    "_name_en": "Ravenous Rabble",
+    "name_ko": "굶주린 폭도",
+    "text_ko": "이 카드가 공격할 때, 당신 덱 맨 위 카드를 공개한다. 이 카드가 -X{p}을 얻는다. X는 이렇게 공개된 카드의 피치 값이다.\n고 어게인"
+  },
+  "Nqzb8D8Kkdw8pjk9R9Wb7": {
+    "_name_en": "Ravenous Rabble",
+    "name_ko": "굶주린 폭도",
+    "text_ko": "이 카드가 공격할 때, 당신 덱 맨 위 카드를 공개한다. 이 카드가 -X{p}을 얻는다. X는 이렇게 공개된 카드의 피치 값이다.\n고 어게인"
+  },
+  "gBWrqJjBJrKJHBCdmBtcC": {
+    "_name_en": "Ravenous Rabble",
+    "name_ko": "굶주린 폭도",
+    "text_ko": "이 카드가 공격할 때, 당신 덱 맨 위 카드를 공개한다. 이 카드가 -X{p}을 얻는다. X는 이렇게 공개된 카드의 피치 값이다.\n고 어게인"
+  },
+  "mgcdBrjHkNTmKKjwnJKF9": {
+    "_name_en": "Raw Meat",
+    "name_ko": "생고기",
+    "text_ko": "당신이 어질리티 토큰을 조종하고 있다면, 이 카드가 +1{d}을 얻는다.\n당신이 마이트 토큰을 조종하고 있다면, 이 카드가 +1{d}을 얻는다.\n템퍼"
+  },
+  "kcCW9ztqdpRtmqtM7h8kB": {
+    "_name_en": "Rawhide Rumble",
+    "name_ko": "생가죽 소란",
+    "text_ko": "가슴 두드리기\n이 카드가 영웅을 공격할 때, 이번 턴에 가슴을 두드린 적이 있다면, 그를 인티미데이트한다."
+  },
+  "BT8PkTWJLPMRmprqRJJjb": {
+    "_name_en": "Rawhide Rumble",
+    "name_ko": "생가죽 소란",
+    "text_ko": "가슴 두드리기\n이 카드가 영웅을 공격할 때, 이번 턴에 가슴을 두드린 적이 있다면, 그를 인티미데이트한다."
+  },
+  "kQKHchJfQHNR7zbbBPQCR": {
+    "_name_en": "Rawhide Rumble",
+    "name_ko": "생가죽 소란",
+    "text_ko": "가슴 두드리기\n이 카드가 영웅을 공격할 때, 이번 턴에 가슴을 두드린 적이 있다면, 그를 인티미데이트한다."
+  },
+  "MkwQMWr6GQMDNHdDFgtk9": {
+    "_name_en": "Ray of Hope",
+    "name_ko": "희망의 빛줄기",
+    "text_ko": "이번 턴 당신이 조종하는 공격들은 섀도우 영웅을 공격하는 동안 +1{p}을 가진다.\n당신이 상대 섀도우 영웅보다 {h}이 적다면, 희망의 빛줄기를 당신 영웅의 소울에 놓는다."
+  },
+  "zBjL8PJJGGwQPqHrk7RnP": {
+    "_name_en": "Raydn, Duskbane",
+    "name_ko": "레이든, 황혼의 재앙",
+    "text_ko": "턴당 1회 액션 - 0: 공격\n이번 턴에 충전한 적이 있다면, 레이든이 +3{p}을 얻는다."
+  },
+  "MTkdbnhrJNznC69Jg7NLj": {
+    "_name_en": "Razor Reflex",
+    "name_ko": "예리한 반사",
+    "text_ko": "하나를 선택한다;\n- 대상 단검 또는 검 무기 공격이 +3{p}을 얻는다.\n- 비용 1 이하인 대상 공격 액션 카드가 +3{p}과 \"이것이 명중하면, 고 어게인을 얻는다\"를 얻는다."
+  },
+  "bcGWPgwCmKhHWHBQgQgh9": {
+    "_name_en": "Razor Reflex",
+    "name_ko": "예리한 반사",
+    "text_ko": "하나를 선택한다;\n- 대상 단검 또는 검 무기 공격이 +2{p}을 얻는다.\n- 비용 1 이하인 대상 공격 액션 카드가 +2{p}과 \"이것이 명중하면, 고 어게인을 얻는다\"를 얻는다."
+  },
+  "N6gfwdhMGJKfG6mzt7RTL": {
+    "_name_en": "Razor Reflex",
+    "name_ko": "예리한 반사",
+    "text_ko": "하나를 선택한다;\n- 대상 단검 또는 검 무기 공격이 +1{p}을 얻는다.\n- 비용 1 이하인 대상 공격 액션 카드가 +1{p}과 \"이것이 명중하면, 고 어게인을 얻는다\"를 얻는다."
+  },
+  "BwkHTqtPwKgffkwWJwpCC": {
+    "_name_en": "Razor Ring",
+    "name_ko": "면도날 고리",
+    "text_ko": "레전더리\n액션 - {r}, {t}, 전투 체인이 종료되면 이것을 파괴한다: 공격. 고 어게인\n이 카드가 영웅을 명중하면, 이번 전투 체인에서 그가 다음에 방어하는 데 사용하는 액션 카드가 턴 종료 시까지 -1{d}을 얻는다."
+  },
+  "rpWjb6pnqgzTH7Cgcf98w": {
+    "_name_en": "Razor's Edge",
+    "name_ko": "면도날의 끝",
+    "text_ko": "스텔스를 가진 대상 공격 액션 카드가 +3{p}을 얻는다."
+  },
+  "mTdJmRRRjjqGBGbPHLcRq": {
+    "_name_en": "Razor's Edge",
+    "name_ko": "면도날의 끝",
+    "text_ko": "스텔스를 가진 대상 공격 액션 카드가 +2{p}을 얻는다."
+  },
+  "DzdfLNnTQbw7t99Bz8KqB": {
+    "_name_en": "Razor's Edge",
+    "name_ko": "면도날의 끝",
+    "text_ko": "스텔스를 가진 대상 공격 액션 카드가 +1{p}을 얻는다."
+  },
+  "zTMPPB7wDcRLDLpQjRBdR": {
+    "_name_en": "Razzle Dazzle",
+    "name_ko": "요란한 화려함",
+    "text_ko": "부스트"
+  },
+  "rfDKkpDcHbmmMK9w6nmnt": {
+    "_name_en": "Razzle Dazzle",
+    "name_ko": "요란한 화려함",
+    "text_ko": "부스트"
+  },
+  "LHFcqHMhT7L6wb8RFQd9k": {
+    "_name_en": "Razzle Dazzle",
+    "name_ko": "요란한 화려함",
+    "text_ko": "부스트"
+  },
+  "cmCpRmRbNLkdGzbfrJ6Gj": {
+    "_name_en": "Re-Charge!",
+    "name_ko": "재충전!",
+    "text_ko": "당신이 조종하는 하이퍼 드라이버에 스팀 카운터를 놓는다.\n이번 턴 당신이 다음에 부스트하는 공격이 +4{p}을 얻는다.\n고 어게인"
+  },
+  "nWGwFLz6GwBmkCL7mkCqr": {
+    "_name_en": "Re-Charge!",
+    "name_ko": "재충전!",
+    "text_ko": "당신이 조종하는 하이퍼 드라이버에 스팀 카운터를 놓는다.\n이번 턴 당신이 다음에 부스트하는 공격이 +3{p}을 얻는다.\n고 어게인"
+  },
+  "CmJqfQdnpC6Htbq7LTrWN": {
+    "_name_en": "Re-Charge!",
+    "name_ko": "재충전!",
+    "text_ko": "당신이 조종하는 하이퍼 드라이버에 스팀 카운터를 놓는다.\n이번 턴 당신이 다음에 부스트하는 공격이 +2{p}을 얻는다.\n고 어게인"
+  },
+  "HWDPBPpKBd7kdJdHpbw9t": {
+    "_name_en": "Reach Beyond the Grave",
+    "name_ko": "무덤 너머로 손을 뻗다",
+    "text_ko": "액션 - 이것을 파괴한다: 당신의 무덤에서 아군 카드 1장을 손으로 되돌린 뒤, 카드 1장을 버린다. 고 어게인\n배틀원"
+  },
+  "z9CNDD6c68JqKb8QQ8Wjb": {
+    "_name_en": "Read the Glide Path",
+    "name_ko": "활공 경로를 읽다",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +3{p}을 얻는다.\n옵트 1\n고 어게인"
+  },
+  "MzRFtCdNMBczjRpGjwwqJ": {
+    "_name_en": "Read the Glide Path",
+    "name_ko": "활공 경로를 읽다",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +2{p}을 얻는다.\n옵트 1\n고 어게인"
+  },
+  "dN67MttzDLBTqmCWdDQ9M": {
+    "_name_en": "Read the Glide Path",
+    "name_ko": "활공 경로를 읽다",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +1{p}을 얻는다.\n옵트 1\n고 어게인"
+  },
+  "zThcPg6qzTqM7KB9CWfPR": {
+    "_name_en": "Read the Ripples",
+    "name_ko": "파문을 읽다",
+    "text_ko": "당신의 종료 단계 시작 시, 파문을 읽다를 파괴한 뒤 옵트 1, 옵트 1, 옵트 1을 하고 카드 1장을 뽑는다."
+  },
+  "kHhNjTJT9tjGbTC8pjMqH": {
+    "_name_en": "Read the Ripples",
+    "name_ko": "파문을 읽다",
+    "text_ko": "당신의 종료 단계 시작 시, 파문을 읽다를 파괴한 뒤 옵트 1, 옵트 1을 하고 카드 1장을 뽑는다."
+  },
+  "nMRtfcbTWpppMnBJ6R8qr": {
+    "_name_en": "Read the Ripples",
+    "name_ko": "파문을 읽다",
+    "text_ko": "당신의 종료 단계 시작 시, 파문을 읽다를 파괴한 뒤 옵트 1을 하고 카드 1장을 뽑는다."
+  },
+  "gt9cjT8zwMBHj77R76H77": {
+    "_name_en": "Read the Runes",
+    "name_ko": "룬을 읽다",
+    "text_ko": "룬챈트 토큰 3개를 생성한다."
+  },
+  "McR66NfcGM8bnwMGbPL8H": {
+    "_name_en": "Read the Runes",
+    "name_ko": "룬을 읽다",
+    "text_ko": "룬챈트 토큰 2개를 생성한다."
+  },
+  "6QfkfBbmfr77GMbDTTbLw": {
+    "_name_en": "Read the Runes",
+    "name_ko": "룬을 읽다",
+    "text_ko": "룬챈트 토큰 1개를 생성한다."
+  },
+  "ppcpmnFc99GT8bbwbCBth": {
+    "_name_en": "Ready to Roll",
+    "name_ko": "구를 준비 완료",
+    "text_ko": "카요 스페셜라이제이션\n이번 턴 당신이 주사위를 1개 이상 굴리게 될 경우, 대신 그만큼에 1을 더해 굴리고 가장 낮은 값을 무시한다.\n고 어게인"
+  },
+  "T8JJgk7GLGpcDQWWN9RH7": {
+    "_name_en": "Reality Refractor",
+    "name_ko": "현실 굴절기",
+    "text_ko": "당신이 조종하는 일루저니스트 오라는 기본 {p} 5를 가지고 \"턴당 1회 액션 - {r}{r}: 공격\"을 가진 무기가 된다"
+  },
+  "bMLgLcCJHFbLj6bwqqNRN": {
+    "_name_en": "Reaper's Call",
+    "name_ko": "저승사자의 부름",
+    "text_ko": "스텔스\n순간 - 이것을 버린다: 대상 상대 영웅에게 표식을 남긴다."
+  },
+  "9nTj8GF9trQwMPgCzGq8w": {
+    "_name_en": "Reaper's Call",
+    "name_ko": "저승사자의 부름",
+    "text_ko": "스텔스\n순간 - 이것을 버린다: 대상 상대 영웅에게 표식을 남긴다."
+  },
+  "fdPTtmjCBrQLfrMFNQb6P": {
+    "_name_en": "Reaper's Call",
+    "name_ko": "저승사자의 부름",
+    "text_ko": "스텔스\n순간 - 이것을 버린다: 대상 상대 영웅에게 표식을 남긴다."
+  },
+  "HrWqnWfcFNdKB7TLnBLtC": {
+    "_name_en": "Reaping Blade",
+    "name_ko": "수확의 검",
+    "text_ko": "턴당 1회 액션 - {r}: 공격\n영웅이 다른 어떤 영웅보다 {h}이 많다면, 그는 {h}을 얻을 수 없다."
+  },
+  "TBw6LqgGqtfjFjgTc8df8": {
+    "_name_en": "Rebellious Rush",
+    "name_ko": "반항의 쇄도",
+    "text_ko": "고 어게인"
+  },
+  "rPWHqNjBzFDtRjRhLqqDG": {
+    "_name_en": "Rebellious Rush",
+    "name_ko": "반항의 쇄도",
+    "text_ko": "고 어게인"
+  },
+  "zHJtcC6C7FgrmmqHgtJkf": {
+    "_name_en": "Rebellious Rush",
+    "name_ko": "반항의 쇄도",
+    "text_ko": "고 어게인"
+  },
+  "6rMqWGtD7TMCrTRwdN6hH": {
+    "_name_en": "Recede to Mistform",
+    "name_ko": "안개형으로 물러나다",
+    "text_ko": "당신이 장착한, 클로크를 가진 장비 X개를 선택한다. 그것들을 뒷면으로 뒤집는다."
+  },
+  "QDQgkJbfM7Dm8nrm8CDND": {
+    "_name_en": "Reckless Arithmetic",
+    "name_ko": "무모한 산술",
+    "text_ko": "이 카드가 공격할 때, 6면체 주사위를 굴린다. 이 카드가 +X{p}을 얻는다. X는 굴린 숫자이다."
+  },
+  "mRjQC9fPztGKb7NJ68gkc": {
+    "_name_en": "Reckless Charge",
+    "name_ko": "무모한 돌격",
+    "text_ko": "카요 스페셜라이제이션\n6면체 주사위를 굴린다. 굴린 숫자의 절반만큼(내림) 액션 포인트를 얻는다.\n이번 턴에 주사위에서 6을 굴린 적이 있다면, 카드 1장을 뽑는다."
+  },
+  "bK9BLkb6M9JHT798FHgLP": {
+    "_name_en": "Reckless Stampede",
+    "name_ko": "무모한 질주",
+    "text_ko": "카드가 이 카드를 방어할 때마다, 방어 영웅과 클래시한다. 승자가 다른 각 영웅에게 피해 1을 준다. 각 영웅은 자신이 공개한 카드를 소유자의 덱 맨 아래에 놓을 수 있다."
+  },
+  "mmtHRdGFhPtwR8LF8tq6p": {
+    "_name_en": "Reckless Swing",
+    "name_ko": "무모한 스윙",
+    "text_ko": "무모한 스윙을 사용하기 위한 추가 비용으로, 무작위 카드 1장을 버린다.\n버린 카드가 {p} 6 이상이면, 공격하는 영웅에게 피해 2를 준다."
+  },
+  "bPqdbNw8HjNhTcGFGnQrB": {
+    "_name_en": "Recoil",
+    "name_ko": "반동",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 헤드 잽이었다면, 이 카드는 \"이 카드가 영웅을 명중하면, 그가 자신의 손에서 카드 1장을 덱 맨 위에 놓는다\"를 가진다."
+  },
+  "g8kNtFJgzPzDjzrhChg7D": {
+    "_name_en": "Recoil",
+    "name_ko": "반동",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 헤드 잽이었다면, 이 카드는 \"이 카드가 영웅을 명중하면, 그가 자신의 손에서 카드 1장을 덱 맨 위에 놓는다\"를 가진다."
+  },
+  "qrNWkLCjtjGd6pztdtcQb": {
+    "_name_en": "Recoil",
+    "name_ko": "반동",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 헤드 잽이었다면, 이 카드는 \"이 카드가 영웅을 명중하면, 그가 자신의 손에서 카드 1장을 덱 맨 위에 놓는다\"를 가진다."
   }
 }
