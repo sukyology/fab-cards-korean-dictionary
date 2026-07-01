@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sukyology.github.io/fab-cards-korean-dictionary/sitemap.xml
+Sitemap: https://fab.dol-dari.com/sitemap.xml
