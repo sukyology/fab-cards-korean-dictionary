@@ -11907,5 +11907,619 @@
     "_name_en": "Lay Waste",
     "name_ko": "파괴하다",
     "text_ko": "부스트\n이 카드는 장비로 방어할 수 없다."
+  },
+  "qcTNqDCwM6jHP7QjBb7tN": {
+    "_name_en": "Lead the Charge",
+    "name_ko": "돌격을 이끌다",
+    "text_ko": "이번 턴 당신이 다음에 비용 0 이상인 액션 카드를 사용할 때, 액션 포인트 1을 얻는다.\n고 어게인"
+  },
+  "PBLrCPQwdHtqcFgWbR9qk": {
+    "_name_en": "Lead the Charge",
+    "name_ko": "돌격을 이끌다",
+    "text_ko": "이번 턴 당신이 다음에 비용 1 이상인 액션 카드를 사용할 때, 액션 포인트 1을 얻는다.\n고 어게인"
+  },
+  "86rPJjLKBzfmJm76C9z8N": {
+    "_name_en": "Lead the Charge",
+    "name_ko": "돌격을 이끌다",
+    "text_ko": "이번 턴 당신이 다음에 비용 2 이상인 액션 카드를 사용할 때, 액션 포인트 1을 얻는다.\n고 어게인"
+  },
+  "CTq6Kdn7WcJ87LzrmznkH": {
+    "_name_en": "Lead with Heart",
+    "name_ko": "마음으로 이끌다",
+    "text_ko": "이번 턴 당신의 다음 가디언 또는 워리어 공격이 +3{p}을 얻는다.\n비거 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "QqFg7dmp9NTgKcr88p6KG": {
+    "_name_en": "Lead with Heart",
+    "name_ko": "마음으로 이끌다",
+    "text_ko": "이번 턴 당신의 다음 가디언 또는 워리어 공격이 +2{p}을 얻는다.\n비거 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "mRhcrTprzbbdTbB9gdTHw": {
+    "_name_en": "Lead with Heart",
+    "name_ko": "마음으로 이끌다",
+    "text_ko": "이번 턴 당신의 다음 가디언 또는 워리어 공격이 +1{p}을 얻는다.\n비거 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "zCCQtzBrr9QWp6fqDQNrC": {
+    "_name_en": "Lead with Power",
+    "name_ko": "힘으로 이끌다",
+    "text_ko": "이번 턴 당신의 다음 브루트 또는 가디언 공격이 +3{p}을 얻는다.\n마이트 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "PNLWb9zzTRkcJ6Dbrg67G": {
+    "_name_en": "Lead with Power",
+    "name_ko": "힘으로 이끌다",
+    "text_ko": "이번 턴 당신의 다음 브루트 또는 가디언 공격이 +2{p}을 얻는다.\n마이트 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "WbckgKBJq6kBM88nRFGmB": {
+    "_name_en": "Lead with Power",
+    "name_ko": "힘으로 이끌다",
+    "text_ko": "이번 턴 당신의 다음 브루트 또는 가디언 공격이 +1{p}을 얻는다.\n마이트 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "W8LHRTQFddrfnG8ptNjHW": {
+    "_name_en": "Lead with Speed",
+    "name_ko": "속도로 이끌다",
+    "text_ko": "이번 턴 당신의 다음 브루트 또는 워리어 공격이 +3{p}을 얻는다.\n어질리티 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "nwCQmwCJLFCtDCBtH8mfD": {
+    "_name_en": "Lead with Speed",
+    "name_ko": "속도로 이끌다",
+    "text_ko": "이번 턴 당신의 다음 브루트 또는 워리어 공격이 +2{p}을 얻는다.\n어질리티 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "9fPKGQrHcMrfMjQ7MqgGL": {
+    "_name_en": "Lead with Speed",
+    "name_ko": "속도로 이끌다",
+    "text_ko": "이번 턴 당신의 다음 브루트 또는 워리어 공격이 +1{p}을 얻는다.\n어질리티 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "RBnkrB6LWQHFDcD8RjcWT": {
+    "_name_en": "Leap Frog Gloves",
+    "name_ko": "개구리 도약 장갑",
+    "text_ko": "상대가 공격 반응을 사용하거나 활성화할 때, 이것을 활성 체인 링크에 방어 카드로 추가할 수 있다.\n블레이드 브레이크"
+  },
+  "8mrLmWTr8TBJgjCpzBzmB": {
+    "_name_en": "Leap Frog Leggings",
+    "name_ko": "개구리 도약 각반",
+    "text_ko": "상대가 공격 반응을 사용하거나 활성화할 때, 이것을 활성 체인 링크에 방어 카드로 추가할 수 있다.\n블레이드 브레이크"
+  },
+  "TQL89gnkPdTLrbr8HNtgf": {
+    "_name_en": "Leap Frog Slime Skin",
+    "name_ko": "개구리 도약 점액 피부",
+    "text_ko": "상대가 공격 반응을 사용하거나 활성화할 때, 이것을 활성 체인 링크에 방어 카드로 추가할 수 있다.\n블레이드 브레이크"
+  },
+  "6Gqn7z8PhLkHtBnF7MmwJ": {
+    "_name_en": "Leap Frog Vocal Sac",
+    "name_ko": "개구리 도약 울음주머니",
+    "text_ko": "상대가 공격 반응을 사용하거나 활성화할 때, 이것을 활성 체인 링크에 방어 카드로 추가할 수 있다.\n블레이드 브레이크"
+  },
+  "FB7cMqjrQpWQqFhmPn7Hk": {
+    "_name_en": "Leave 'Em Speechless",
+    "name_ko": "할 말을 잃게 하다",
+    "text_ko": "당신이 다른 모든 영웅보다 {h}이 많다면, 이것을 순간 카드인 것처럼 사용할 수 있다.\n이것이 전장에 들어올 때, 카드 이름 1개를 지정한다. 이것이 전장에 있는 동안 지정된 카드는 손에서 사용할 수 없다.\n당신의 액션 단계 시작 시, 이것을 파괴한다."
+  },
+  "WpmPhMcL97wRCPfz8nzgR": {
+    "_name_en": "Leave a Dent",
+    "name_ko": "흔적을 남기다",
+    "text_ko": "이번 턴 당신의 다음 가디언 공격이 \"크러쉬 - 이 카드가 영웅에게 피해 4 이상을 줄 때, 그의 덱 맨 위 4장을 파괴한다\"를 얻는다.\n고 어게인"
+  },
+  "zWjNwt6zMt9hMq9TDKJWp": {
+    "_name_en": "Leave No Witnesses",
+    "name_ko": "목격자를 남기지 않는다",
+    "text_ko": "계약 - 당신은 상대의 빨간색 카드를 추방하기로 계약한다. 이 계약을 완료할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드와 그의 아스날에 있는 카드 최대 1장을 추방한다."
+  },
+  "jhcWTqd8Thf6gwbNGKqwh": {
+    "_name_en": "Leave Them Hanging",
+    "name_ko": "애태우게 하다",
+    "text_ko": "서스펜스\n이것이 전장에 들어오거나 떠날 때, 대상 영웅을 인티미데이트한다.\n이것이 전장을 떠날 때, 이번 턴 당신의 다음 공격이 +4{p}을 얻는다."
+  },
+  "qftcQd6NJhpQkfCczqLF7": {
+    "_name_en": "Leaven Sheath",
+    "name_ko": "발효의 칼집",
+    "text_ko": "대지 결속 - 이 카드를 사용하기 위해 대지 카드가 피치되었다면, 대지의 화신 토큰 1개를 생성한다."
+  },
+  "TqcqHwCjGhFkzkFCthwtd": {
+    "_name_en": "Leech Memory",
+    "name_ko": "기억을 흡수하다",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 +3{p}과 \"이것이 영웅에게 피해를 줄 때마다, 당신의 무덤에서 공격 액션 카드를 덱 맨 아래에 놓을 수 있다\"를 얻는다.\n고 어게인"
+  },
+  "mHqPTDJhBrhWtLCrRBWbf": {
+    "_name_en": "Leech Renown",
+    "name_ko": "명성을 흡수하다",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 +3{p}과 \"이것이 영웅에게 피해를 줄 때마다, 그가 조종하는 오라 토큰 1개를 파괴한다\"를 얻는다.\n고 어게인"
+  },
+  "9DqgBgRpB9C8cTRFjL8Gm": {
+    "_name_en": "Leech Vitality",
+    "name_ko": "생기를 흡수하다",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 +3{p}과 \"이것이 영웅에게 피해를 줄 때마다, 1{h}을 얻는다\"를 얻는다.\n고 어게인"
+  },
+  "Thbcg9RW9t8WNfMCpgNmk": {
+    "_name_en": "Leg Tap",
+    "name_ko": "다리 태클",
+    "text_ko": "고 어게인"
+  },
+  "9K6tW9Kcqfc67PtcgmNTP": {
+    "_name_en": "Leg Tap",
+    "name_ko": "다리 태클",
+    "text_ko": "고 어게인"
+  },
+  "dcWdcd8Q6tnPKDT6nKkjH": {
+    "_name_en": "Leg Tap",
+    "name_ko": "다리 태클",
+    "text_ko": "고 어게인"
+  },
+  "JcTJrnMgfhqHj6b8ckr8W": {
+    "_name_en": "Legacy of Ikaru",
+    "name_ko": "이카루의 유산",
+    "text_ko": "대상 닌자 공격이 +1{p}과 \"이것이 명중하면, 이번 전투 체인에서 마지막 공격이 에지 오브 오텀이었다면, 카드 1장을 뽑는다\"를 얻는다."
+  },
+  "DGNn7nRKwBjzf9f9rmzJM": {
+    "_name_en": "Lesson in Lava",
+    "name_ko": "용암의 교훈",
+    "text_ko": "카노 스페셜라이제이션\n대상 상대 영웅에게 비전 피해 3을 준다.\n용암의 교훈이 피해를 주면, 당신의 덱에서 용암의 교훈이 준 피해 이하의 {r} 비용을 가진 위저드 카드를 찾아 공개한 뒤, 덱을 섞고 덱 맨 위에 놓을 수 있다."
+  },
+  "tgkMhwLnr8kh6pcR86nR6": {
+    "_name_en": "Let Me Buy You a Drink",
+    "name_ko": "한 잔 사드리죠",
+    "text_ko": "당신이 조종하는 골드 1개를 파괴한다.\n상대 1명을 선택한다. 그가 카드 1장을 뽑는다. 당신의 다음 턴 시작 시까지, 그가 조종하는, 당신을 대상으로 하는 공격이 -2{p}을 얻는다."
+  },
+  "PzdWT6J9q9kMDBkMpjC9F": {
+    "_name_en": "Levels of Enlightenment",
+    "name_ko": "깨달음의 단계",
+    "text_ko": "이 카드가 공격할 때, 이번 턴에 당신이 피치한 파란색 카드마다 하나를 선택한다;\n- 카드 1장을 뽑는다.\n- 이 카드가 +2{p}을 얻는다.\n- 이 카드가 고 어게인을 얻는다."
+  },
+  "WwzJLfPwhRTkFLDNjJPrk": {
+    "_name_en": "Levia",
+    "name_ko": "레비아",
+    "text_ko": "이번 턴에 {p} 6 이상인 카드가 당신의 추방 구역에 놓인 적이 있다면, 당신이 소유한 카드들은 종료 단계 동안 블러드 뎃을 잃는다."
+  },
+  "qjqqRn6kHWHGz6PQGWd7z": {
+    "_name_en": "Levia, Redeemed",
+    "name_ko": "레비아, 구원받은 자",
+    "text_ko": "레전더리 레비아 스페셜라이제이션\n액션 - 당신의 추방 구역에 있는 모든 카드를 뒷면으로 뒤집는다: 구원받은 레비아로 변신한다. 이것이 당신의 인벤토리에 있고 당신의 추방 구역에 블러드 뎃을 가진 카드가 13장 이상 있을 때만 이 능력을 활성화한다.\n당신이 소유한 카드들은 블러드 뎃을 잃는다."
+  },
+  "KCwnGqDJtnmJfth7fn8Qq": {
+    "_name_en": "Levia, Shadowborn Abomination",
+    "name_ko": "레비아, 그림자에서 태어난 괴물",
+    "text_ko": "이번 턴에 {p} 6 이상인 카드가 당신의 추방 구역에 놓인 적이 있다면, 당신이 소유한 카드들은 종료 단계 동안 블러드 뎃을 잃는다."
+  },
+  "GFc7t8wNTwC8rCFwrqTfh": {
+    "_name_en": "Lexi",
+    "name_ko": "렉시",
+    "text_ko": "얼음과 번개의 정수\n턴당 1회 액션 - 당신의 아스날에 뒷면으로 있는 카드 1장을 앞면으로 뒤집는다: 그것이 번개 카드라면, 이번 턴 당신의 다음 공격이 고 어게인을 얻는다. 그것이 얼음 카드라면, 대상 영웅의 조종 하에 프로스트바이트 토큰 1개를 생성한다. 고 어게인"
+  },
+  "PFmgFK9dFr8q6PrpJFpPG": {
+    "_name_en": "Lexi, Livewire",
+    "name_ko": "렉시, 라이브와이어",
+    "text_ko": "얼음과 번개의 정수\n턴당 1회 액션 - 당신의 아스날에 뒷면으로 있는 카드 1장을 앞면으로 뒤집는다: 그것이 번개 카드라면, 이번 턴 당신의 다음 공격이 고 어게인을 얻는다. 그것이 얼음 카드라면, 대상 영웅의 조종 하에 프로스트바이트 토큰 1개를 생성한다. 고 어게인"
+  },
+  "LWD8GBDqqgnWHmLBzdTh7": {
+    "_name_en": "Ley Line of the Old Ones",
+    "name_ko": "옛것들의 지맥",
+    "text_ko": "레전더리\n이것이 전장에 들어올 때와 당신이 피해를 줄 때마다, 지진 파동 토큰 1개를 생성한다. 당신의 종료 단계 시작 시, 당신이 지진 파동 토큰을 조종하고 있지 않다면, 이것을 파괴한다."
+  },
+  "cHPKptkbztKtj7bQnWmmP": {
+    "_name_en": "Liar's Charm",
+    "name_ko": "거짓말쟁이의 매력",
+    "text_ko": "원하는 수를 선택한다;\n- 터프니스나 비거 토큰을 훔친다.\n- 관중이 당신에게 야유한다.\n- 대상 영웅은 카드 1장을 버리지 않는 한 이번 액션 단계에 능력을 잃고 얻을 수 없다."
+  },
+  "qqzmLCbJJ6nwQGtzrJMcL": {
+    "_name_en": "Life for a Life",
+    "name_ko": "생명을 위한 생명",
+    "text_ko": "이것이 사용되면, 당신이 상대 영웅보다 {h}이 적다면, 고 어게인을 얻는다.\n이것이 명중하면, 1{h}을 얻는다."
+  },
+  "9HfD8KjKKWFc6CfCjKp9p": {
+    "_name_en": "Life for a Life",
+    "name_ko": "생명을 위한 생명",
+    "text_ko": "이것이 사용되면, 당신이 상대 영웅보다 {h}이 적다면, 고 어게인을 얻는다.\n이것이 명중하면, 1{h}을 얻는다."
+  },
+  "qGLzQjzncCQztM6QrtwPn": {
+    "_name_en": "Life for a Life",
+    "name_ko": "생명을 위한 생명",
+    "text_ko": "이것이 사용되면, 당신이 상대 영웅보다 {h}이 적다면, 고 어게인을 얻는다.\n이것이 명중하면, 1{h}을 얻는다."
+  },
+  "LJ9FRbpjJLcpHMM6wk6HW": {
+    "_name_en": "Life of the Party",
+    "name_ko": "파티의 주인공",
+    "text_ko": "파티의 주인공의 {r} 비용을 지불하는 대신, 당신이 조종하는 크레이지 브루라는 이름의 카드 1장을 버리거나 파괴할 수 있다. 그렇게 하면, 모든 모드를 선택하고, 그렇지 않으면 무작위로 1개를 선택한다;\n\n이 카드가 \"이것이 명중하면, 생명 2{h}을 얻는다\"를 얻는다.\n이 카드가 +2{p}을 얻는다.\n이 카드가 고 어게인을 얻는다."
+  },
+  "7frtgrpJFT9fmwbnbfrP6": {
+    "_name_en": "Life of the Party",
+    "name_ko": "파티의 주인공",
+    "text_ko": "파티의 주인공의 {r} 비용을 지불하는 대신, 당신이 조종하는 크레이지 브루라는 이름의 카드 1장을 버리거나 파괴할 수 있다. 그렇게 하면, 모든 모드를 선택하고, 그렇지 않으면 무작위로 1개를 선택한다;\n\n이 카드가 \"이것이 명중하면, 생명 2{h}을 얻는다\"를 얻는다.\n이 카드가 +2{p}을 얻는다.\n이 카드가 고 어게인을 얻는다."
+  },
+  "bbgPwChkMppQBfwfrfTtL": {
+    "_name_en": "Life of the Party",
+    "name_ko": "파티의 주인공",
+    "text_ko": "파티의 주인공의 {r} 비용을 지불하는 대신, 당신이 조종하는 크레이지 브루라는 이름의 카드 1장을 버리거나 파괴할 수 있다. 그렇게 하면, 모든 모드를 선택하고, 그렇지 않으면 무작위로 1개를 선택한다;\n\n이 카드가 \"이것이 명중하면, 생명 2{h}을 얻는다\"를 얻는다.\n이 카드가 +2{p}을 얻는다.\n이 카드가 고 어게인을 얻는다."
+  },
+  "QCpd7ctKhtN7LCP8FqkmP": {
+    "_name_en": "Light Fingers",
+    "name_ko": "손버릇 나쁜 손가락",
+    "text_ko": "이 카드가 방어할 때, 당신이 씨프라면, 공격하는 영웅이 조종하는 골드 토큰 1개를 훔친다.\n블레이드 브레이크"
+  },
+  "7hLgJ6QwzWmFrG8phh9qb": {
+    "_name_en": "Light it Up",
+    "name_ko": "불을 붙이다",
+    "text_ko": "렉시 스페셜라이제이션\n번개 퓨전\n불을 붙이다가 퓨전되었다면, \"이것이 영웅을 명중하면, 그가 조종하는 장비 1개당 피해 1을 준다\"를 얻는다.\n불을 붙이다가 영웅이 조종하는 장비 수 이상의 피해를 그에게 주면, 그가 조종하는 장비들은 그의 다음 턴 종료 시까지 활성화 능력을 잃고 얻을 수 없다."
+  },
+  "76cHnpRhNn7GWNNfFbNhL": {
+    "_name_en": "Light of Sol",
+    "name_ko": "솔의 빛",
+    "text_ko": "레전더리\n이것이 피치되면, 당신 덱 맨 위 카드를 공개한다. 그것이 노란색이면, 당신 영웅의 소울에 놓을 수 있다."
+  },
+  "dJkTjzNPzkH9fc98PJdDk": {
+    "_name_en": "Light the Way",
+    "name_ko": "길을 밝히다",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 당신 영웅의 소울을 충전할 수 있다.\n이것이 명중하면, 이렇게 노란색 카드가 충전되었다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "N8hnQ98bBq7GrpTh8Pzmt": {
+    "_name_en": "Light the Way",
+    "name_ko": "길을 밝히다",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 당신 영웅의 소울을 충전할 수 있다.\n이것이 명중하면, 이렇게 노란색 카드가 충전되었다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "TGKkqC6BBFJnggLzKtDLt": {
+    "_name_en": "Light the Way",
+    "name_ko": "길을 밝히다",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 당신 영웅의 소울을 충전할 수 있다.\n이것이 명중하면, 이렇게 노란색 카드가 충전되었다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "hcPBRGtmCKRBDMFBTJFbT": {
+    "_name_en": "Light Up the Leaves",
+    "name_ko": "잎사귀를 밝히다",
+    "text_ko": "아무 대상에게 비전 피해 6을 준다.\n순간 - 이것과 대지 카드 1장을 버린다: 이번 턴 대상 발생원이 줄 다음 비전 피해 6을 방지한다."
+  },
+  "7RfrHFWkjkHMNWcjDt6WN": {
+    "_name_en": "Lighten the Load",
+    "name_ko": "짐을 가볍게 하다",
+    "text_ko": "이 카드가 공격할 때, 카드 1장을 버리거나 당신이 조종하는 아이템 1개를 파괴할 수 있다. 그렇게 하면, 이 카드가 고 어게인을 얻는다."
+  },
+  "GnDRMjpN6tGrNfBzcB89N": {
+    "_name_en": "Lighten the Load",
+    "name_ko": "짐을 가볍게 하다",
+    "text_ko": "이 카드가 공격할 때, 카드 1장을 버리거나 당신이 조종하는 아이템 1개를 파괴할 수 있다. 그렇게 하면, 이 카드가 고 어게인을 얻는다."
+  },
+  "9JHthWCT8wtfWqQqnMLjb": {
+    "_name_en": "Lighten the Load",
+    "name_ko": "짐을 가볍게 하다",
+    "text_ko": "이 카드가 공격할 때, 카드 1장을 버리거나 당신이 조종하는 아이템 1개를 파괴할 수 있다. 그렇게 하면, 이 카드가 고 어게인을 얻는다."
+  },
+  "NzHWJJzD6JwJ88LmRTTGQ": {
+    "_name_en": "Lightning Flow",
+    "name_ko": "라이트닝 플로우"
+  },
+  "DdtptrGpgDbnbDJgktBtk": {
+    "_name_en": "Lightning Form",
+    "name_ko": "번개 형상",
+    "text_ko": "이것이 명중하면, 번개의 화신 토큰 1개를 생성한다."
+  },
+  "qkQLJNc7RM6LcztMdbrfz": {
+    "_name_en": "Lightning Form",
+    "name_ko": "번개 형상",
+    "text_ko": "이것이 명중하면, 번개의 화신 토큰 1개를 생성한다."
+  },
+  "pLbjgzrzbGMwcd8mbRcRG": {
+    "_name_en": "Lightning Form",
+    "name_ko": "번개 형상",
+    "text_ko": "이것이 명중하면, 번개의 화신 토큰 1개를 생성한다."
+  },
+  "dpPzdRQgfkBRgcHbWMQpt": {
+    "_name_en": "Lightning Greaves",
+    "name_ko": "번개 각반",
+    "text_ko": "순간 - {r}, 이것을 파괴한다: 이번 턴 당신이 사용하는 순간 카드들이 고 어게인을 얻는다.\n아케인 배리어 1\n배틀원"
+  },
+  "9TcGzWhGzwHnn7FqfPbfR": {
+    "_name_en": "Lightning Overload",
+    "name_ko": "번개 과부하",
+    "text_ko": "아무 대상에게 비전 피해 4를 준다.\n스타폴 - 이번 턴에 순간 카드가 당신의 무덤에 놓인 적이 있다면, 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "tBQtc8qMLfnmmGWCtFH9z": {
+    "_name_en": "Lightning Overload",
+    "name_ko": "번개 과부하",
+    "text_ko": "아무 대상에게 비전 피해 3을 준다.\n스타폴 - 이번 턴에 순간 카드가 당신의 무덤에 놓인 적이 있다면, 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "mp8HwB7fRRz7wK9fRrTmw": {
+    "_name_en": "Lightning Overload",
+    "name_ko": "번개 과부하",
+    "text_ko": "아무 대상에게 비전 피해 2를 준다.\n스타폴 - 이번 턴에 순간 카드가 당신의 무덤에 놓인 적이 있다면, 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "QWgWwdcd8GPj8dCjCmRCR": {
+    "_name_en": "Lightning Press",
+    "name_ko": "번개 압박",
+    "text_ko": "비용 1 이하인 대상 공격 액션 카드가 +3{p}을 얻는다."
+  },
+  "CNgPdMm79nkPHpnqGQCFd": {
+    "_name_en": "Lightning Press",
+    "name_ko": "번개 압박",
+    "text_ko": "비용 1 이하인 대상 공격 액션 카드가 +2{p}을 얻는다."
+  },
+  "bjwkrWNdkhrMrPjMtdRmm": {
+    "_name_en": "Lightning Press",
+    "name_ko": "번개 압박",
+    "text_ko": "비용 1 이하인 대상 공격 액션 카드가 +1{p}을 얻는다."
+  },
+  "8BFGd6LjfLGgTBrJdmdqf": {
+    "_name_en": "Lightning Surge",
+    "name_ko": "번개 쇄도",
+    "text_ko": "이것이 아스날에서 사용되었다면, 고 어게인을 얻는다."
+  },
+  "b7tLTkWGQtKDhqKG9fjQq": {
+    "_name_en": "Lightning Surge",
+    "name_ko": "번개 쇄도",
+    "text_ko": "이것이 아스날에서 사용되었다면, 고 어게인을 얻는다."
+  },
+  "6CrqfmG7dCTFgNzLbKtcc": {
+    "_name_en": "Lightning Surge",
+    "name_ko": "번개 쇄도",
+    "text_ko": "이것이 아스날에서 사용되었다면, 고 어게인을 얻는다."
+  },
+  "R6NHGRHdjzP77nfqbDGHM": {
+    "_name_en": "Limbs of Lignum Vitae",
+    "name_ko": "리그넘 비테의 팔",
+    "text_ko": "당신의 추방 구역에 대지 카드가 4장 이상 있다면, 이 카드가 +1{d}을 얻는다.\n블레이드 브레이크"
+  },
+  "cw7GLPjtPFqMHJthzJCbw": {
+    "_name_en": "Limpit, Hop-a-long",
+    "name_ko": "림핏, 홉-어-롱",
+    "text_ko": "액션 - {r}, {t}: 공격. 고 어게인\n워터리 그레이브"
+  },
+  "8CRqBFWrD7R7kCrnJbKr9": {
+    "_name_en": "Line",
+    "name_ko": "낚싯줄",
+    "text_ko": "당신 덱 맨 위 카드를 확인한다. 그것이 화살이라면, 앞면으로 아스날에 놓을 수 있다. 그렇게 하면, 이번 턴 고 어게인을 얻는다.\n고 어게인"
+  },
+  "7DfN7NwW9WbTpDNhFW8qW": {
+    "_name_en": "Line Crossers",
+    "name_ko": "선을 넘는 자들",
+    "text_ko": "당신이 영웅과 {h}이 같다면, 당신이 그보다 {h}이 많은 것으로도, 그가 당신보다 {h}이 적은 것으로도 취급한다.\n블레이드 브레이크"
+  },
+  "htRtFwB8MhppFMqwLnNzK": {
+    "_name_en": "Line It Up",
+    "name_ko": "조준하다",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +3{p}을 얻는다.\n당신의 아스날에 뒷면으로 있는 화살을 앞면으로 뒤집을 수 있다. 그렇게 하면, 여기에 조준 카운터를 놓는다.\n고 어게인"
+  },
+  "pdQGjBWQgfnrqhhLDGMkC": {
+    "_name_en": "Lion's Pounce",
+    "name_ko": "사자의 도약",
+    "text_ko": "이 카드가 각 영웅을 공격한다."
+  },
+  "zRDd7cPpPd6KgTNtRPhbQ": {
+    "_name_en": "Lionclaw Maul",
+    "name_ko": "사자발톱 도끼몽둥이",
+    "text_ko": "액션 - {r}{r}, {t}: 공격\n이 카드가 기본값을 초과하는 {p}을 가지고 있다면, +1{p}을 얻는다.\n이 카드가 영웅을 명중하면, 관중이 당신에게 야유한다."
+  },
+  "qKWKLWtD8fBWHrRbKrwkT": {
+    "_name_en": "Liquefy",
+    "name_ko": "액화",
+    "text_ko": "럽처 - 액화가 체인 링크 4 이상으로 사용되면, 대상 공격 액션 카드가 \"이 카드가 영웅을 명중하면, 그가 조종하는 장비에 -1{d} 카운터를 놓는다. 그런 다음 그것이 {d} 0이면, 파괴한다\"를 얻는다."
+  },
+  "p7QGFtHCDtj6b8r6wLFwB": {
+    "_name_en": "Liquid-Cooled Mayhem",
+    "name_ko": "액체 냉각 대혼란",
+    "text_ko": "에보 업그레이드 - 당신이 장착한 에보 1개당 이 카드는 사용하는 데 {r}이 덜 든다."
+  },
+  "BzhRqCc9TLjNgJ9dKDPfc": {
+    "_name_en": "Liquid-Cooled Mayhem",
+    "name_ko": "액체 냉각 대혼란",
+    "text_ko": "에보 업그레이드 - 당신이 장착한 에보 1개당 이 카드는 사용하는 데 {r}이 덜 든다."
+  },
+  "WrpTBBHz9Qgf79MwRGtCP": {
+    "_name_en": "Liquid-Cooled Mayhem",
+    "name_ko": "액체 냉각 대혼란",
+    "text_ko": "에보 업그레이드 - 당신이 장착한 에보 1개당 이 카드는 사용하는 데 {r}이 덜 든다."
+  },
+  "gnkkkrwCnGpp7g8JHjFpK": {
+    "_name_en": "Little Big Foot",
+    "name_ko": "작은 빅풋",
+    "text_ko": "당신의 피치 존에 비용 3 이상인 카드가 2장 이상 있다면, 이 카드가 +6{p}을 얻는다."
+  },
+  "9gHbFNMgRMfPHDQFB7pfq": {
+    "_name_en": "Little Big Foot",
+    "name_ko": "작은 빅풋",
+    "text_ko": "당신의 피치 존에 비용 3 이상인 카드가 2장 이상 있다면, 이 카드가 +5{p}을 얻는다."
+  },
+  "DTzNKfTmjP6QLP8W8TpdF": {
+    "_name_en": "Little Big Foot",
+    "name_ko": "작은 빅풋",
+    "text_ko": "당신의 피치 존에 비용 3 이상인 카드가 2장 이상 있다면, 이 카드가 +4{p}을 얻는다."
+  },
+  "HfTqKQj6gGzCwwdFhdLQL": {
+    "_name_en": "Livewire Press",
+    "name_ko": "라이브와이어 압박",
+    "text_ko": "대상 번개 공격 액션 카드가 \"이 카드가 영웅을 명중하면, 그에게 피해 4를 준다\"를 얻는다."
+  },
+  "88GhcGBpR8WDWQRr87hcn": {
+    "_name_en": "Loan Shark",
+    "name_ko": "사채업자",
+    "text_ko": "고 어게인\n이것이 전장에 들어올 때, 골드 토큰 2개를 생성한다.\n당신의 종료 단계 시작 시, 이번 턴에 골드를 생성하거나 훔치지 않았다면, 이것을 파괴한 뒤, 카드 1장을 버리지 않는 한 2{h}을 잃는다."
+  },
+  "tdCWDz6H6CWDMJ7CChhzW": {
+    "_name_en": "Lobotomy",
+    "name_ko": "전두엽 절제술",
+    "text_ko": "스텔스\n이 카드가 공격할 때, 당신의 인벤토리에서 오르비토클래스트를 장착할 수 있다.\n이 카드가 영웅을 명중하면, 당신이 오르비토클래스트를 조종하고 있다면, 그는 자신의 다음 액션 단계 동안 모든 영웅 카드 능력을 잃는다."
+  },
+  "RBmR6mwf6mzwwg7nwtGzK": {
+    "_name_en": "Locked and Loaded",
+    "name_ko": "장전 완료",
+    "text_ko": "이번 턴 당신이 사용하는 다음 메카놀로지스트 공격 액션 카드가 +3{p}을 얻는다.\n이번 턴에 부스트한 적이 있다면, 옵트 1.\n고 어게인"
+  },
+  "fftHpLKh8HbCDnTzgHbjF": {
+    "_name_en": "Locked and Loaded",
+    "name_ko": "장전 완료",
+    "text_ko": "이번 턴 당신이 사용하는 다음 메카놀로지스트 공격 액션 카드가 +2{p}을 얻는다.\n이번 턴에 부스트한 적이 있다면, 옵트 1.\n고 어게인"
+  },
+  "nTqfpprmJbKkPMdNbdhRg": {
+    "_name_en": "Locked and Loaded",
+    "name_ko": "장전 완료",
+    "text_ko": "이번 턴 당신이 사용하는 다음 메카놀로지스트 공격 액션 카드가 +1{p}을 얻는다.\n이번 턴에 부스트한 적이 있다면, 옵트 1.\n고 어게인"
+  },
+  "tBBCd9hNgWjQkTGDj7dPq": {
+    "_name_en": "Log Fall",
+    "name_ko": "통나무 낙하",
+    "text_ko": "대지 결속 - 이 카드를 사용하기 위해 대지 카드가 피치되었다면, 이 카드가 오버파워를 얻는다."
+  },
+  "kPNdhpwdWLw77zLDKfgdr": {
+    "_name_en": "Log Fall",
+    "name_ko": "통나무 낙하",
+    "text_ko": "대지 결속 - 이 카드를 사용하기 위해 대지 카드가 피치되었다면, 이 카드가 오버파워를 얻는다."
+  },
+  "Jcr8qghhWR9GPwR9GzDJq": {
+    "_name_en": "Long Shot",
+    "name_ko": "롱샷",
+    "text_ko": "롱샷에 조준 카운터가 있다면, +2{p}을 가진다."
+  },
+  "Pbw7BCzT7RnLTqz7R8TgN": {
+    "_name_en": "Long Shot",
+    "name_ko": "롱샷",
+    "text_ko": "롱샷에 조준 카운터가 있다면, +2{p}을 가진다."
+  },
+  "wcQzjTdhBwLkDWQbjLG8c": {
+    "_name_en": "Long Shot",
+    "name_ko": "롱샷",
+    "text_ko": "롱샷에 조준 카운터가 있다면, +2{p}을 가진다."
+  },
+  "969HqThPzMmQtFhM9mNq8": {
+    "_name_en": "Long Whisker Loyalty",
+    "name_ko": "긴 수염의 충성",
+    "text_ko": "당신이 조종하는 드라코닉 체인 링크 1개당 하나를 선택한다;\n\n대상 단검 공격이 +2{p}을 얻는다.\n이번 턴 대상 단검으로 추가로 한 번 더 공격할 수 있다.\n이번 턴 대상 단검이 다음에 영웅을 명중할 때, 그에게 표식을 남긴다."
+  },
+  "tNBLJKrbDpBL9TMb678wM": {
+    "_name_en": "Longdraw Half-glove",
+    "name_ko": "롱드로우 반장갑",
+    "text_ko": "순간 - 이것을 파괴한다, 당신의 손 그리고/또는 아스날에서 카드 2장을 덱 맨 아래에 놓는다: 이번 턴 당신의 다음 화살 공격이 +4{p}을 얻는다.\n배틀원"
+  },
+  "MFbG9dt7gfRHbqpNKTJwR": {
+    "_name_en": "Look Tuff",
+    "name_ko": "허세 부리기",
+    "text_ko": "이 카드가 공격할 때, {r}을 지불하지 않는 한 -1{p}을 얻는다."
+  },
+  "zn7jChRWnFCRdJTRbMmbw": {
+    "_name_en": "Look Within",
+    "name_ko": "내면을 들여다보다",
+    "text_ko": "당신의 덱에서 치를 찾아 공개한 뒤, 덱을 섞고 맨 위에 놓는다.\n고 어게인"
+  },
+  "JckmT8QFTgHWrGCBPNWKh": {
+    "_name_en": "Looking for a Scrap",
+    "name_ko": "고철을 찾아서",
+    "text_ko": "고철을 찾아서를 사용하기 위한 추가 비용으로, 당신의 무덤에서 {p} 1인 카드 1장을 추방할 수 있다. 그렇게 하면, 이 카드가 +1{p}과 고 어게인을 얻는다."
+  },
+  "ntNzmrhJNcwpc9pbjbFmL": {
+    "_name_en": "Looking for a Scrap",
+    "name_ko": "고철을 찾아서",
+    "text_ko": "고철을 찾아서를 사용하기 위한 추가 비용으로, 당신의 무덤에서 {p} 1인 카드 1장을 추방할 수 있다. 그렇게 하면, 이 카드가 +1{p}과 고 어게인을 얻는다."
+  },
+  "bpQN7JWMfcWndWkjWkJwb": {
+    "_name_en": "Looking for a Scrap",
+    "name_ko": "고철을 찾아서",
+    "text_ko": "고철을 찾아서를 사용하기 위한 추가 비용으로, 당신의 무덤에서 {p} 1인 카드 1장을 추방할 수 있다. 그렇게 하면, 이 카드가 +1{p}과 고 어게인을 얻는다."
+  },
+  "NdGdjWwfTnfdWGFL6tRwz": {
+    "_name_en": "Looming Doom",
+    "name_ko": "다가오는 파멸",
+    "text_ko": "다가오는 파멸이 전장에 들어올 때, 당신이 조종하는 모든 룬챈트를 파괴하고 그만큼 파멸 카운터를 다가오는 파멸에 놓는다.\n당신의 종료 단계 시작 시, 다가오는 파멸에서 파멸 카운터 1개를 제거한다. 그렇게 하면, 아무 대상에게 비전 피해 2를 준다. 그렇지 않으면, 다가오는 파멸을 파괴한다."
+  },
+  "Lz787nr8ndnM9BrnPtjDC": {
+    "_name_en": "Loot the Arsenal",
+    "name_ko": "아스날을 약탈하다",
+    "text_ko": "이번 턴 당신의 다음 해적 아군 공격이 \"이 카드가 영웅을 명중하면, 그의 아스날에 있는 카드 1장을 파괴한다. 그렇게 하면, 골드 토큰 1개를 생성한다\"를 얻는다.\n고 어게인"
+  },
+  "bthMFnn9GbPQBnBT8cNj8": {
+    "_name_en": "Loot the Hold",
+    "name_ko": "선창을 약탈하다",
+    "text_ko": "이번 턴 당신의 다음 해적 아군 공격이 \"이 카드가 영웅을 명중하면, 그가 카드 1장을 버린다. 그렇게 하면, 골드 토큰 1개를 생성한다\"를 얻는다.\n고 어게인"
+  },
+  "hTMnFLppC7Pjdk6hq8nWb": {
+    "_name_en": "Lord of Wind",
+    "name_ko": "바람의 군주",
+    "text_ko": "카츠 스페셜라이제이션\n콤보 - 이번 전투 체인에서 마지막 공격이 무겐시: 해방이었다면, 바람의 군주를 사용하기 위한 추가 비용으로, 원하는 만큼 {r}을 지불할 수 있다. 그렇게 하면, 당신의 무덤에서 서징 스트라이크, 웰밍 거스트웨이브, 그리고/또는 무겐시: 해방이라는 이름의 대상 카드를 그만큼 덱에 섞고, 바람의 군주가 그만큼 {p}을 얻는다."
+  },
+  "WprpWWNjq6F8BwRrTPFmM": {
+    "_name_en": "Lord Sutcliffe",
+    "name_ko": "서트클리프 경",
+    "text_ko": "서트클리프가 아스날에 뒷면으로 있는 동안, 당신의 턴 시작 시, 그를 앞면으로 뒤집을 수 있다.\n서트클리프가 아스날에 앞면으로 있는 동안, 당신이 '비공격' 액션 카드를 사용할 때마다, 각 영웅에게 비전 피해 1을 주고 이렇게 준 피해 1점당 서트클리프에 교훈 카운터를 놓는다. 그런 다음 그에게 교훈 카운터가 3개 이상이면, 그를 추방하고 덱에서 스페셜라이제이션 카드를 찾아 아스날에 앞면으로 놓은 뒤, 덱을 섞는다."
+  },
+  "bctJhnLdnWB9tqBJ6nNTN": {
+    "_name_en": "Lost in Thought",
+    "name_ko": "상념에 잠기다",
+    "text_ko": "대상 영웅의 손을 확인한다. 공격 액션 카드 1장을 선택해 공개한다. 그렇게 하면, 그가 그것을 덱 맨 아래에 놓고 폰더 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "KddkfBmzB78rpH6j6CfBC": {
+    "_name_en": "Lost in Transit",
+    "name_ko": "수송 중 분실",
+    "text_ko": "이 카드가 방어할 때, 보물섬에서 골드 카운터 1개를 제거할 수 있다. 그렇게 하고 당신이 씨프라면, 골드 토큰 1개를 생성한다."
+  },
+  "mnFrMd8TfpRFw7zrQ7b8B": {
+    "_name_en": "Low Blow",
+    "name_ko": "비열한 일격",
+    "text_ko": "이번 턴에 야유를 받은 적이 있다면, 이 카드가 +3{p}을 얻는다."
+  },
+  "9PCRhmGdjtCwJcn8hgn6t": {
+    "_name_en": "Loyalty Beyond the Grave",
+    "name_ko": "무덤 너머의 충성",
+    "text_ko": "이것이 당신의 무덤에 있는 동안, 당신의 턴 시작 시, 당신의 무덤에서 무덤 너머의 충성이라는 이름의 카드 2장을 추방할 수 있다. 그렇게 하면, 카드 1장을 뽑는다."
+  },
+  "pKtKBmHB8P6Nwr8TP7p6D": {
+    "_name_en": "Lubricate",
+    "name_ko": "윤활하다",
+    "text_ko": "당신이 조종하는 톱니바퀴 최대 3개를 {u}한다."
+  },
+  "L8wq9HzdqTwM8tLWCRGcR": {
+    "_name_en": "Lumina Ascension",
+    "name_ko": "루미나 승천",
+    "text_ko": "볼튼 스페셜라이제이션\n턴 종료 시까지, 당신이 조종하는 무기가 +1{p}과 \"이것이 명중하면, 당신 덱 맨 위 카드를 공개한다. 그것이 라이트 카드라면, 당신 영웅의 소울에 놓고 1{h}을 얻는다. 그렇지 않으면, 덱 맨 아래에 놓는다\"를 얻는다.\n이번 턴에 충전한 적이 있다면, 당신이 조종하는 각 무기로 추가로 한 번 더 공격할 수 있다.\n고 어게인"
+  },
+  "mrnPzLtk7hmh6qnznHRzK": {
+    "_name_en": "Lumina Lance",
+    "name_ko": "루미나 랜스",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 당신 영웅의 소울에서 카드 최대 3장을 추방한다. 그만큼 모드를 선택한다;\n\n대상 라이트 공격이 +2{p}을 얻는다.\n대상 라이트 공격이 \"이것이 명중하면, 카드 1장을 뽑는다\"를 얻는다.\n대상 라이트 공격이 \"이것이 명중하면, 고 어게인을 얻는다\"를 얻는다."
+  },
+  "TQ7Twhtm6zfkTTHTKdpJK": {
+    "_name_en": "Luminaris",
+    "name_ko": "루미나리스",
+    "text_ko": "당신의 액션 단계 동안, 당신이 조종하는 일루저니스트 오라는 기본 {p} 1을 가지고 \"턴당 1회 액션 - 0: 공격\"을 가진 무기가 된다.\n당신의 피치 존에 노란색 카드가 있다면, 당신의 일루저니스트 공격들이 고 어게인을 얻는다."
+  },
+  "zcHmW9zd8TRqMMGc8PHmh": {
+    "_name_en": "Luminaris, Angel's Glow",
+    "name_ko": "루미나리스, 천사의 빛",
+    "text_ko": "당신의 피치 존에 노란색 카드가 있다면, 각 턴 당신이 처음 사용하는, 이름에 헤럴드가 들어간 공격 액션 카드와 당신의 첫 엔젤 공격이 고 어게인을 얻는다."
+  },
+  "z8GG8N7Lkg6BQR7FnWcwp": {
+    "_name_en": "Luminaris, Celestial Fury",
+    "name_ko": "루미나리스, 천상의 분노",
+    "text_ko": "턴당 1회 순간 - {r}{r}: 대상 엔젤 공격이나 이름에 헤럴드가 들어간 공격 액션 카드가 고 어게인을 얻는다."
+  },
+  "HBpzWTwf7hkB8JC8FgNRG": {
+    "_name_en": "Lunar Mirage",
+    "name_ko": "달의 신기루",
+    "text_ko": "{p} 6 이상인 공격 액션 카드가 이 카드를 방어할 때, 이 카드는 그 카드의 사본이 된다.\n고 어게인\n미라지"
+  },
+  "7nR6NLzNWChgrQQCgFbPT": {
+    "_name_en": "Lunartide Plunderer",
+    "name_ko": "월조 약탈자",
+    "text_ko": "월조 약탈자가 영웅을 명중하면, 이것과 그의 소울에서 카드 1장을 추방한다."
+  },
+  "GkJfHHnhbDNWnfwGNTznm": {
+    "_name_en": "Lunartide Plunderer",
+    "name_ko": "월조 약탈자",
+    "text_ko": "월조 약탈자가 영웅을 명중하면, 이것과 그의 소울에서 카드 1장을 추방한다."
+  },
+  "wFPpjqhRHHNdNkDbRffBF": {
+    "_name_en": "Lunartide Plunderer",
+    "name_ko": "월조 약탈자",
+    "text_ko": "월조 약탈자가 영웅을 명중하면, 이것과 그의 소울에서 카드 1장을 추방한다."
+  },
+  "KTHGJMmtDhhmTdbm9zcQC": {
+    "_name_en": "Lunging Press",
+    "name_ko": "돌진 압박",
+    "text_ko": "대상 공격 액션 카드가 +1{p}을 얻는다."
+  },
+  "QrHJnzKzpMwgfJMcKQ8Dp": {
+    "_name_en": "Lyath Goldmane",
+    "name_ko": "리아스 골드메인",
+    "text_ko": "당신이 조종하는 카드들의 기본 {p}과 {d}은 절반이 된다(올림).\n순간 - {r}{r}, {t}: 관중이 당신에게 야유한다. 이번 턴 당신이 조종하는 방어 액션 카드들이 +1{d}을 얻는다.\n관중이 당신에게 야유할 때마다, 마이트 토큰 1개를 생성한다."
+  },
+  "MgKprw8PQjNKC7JDmppHh": {
+    "_name_en": "Lyath Goldmane, Vile Savant",
+    "name_ko": "리아스 골드메인, 사악한 현자",
+    "text_ko": "당신이 조종하는 카드들의 기본 {p}과 {d}은 절반이 된다(올림).\n순간 - {r}{r}, {t}: 관중이 당신에게 야유한다. 이번 턴 당신이 조종하는 방어 액션 카드들이 +1{d}을 얻는다.\n관중이 당신에게 야유할 때마다, 마이트 토큰 1개를 생성한다."
+  },
+  "M67DjmFprnQ9rpr6wjbtG": {
+    "_name_en": "Machinations of Dominion",
+    "name_ko": "지배의 책략",
+    "text_ko": "이번 턴 당신이 사용하는 다음 룬블레이드 공격 액션 카드가 오버파워와 \"이번 턴에 오라를 사용하거나 생성한 적이 있다면, 이 카드가 고 어게인을 얻는다\"를 얻는다.\n고 어게인"
   }
 }
