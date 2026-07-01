@@ -11,10 +11,11 @@
 
 ```
 data/
-  translations.json   # 카드 한글 번역 (커뮤니티가 편집하는 핵심 파일)
+  translations.json   # 카드별 한글 번역: 이름·효과 (unique_id 키)
+  type_texts.json     # 카드 타입(type_text) 한글 번역 (영어 타입 → 한글, 한 곳에서 관리)
   keywords.json       # FAB 키워드 한글 용어집
 scripts/
-  build-data.mjs      # 원본 다운로드 → 슬림화 → 번역 머지 → public/cards.json 생성
+  build-data.mjs      # 원본 다운로드 → 슬림화 → 번역·타입 머지 → public/cards.json 생성
   serve.mjs           # 로컬 미리보기 서버
 public/
   index.html, style.css, app.js   # 사이트 본체
@@ -45,16 +46,29 @@ node scripts/serve.mjs        # http://localhost:8080 미리보기
 "여기에_복사한_id": {
   "_name_en": "영어 이름 (참고용, 빌드에 미사용)",
   "name_ko": "한글 카드 이름",
-  "type_text_ko": "공용 액션 - 공격",
   "text_ko": "카드 효과 한글 번역"
 }
 ```
 
-- `name_ko` 만 채워도 됩니다. `text_ko`, `type_text_ko` 는 선택입니다.
+- `name_ko` 만 채워도 됩니다. `text_ko` 는 선택입니다.
 - 효과 텍스트의 `{p}`(공격력) `{d}`(방어력) `{h}`(생명력) `{r}`(자원) 토큰은 그대로 두면 사이트가 자동으로 한글 라벨로 표시합니다.
 - 같은 이름이라도 피치(빨강/노랑/파랑)별로 id가 다릅니다. 각각 추가해야 모두 번역됩니다.
 
 저장 후 `node scripts/build-data.mjs` 를 다시 실행하면 반영됩니다. GitHub에 푸시하면 자동 배포됩니다.
+
+### 카드 타입 번역 (`data/type_texts.json`)
+
+카드 타입(`type_text`, 예: `Generic Action - Attack`)은 **카드별이 아니라 영어 타입 문자열 기준으로 한 곳에서** 번역합니다.
+같은 영어 타입은 항상 같은 한글로 표시되어 카드마다 다르게 번역될 수 없습니다. 새 타입을 추가하려면 영어 타입 문자열을 키로 넣으세요:
+
+```json
+{
+  "Generic Action - Attack": "공용 액션 - 공격",
+  "Ninja Defense Reaction": "닌자 방어 반응"
+}
+```
+
+이 매핑은 번역된 카드뿐 아니라 **모든 카드**의 타입 표시에 적용됩니다(카드 효과 번역 여부와 무관).
 
 키워드 용어집은 `data/keywords.json` 에서 같은 방식으로 추가합니다.
 

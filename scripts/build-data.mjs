@@ -19,6 +19,7 @@ const SOURCE_URL =
 
 const CACHE_PATH = join(ROOT, ".cache", "card.json");
 const TRANSLATIONS_PATH = join(ROOT, "data", "translations.json");
+const TYPE_TEXTS_PATH = join(ROOT, "data", "type_texts.json");
 const KEYWORDS_PATH = join(ROOT, "data", "keywords.json");
 const OUT_PATH = join(ROOT, "public", "cards.json");
 const KEYWORDS_OUT_PATH = join(ROOT, "public", "keywords.json");
@@ -80,6 +81,12 @@ async function main() {
     translations = JSON.parse(await readFile(TRANSLATIONS_PATH, "utf8"));
   }
 
+  // 타입 번역은 영어 type_text 기준으로 한 곳에서 관리 → 같은 영어 타입은 항상 같은 한글
+  let typeTexts = {};
+  if (existsSync(TYPE_TEXTS_PATH)) {
+    typeTexts = JSON.parse(await readFile(TYPE_TEXTS_PATH, "utf8"));
+  }
+
   let translatedCount = 0;
   const cards = source.map((card) => {
     const c = slim(card);
@@ -87,9 +94,11 @@ async function main() {
     if (t) {
       if (t.name_ko) c.name_ko = t.name_ko;
       if (t.text_ko) c.text_ko = t.text_ko;
-      if (t.type_text_ko) c.type_text_ko = t.type_text_ko;
       if (t.name_ko || t.text_ko) translatedCount++;
     }
+    // type_text_ko 는 카드별 번역이 아니라 type_texts.json 매핑에서만 채운다
+    const typeKo = typeTexts[c.type_text];
+    if (typeKo) c.type_text_ko = typeKo;
     return c;
   });
 
@@ -99,6 +108,15 @@ async function main() {
     if (id.startsWith("_")) continue; // 메타 키(_comment 등)는 무시
     if (!validIds.has(id)) {
       console.warn(`경고: 번역에 있으나 원본에 없는 카드 id: ${id}`);
+    }
+  }
+
+  // type_texts.json 에 원본에 없는 type_text가 있으면 경고(오타 감지)
+  const validTypeTexts = new Set(cards.map((c) => c.type_text));
+  for (const tt of Object.keys(typeTexts)) {
+    if (tt.startsWith("_")) continue;
+    if (!validTypeTexts.has(tt)) {
+      console.warn(`경고: type_texts에 있으나 원본에 없는 type_text: "${tt}"`);
     }
   }
 
@@ -113,9 +131,12 @@ async function main() {
     console.log(`키워드 용어집 ${Object.keys(kw).length}개 복사`);
   }
 
+  const typeTranslatedCount = cards.filter((c) => c.type_text_ko).length;
   const sizeMb = (JSON.stringify(cards).length / 1024 / 1024).toFixed(2);
   console.log(`생성 완료: ${OUT_PATH}`);
-  console.log(`총 ${cards.length}장, 한글 번역 ${translatedCount}장, 크기 ${sizeMb}MB`);
+  console.log(
+    `총 ${cards.length}장, 한글 번역 ${translatedCount}장, 타입 번역 적용 ${typeTranslatedCount}장(타입 ${Object.keys(typeTexts).filter((k) => !k.startsWith("_")).length}종), 크기 ${sizeMb}MB`
+  );
 }
 
 main().catch((err) => {

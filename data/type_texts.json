@@ -1,0 +1,10 @@
+{
+  "_comment": "카드 타입(type_text) 한글 번역. 키는 원본 영어 type_text 문자열 그대로. 같은 영어 타입은 항상 같은 한글로 표시되도록 여기서 한 곳에서만 관리합니다(카드별로 다르게 번역 불가). 새 타입을 추가하려면 사이트 카드 상세의 영어 타입 문자열을 키로 넣으세요.",
+
+  "Generic Action - Attack": "공용 액션 - 공격",
+  "Generic Attack Reaction": "공용 공격 반응",
+  "Generic Defense Reaction": "공용 방어 반응",
+  "Generic Instant": "공용 순간마법",
+  "Ninja Action - Attack": "닌자 액션 - 공격",
+  "Ninja Defense Reaction": "닌자 방어 반응"
+}
