@@ -6244,5 +6244,615 @@
     "_name_en": "Dreadbore",
     "name_ko": "공포의 활",
     "text_ko": "턴당 1회 액션 - {r}: 당신의 손에서 화살 카드 1장을 당신이 조종하는 빈 아스날 구역에 앞면으로 놓을 수 있다. 그렇게 하면, 턴 종료 시까지 +1{p}을 얻는다. 고 어게인\n당신이 조종하는 화살들은 \"이번 체인 링크에서 방어 반응은 손에서 사용할 수 없다\"를 가진다."
+  },
+  "CQbkJKNDtz8TkbPcb6hbF": {
+    "_name_en": "Dream Weavers",
+    "name_ko": "꿈결 짜는 자",
+    "text_ko": "액션 - 꿈결 짜는 자를 파괴한다: 이번 턴 당신이 사용하는 다음 일루저니스트 공격 액션 카드는 팬텀을 잃고 얻을 수 없다. 고 어게인\n스펠보이드 1"
+  },
+  "6GbtFTnH86TCFdKLMdrPk": {
+    "_name_en": "Driftwood Quiver",
+    "name_ko": "유목 화살통",
+    "text_ko": "립타이드 스페셜라이제이션\n순간 - 유목 화살통을 파괴한다: 당신의 아스날에서 카드 1장을 덱 맨 아래에 놓는다."
+  },
+  "fjQhNWhnfzCbn8L9d8gjT": {
+    "_name_en": "Drill Shot",
+    "name_ko": "드릴 샷",
+    "text_ko": "드릴 샷이 조준 카운터를 가졌다면, 관통 1을 가진다.\n이 카드가 영웅을 명중하면, 그 영웅이 조종하는 장비 1개에 -1{d} 카운터를 올린다."
+  },
+  "cCncrjr8QBWBmQRnwjPdp": {
+    "_name_en": "Drill Shot",
+    "name_ko": "드릴 샷",
+    "text_ko": "드릴 샷이 조준 카운터를 가졌다면, 관통 1을 가진다.\n이 카드가 영웅을 명중하면, 그 영웅이 조종하는 장비 1개에 -1{d} 카운터를 올린다."
+  },
+  "gK8d8WKtqrRJKcNhff8Md": {
+    "_name_en": "Drill Shot",
+    "name_ko": "드릴 샷",
+    "text_ko": "드릴 샷이 조준 카운터를 가졌다면, 관통 1을 가진다.\n이 카드가 영웅을 명중하면, 그 영웅이 조종하는 장비 1개에 -1{d} 카운터를 올린다."
+  },
+  "G9mhTdpGKD9kzDnBtgdkP": {
+    "_name_en": "Drink 'Em Under the Table",
+    "name_ko": "취하도록 마시게 하다",
+    "text_ko": "벳시 스페셜라이제이션\n이 카드가 영웅을 공격할 때, 그 영웅과 내기를 걸 수 있다. 승자는 카드 1장을 뽑고, 다른 영웅은 카드 1장을 버린다."
+  },
+  "GH7npwLtcpTqqpKRzdnNg": {
+    "_name_en": "Drinking Buddy",
+    "name_ko": "술친구",
+    "text_ko": "이 카드가 공격할 때, 각 영웅은 자신의 덱에서 이름에 '물약(Potion)' 또는 '양조주(Brew)'가 들어간 아이템을 찾아 전장에 놓을 수 있다. 그렇게 한 각 영웅은 자신의 덱을 섞는다. 이렇게 2명 이상의 영웅이 카드를 전장에 놓으면, 이 카드가 고 어게인을 얻는다."
+  },
+  "GjBLFNBbqRDNHcgKcFnnP": {
+    "_name_en": "Drive Brake",
+    "name_ko": "구동 제동장치",
+    "text_ko": "당신이 부스트로 하이퍼 드라이버를 추방할 때마다, 이것에서 -1{d} 카운터 1개를 제거한다.\n배틀원"
+  },
+  "gDcKMbmQqDqD6mkWBTqq8": {
+    "_name_en": "Driving Blade",
+    "name_ko": "질주하는 칼날",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +3{p}과 고 어게인을 얻는다.\n고 어게인"
+  },
+  "RLjzjPgc67fWrMNjjLtBm": {
+    "_name_en": "Driving Blade",
+    "name_ko": "질주하는 칼날",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +2{p}과 고 어게인을 얻는다.\n고 어게인"
+  },
+  "N7zmTD6zCgLQQzqWg8fgQ": {
+    "_name_en": "Driving Blade",
+    "name_ko": "질주하는 칼날",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +1{p}과 고 어게인을 얻는다.\n고 어게인"
+  },
+  "Dz6FcRBNMFdBt9fJPMB7d": {
+    "_name_en": "Dromai",
+    "name_ko": "드로마이",
+    "text_ko": "당신이 빨간색 카드를 피치할 때마다, 재 토큰 1개를 생성한다.\n이번 턴에 빨간색 카드를 사용한 적이 있다면, 당신이 조종하는 드래곤들은 공격하는 동안 고 어게인을 가진다."
+  },
+  "PrJkWBKNgtNdzhqhWLGFw": {
+    "_name_en": "Dromai, Ash Artist",
+    "name_ko": "드로마이, 재의 예술가",
+    "text_ko": "당신이 빨간색 카드를 피치할 때마다, 재 토큰 1개를 생성한다.\n이번 턴에 빨간색 카드를 사용한 적이 있다면, 당신이 조종하는 드래곤들은 공격하는 동안 고 어게인을 가진다."
+  },
+  "pBTGtg7LJbjTBWDGQDknH": {
+    "_name_en": "Drop of Dragon Blood",
+    "name_ko": "용혈 한 방울",
+    "text_ko": "레전더리\n이 카드는 당신이 조종하는 드라코닉 체인 링크 1개당 {r} 적은 비용으로 사용된다.\n{r}을 얻는다. 카드 1장을 뽑는다."
+  },
+  "nzhkqMtnDtP7HP8NRWpTP": {
+    "_name_en": "Drop the Anchor",
+    "name_ko": "닻을 내리다",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +3{p}과 \"이 카드가 영웅을 명중하면, 그 영웅과 그가 조종하는 모든 아군을 {t}한다\"를 얻는다.\n고 어게인"
+  },
+  "gzdhT8FLprLrfPNCdNtR7": {
+    "_name_en": "Droplet",
+    "name_ko": "물방울",
+    "text_ko": "이번 턴에 다른 파란색 카드를 사용했다면, 이 카드가 +2{p}을 얻는다."
+  },
+  "rB8rmFM8LLnw7BNFPbNtW": {
+    "_name_en": "Drowning Dire",
+    "name_ko": "익사의 절박함",
+    "text_ko": "이번 턴에 오라를 사용하거나 생성한 적이 있다면, 익사의 절박함이 도미네이트를 얻는다.\n익사의 절박함이 명중하면, 당신의 무덤에서 '비-공격' 액션 카드 1장을 덱 맨 아래에 놓을 수 있다."
+  },
+  "8C6bzbM9ffCRDrLP8H9hg": {
+    "_name_en": "Drowning Dire",
+    "name_ko": "익사의 절박함",
+    "text_ko": "이번 턴에 오라를 사용하거나 생성한 적이 있다면, 익사의 절박함이 도미네이트를 얻는다.\n익사의 절박함이 명중하면, 당신의 무덤에서 '비-공격' 액션 카드 1장을 덱 맨 아래에 놓을 수 있다."
+  },
+  "GhDWNg68bbPjPMPcGfK7Q": {
+    "_name_en": "Drowning Dire",
+    "name_ko": "익사의 절박함",
+    "text_ko": "이번 턴에 오라를 사용하거나 생성한 적이 있다면, 익사의 절박함이 도미네이트를 얻는다.\n익사의 절박함이 명중하면, 당신의 무덤에서 '비-공격' 액션 카드 1장을 덱 맨 아래에 놓을 수 있다."
+  },
+  "c98tqCFBpDpkCNbkkT8mg": {
+    "_name_en": "Dry Powder Shot",
+    "name_ko": "건조 화약탄",
+    "text_ko": "이 카드가 앞면으로 아스날에 놓이면, 이번 턴 +2{p}을 얻는다."
+  },
+  "FnPjLR9FPNJzBcJpCf8mQ": {
+    "_name_en": "Dual Threat",
+    "name_ko": "이중 위협",
+    "text_ko": "이번 턴에 무기로 공격한 적이 있다면, 이번 턴 당신이 사용하는 다음 공격 액션 카드가 +3{p}을 얻는다.\n이번 턴에 공격 액션 카드로 공격한 적이 있다면, 이번 턴 당신의 다음 무기 공격이 +3{p}을 얻는다.\n고 어게인"
+  },
+  "FttqpkcRJMrzDTmzGGhBC": {
+    "_name_en": "Dumpster Dive",
+    "name_ko": "쓰레기통 뒤지기",
+    "text_ko": "부스트\n이것이 부스트로 아이템이나 장비를 추방했다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "NwfNrcDCKznDRKzdbcpTP": {
+    "_name_en": "Dumpster Dive",
+    "name_ko": "쓰레기통 뒤지기",
+    "text_ko": "부스트\n이것이 부스트로 아이템이나 장비를 추방했다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "nbJdjHJjHRjNNQhdpCrDF": {
+    "_name_en": "Dumpster Dive",
+    "name_ko": "쓰레기통 뒤지기",
+    "text_ko": "부스트\n이것이 부스트로 아이템이나 장비를 추방했다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "RFF6Bj8MJNDJLQG9kkpq8": {
+    "_name_en": "Dunebreaker Cenipai",
+    "name_ko": "던브레이커 세니파이",
+    "text_ko": "팬텀\n던브레이커 세니파이가 파괴되면, 재 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "C89BtPGzhFfFBmBtLPJw7": {
+    "_name_en": "Dunebreaker Cenipai",
+    "name_ko": "던브레이커 세니파이",
+    "text_ko": "팬텀\n던브레이커 세니파이가 파괴되면, 재 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "MhjRwG9PN8QWqkr7bnTHH": {
+    "_name_en": "Dunebreaker Cenipai",
+    "name_ko": "던브레이커 세니파이",
+    "text_ko": "팬텀\n던브레이커 세니파이가 파괴되면, 재 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "gzLPbbGKHBB9fKJdkGdJg": {
+    "_name_en": "Durendal",
+    "name_ko": "듀렌달",
+    "text_ko": "턴당 1회 액션 - {r}: 공격\n이 카드가 +1{p} 카운터를 가졌다면, 이것을 방어하는 동안 반응 카드들은 -1{d}을 얻는다."
+  },
+  "kPfFLfQ8phzz6tpjd9gMb": {
+    "_name_en": "Dusk Path Pilgrimage",
+    "name_ko": "황혼길의 순례",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +3{p}과 \"이 카드가 명중하면, 이번 턴에 이 무기로 추가로 한 번 더 공격할 수 있다\"를 얻는다.\n고 어게인"
+  },
+  "GwqcBWBWfNQkW8tzBhfLc": {
+    "_name_en": "Dusk Path Pilgrimage",
+    "name_ko": "황혼길의 순례",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +2{p}과 \"이 카드가 명중하면, 이번 턴에 이 무기로 추가로 한 번 더 공격할 수 있다\"를 얻는다.\n고 어게인"
+  },
+  "ntr99CMKDbhqRkBRFMbJN": {
+    "_name_en": "Dusk Path Pilgrimage",
+    "name_ko": "황혼길의 순례",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +1{p}과 \"이 카드가 명중하면, 이번 턴에 이 무기로 추가로 한 번 더 공격할 수 있다\"를 얻는다.\n고 어게인"
+  },
+  "HkDzFgnhCBGn6K9w7RWtC": {
+    "_name_en": "Duskblade",
+    "name_ko": "황혼검",
+    "text_ko": "턴당 1회 액션 - {r}: 공격\n당신이 황혼검으로 공격할 때마다, 이번 턴에 공격 액션 카드와 '비-공격' 액션 카드를 사용한 적이 있다면, 황혼검에 +1{p} 카운터를 올린다.\n당신의 종료 단계 시작 시, 이번 턴에 공격 액션 카드와 '비-공격' 액션 카드를 사용하지 않았다면, 황혼검에서 모든 +1{p} 카운터를 제거한다."
+  },
+  "NJkbhctpNJqK9FRDBmzKr": {
+    "_name_en": "Dust from Stillwater Shrine",
+    "name_ko": "고요한 물의 신사에서 온 먼지",
+    "text_ko": "머티리얼 - 이 카드가 미라가이가 아닌 지속물 아래에 있는 동안, 그 지속물은 팬텀을 가진다."
+  },
+  "KLL7GmCb6Pb9bQqmbm7Nw": {
+    "_name_en": "Dust from the Chrome Caverns",
+    "name_ko": "크롬 동굴에서 온 먼지",
+    "text_ko": "머티리얼 - 이 카드가 크로마이가 아닌 지속물 아래에 있는 동안, 그 지속물은 팬텀을 가진다."
+  },
+  "JC99fDzqfnbBCGkMCRhtw": {
+    "_name_en": "Dust from the Fertile Fields",
+    "name_ko": "비옥한 들판에서 온 먼지",
+    "text_ko": "머티리얼 - 이 카드가 오비아가 아닌 지속물 아래에 있는 동안, 그 지속물은 팬텀을 얻는다."
+  },
+  "KfcLhpjL6Jc6Mr8WTQMdn": {
+    "_name_en": "Dust from the Golden Plains",
+    "name_ko": "황금 평원에서 온 먼지",
+    "text_ko": "머티리얼 - 이 카드가 테마이가 아닌 지속물 아래에 있는 동안, 그 지속물은 팬텀을 가진다."
+  },
+  "Gq8F9nHbQ6N8rrPzdhJzn": {
+    "_name_en": "Dust from the Red Desert",
+    "name_ko": "붉은 사막에서 온 먼지",
+    "text_ko": "머티리얼 - 이 카드가 빈세라카이가 아닌 지속물 아래에 있는 동안, 그 지속물은 팬텀을 가진다."
+  },
+  "zKQg9cTc7WMNdRbq6pwRk": {
+    "_name_en": "Dust from the Shadow Crypts",
+    "name_ko": "그림자 지하묘지에서 온 먼지",
+    "text_ko": "머티리얼 - 이 카드가 네크리아가 아닌 지속물 아래에 있는 동안, 그 지속물은 팬텀을 가진다."
+  },
+  "w9NMmfttRBHm6fwjHhQbk": {
+    "_name_en": "Dust Runner Outlaw",
+    "name_ko": "먼지 질주 무법자",
+    "text_ko": "고 어게인"
+  },
+  "m6TdpWNzf8mTDPrMNbN9q": {
+    "_name_en": "Dust Runner Outlaw",
+    "name_ko": "먼지 질주 무법자",
+    "text_ko": "고 어게인"
+  },
+  "JjcbfdJBzNznwtrHkDN98": {
+    "_name_en": "Dust Runner Outlaw",
+    "name_ko": "먼지 질주 무법자",
+    "text_ko": "고 어게인"
+  },
+  "kzcjwdh7jFzjBtQTp66Dz": {
+    "_name_en": "Dustup",
+    "name_ko": "먼지 소동",
+    "text_ko": "먼지 소동이 명중하면, 재 토큰 1개를 생성한 뒤, 당신이 조종하는 재 최대 1개를 에테르 애쉬윙으로 변형한다."
+  },
+  "HkTf6CPMRKgDkntFLngDg": {
+    "_name_en": "Dustup",
+    "name_ko": "먼지 소동",
+    "text_ko": "먼지 소동이 명중하면, 재 토큰 1개를 생성한 뒤, 당신이 조종하는 재 최대 1개를 에테르 애쉬윙으로 변형한다."
+  },
+  "t9JLzLpkTqwMQmzjkcDG8": {
+    "_name_en": "Dustup",
+    "name_ko": "먼지 소동",
+    "text_ko": "먼지 소동이 명중하면, 재 토큰 1개를 생성한 뒤, 당신이 조종하는 재 최대 1개를 에테르 애쉬윙으로 변형한다."
+  },
+  "gL8GpcfbDWqpFLBdnmHzp": {
+    "_name_en": "Duty Bound Blitz",
+    "name_ko": "의무의 질주",
+    "text_ko": "이번 턴에 노란색 카드가 당신의 소울에 놓인 적이 있을 때만 이 카드를 사용한다.\n고 어게인"
+  },
+  "MgpKjPckTnKBCqnGHmTGc": {
+    "_name_en": "Duty Bound Blitz",
+    "name_ko": "의무의 질주",
+    "text_ko": "이번 턴에 노란색 카드가 당신의 소울에 놓인 적이 있을 때만 이 카드를 사용한다.\n고 어게인"
+  },
+  "GbCfBtMKHCHWhffJQhfnC": {
+    "_name_en": "Duty Bound Blitz",
+    "name_ko": "의무의 질주",
+    "text_ko": "이번 턴에 노란색 카드가 당신의 소울에 놓인 적이 있을 때만 이 카드를 사용한다.\n고 어게인"
+  },
+  "C7NCzqwTbKtcQKjwHRzBK": {
+    "_name_en": "Dyadic Carapace",
+    "name_ko": "이원의 갑각",
+    "text_ko": "아케인 배리어 2\n템퍼"
+  },
+  "6DFGcBD8MKkJmGmFLwQbc": {
+    "_name_en": "Dyed Silk Sleeves",
+    "name_ko": "염색된 실크 소매",
+    "text_ko": "공격 반응 - {r}, {t}, 활성 체인 링크에 없는, 당신이 조종하는 단검 1개를 파괴한다: 활성 체인 링크에 있는 대상 닌자 공격 액션 카드가 +1{p}을 얻는다. 체인 링크가 해결될 때, 공격이 명중하지 않았다면, 이것을 파괴한다.\n블레이드 브레이크"
+  },
+  "tbfnpFfBddccMGLcDNbJC": {
+    "_name_en": "Dynastic Dedication",
+    "name_ko": "왕조의 헌신",
+    "text_ko": "이 카드는 당신이 조종하는 드라코닉 체인 링크 1개당 {r} 적은 비용으로 사용된다.\n대상 단검 공격이 +3{p}을 얻는다."
+  },
+  "HPN7nhMQcqfdzzkQh6TjB": {
+    "_name_en": "Dynastic Diadem",
+    "name_ko": "왕조의 왕관",
+    "text_ko": "당신이 조종하는 충성 토큰들은 상대의 효과로 파괴될 수 없다.\n당신이 충성 토큰을 3개 이상 조종하고 있다면, 이 카드가 +1{d}을 얻는다.\n템퍼"
+  },
+  "hCkjMgHBTtbPccM6FfKmL": {
+    "_name_en": "Earth Form",
+    "name_ko": "대지의 형상",
+    "text_ko": "이 카드가 명중하면, 대지의 화신 토큰 1개를 생성한다."
+  },
+  "rbDcWtf9Dm6L9wrBj7Cnz": {
+    "_name_en": "Earth Form",
+    "name_ko": "대지의 형상",
+    "text_ko": "이 카드가 명중하면, 대지의 화신 토큰 1개를 생성한다."
+  },
+  "wrkDkLdGhJjTfPGzr68wM": {
+    "_name_en": "Earth Form",
+    "name_ko": "대지의 형상",
+    "text_ko": "이 카드가 명중하면, 대지의 화신 토큰 1개를 생성한다."
+  },
+  "dd7RLKpk8jcWcN8JdQQDW": {
+    "_name_en": "Earth's Embrace",
+    "name_ko": "대지의 포옹",
+    "text_ko": "고 어게인\n당신의 종료 단계 시작 시, 대지의 화신 토큰 1개를 생성한다. 그 뒤, 이번 턴에 대지 카드를 추방하지 않았다면, 이것을 파괴한다."
+  },
+  "qCwM6LGq87rrqGQFk8rKG": {
+    "_name_en": "Earthlore Bounty",
+    "name_ko": "대지 지식의 포상",
+    "text_ko": "당신이 액션 카드 효과로 카드를 1장 이상 뽑을 때마다, 그만큼의 지진 파동 토큰을 생성한다.\n템퍼"
+  },
+  "pMKqgFjgdR8rmMKpdjP7q": {
+    "_name_en": "Earthlore Empowerment",
+    "name_ko": "대지 지식의 부여",
+    "text_ko": "당신의 턴 시작 시, 이것을 파괴한 뒤, 이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 {r} 적은 비용으로 사용되고 +5{p}을 얻는다."
+  },
+  "gdK9Qh67JW8FkFB6MWPrC": {
+    "_name_en": "Earthlore Empowerment",
+    "name_ko": "대지 지식의 부여",
+    "text_ko": "당신의 턴 시작 시, 이것을 파괴한 뒤, 이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 {r} 적은 비용으로 사용되고 +4{p}을 얻는다."
+  },
+  "cmFpRgfCJfJWFWPBgc7dw": {
+    "_name_en": "Earthlore Surge",
+    "name_ko": "대지 지식의 쇄도",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 +5{p}을 얻는다.\n고 어게인"
+  },
+  "NBgwrrNmgPfftdLjbRMfm": {
+    "_name_en": "Earthlore Surge",
+    "name_ko": "대지 지식의 쇄도",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 +4{p}을 얻는다.\n고 어게인"
+  },
+  "j9QzcDTJGBRJgntCrH88m": {
+    "_name_en": "Earthlore Surge",
+    "name_ko": "대지 지식의 쇄도",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 +3{p}을 얻는다.\n고 어게인"
+  },
+  "zC8NQNnj7RpgrR7LzKRmz": {
+    "_name_en": "Ebbing Arcstride",
+    "name_ko": "물러가는 아크스트라이드",
+    "text_ko": "이 카드가 프래그먼트할 때마다, 고 어게인을 얻는다.\n프래그먼트"
+  },
+  "HMqtjHBBrQMRpRGjkcPpD": {
+    "_name_en": "Ebbing Arcstride",
+    "name_ko": "물러가는 아크스트라이드",
+    "text_ko": "이 카드가 프래그먼트할 때마다, 고 어게인을 얻는다.\n프래그먼트"
+  },
+  "6HPNkbgGwRmTbRWQ7bmPf": {
+    "_name_en": "Ebbing Arcstride",
+    "name_ko": "물러가는 아크스트라이드",
+    "text_ko": "이 카드가 프래그먼트할 때마다, 고 어게인을 얻는다.\n프래그먼트"
+  },
+  "RKDPjzdGtKWMQnNcHBdF8": {
+    "_name_en": "Ebon Fold",
+    "name_ko": "칠흑의 접힘",
+    "text_ko": "순간 - {r}, 칠흑의 접힘을 파괴한다: 당신의 손에서 카드 1장을 추방한다. 그것이 섀도우 카드라면, 카드 1장을 뽑는다.\n스펠보이드 2"
+  },
+  "P8KtKdKjn8HN6rLmckJkP": {
+    "_name_en": "Echo Casque",
+    "name_ko": "메아리 투구",
+    "text_ko": "당신이 가슴을 두드릴 때마다, {r}을 지불하고 이것을 파괴할 수 있다. 그렇게 하면, 카드 1장을 뽑는다.\n배틀원"
+  },
+  "wzqz9DGw687RGfqhgBPBm": {
+    "_name_en": "Echoflash",
+    "name_ko": "에코플래시",
+    "text_ko": "대상 영웅에게 비전 피해 1을 준다.\n이 카드가 임의의 곳에서 당신의 무덤에 놓이면, 당신의 영웅이 대상 영웅에게 비전 피해 1을 준다."
+  },
+  "wJcJBPNg8mD6m9778FnLn": {
+    "_name_en": "Eclectic Magnetism",
+    "name_ko": "다채로운 자성",
+    "text_ko": "이 카드가 공격할 때, 이번 체인 링크에 비-공격 액션 카드 1장을 순간 카드인 것처럼 사용할 수 있다."
+  },
+  "PDHFDfPrn8TwBGw6h7cFr": {
+    "_name_en": "Eclipse",
+    "name_ko": "이클립스",
+    "text_ko": "레전더리 체인 스페셜라이제이션\n이번 턴에 블러드 뎃을 가진 카드를 6장 이상 사용했을 때만 이클립스를 사용한다. 그렇다면, 당신의 추방 구역에서 이클립스를 사용할 수 있다.\n어서, 영혼 수확자 토큰 1개를 생성한다."
+  },
+  "mJGB9zwRwKTg7zhpbPRnP": {
+    "_name_en": "Eclipse Existence",
+    "name_ko": "존재의 소멸",
+    "text_ko": "턴 종료 시까지, 공격이 라이트 영웅을 명중할 때마다, 그 영웅의 소울에서 카드 1장을 추방할 수 있다. 그렇게 하면, 그 영웅은 1{h}을 잃는다.\n당신이 상대 라이트 영웅보다 {h}가 많다면, 당신의 무덤에서 액션 카드 1장을 추방할 수 있다."
+  },
+  "J8WjCNLBmFtppjBfWqjtW": {
+    "_name_en": "Edge Ahead",
+    "name_ko": "우위 선점",
+    "text_ko": "이번 턴 당신의 다음 전사 공격이 +3{p}과 \"이 카드가 영웅을 공격할 때, 그 영웅과 어질리티 토큰을 걸 수 있다\"를 얻는다.\n고 어게인"
+  },
+  "c6GzLGmQpLLQHMqQBLRNz": {
+    "_name_en": "Edge Ahead",
+    "name_ko": "우위 선점",
+    "text_ko": "이번 턴 당신의 다음 전사 공격이 +2{p}과 \"이 카드가 영웅을 공격할 때, 그 영웅과 어질리티 토큰을 걸 수 있다\"를 얻는다.\n고 어게인"
+  },
+  "mPWjQbHQmbd8nr8jWdhJH": {
+    "_name_en": "Edge Ahead",
+    "name_ko": "우위 선점",
+    "text_ko": "이번 턴 당신의 다음 전사 공격이 +1{p}과 \"이 카드가 영웅을 공격할 때, 그 영웅과 어질리티 토큰을 걸 수 있다\"를 얻는다.\n고 어게인"
+  },
+  "FfRMHD8fbLP7FjLJdmbtM": {
+    "_name_en": "Edge of Autumn",
+    "name_ko": "가을의 칼날",
+    "text_ko": "턴당 1회 액션 - {r}: 공격. 고 어게인"
+  },
+  "KGkThWpJmzJc6hDrhhCbH": {
+    "_name_en": "Edge of Their Seats",
+    "name_ko": "손에 땀을 쥐게 하다",
+    "text_ko": "서스펜스\n이 카드가 전장을 떠날 때, 이번 턴 당신의 다음 공격이 +5{p}을 얻는다."
+  },
+  "gKQCQDMCGjNqJJDzQ8tbR": {
+    "_name_en": "Edge of Their Seats",
+    "name_ko": "손에 땀을 쥐게 하다",
+    "text_ko": "서스펜스\n이 카드가 전장을 떠날 때, 이번 턴 당신의 다음 공격이 +4{p}을 얻는다."
+  },
+  "MTjzGdRDGRGGqHmpn6zCH": {
+    "_name_en": "Edge of Their Seats",
+    "name_ko": "손에 땀을 쥐게 하다",
+    "text_ko": "서스펜스\n이 카드가 전장을 떠날 때, 이번 턴 당신의 다음 공격이 +3{p}을 얻는다."
+  },
+  "wKQrdNKc6tbpWbGfNDtcn": {
+    "_name_en": "Edict of Steel",
+    "name_ko": "강철의 칙령",
+    "text_ko": "당신이 조종하는 대상 검을 연마한다.\n그것이 +1{p} 카운터를 1개 이상 가졌다면, 플러리 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "mTCJbPqB8m8hRTcQCHD7t": {
+    "_name_en": "Edict of Steel",
+    "name_ko": "강철의 칙령",
+    "text_ko": "당신이 조종하는 대상 검을 연마한다.\n그것이 +1{p} 카운터를 2개 이상 가졌다면, 플러리 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "j8LdzKwQwGdHJffPKcntM": {
+    "_name_en": "Edict of Steel",
+    "name_ko": "강철의 칙령",
+    "text_ko": "당신이 조종하는 대상 검을 연마한다.\n그것이 +1{p} 카운터를 3개 이상 가졌다면, 플러리 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "6KnWFFJk9CkMRMMc8LJ8n": {
+    "_name_en": "Eirina's Prayer",
+    "name_ko": "에이리나의 기도",
+    "text_ko": "당신의 덱 맨 위 카드를 공개한다. 이번 턴 당신의 영웅에게 가해질 다음 비전 피해 X를 방지한다. X는 6에서 이렇게 공개된 카드의 피치값을 뺀 값이다."
+  },
+  "kmz8jrQKpgQbqpTJFzJ6N": {
+    "_name_en": "Eirina's Prayer",
+    "name_ko": "에이리나의 기도",
+    "text_ko": "당신의 덱 맨 위 카드를 공개한다. 이번 턴 당신의 영웅에게 가해질 다음 비전 피해 X를 방지한다. X는 5에서 이렇게 공개된 카드의 피치값을 뺀 값이다."
+  },
+  "CMGR6k8cP8rmnMww6JrKK": {
+    "_name_en": "Eirina's Prayer",
+    "name_ko": "에이리나의 기도",
+    "text_ko": "당신의 덱 맨 위 카드를 공개한다. 이번 턴 당신의 영웅에게 가해질 다음 비전 피해 X를 방지한다. X는 4에서 이렇게 공개된 카드의 피치값을 뺀 값이다."
+  },
+  "M666bDwLtczKGLB7cMfkT": {
+    "_name_en": "Electrify",
+    "name_ko": "감전",
+    "text_ko": "이번 턴 공격 액션 카드가 다음에 영웅을 명중할 때, 그 영웅에게 피해 3을 준다.\n감전이 아스날에서 사용되면, 카드 1장을 뽑는다.\n고 어게인"
+  },
+  "LqMR9rC9RfztPzqRkhDgB": {
+    "_name_en": "Electrify",
+    "name_ko": "감전",
+    "text_ko": "이번 턴 공격 액션 카드가 다음에 영웅을 명중할 때, 그 영웅에게 피해 2를 준다.\n감전이 아스날에서 사용되면, 카드 1장을 뽑는다.\n고 어게인"
+  },
+  "67HPjqjK7wtjKtnHL8zwb": {
+    "_name_en": "Electrify",
+    "name_ko": "감전",
+    "text_ko": "이번 턴 공격 액션 카드가 다음에 영웅을 명중할 때, 그 영웅에게 피해 1을 준다.\n감전이 아스날에서 사용되면, 카드 1장을 뽑는다.\n고 어게인"
+  },
+  "rh8QMDbW9nkbWFwtJhcqQ": {
+    "_name_en": "Electrolyze",
+    "name_ko": "전기분해",
+    "text_ko": "고 어게인"
+  },
+  "mkwdBRzRGWTQzwwJzqRbG": {
+    "_name_en": "Electrolyze",
+    "name_ko": "전기분해",
+    "text_ko": "고 어게인"
+  },
+  "wmn7GbbMWqtGtTpqBk6QF": {
+    "_name_en": "Electrolyze",
+    "name_ko": "전기분해",
+    "text_ko": "고 어게인"
+  },
+  "BM6cWKkWT7zRBLb7P77pg": {
+    "_name_en": "Electromagnetic Somersault",
+    "name_ko": "전자기 공중제비",
+    "text_ko": "활성 체인 링크에 있는, 비용 0 이상인 공격 액션 카드 최대 2장을 선택한다. 체인 링크가 해결되면 그것들을 소유자의 손으로 되돌린다."
+  },
+  "dGtzm9PwqTkFGcJwFNzPM": {
+    "_name_en": "Electromagnetic Somersault",
+    "name_ko": "전자기 공중제비",
+    "text_ko": "활성 체인 링크에 있는, 비용 1 이상인 공격 액션 카드 최대 2장을 선택한다. 체인 링크가 해결되면 그것들을 소유자의 손으로 되돌린다."
+  },
+  "TjdM8c7NpJjpjdLDbt7KG": {
+    "_name_en": "Electromagnetic Somersault",
+    "name_ko": "전자기 공중제비",
+    "text_ko": "활성 체인 링크에 있는, 비용 2 이상인 공격 액션 카드 최대 2장을 선택한다. 체인 링크가 해결되면 그것들을 소유자의 손으로 되돌린다."
+  },
+  "NFLNtzkpfQDgdPkHfjknf": {
+    "_name_en": "Electrostatic Discharge",
+    "name_ko": "정전기 방전",
+    "text_ko": "이번 턴 당신이 사용하는, 비용 1 이하인 다음 공격 액션 카드가 +3{p}을 얻는다."
+  },
+  "gMQ9qN89b76Fz9CwfBf6q": {
+    "_name_en": "Electrostatic Discharge",
+    "name_ko": "정전기 방전",
+    "text_ko": "이번 턴 당신이 사용하는, 비용 1 이하인 다음 공격 액션 카드가 +2{p}을 얻는다."
+  },
+  "D6DtJ7kmNcPBMHWrghGTj": {
+    "_name_en": "Electrostatic Discharge",
+    "name_ko": "정전기 방전",
+    "text_ko": "이번 턴 당신이 사용하는, 비용 1 이하인 다음 공격 액션 카드가 +1{p}을 얻는다."
+  },
+  "CKGFjmKNk6mhMHThPGmK6": {
+    "_name_en": "Electryn Joltstep",
+    "name_ko": "일렉트린 조트스텝",
+    "text_ko": "이번 턴 당신의 다음 룬블레이드 또는 번개 공격이 +3{p}을 얻는다.\n라이트닝 플로우 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "7DnnzwcQQQbdHtcDJ9PJG": {
+    "_name_en": "Electryn Joltstep",
+    "name_ko": "일렉트린 조트스텝",
+    "text_ko": "이번 턴 당신의 다음 룬블레이드 또는 번개 공격이 +2{p}을 얻는다.\n라이트닝 플로우 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "GmwDh7pgHwFkGnTTKCL9W": {
+    "_name_en": "Electryn Joltstep",
+    "name_ko": "일렉트린 조트스텝",
+    "text_ko": "이번 턴 당신의 다음 룬블레이드 또는 번개 공격이 +1{p}을 얻는다.\n라이트닝 플로우 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "BBj7tdpTkLpgrhCrq9qRh": {
+    "_name_en": "Electryn Mindmeld",
+    "name_ko": "일렉트린 마인드멜드",
+    "text_ko": "퀵스트라이크 - 이 카드가 고 어게인을 가졌다면, +1{p}과 \"이 카드가 영웅을 공격할 때, 그 영웅에게 비전 피해 1을 준다\"를 얻는다.\n이 카드가 영웅에게 처음으로 피해를 줄 때, 당신의 무덤에서 순간 카드 1장을 덱 맨 아래에 놓을 수 있다."
+  },
+  "Gn89Bw77qcNMHW6fTCRTj": {
+    "_name_en": "Elemental Strike",
+    "name_ko": "엘리멘탈 스트라이크",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 당신의 손에서 카드 1장을 추방한다. 그것이 대지라면, 이 카드가 +2{p}을 얻는다. 번개라면, 고 어게인을 얻는다. 얼음이라면, 도미네이트를 얻는다."
+  },
+  "Tr6LzWfrtqMkKjM7JpHjC": {
+    "_name_en": "Elliptical Conflux",
+    "name_ko": "타원의 합류",
+    "text_ko": "이 카드가 전장을 떠날 때, 번개의 화신 토큰 1개를 생성한다.\n워드 2"
+  },
+  "jKhMgndCGwjzKLHQMM7Cj": {
+    "_name_en": "Eloquence",
+    "name_ko": "엘로퀸스",
+    "text_ko": "당신이 비-공격 액션 카드를 사용할 때, 이것을 파괴하고 그 카드가 고 어게인을 얻는다."
+  },
+  "zjjTKPFFzRh9fMGmR6jPR": {
+    "_name_en": "Eloquent Eulogy",
+    "name_ko": "유창한 추도사",
+    "text_ko": "룬 게이트\n전투 체인이 종료되면, 이번 턴에 영웅이 {h}을 잃은 적이 있다면, 엘로퀸스 토큰 1개를 생성한다.\n블러드 뎃"
+  },
+  "RD7BHJDcDPPKNGPKj7fHP": {
+    "_name_en": "Embalm",
+    "name_ko": "방부처리",
+    "text_ko": "당신의 추방 구역에서 이 카드를 사용할 수 있다. 그렇게 하면, 고 어게인을 얻는다.\n당신의 무덤에서 블러드 뎃을 가진 공격 액션 카드 1장을 덱 맨 아래에 놓는다.\n블러드 뎃"
+  },
+  "kqndgG6wmB6CLq6FqfjJ9": {
+    "_name_en": "Embermaw Cenipai",
+    "name_ko": "잉걸턱 세니파이",
+    "text_ko": "팬텀\n잉걸턱 세니파이가 파괴되면, 재 토큰 1개를 생성한다."
+  },
+  "NKpQT99rMW9DHw6Jjgrq8": {
+    "_name_en": "Embermaw Cenipai",
+    "name_ko": "잉걸턱 세니파이",
+    "text_ko": "팬텀\n잉걸턱 세니파이가 파괴되면, 재 토큰 1개를 생성한다."
+  },
+  "fkrcRbTfRgjF8tpTKPMNH": {
+    "_name_en": "Embermaw Cenipai",
+    "name_ko": "잉걸턱 세니파이",
+    "text_ko": "팬텀\n잉걸턱 세니파이가 파괴되면, 재 토큰 1개를 생성한다."
+  },
+  "jrcdWNnMQCtrjQqKjd9Fw": {
+    "_name_en": "Embodiment of Earth",
+    "name_ko": "대지의 화신",
+    "text_ko": "당신이 조종하는 '비-공격' 액션 카드들은 방어하는 동안 +1{d}을 가진다.\n당신의 행동 단계 시작 시, 대지의 화신을 파괴한다."
+  },
+  "QBwTWNc9FMGQfwHRTTdHj": {
+    "_name_en": "Embodiment of Lightning",
+    "name_ko": "번개의 화신",
+    "text_ko": "당신이 공격 액션 카드를 사용할 때, 이것을 파괴한 뒤, 그 공격이 고 어게인을 얻는다."
+  },
+  "MNDjrGBMKh8LtjTdhPrfz": {
+    "_name_en": "Embody Greatness",
+    "name_ko": "위대함을 체화하다",
+    "text_ko": "시야나 스페셜라이제이션\n리빙 레전드 영웅 1명을 지정한다. 당신의 다음 턴 시작 시까지 그 영웅이 된다. 단, 당신의 기본 {h}은 변하지 않는다."
+  },
+  "nFFr6KgcT7gWPgbfRQQhW": {
+    "_name_en": "Embolden",
+    "name_ko": "북돋우다",
+    "text_ko": "고 어게인\n이 카드가 전장에 들어올 때, 당신이 다른 비-토큰 오라를 조종하고 있다면, 카드 1장을 뽑는다.\n당신의 행동 단계 시작 시, 이것을 파괴한 뒤, 이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 +5{p}을 얻는다."
+  },
+  "jGnwnDCjNggQncMQcfMbm": {
+    "_name_en": "Embolden",
+    "name_ko": "북돋우다",
+    "text_ko": "고 어게인\n이 카드가 전장에 들어올 때, 당신이 다른 비-토큰 오라를 조종하고 있다면, 카드 1장을 뽑는다.\n당신의 행동 단계 시작 시, 이것을 파괴한 뒤, 이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 +4{p}을 얻는다."
+  },
+  "8M9crfnQRQWnrtdtzGQw9": {
+    "_name_en": "Embolden",
+    "name_ko": "북돋우다",
+    "text_ko": "고 어게인\n이 카드가 전장에 들어올 때, 당신이 다른 비-토큰 오라를 조종하고 있다면, 카드 1장을 뽑는다.\n당신의 행동 단계 시작 시, 이것을 파괴한 뒤, 이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 +3{p}을 얻는다."
+  },
+  "nRGKwwb7q7HQnfGQLr6gp": {
+    "_name_en": "Emboldened Blade",
+    "name_ko": "고무된 칼날",
+    "text_ko": "임의의 아스날에 있는 뒷면 카드 1장을 앞면으로 뒤집는다. 그것이 방어 반응이면, 파괴하고 이번 턴 당신의 다음 무기 공격이 +1{p}을 얻는다.\n고 어게인"
+  },
+  "ncdtKzpTdWBQLQq8bqtKk": {
+    "_name_en": "Emboldened by the Crowd",
+    "name_ko": "군중에게 고무되다",
+    "text_ko": "이번 턴에 환호를 받았다면, 이 카드는 {r}{r}{r} 적은 비용으로 사용된다."
+  },
+  "7LBccf7qnHMdgb996CcWz": {
+    "_name_en": "Embrace Adversity",
+    "name_ko": "역경을 포용하다",
+    "text_ko": "이 카드는 그 공격의 조종자가 이번 턴에 마이트 토큰을 파괴했을 때만 공격을 방어할 수 있다.\n블레이드 브레이크"
+  },
+  "8D9wTFwLWtN9hkFwDgRWW": {
+    "_name_en": "Embraforged Gauntlet",
+    "name_ko": "잉걸단조 건틀릿",
+    "text_ko": "이 카드가 임의의 곳에서 당신의 무덤에 놓이게 될 경우, 대신 추방한다.\n템퍼\n블러드 뎃"
+  },
+  "FFrCkdLPFwwTzHJPwcTRC": {
+    "_name_en": "Emerging Avalanche",
+    "name_ko": "일어나는 눈사태",
+    "text_ko": "얼음 퓨전\n고 어게인\n일어나는 눈사태가 전장에 들어올 때, 퓨전되었다면, 대상 영웅의 조종 하에 프로스트바이트 토큰 1개를 생성한다.\n당신의 행동 단계 시작 시, 일어나는 눈사태를 파괴한 뒤 이번 턴 당신이 사용하는 다음 공격 액션 카드가 +3{p}을 얻는다."
+  },
+  "bjbb9hfw8BzbQqqqHtCjJ": {
+    "_name_en": "Emerging Avalanche",
+    "name_ko": "일어나는 눈사태",
+    "text_ko": "얼음 퓨전\n고 어게인\n일어나는 눈사태가 전장에 들어올 때, 퓨전되었다면, 대상 영웅의 조종 하에 프로스트바이트 토큰 1개를 생성한다.\n당신의 행동 단계 시작 시, 일어나는 눈사태를 파괴한 뒤 이번 턴 당신이 사용하는 다음 공격 액션 카드가 +2{p}을 얻는다."
+  },
+  "NDkNqCchBdrhwz7RCBn77": {
+    "_name_en": "Emerging Avalanche",
+    "name_ko": "일어나는 눈사태",
+    "text_ko": "얼음 퓨전\n고 어게인\n일어나는 눈사태가 전장에 들어올 때, 퓨전되었다면, 대상 영웅의 조종 하에 프로스트바이트 토큰 1개를 생성한다.\n당신의 행동 단계 시작 시, 일어나는 눈사태를 파괴한 뒤 이번 턴 당신이 사용하는 다음 공격 액션 카드가 +1{p}을 얻는다."
+  },
+  "jd9pfjNMhtjPhWPKqdnpg": {
+    "_name_en": "Emerging Dominance",
+    "name_ko": "떠오르는 지배",
+    "text_ko": "당신의 행동 단계 시작 시, 떠오르는 지배를 파괴한 뒤 이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 +3{p}과 도미네이트를 얻는다."
+  },
+  "dBh9zHWmcNHhCHBJjcNWQ": {
+    "_name_en": "Emerging Dominance",
+    "name_ko": "떠오르는 지배",
+    "text_ko": "당신의 행동 단계 시작 시, 떠오르는 지배를 파괴한 뒤 이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 +2{p}과 도미네이트를 얻는다."
   }
 }
