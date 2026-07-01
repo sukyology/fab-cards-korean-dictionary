@@ -5,8 +5,13 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "sync": "node scripts/build-data.mjs",
     "build": "node scripts/build-data.mjs",
-    "serve": "node scripts/serve.mjs"
+    "serve": "node scripts/serve.mjs",
+    "translate": "node scripts/translate-batch.mjs"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.72.0"
+  }
 }

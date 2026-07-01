@@ -72,6 +72,27 @@ node scripts/serve.mjs        # http://localhost:8080 미리보기
 
 키워드 용어집은 `data/keywords.json` 에서 같은 방식으로 추가합니다.
 
+## Claude로 대량 번역하기 (초벌 번역)
+
+미번역 카드 전체를 Anthropic **Message Batches API**로 한 번에 초벌 번역합니다(비동기·50% 저렴). 결과는 `data/translations.json` 에 머지됩니다.
+
+필요: Anthropic API 키(`ANTHROPIC_API_KEY` 환경변수) 또는 `ant auth login`.
+
+```bash
+node scripts/build-data.mjs            # public/cards.json 최신화(입력 데이터)
+DRY=1 node scripts/translate-batch.mjs # 제출 없이 요청 수/견적만 확인
+TRANSLATE_LIMIT=20 node scripts/translate-batch.mjs   # 20개만 테스트 제출
+node scripts/translate-batch.mjs       # 전체 제출 → 완료까지 대기 → 머지
+node scripts/build-data.mjs            # 번역 반영해 cards.json 재생성
+# data/translations.json 커밋·푸시 → 자동 배포
+```
+
+- 중복(피치·재판) 카드는 `(이름, 효과)` 기준으로 묶어 한 번만 번역합니다(약 4,800장 → ~3,800건).
+- 기본 모델은 `claude-opus-4-8`. 비용을 줄이려면 `TRANSLATE_MODEL=claude-haiku-4-5` 또는 `claude-sonnet-5` 로 바꿀 수 있습니다.
+- 이미 번역된 카드는 건너뜁니다. 전부 다시 번역하려면 `TRANSLATE_OVERWRITE=1`.
+- 제출 후 중단되어도 재실행하면 `.cache/translate-batch.json` 의 배치를 이어서 대기·머지합니다.
+- **초벌 번역이므로 사람이 검수·수정하는 것을 권장합니다**(사이트 "번역 제안" 폼 또는 `data/translations.json` 직접 편집).
+
 ## 누구나 번역 제안하기 (사이트 폼 → 자동 PR)
 
 방문자가 GitHub 계정 없이도 카드 상세의 **"번역 제안하기"** 버튼으로 한글 번역을 제안할 수 있습니다.
