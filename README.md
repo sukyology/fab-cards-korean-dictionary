@@ -72,6 +72,15 @@ node scripts/serve.mjs        # http://localhost:8080 미리보기
 
 키워드 용어집은 `data/keywords.json` 에서 같은 방식으로 추가합니다.
 
+## 누구나 번역 제안하기 (사이트 폼 → 자동 PR)
+
+방문자가 GitHub 계정 없이도 카드 상세의 **"번역 제안하기"** 버튼으로 한글 번역을 제안할 수 있습니다.
+제출하면 Cloudflare Worker가 `data/translations.json` 을 수정한 검토용 PR을 자동으로 생성하고, 관리자가 확인 후 병합합니다.
+
+- Worker 코드와 배포 방법: [`worker/README.md`](worker/README.md)
+- 활성화하려면 Worker를 배포하고(`wrangler deploy`), 봇 토큰 시크릿을 등록해야 합니다. 배포 전에는 버튼이 보이지만 제출은 동작하지 않습니다.
+- 스팸 방지(Turnstile)는 선택이지만 공개 엔드포인트이므로 권장합니다.
+
 ## 배포 (GitHub Pages)
 
 1. 이 저장소를 GitHub에 올립니다.

@@ -1,5 +1,9 @@
 "use strict";
 
+// 번역 제안 설정
+const CONTRIBUTE_ENDPOINT = "/api/translate"; // 번역 제안 PR을 만드는 Worker(같은 도메인 경로)
+const TURNSTILE_SITEKEY = ""; // Cloudflare Turnstile 사이트 키(설정하면 스팸 방지 위젯 표시)
+
 // 상태
 let CARDS = [];
 let KEYWORDS = {};
@@ -211,11 +215,101 @@ function openModal(card) {
         ${koText}
         ${enText}
         ${kwHtml}
+        <button class="contribute-btn" id="contribute-open">✏️ 이 카드 번역 제안하기</button>
         <div class="id-line">id: ${escapeHtml(card.id)}</div>
       </div>
     </div>`;
+  modalBody.querySelector("#contribute-open").addEventListener("click", () => openContributeForm(card));
   modal.hidden = false;
   document.body.style.overflow = "hidden";
+}
+
+// 번역 제안 폼(카드 상세 → 이 폼으로 전환)
+function openContributeForm(card) {
+  modalBody.innerHTML = `
+    <h2 style="margin:0 0 2px">✏️ 번역 제안</h2>
+    <p class="en">${escapeHtml(card.name)} <span style="color:var(--text-dim)">· ${escapeHtml(card.type_text)}</span></p>
+    <form id="contribute-form" class="contribute">
+      <label>한글 카드 이름
+        <input type="text" name="nameKo" maxlength="100" value="${escapeHtml(card.name_ko || "")}" placeholder="예: 스내치" />
+      </label>
+      <label>한글 효과
+        <textarea name="textKo" maxlength="2000" rows="5" placeholder="카드 효과를 한글로 입력하세요">${escapeHtml(card.text_ko || "")}</textarea>
+      </label>
+      <label>닉네임 <span class="opt">(선택)</span>
+        <input type="text" name="contributor" maxlength="40" placeholder="PR에 표시할 이름" />
+      </label>
+      <div id="turnstile-box"></div>
+      <div class="contribute-actions">
+        <button type="button" class="btn-secondary" id="contribute-cancel">취소</button>
+        <button type="submit" class="btn-primary" id="contribute-submit">제안 보내기</button>
+      </div>
+      <p class="contribute-msg" id="contribute-msg" aria-live="polite"></p>
+    </form>
+    <p class="contribute-note">제출하면 GitHub에 검토용 PR이 자동으로 생성됩니다. 관리자가 확인 후 반영합니다.</p>`;
+
+  modalBody.querySelector("#contribute-cancel").addEventListener("click", () => openModal(card));
+
+  let turnstileId = null;
+  if (TURNSTILE_SITEKEY && window.turnstile) {
+    turnstileId = window.turnstile.render("#turnstile-box", { sitekey: TURNSTILE_SITEKEY });
+  }
+
+  modalBody.querySelector("#contribute-form").addEventListener("submit", async (e) => {
+    e.preventDefault();
+    const f = e.target;
+    const msg = f.querySelector("#contribute-msg");
+    const submitBtn = f.querySelector("#contribute-submit");
+    const nameKo = f.nameKo.value.trim();
+    const textKo = f.textKo.value.trim();
+
+    if (!nameKo && !textKo) {
+      msg.className = "contribute-msg err";
+      msg.textContent = "한글 이름이나 효과 중 하나는 입력해 주세요.";
+      return;
+    }
+    let turnstileToken = "";
+    if (TURNSTILE_SITEKEY) {
+      turnstileToken = window.turnstile ? window.turnstile.getResponse(turnstileId) : "";
+      if (!turnstileToken) {
+        msg.className = "contribute-msg err";
+        msg.textContent = "스팸 방지 확인을 완료해 주세요.";
+        return;
+      }
+    }
+
+    submitBtn.disabled = true;
+    msg.className = "contribute-msg";
+    msg.textContent = "보내는 중…";
+    try {
+      const res = await fetch(CONTRIBUTE_ENDPOINT, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          cardId: card.id,
+          nameEn: card.name,
+          nameKo,
+          textKo,
+          contributor: f.contributor.value.trim(),
+          turnstileToken,
+        }),
+      });
+      const data = await res.json().catch(() => ({}));
+      if (res.ok && data.ok) {
+        msg.className = "contribute-msg ok";
+        msg.innerHTML = `제안이 접수되었습니다! 감사합니다. <a href="${data.prUrl}" target="_blank" rel="noopener">제안 확인(PR)</a>`;
+        submitBtn.textContent = "완료";
+      } else {
+        msg.className = "contribute-msg err";
+        msg.textContent = data.error || "전송에 실패했습니다. 잠시 후 다시 시도해 주세요.";
+        submitBtn.disabled = false;
+      }
+    } catch {
+      msg.className = "contribute-msg err";
+      msg.textContent = "네트워크 오류로 전송하지 못했습니다.";
+      submitBtn.disabled = false;
+    }
+  });
 }
 
 function closeModal() {

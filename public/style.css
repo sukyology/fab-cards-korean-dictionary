@@ -393,6 +393,104 @@ body {
   color: var(--accent);
 }
 
+/* 번역 제안 버튼/폼 */
+.contribute-btn {
+  margin-top: 18px;
+  width: 100%;
+  padding: 10px 14px;
+  background: rgba(212, 175, 55, 0.12);
+  color: var(--accent);
+  border: 1px solid rgba(212, 175, 55, 0.4);
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.12s;
+}
+.contribute-btn:hover {
+  background: rgba(212, 175, 55, 0.22);
+}
+
+.contribute {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-top: 16px;
+}
+.contribute label {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 0.85rem;
+  color: var(--text-dim);
+}
+.contribute label .opt {
+  color: var(--text-dim);
+  font-weight: 400;
+}
+.contribute input,
+.contribute textarea {
+  padding: 10px 12px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--text);
+  font-size: 0.95rem;
+  font-family: inherit;
+  resize: vertical;
+}
+.contribute input:focus,
+.contribute textarea:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+.contribute-actions {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+}
+.btn-primary,
+.btn-secondary {
+  padding: 9px 18px;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  border: 1px solid var(--border);
+}
+.btn-primary {
+  background: var(--accent);
+  color: #111;
+  border-color: var(--accent);
+}
+.btn-primary:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+.btn-secondary {
+  background: var(--bg-card);
+  color: var(--text);
+}
+.contribute-msg {
+  margin: 0;
+  font-size: 0.88rem;
+  min-height: 1.2em;
+}
+.contribute-msg.ok {
+  color: #7ddc8f;
+}
+.contribute-msg.err {
+  color: #ff8a7a;
+}
+.contribute-msg a {
+  color: var(--accent);
+}
+.contribute-note {
+  margin: 12px 0 0;
+  font-size: 0.78rem;
+  color: var(--text-dim);
+}
+
 .id-line {
   margin-top: 18px;
   font-size: 0.72rem;
