@@ -1,8 +1,8 @@
 {
   "_comment": "카드 한글 번역. 키는 원본 카드의 unique_id. _name_en 은 편집 참고용(빌드에 사용되지 않음). 카드 타입(type_text) 번역은 여기가 아니라 data/type_texts.json 에서 관리합니다. 자세한 방법은 README 참고.",
   "PHktCwKzLmBMwmCBwb7Cw": {
-    "_name_en": "Snatch (1)",
-    "name_ko": "스내치",
+    "_name_en": "Snatch",
+    "name_ko": "스내치 테스트",
     "text_ko": "이 카드가 명중하면, 카드 1장을 뽑는다."
   },
   "jBtfGzCwLCCTGrtzKPRJW": {
