@@ -15,7 +15,7 @@ const ROOT = join(__dirname, "..");
 
 const SOURCE_URL =
   process.env.FAB_SOURCE_URL ||
-  "https://raw.githubusercontent.com/the-fab-cube/flesh-and-blood-cards/master/json/english/card.json";
+  "https://raw.githubusercontent.com/the-fab-cube/flesh-and-blood-cards/main/json/english/card.json";
 
 const CACHE_PATH = join(ROOT, ".cache", "card.json");
 const TRANSLATIONS_PATH = join(ROOT, "data", "translations.json");
