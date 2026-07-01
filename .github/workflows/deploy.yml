@@ -1,10 +1,12 @@
 name: Deploy to GitHub Pages
 
-# 데이터/사이트가 바뀌면 자동 빌드 후 GitHub Pages에 배포한다.
+# 저장소에 커밋된 public/ 을 그대로 GitHub Pages에 게시한다.
+# 카드 데이터(public/cards.json)는 이미 저장소에 동기화되어 있으므로
+# 배포 시 외부 다운로드가 없다. 데이터 갱신은 "Sync card data" 워크플로로 한다.
 on:
   push:
     branches: [main]
-  workflow_dispatch: # 수동 실행(예: 원본 카드 데이터 갱신 반영)
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -16,21 +18,13 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  build-deploy:
+  deploy:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      # 원본 카드 데이터를 내려받아 한글 번역을 머지하고 public/cards.json 생성
-      - name: Build card data
-        run: node scripts/build-data.mjs
 
       - uses: actions/configure-pages@v5
 

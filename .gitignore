@@ -1,7 +1,7 @@
 node_modules/
 .DS_Store
-# 빌드 산출물(원본 데이터에서 생성됨, 커밋하지 않음)
-public/cards.json
-public/keywords.json
-# 다운로드 캐시
+# 카드 데이터(public/cards.json, public/keywords.json)는 저장소에 커밋한다.
+# 원본 the-fab-cube 데이터를 sync 스크립트로 받아 이 파일들에 동기화하며,
+# 페이지는 커밋된 이 파일만 읽는다(배포 시 외부 다운로드 없음).
+# 원본 다운로드 캐시(대용량, 재생성 가능)만 무시.
 .cache/
