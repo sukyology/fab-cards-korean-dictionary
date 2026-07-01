@@ -5600,5 +5600,649 @@
     "_name_en": "Deep Blue Sea",
     "name_ko": "깊고 푸른 바다",
     "text_ko": "이번 턴에 당신이 피치한 파란색 카드마다 이 카드가 +1{p}을 얻는다."
+  },
+  "KC6KQzjk8FkMhwN7zMKLQ": {
+    "_name_en": "Deep Recesses of Existence",
+    "name_ko": "존재의 깊은 심연",
+    "text_ko": "룬 게이트\n전투 체인이 종료되면, 이것을 뒷면으로 추방할 수 있다. 그렇게 하면, 이번 턴에 {h}을 잃은 영웅마다 그의 무덤에서 카드 1장을 추방한다.\n블러드 뎃"
+  },
+  "jknWRcgGTGL9hpnMkQCzp": {
+    "_name_en": "Deep Rooted Evil",
+    "name_ko": "뿌리깊은 악",
+    "text_ko": "이번 턴에 {p}이 6 이상인 카드가 당신의 추방 구역에 놓인 적이 있다면, 당신의 추방 구역에서 뿌리깊은 악을 사용할 수 있다.\n블러드 뎃"
+  },
+  "WtHNCTfp87TNpG7jLRKFR": {
+    "_name_en": "Defang the Dragon",
+    "name_ko": "용의 이빨을 뽑다",
+    "text_ko": "스텔스\n컨트랙트 - 당신은 이름에 팽(Fang)이 들어간 표식된 영웅을 명중시키기로 계약되어 있다. 이 계약을 완수할 때마다, 카드 1장을 뽑는다."
+  },
+  "tQwNMwnMRKNf7trbFmbnp": {
+    "_name_en": "Defender of Daybreak",
+    "name_ko": "여명의 수호자",
+    "text_ko": "이 카드가 섀도우 공격을 방어하면, 이번 전투 체인에 비-장비 라이트 카드들이 +1{d}을 얻는다."
+  },
+  "JdprkqCqwCrFdPdr9Hgc6": {
+    "_name_en": "Defender of Daybreak",
+    "name_ko": "여명의 수호자",
+    "text_ko": "이 카드가 섀도우 공격을 방어하면, 이번 전투 체인에 비-장비 라이트 카드들이 +1{d}을 얻는다."
+  },
+  "DqhRkJzzzrN7jH9FbqmRn": {
+    "_name_en": "Defender of Daybreak",
+    "name_ko": "여명의 수호자",
+    "text_ko": "이 카드가 섀도우 공격을 방어하면, 이번 전투 체인에 비-장비 라이트 카드들이 +1{d}을 얻는다."
+  },
+  "6wnMt8LFtDnM9LLwB7ghN": {
+    "_name_en": "Demolition Crew",
+    "name_ko": "철거반",
+    "text_ko": "철거반을 사용하기 위한 추가 비용으로, 당신의 손에서 비용 2 이상인 카드 1장을 공개한다.\n도미네이트"
+  },
+  "Ckct9HBQDcCqzRKpnLKRR": {
+    "_name_en": "Demolition Crew",
+    "name_ko": "철거반",
+    "text_ko": "철거반을 사용하기 위한 추가 비용으로, 당신의 손에서 비용 2 이상인 카드 1장을 공개한다.\n도미네이트"
+  },
+  "MrNgmfGDfJmF6rcLbFcrm": {
+    "_name_en": "Demolition Crew",
+    "name_ko": "철거반",
+    "text_ko": "철거반을 사용하기 위한 추가 비용으로, 당신의 손에서 비용 2 이상인 카드 1장을 공개한다.\n도미네이트"
+  },
+  "MWfDtTFgd8f8zNzQgDJjt": {
+    "_name_en": "Demolition Protocol",
+    "name_ko": "철거 프로토콜",
+    "text_ko": "에보 업그레이드 - 이 카드가 영웅을 공격할 때, 그 영웅이 조종하는 최대 X개의 장비, 아이템, 그리고/또는 무기에서 모든 스팀 카운터를 제거한다. X는 당신이 장착한 에보의 수이다."
+  },
+  "wmdN6gnj6gdcdfWDMnqK6": {
+    "_name_en": "Demonstrate Devotion",
+    "name_ko": "헌신을 증명하다",
+    "text_ko": "당신이 드라코닉 체인 링크를 2개 이상 조종하고 있다면, 이 카드는 고 어게인과 \"이 카드가 영웅을 공격할 때, 충성 토큰 1개를 생성한다\"를 얻는다."
+  },
+  "jmNMNj8FrgJCR8dCcbmTr": {
+    "_name_en": "Den of the Spider",
+    "name_ko": "거미의 소굴",
+    "text_ko": "이 카드가 {p}이 기본보다 높은 공격을 방어하면, 공격하는 영웅을 표식한다."
+  },
+  "hNdDhKhhpGwKTCT7wMRCp": {
+    "_name_en": "Dense Blue Mist",
+    "name_ko": "짙은 파란 안개",
+    "text_ko": "이번 턴 당신을 대상으로 하는 공격들이 -1{p}을 얻는다.\n이 카드를 사용하기 위해 기가 피치되었다면, 이번 턴에 공격이 당신을 명중해도 효과가 발동되지 않는다."
+  },
+  "cMpT98cKjcqFfkprHTQgt": {
+    "_name_en": "Deny Redemption",
+    "name_ko": "구원을 거부하다",
+    "text_ko": "이 카드가 당신보다 {h}가 많은 영웅을 공격할 때, 그 영웅에게 비전 피해 1을 준다. 이 피해는 방지될 수 없다.\n순간 - 이 카드를 버린다: 이번 턴 영웅들은 {h}을 얻을 수 없다."
+  },
+  "Ngf9kPWFqDFPcKrt9hwnq": {
+    "_name_en": "Depths of Despair",
+    "name_ko": "절망의 심연",
+    "text_ko": "이 카드가 방어할 때, 전투 체인이 종료되면 이것을 추방한다.\n블러드 뎃"
+  },
+  "DqMQ7mbcWcfL8QjDcCMJr": {
+    "_name_en": "Depths of Despair",
+    "name_ko": "절망의 심연",
+    "text_ko": "이 카드가 방어할 때, 전투 체인이 종료되면 이것을 추방한다.\n블러드 뎃"
+  },
+  "9WJP989NgMhbHwL6h8rLR": {
+    "_name_en": "Depths of Despair",
+    "name_ko": "절망의 심연",
+    "text_ko": "이 카드가 방어할 때, 전투 체인이 종료되면 이것을 추방한다.\n블러드 뎃"
+  },
+  "68gf9fggmcjDR7Tk78zJm": {
+    "_name_en": "Descend into Madness",
+    "name_ko": "광기로의 하강",
+    "text_ko": "방어 영웅의 손에서 무작위 카드 1장을 추방한 뒤, 그 영웅은 카드 1장을 뽑는다."
+  },
+  "ppcfhRgNk9GH8QWRpMbdt": {
+    "_name_en": "Descendent Gustwave",
+    "name_ko": "계승된 거스트웨이브",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 서징 스트라이크였다면, 이 카드는 {r} 적은 비용으로 사용되고 +2{p}을 가진다.\n고 어게인"
+  },
+  "zbLnng79mJqLzbzDMgkhq": {
+    "_name_en": "Descendent Gustwave",
+    "name_ko": "계승된 거스트웨이브",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 서징 스트라이크였다면, 이 카드는 {r} 적은 비용으로 사용되고 +2{p}을 가진다.\n고 어게인"
+  },
+  "d7D9nzdhjfKmppBnFdFLm": {
+    "_name_en": "Descendent Gustwave",
+    "name_ko": "계승된 거스트웨이브",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 서징 스트라이크였다면, 이 카드는 {r} 적은 비용으로 사용되고 +2{p}을 가진다.\n고 어게인"
+  },
+  "Q9tHhJBMzdRk6HGC9nBGp": {
+    "_name_en": "Desires of Flesh",
+    "name_ko": "육신의 욕망",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 그 영웅의 덱 맨 위 카드를 추방한다.\n이 카드가 공격 액션 카드를 추방할 때마다, 1{h}을 얻는다."
+  },
+  "qFhpqb6pJPNNg7mBRPTMh": {
+    "_name_en": "Desires of Flesh",
+    "name_ko": "육신의 욕망",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 그 영웅의 덱 맨 위 카드를 추방한다.\n이 카드가 공격 액션 카드를 추방할 때마다, 1{h}을 얻는다."
+  },
+  "pCbzCcWBdprHzJk68tGWB": {
+    "_name_en": "Desires of Flesh",
+    "name_ko": "육신의 욕망",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 그 영웅의 덱 맨 위 카드를 추방한다.\n이 카드가 공격 액션 카드를 추방할 때마다, 1{h}을 얻는다."
+  },
+  "B9gmDwNBCkqFHpWgJBmhq": {
+    "_name_en": "Destructive Aethertide",
+    "name_ko": "파괴적인 에테르조류",
+    "text_ko": "아무 대상에게 비전 피해 1을 준다.\n서지 - 이 카드가 영웅에게 1을 초과하는 피해를 주면, 그 영웅의 아스날에 있는 카드 1장을 파괴한다."
+  },
+  "Cqwf78hdKQTfgCtbkcrdL": {
+    "_name_en": "Destructive Deliberation",
+    "name_ko": "파괴적인 심사숙고",
+    "text_ko": "이 카드가 영웅을 명중하면, 폰더 토큰 1개를 생성한다."
+  },
+  "FgzGnMR8GKFpMNMr7DcKH": {
+    "_name_en": "Destructive Deliberation",
+    "name_ko": "파괴적인 심사숙고",
+    "text_ko": "이 카드가 영웅을 명중하면, 폰더 토큰 1개를 생성한다."
+  },
+  "THJWhmjtGRtWfPMRFFkdd": {
+    "_name_en": "Destructive Deliberation",
+    "name_ko": "파괴적인 심사숙고",
+    "text_ko": "이 카드가 영웅을 명중하면, 폰더 토큰 1개를 생성한다."
+  },
+  "q9GwnnJTPk9KpPNdpW6wL": {
+    "_name_en": "Destructive Fleetfoot",
+    "name_ko": "파괴적인 쾌속",
+    "text_ko": "퀵스트라이크 - 이 카드가 고 어게인을 가졌다면, +1{p}을 얻는다.\n이 카드가 영웅을 명중하면, 그 영웅이 조종하는 오라 토큰 1개를 파괴한다."
+  },
+  "DqhpdDNnfhtrRH6pcfj8B": {
+    "_name_en": "Destructive Fleetfoot",
+    "name_ko": "파괴적인 쾌속",
+    "text_ko": "퀵스트라이크 - 이 카드가 고 어게인을 가졌다면, +1{p}을 얻는다.\n이 카드가 영웅을 명중하면, 그 영웅이 조종하는 오라 토큰 1개를 파괴한다."
+  },
+  "d9tCqMqtdwFCmHMbRFGzd": {
+    "_name_en": "Destructive Fleetfoot",
+    "name_ko": "파괴적인 쾌속",
+    "text_ko": "퀵스트라이크 - 이 카드가 고 어게인을 가졌다면, +1{p}을 얻는다.\n이 카드가 영웅을 명중하면, 그 영웅이 조종하는 오라 토큰 1개를 파괴한다."
+  },
+  "rFtwwctDWPnQc7Wwtf6J6": {
+    "_name_en": "Destructive Tendencies",
+    "name_ko": "파괴적 성향",
+    "text_ko": "다음 중 1개 또는 둘 다 선택;\n\n대상 아이템 토큰에서 모든 카운터를 제거한다.\n대상 오라 토큰에서 모든 카운터를 제거한다."
+  },
+  "wdQd78FWKJBKQCGTHtpDb": {
+    "_name_en": "Devotion Never Dies",
+    "name_ko": "헌신은 죽지 않는다",
+    "text_ko": "이 카드가 명중하면, 이번 전투 체인에서 마지막 공격이 드라코닉 공격이었다면, 이것을 추방한다. 그렇게 하면, 이번 턴에 그것을 사용할 수 있다.\n고 어게인"
+  },
+  "NJnDKMhtRtcWptfC8pwWM": {
+    "_name_en": "Diabolic Offering",
+    "name_ko": "악마의 제물",
+    "text_ko": "이번 턴에 {p}이 6 이상인 카드가 당신의 추방 구역에 놓인 적이 있다면, 악마의 제물의 {p}과 {d}은 6이다. 그렇지 않으면, 0이다.\n블러드 뎃"
+  },
+  "LcqN7tjqc8FDhkQ9m6n6N": {
+    "_name_en": "Diabolic Ultimatum",
+    "name_ko": "악마의 최후통첩",
+    "text_ko": "악마의 최후통첩을 사용하기 위해 공격 액션 카드가 피치되었다면, 각 영웅은 자신이 조종하는 아군 1개를 선택해 파괴한다.\n악마의 최후통첩을 사용하기 위해 '비-공격' 액션 카드가 피치되었다면, 각 영웅은 자신이 조종하는 오라 1개를 선택해 파괴한다."
+  },
+  "LFhRKcJC6fbfQjKdqLqp7": {
+    "_name_en": "Diadem of Dreamstate",
+    "name_ko": "몽상의 왕관",
+    "text_ko": "턴당 1회, 이것이나 워드를 가진, 당신이 조종하는 비-토큰 지속물이 파괴되면, {r}을 지불할 수 있다. 그렇게 하면, 폰더 토큰 1개를 생성한다.\n워드 2"
+  },
+  "HRTwtGRhPJkpHT8fN9DGp": {
+    "_name_en": "Diamond",
+    "name_ko": "다이아몬드",
+    "text_ko": "액션 - 다이아몬드를 파괴한다: 카드 1장을 뽑는다. 고 어게인"
+  },
+  "KKLmtWbhTRtcffWGpz7CN": {
+    "_name_en": "Diamond Amulet",
+    "name_ko": "다이아몬드 부적",
+    "text_ko": "순간 - 이것을 파괴한다: 행동권 1을 얻는다.\n워터리 그레이브 전설"
+  },
+  "7wcw6w9b7dwfdQwf67MmK": {
+    "_name_en": "Diamond Hands",
+    "name_ko": "다이아몬드 핸즈",
+    "text_ko": "루디 스페셜라이제이션\n당신의 종료 단계 시작 시, 당신의 손에 카드가 4장 이상이면, 다이아몬드 토큰 1개를 생성한다.\n블레이드 브레이크"
+  },
+  "DktMQqLDTqWBGzBnBCrqt": {
+    "_name_en": "Diced",
+    "name_ko": "다이스",
+    "text_ko": "대상 단검 공격이 +1{p}을 얻는다.\n이번 턴 당신의 다음 단검 공격이 +3{p}을 얻는다."
+  },
+  "WcPqTG8pcTQdqTF8WnzGD": {
+    "_name_en": "Diced",
+    "name_ko": "다이스",
+    "text_ko": "대상 단검 공격이 +1{p}을 얻는다.\n이번 턴 당신의 다음 단검 공격이 +2{p}을 얻는다."
+  },
+  "pnrmmPMcwr7twfKQnHhcm": {
+    "_name_en": "Diced",
+    "name_ko": "다이스",
+    "text_ko": "대상 단검 공격이 +1{p}을 얻는다.\n이번 턴 당신의 다음 단검 공격이 +1{p}을 얻는다."
+  },
+  "JgNNMtHdhBt6qJFPd8NDR": {
+    "_name_en": "Didn't See That Coming",
+    "name_ko": "예상치 못한 일",
+    "text_ko": "당신보다 {h}가 많은 각 영웅은 카드 1장을 버린다."
+  },
+  "gncL7pDCJzDJffqCnGGQM": {
+    "_name_en": "Dig In",
+    "name_ko": "굳건히 버티다",
+    "text_ko": "이 카드가 방어할 때, 최대 {r}{r}{r}을 지불할 수 있다. 그만큼의 강인함 토큰을 생성한다."
+  },
+  "RhkhMcbkCpRhLmpfqmbDF": {
+    "_name_en": "Dig In",
+    "name_ko": "굳건히 버티다",
+    "text_ko": "이 카드가 방어할 때, 최대 {r}{r}{r}을 지불할 수 있다. 그만큼의 강인함 토큰을 생성한다."
+  },
+  "8TmrQnhqFHDGkCQGKzWTj": {
+    "_name_en": "Dig In",
+    "name_ko": "굳건히 버티다",
+    "text_ko": "이 카드가 방어할 때, 최대 {r}{r}{r}을 지불할 수 있다. 그만큼의 강인함 토큰을 생성한다."
+  },
+  "QgkQT8TfFkgPfKbqmF9pb": {
+    "_name_en": "Dig Up Dinner",
+    "name_ko": "저녁을 파내다",
+    "text_ko": "당신의 무덤에서 무작위 카드 3장을 선택한다. 이렇게 선택된, {p}이 6 이상인 모든 공격 액션 카드를 당신의 덱에 섞은 뒤, 그만큼 {h}을 얻는다. 이 카드를 추방한다.\n고 어게인"
+  },
+  "fpmdrrdQ9QwCh6bdphJ68": {
+    "_name_en": "Dimenxxional Crossroads",
+    "name_ko": "차원의 교차로",
+    "text_ko": "고 어게인\n당신이 추방 구역에서 공격 액션 카드나 '비-공격' 액션 카드를 사용할 때마다, 이번 턴에 그 유형의 다른 카드를 사용한 적이 없다면, 대상 영웅에게 비전 피해 1을 준다.\n당신의 턴 동안 {h}을 잃으면, 차원의 교차로를 파괴한다."
+  },
+  "DMTFcc8LndtwGkjgMK69D": {
+    "_name_en": "Dimenxxional Gateway",
+    "name_ko": "차원의 관문",
+    "text_ko": "옵트 3\n당신의 덱 맨 위 카드를 공개한다. 그것이 룬블레이드 카드라면, 각 상대 영웅에게 비전 피해 1을 준다. 그것이 섀도우 카드라면, 추방할 수 있다.\n고 어게인"
+  },
+  "LWqJjmKMRLBbwCJzMwGTJ": {
+    "_name_en": "Dimenxxional Gateway",
+    "name_ko": "차원의 관문",
+    "text_ko": "옵트 2\n당신의 덱 맨 위 카드를 공개한다. 그것이 룬블레이드 카드라면, 각 상대 영웅에게 비전 피해 1을 준다. 그것이 섀도우 카드라면, 추방할 수 있다.\n고 어게인"
+  },
+  "rKp6tbNNd6qzQcJrqL9fG": {
+    "_name_en": "Dimenxxional Gateway",
+    "name_ko": "차원의 관문",
+    "text_ko": "옵트 1\n당신의 덱 맨 위 카드를 공개한다. 그것이 룬블레이드 카드라면, 각 상대 영웅에게 비전 피해 1을 준다. 그것이 섀도우 카드라면, 추방할 수 있다.\n고 어게인"
+  },
+  "JdCmtgpzCdnNWrD7FB7mp": {
+    "_name_en": "Dimenxxional Vortex",
+    "name_ko": "차원의 소용돌이",
+    "text_ko": "당신의 추방 구역에서 이 카드를 사용할 수 있다. 그렇게 하면, {r}{r} 적은 비용으로 사용된다.\n각 영웅은 자신의 아스날에서 카드 1장을 추방한다.\n블러드 뎃"
+  },
+  "TtMnqPqJNGgrjmMJ99KWn": {
+    "_name_en": "Disable",
+    "name_ko": "무력화",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅의 아스날에서 카드 1장을 덱 맨 아래에 놓는다."
+  },
+  "fgrK7Mbp8qQcbMtQDwk9F": {
+    "_name_en": "Disable",
+    "name_ko": "무력화",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅의 아스날에서 카드 1장을 덱 맨 아래에 놓는다."
+  },
+  "7LPnw9zFRhGmKHzCzMpdJ": {
+    "_name_en": "Disable",
+    "name_ko": "무력화",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅의 아스날에서 카드 1장을 덱 맨 아래에 놓는다."
+  },
+  "WjfRfczmQcbQknfRdD8JJ": {
+    "_name_en": "Disarm",
+    "name_ko": "무장 해제",
+    "text_ko": "이 카드가 공격할 때, 이번 턴에 환호를 받았다면, 강인함 토큰 1개를 생성한다.\n이 카드가 방어할 때, {d}이 6 이상이면, 공격하는 영웅은 자신의 손에서 카드 1장을 덱 맨 아래에 놓는다."
+  },
+  "qmrkpcDjBHQb9g6pqCFMd": {
+    "_name_en": "Disdainful Delight",
+    "name_ko": "경멸의 기쁨",
+    "text_ko": "이 카드가 방어하는 동안, 이번 턴에 야유를 받았다면, +1{d}을 얻는다."
+  },
+  "PLpmc6rb9nqRdNGDczpg7": {
+    "_name_en": "Disembody",
+    "name_ko": "형체 해체",
+    "text_ko": "이 카드가 공격할 때, 이번 턴에 환호를 받았다면, 강인함 토큰 1개를 생성한다.\n이 카드가 방어할 때, {d}이 6 이상이면, 공격하는 영웅은 자신이 조종하는 오라 1개를 덱 맨 아래에 놓는다."
+  },
+  "CkHnpRcfgkcrmJqTpDztp": {
+    "_name_en": "Disenchantment of the Old Ones",
+    "name_ko": "고대인의 각성 해제",
+    "text_ko": "크러시 - 이 카드가 가디언 영웅에게 4 이상의 피해를 주면, 그 영웅이 조종하는 모든 오라를 파괴한다.\n힘겨운 투척 2"
+  },
+  "WRhC8n6HHNkRn6MjzDHDL": {
+    "_name_en": "Dishonor",
+    "name_ko": "불명예",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 선조의 속박이었다면, 이 카드는 +2{p}을 가진다.\n이 카드가 영웅을 명중하면, 당신이 서징 스트라이크, 계승된 거스트웨이브, 선조의 속박을 조종하고 있다면, 그 영웅은 게임이 끝날 때까지 모든 능력을 잃는다."
+  },
+  "h7bnkbFjNTLjdGdCNg8RJ": {
+    "_name_en": "Disperse",
+    "name_ko": "흩어지다",
+    "text_ko": "이 카드가 공격할 때, 이번 턴에 환호를 받았다면, 강인함 토큰 1개를 생성한다.\n이 카드가 방어할 때, {d}이 6 이상이면, 공격하는 영웅은 자신의 아스날에서 카드 1장을 덱 맨 아래에 놓는다."
+  },
+  "cKp6hPc7WTW8Q98cHPM9P": {
+    "_name_en": "Display Loyalty",
+    "name_ko": "충성을 보이다",
+    "text_ko": "당신이 드라코닉 체인 링크를 2개 이상 조종하고 있다면, 이 카드는 고 어게인과 \"이 카드가 영웅을 공격할 때, 충성 토큰 1개를 생성한다\"를 얻는다."
+  },
+  "RhP7JKg8zRrqFdMdpGNqF": {
+    "_name_en": "Display of Craftsmanship",
+    "name_ko": "장인정신의 전시",
+    "text_ko": "대상 무기 공격이 +4{p}을 얻는다. 그 무기가 이번 턴에 연마되었다면, 그것에 +1{p} 카운터를 올린다."
+  },
+  "mDdzHTPPwKp6NfdR8PjBP": {
+    "_name_en": "Display of Craftsmanship",
+    "name_ko": "장인정신의 전시",
+    "text_ko": "대상 무기 공격이 +3{p}을 얻는다. 그 무기가 이번 턴에 연마되었다면, 그것에 +1{p} 카운터를 올린다."
+  },
+  "HFjQwD77fkMjBDhRKDRk9": {
+    "_name_en": "Display of Craftsmanship",
+    "name_ko": "장인정신의 전시",
+    "text_ko": "대상 무기 공격이 +2{p}을 얻는다. 그 무기가 이번 턴에 연마되었다면, 그것에 +1{p} 카운터를 올린다."
+  },
+  "HGhtMHhF6dqdNccmNK7w8": {
+    "_name_en": "Dissipation Shield",
+    "name_ko": "소산 방패",
+    "text_ko": "소산 방패는 스팀 카운터 4개를 지닌 채 전장에 들어온다.\n당신의 행동 단계 시작 시, 스팀 카운터 1개를 제거하지 않는 한 소산 방패를 파괴한다.\n순간 - 소산 방패를 파괴한다: 이번 턴 당신의 영웅이 다음에 피해를 받게 될 경우, 피해 X를 방지한다. X는 소산 방패에 있는 스팀 카운터 수이다."
+  },
+  "tdzrCmghQCTWz6PcfLKgw": {
+    "_name_en": "Dissolution Sphere",
+    "name_ko": "분해 구체",
+    "text_ko": "분해 구체는 스팀 카운터 1개를 지닌 채 전장에 들어온다.\n당신의 행동 단계 시작 시, 스팀 카운터 1개를 제거하지 않는 한 분해 구체를 파괴한다.\n당신의 영웅이 정확히 1의 피해를 받게 될 경우, 방지한다."
+  },
+  "gnCCKC87FkrLRgfz9dhFf": {
+    "_name_en": "Dissolve Reality",
+    "name_ko": "현실 해체",
+    "text_ko": "각 영웅은 자신의 아스날에 있는 모든 카드를 덱 맨 아래에 놓고 폰더 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "BkCG6nzTtpmBmKCfkPrM6": {
+    "_name_en": "Dissolving Shield",
+    "name_ko": "용해 방패",
+    "text_ko": "크랭크\n이 카드는 스팀 카운터 3개를 지닌 채 전장에 들어온다. 당신의 턴 시작 시, 스팀 카운터 1개를 제거하지 않는 한 이것을 파괴한다.\n순간 - 이것에서 스팀 카운터 1개를 제거한다: 이번 턴 당신에게 가해질 다음 피해 1을 방지한다. 이것에 스팀 카운터가 없으면, 파괴한다."
+  },
+  "MrwQKWkmLLgfJcptFmRCc": {
+    "_name_en": "Dissolving Shield",
+    "name_ko": "용해 방패",
+    "text_ko": "크랭크\n이 카드는 스팀 카운터 2개를 지닌 채 전장에 들어온다. 당신의 턴 시작 시, 스팀 카운터 1개를 제거하지 않는 한 이것을 파괴한다.\n순간 - 이것에서 스팀 카운터 1개를 제거한다: 이번 턴 당신에게 가해질 다음 피해 1을 방지한다. 이것에 스팀 카운터가 없으면, 파괴한다."
+  },
+  "PFCpzppJRrWggRLgwdPHz": {
+    "_name_en": "Dissolving Shield",
+    "name_ko": "용해 방패",
+    "text_ko": "크랭크\n이 카드는 스팀 카운터 1개를 지닌 채 전장에 들어온다. 당신의 턴 시작 시, 스팀 카운터 1개를 제거하지 않는 한 이것을 파괴한다.\n순간 - 이것에서 스팀 카운터 1개를 제거한다: 이번 턴 당신에게 가해질 다음 피해 1을 방지한다. 이것에 스팀 카운터가 없으면, 파괴한다."
+  },
+  "pTBgkLTM6mFMCJwwt6Fwn": {
+    "_name_en": "Distant Rumbling",
+    "name_ko": "멀리서의 우르릉거림",
+    "text_ko": "이 카드가 전장에 들어올 때, 카드 1장을 뽑은 뒤, 당신의 손에서 카드 1장을 덱의 다섯 번째 위치에 놓는다.\n당신의 턴 시작 시, 이것을 파괴한 뒤, 지진 파동 토큰 3개를 생성한다."
+  },
+  "7gHjrqppMDhfhF9GTrBbM": {
+    "_name_en": "Distant Rumbling",
+    "name_ko": "멀리서의 우르릉거림",
+    "text_ko": "이 카드가 전장에 들어올 때, 카드 1장을 뽑은 뒤, 당신의 손에서 카드 1장을 덱의 다섯 번째 위치에 놓는다.\n당신의 턴 시작 시, 이것을 파괴한 뒤, 지진 파동 토큰 2개를 생성한다."
+  },
+  "kKWd9BMLq8LnWhMm7gqN8": {
+    "_name_en": "Distant Rumbling",
+    "name_ko": "멀리서의 우르릉거림",
+    "text_ko": "이 카드가 전장에 들어올 때, 카드 1장을 뽑은 뒤, 당신의 손에서 카드 1장을 덱의 다섯 번째 위치에 놓는다.\n당신의 턴 시작 시, 이것을 파괴한 뒤, 지진 파동 토큰 1개를 생성한다."
+  },
+  "CBzHmdKBFTmnLKHzWgk86": {
+    "_name_en": "Disturb the Peace",
+    "name_ko": "평화를 깨뜨리다",
+    "text_ko": "이 카드는 가디언 오라로 방어될 수 없다.\n이 카드가 가디언 영웅을 명중하면, 그 영웅이 조종하는 오라 1개를 파괴한다."
+  },
+  "mWQtWfkKC6hchJcQ67Mpt": {
+    "_name_en": "Dive Through Data",
+    "name_ko": "데이터로 뛰어들다",
+    "text_ko": "부스트\n이 카드가 명중하면, 옵트 1."
+  },
+  "NBKMt6PPm7WNcWf79B7NQ": {
+    "_name_en": "Dive Through Data",
+    "name_ko": "데이터로 뛰어들다",
+    "text_ko": "부스트\n이 카드가 명중하면, 옵트 1."
+  },
+  "q87bjWTPpRz8LHrN8drrd": {
+    "_name_en": "Dive Through Data",
+    "name_ko": "데이터로 뛰어들다",
+    "text_ko": "부스트\n이 카드가 명중하면, 옵트 1."
+  },
+  "wBNFNMMLnnBTDczrjjgRH": {
+    "_name_en": "Divvy Up",
+    "name_ko": "나눠 갖기",
+    "text_ko": "트레저 아일랜드에서 골드 카운터의 절반(올림)을 제거한다. 당신이 도둑(Thief)이라면, 대신 전부 제거한다.\n이렇게 제거된 골드 카운터 수만큼 골드 토큰을 생성한다."
+  },
+  "bzkCGg6kcffpBcBhgHrkH": {
+    "_name_en": "Dodge",
+    "name_ko": "회피"
+  },
+  "DmQPbpRWTzKJcwKLdB88B": {
+    "_name_en": "Dominate the Competition",
+    "name_ko": "경쟁을 압도하다",
+    "text_ko": "이번 턴 당신의 다음 공격이 도미네이트를 얻는다."
+  },
+  "hjggcdqWwpwNKCrTBj6J7": {
+    "_name_en": "Dominia",
+    "name_ko": "도미니아",
+    "text_ko": "도미니아가 영웅을 공격할 때마다, 당신의 덱 맨 위 카드를 공개한다. 그것이 빨간색 카드라면, 그 영웅의 손을 보고 그중 카드 1장을 추방한다."
+  },
+  "NmQKTmjkndPjrGGW8bBLk": {
+    "_name_en": "Donkey",
+    "name_ko": "당나귀",
+    "text_ko": "대상 검 공격이 +1{p}을 얻고 방어 영웅과 내기를 건다. 승자는 자신의 아스날에 있는 카드 1장을 파괴한다."
+  },
+  "pgCtKBCMMg6wmhBQHB6Tq": {
+    "_name_en": "Doomsaying",
+    "name_ko": "종말을 예언하다",
+    "text_ko": "고 어게인\n당신의 종료 단계 시작 시, 이것에 파멸 카운터를 올린 뒤, 각 영웅은 자신이 조종하는 오라 X개를 파괴한다. X는 이것에 있는 파멸 카운터의 수이다."
+  },
+  "w7HdMtLpHDBRNJcKHWHpc": {
+    "_name_en": "Doomsday",
+    "name_ko": "둠스데이",
+    "text_ko": "레전더리 레비아 스페셜라이제이션\n당신의 추방 구역에 블러드 뎃을 가진 카드가 6장 이상일 때만 둠스데이를 사용한다.\n블라스모펫, 영혼 수확자 토큰 1개를 생성한다."
+  },
+  "KGqRPDfRrnPqdj7Cm76fr": {
+    "_name_en": "Dorinthea",
+    "name_ko": "도린테아",
+    "text_ko": "턴당 1회 효과 - 당신이 조종하는 무기가 명중하면, 이번 턴에 그 무기로 추가로 한 번 더 공격할 수 있다."
+  },
+  "Djhg6DMpCpFHD9rcPNFrN": {
+    "_name_en": "Dorinthea Ironsong",
+    "name_ko": "도린테아 철혈가",
+    "text_ko": "턴당 1회 효과 - 당신이 조종하는 무기가 명중하면, 이번 턴에 그 무기로 추가로 한 번 더 공격할 수 있다."
+  },
+  "NJJCGNjdCFzrjLqGfL6mR": {
+    "_name_en": "Dorinthea, Quicksilver Prodigy",
+    "name_ko": "도린테아, 수은의 신동",
+    "text_ko": "각 턴 당신의 던블레이드, 찬란한의 공격이 처음으로 고 어게인을 얻을 때, 이번 턴에 그것으로 추가로 한 번 더 공격할 수 있다."
+  },
+  "QnFfpGtbFWTWCRjMrJnc7": {
+    "_name_en": "Double Cross Strap",
+    "name_ko": "이중배신 결속구",
+    "text_ko": "순간 - 이것을 파괴한다: {r}을 얻는다. 이번 전투 체인에 2회 이상 명중했을 때만 이것을 활성화한다.\n아케인 배리어 1"
+  },
+  "8JF8CGqcQRDnGWNBhkhtD": {
+    "_name_en": "Double Down",
+    "name_ko": "더블 다운",
+    "text_ko": "더블 다운의 {r} 비용을 지불하는 대신, 당신이 조종하는 골드 1개를 파괴할 수 있다.\n이번 턴 내기를 거는 다음 공격이 +3{p}과 오버파워를 얻는다.\n이번 턴 영웅이 내기로 토큰을 1개 이상 생성하게 될 경우, 대신 그 각 토큰을 그만큼에 1을 더해 생성한다.\n고 어게인"
+  },
+  "PrzDDzhJCLMPdrJDzrrpr": {
+    "_name_en": "Double Strike",
+    "name_ko": "더블 스트라이크",
+    "text_ko": "더블 스트라이크의 체인 링크가 해결되면, 이것을 추방한다. 이번 전투 체인에 이것을 사용할 수 있다. 그렇게 하면, 이 능력을 잃는다.\n고 어게인"
+  },
+  "qHT6BFpP7DTCFHwGz6hDR": {
+    "_name_en": "Double Trouble",
+    "name_ko": "더블 트러블",
+    "text_ko": "스텔스\n이번 체인 링크에서 공격 반응을 2개 이상 사용하거나 활성화했다면, 이 카드가 +2{p}과 \"이 카드가 영웅을 명중하면, 그 영웅의 덱 맨 위 2장을 추방한다\"를 얻는다."
+  },
+  "9dbWPMjhR869wJwCdgh8b": {
+    "_name_en": "Double Trouble",
+    "name_ko": "더블 트러블",
+    "text_ko": "스텔스\n이번 체인 링크에서 공격 반응을 2개 이상 사용하거나 활성화했다면, 이 카드가 +2{p}과 \"이 카드가 영웅을 명중하면, 그 영웅의 덱 맨 위 2장을 추방한다\"를 얻는다."
+  },
+  "8r7DqKfDrBG6C8mTDRKN7": {
+    "_name_en": "Double Trouble",
+    "name_ko": "더블 트러블",
+    "text_ko": "스텔스\n이번 체인 링크에서 공격 반응을 2개 이상 사용하거나 활성화했다면, 이 카드가 +2{p}과 \"이 카드가 영웅을 명중하면, 그 영웅의 덱 맨 위 2장을 추방한다\"를 얻는다."
+  },
+  "NN9HKRrHF7JDFfnmdRJ6D": {
+    "_name_en": "Doubling Season",
+    "name_ko": "배가의 계절",
+    "text_ko": "이 카드가 임의의 구역에서 앞면인 동안, {p}을 얻게 될 경우, 대신 그만큼에 1을 더해 얻는다."
+  },
+  "fGFfbMPbQFn6qKPqCtJdB": {
+    "_name_en": "Douse in Runeblood",
+    "name_ko": "룬혈에 담그다",
+    "text_ko": "이 카드가 공격할 때, 이번 턴에 당신이 사용한 비-공격 액션 카드 수만큼 룬챈트 토큰을 생성한다. 이렇게 룬챈트가 3개 이상 생성되면, 이 카드가 고 어게인을 얻는다."
+  },
+  "HgLNTDb7kMk7MdJrTjn8T": {
+    "_name_en": "Down and Dirty",
+    "name_ko": "지저분하게",
+    "text_ko": "지저분하게가 당신의 아스날에 있는 동안, 그것으로 방어할 수 있다."
+  },
+  "JFKn8JgrMchwh6D6dCQNw": {
+    "_name_en": "Down But Not Out",
+    "name_ko": "쓰러졌지만 끝나지 않았다",
+    "text_ko": "이 카드가 영웅을 공격할 때, 당신이 그 영웅보다 {h}가 적고 조종하는 장비와 토큰이 더 적다면, 이 카드가 +3{p}, 오버파워, \"이 카드가 명중하면, 어질리티, 마이트, 비거 토큰을 각각 생성한다\"를 얻는다."
+  },
+  "n6jb6thTHT9TpcTdRjdQm": {
+    "_name_en": "Down But Not Out",
+    "name_ko": "쓰러졌지만 끝나지 않았다",
+    "text_ko": "이 카드가 영웅을 공격할 때, 당신이 그 영웅보다 {h}가 적고 조종하는 장비와 토큰이 더 적다면, 이 카드가 +3{p}, 오버파워, \"이 카드가 명중하면, 어질리티, 마이트, 비거 토큰을 각각 생성한다\"를 얻는다."
+  },
+  "PCCtHrqDfnnmwFJwMNGDW": {
+    "_name_en": "Down But Not Out",
+    "name_ko": "쓰러졌지만 끝나지 않았다",
+    "text_ko": "이 카드가 영웅을 공격할 때, 당신이 그 영웅보다 {h}가 적고 조종하는 장비와 토큰이 더 적다면, 이 카드가 +3{p}, 오버파워, \"이 카드가 명중하면, 어질리티, 마이트, 비거 토큰을 각각 생성한다\"를 얻는다."
+  },
+  "8fP9qJWHNqgWf6BgfBqLw": {
+    "_name_en": "Downswing",
+    "name_ko": "내리치기",
+    "text_ko": "대상 검 공격이 +1{p}을 얻고 방어 영웅과 내기를 건다. 승자는 1{h}을 잃는다."
+  },
+  "hRLzQChgG7cPDkkhhC6MM": {
+    "_name_en": "Draco Fire",
+    "name_ko": "드라코 파이어",
+    "text_ko": "이번 턴 당신의 다음 드라코닉 공격이 +2{p}을 얻고 사용하거나 활성화하는 데 {r} 적은 비용이 든다.\n이 카드가 당신의 무덤에 있는 동안, 당신의 턴 시작 시, 당신의 무덤에서 '드라코 파이어'라는 이름의 카드 2장을 추방할 수 있다. 그렇게 하면, {r}을 얻는다."
+  },
+  "78FGMN9nn9QR9FDzC9z68": {
+    "_name_en": "Dracona Optimai",
+    "name_ko": "드라코나 옵티마이",
+    "text_ko": "드라코나 옵티마이가 영웅을 공격할 때마다, 당신의 덱 맨 위 3장을 공개한다. 이렇게 공개된 빨간색 카드 수의 두 배만큼 그 영웅이나 그가 조종하는 아군에게 비전 피해를 준다."
+  },
+  "fBWjpTwLWrMWRRwdbztRd": {
+    "_name_en": "Drag Down",
+    "name_ko": "끌어내리다",
+    "text_ko": "이 카드가 공격을 방어하면, -3{p}을 얻는다."
+  },
+  "BWzDHWcRKC7nLCnT9NWnb": {
+    "_name_en": "Drag Down",
+    "name_ko": "끌어내리다",
+    "text_ko": "이 카드가 공격을 방어하면, -2{p}을 얻는다."
+  },
+  "QCKRPnMGTCBhwWKN68hmr": {
+    "_name_en": "Drag Down",
+    "name_ko": "끌어내리다",
+    "text_ko": "이 카드가 공격을 방어하면, -1{p}을 얻는다."
+  },
+  "QGp9LdRwfGKzQnpHrbJtN": {
+    "_name_en": "Dragon Power",
+    "name_ko": "용의 힘",
+    "text_ko": "이 카드가 공격할 때, 이것이 드라코닉이라면, +3{p}을 얻는다."
+  },
+  "H9JwchwDzHrRr8Ldkwwtw": {
+    "_name_en": "Dragon Power",
+    "name_ko": "용의 힘",
+    "text_ko": "이 카드가 공격할 때, 이것이 드라코닉이라면, +3{p}을 얻는다."
+  },
+  "dbTzPk8nMMBcPzTnnnDRk": {
+    "_name_en": "Dragon Power",
+    "name_ko": "용의 힘",
+    "text_ko": "이 카드가 공격할 때, 이것이 드라코닉이라면, +3{p}을 얻는다."
+  },
+  "nFBgGfC6HwTwNFCgmnCRn": {
+    "_name_en": "Dragons of Legend",
+    "name_ko": "전설의 드래곤들",
+    "text_ko": "드라코나 옵티마이 - 피치 1, 비용 6, 블록 3\n토멜타이 - 피치 1, 비용 5, 블록 3\n도미니아 - 피치 1, 비용 4, 블록 3\n아즈볼라이 - 피치 1, 비용 0, 블록 3\n크로마이 - 피치 1, 비용 0, 블록 3\n킬로리아 - 피치 1, 비용 1, 블록 3\n미라가이 - 피치 1, 비용 1, 블록 3\n네크리아 - 피치 1, 비용 3, 블록 3\n오비아 - 피치 1, 비용 2, 블록 3\n테마이 - 피치 1, 비용 2, 블록 3\n빈세라카이 - 피치 1, 비용 3, 블록 3\n옌두라이 - 피치 1, 비용 1, 블록 3\n당신이 소유한 초혼 카드를 대신해 이 카드를 덱에 넣을 수 있다. 이 카드가 소환하는 드래곤 이름 옆의 칸에 표시한다. 이 카드가 사용되거나 무덤에 놓이면, 초혼 카드와 맞바꾼다."
+  },
+  "Tn6HrNTBn7GQJt8pGTLwQ": {
+    "_name_en": "Dragonscaler Flight Path",
+    "name_ko": "드래곤스케일러 비행 경로",
+    "text_ko": "순간 - {r}{r}{r}, 이것을 파괴한다: 대상 드라코닉 공격이 고 어게인을 얻는다. 그것이 무기나 아군 공격이라면, 이번 턴에 그것으로 추가로 한 번 더 공격할 수 있다. 이 능력은 당신이 조종하는 드라코닉 체인 링크 1개당 {r} 적은 비용으로 활성화된다.\n배틀원"
+  },
+  "hwD7gkp8L8WgQjjdGPdtD": {
+    "_name_en": "Dramatic Pause",
+    "name_ko": "극적인 정지",
+    "text_ko": "서스펜스\n이 카드가 전장에 들어올 때, 이번 체인 링크에서 대상 방어 액션 카드가 +3{d}을 얻는다."
+  },
+  "RGWMn6WwnDpnmB7HHB7jz": {
+    "_name_en": "Dramatic Pause",
+    "name_ko": "극적인 정지",
+    "text_ko": "서스펜스\n이 카드가 전장에 들어올 때, 이번 체인 링크에서 대상 방어 액션 카드가 +2{d}을 얻는다."
+  },
+  "pQNwNwRMwLPkfq96NB7GP": {
+    "_name_en": "Dramatic Pause",
+    "name_ko": "극적인 정지",
+    "text_ko": "서스펜스\n이 카드가 전장에 들어올 때, 이번 체인 링크에서 대상 방어 액션 카드가 +1{d}을 얻는다."
+  },
+  "tfzkkkrLtW9kkWFjpPLQP": {
+    "_name_en": "Draw a Crowd",
+    "name_ko": "군중을 끌어모으다",
+    "text_ko": "고 어게인\n이 카드가 전장에 들어올 때, 각 영웅이 카드 1장을 뽑는다.\n당신의 행동 단계 시작 시, 이것을 파괴한 뒤, 이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 +3{p}을 얻는다."
+  },
+  "L9p7KwzTpjnpPGqjnDgqn": {
+    "_name_en": "Draw Back the Hammer",
+    "name_ko": "망치를 당기다",
+    "text_ko": "이번 턴 당신의 다음 메카놀로지스트 공격이 +4{p}을 얻는다.\n당신이 조종하는 총 1개를 {u}할 수 있다.\n고 어게인"
+  },
+  "bnCP8zG8wBkghLtnppFqw": {
+    "_name_en": "Draw Swords",
+    "name_ko": "검을 뽑다",
+    "text_ko": "이번 턴 당신의 다음 전사 공격이 +3{p}을 얻는다.\n카드 1장을 뽑는다.\n고 어게인"
+  },
+  "kNBgrQWKRDrDb97mWjKpz": {
+    "_name_en": "Draw Swords",
+    "name_ko": "검을 뽑다",
+    "text_ko": "이번 턴 당신의 다음 전사 공격이 +2{p}을 얻는다.\n카드 1장을 뽑는다.\n고 어게인"
+  },
+  "fbfLBzMKtdBhJDLbBrPtg": {
+    "_name_en": "Draw Swords",
+    "name_ko": "검을 뽑다",
+    "text_ko": "이번 턴 당신의 다음 전사 공격이 +1{p}을 얻는다.\n카드 1장을 뽑는다.\n고 어게인"
+  },
+  "P9zCBnmGGJLqgH79R89Br": {
+    "_name_en": "Drawing Dead",
+    "name_ko": "죽은 패",
+    "text_ko": "대상 검 공격이 +1{p}을 얻고 방어 영웅과 내기를 건다. 승자는 카드 1장을 버린다."
+  },
+  "FWdhrBqFCH9nqqmRGPcTL": {
+    "_name_en": "Drawn to the Dark Dimension",
+    "name_ko": "암흑 차원으로 이끌리다",
+    "text_ko": "이 카드는 당신이 조종하는 룬챈트 1개당 {r} 적은 비용으로 사용된다.\n이 카드가 공격할 때, 카드 1장을 뽑는다."
+  },
+  "fDnDDNRg7WC6tfmFgz9LC": {
+    "_name_en": "Drawn to the Dark Dimension",
+    "name_ko": "암흑 차원으로 이끌리다",
+    "text_ko": "암흑 차원으로 이끌리다는 당신이 조종하는 룬챈트 1개당 {r} 적은 비용으로 사용된다.\n카드 1장을 뽑는다."
+  },
+  "PMm7cqpbBL7wGwbqcqMcz": {
+    "_name_en": "Drawn to the Dark Dimension",
+    "name_ko": "암흑 차원으로 이끌리다",
+    "text_ko": "암흑 차원으로 이끌리다는 당신이 조종하는 룬챈트 1개당 {r} 적은 비용으로 사용된다.\n카드 1장을 뽑는다."
+  },
+  "p76hRkCFwWPHGjzNmD9PP": {
+    "_name_en": "Dread Screamer",
+    "name_ko": "공포의 절규자",
+    "text_ko": "공포의 절규자를 사용하기 위한 추가 비용으로, 당신의 무덤에서 무작위 카드 3장을 추방한다\n이렇게 {p}이 6 이상인 카드가 추방되면, 공포의 절규자가 고 어게인을 얻는다.\n블러드 뎃"
+  },
+  "c7FDjdpBGckCWwFJJBqFK": {
+    "_name_en": "Dread Screamer",
+    "name_ko": "공포의 절규자",
+    "text_ko": "공포의 절규자를 사용하기 위한 추가 비용으로, 당신의 무덤에서 무작위 카드 3장을 추방한다\n이렇게 {p}이 6 이상인 카드가 추방되면, 공포의 절규자가 고 어게인을 얻는다.\n블러드 뎃"
+  },
+  "9DfC6LTGhFKkzPTfnGMGg": {
+    "_name_en": "Dread Screamer",
+    "name_ko": "공포의 절규자",
+    "text_ko": "공포의 절규자를 사용하기 위한 추가 비용으로, 당신의 무덤에서 무작위 카드 3장을 추방한다\n이렇게 {p}이 6 이상인 카드가 추방되면, 공포의 절규자가 고 어게인을 얻는다.\n블러드 뎃"
+  },
+  "cpF9wnTcmHLtGWND7hbKF": {
+    "_name_en": "Dread Scythe",
+    "name_ko": "공포의 큰 낫",
+    "text_ko": "턴당 1회 액션 - {r}{r}{r}: 공격\n당신이 공포의 큰 낫으로 공격할 때마다, 방어 영웅에게 비전 피해 1을 준다.\n공포의 큰 낫으로 피해를 받은 영웅은 다음 행동 단계 동안 {h}을 얻을 수 없다."
+  },
+  "HtQhWhjqqqtPNWbzNPjPf": {
+    "_name_en": "Dread Triptych",
+    "name_ko": "공포의 삼면화",
+    "text_ko": "당신이 공포의 삼면화로 공격할 때, 이번 턴에 '비-공격' 액션 카드를 사용한 적이 있다면, 룬챈트 토큰 1개를 생성한다.\n당신이 공포의 삼면화로 공격할 때, 이번 턴에 비전 피해를 준 적이 있다면, 룬챈트 토큰 1개를 생성한다.\n공포의 삼면화가 명중하면, 룬챈트 토큰 1개를 생성한다."
+  },
+  "7WhjMkMzcRQ9M7cpzFcpH": {
+    "_name_en": "Dreadbore",
+    "name_ko": "공포의 활",
+    "text_ko": "턴당 1회 액션 - {r}: 당신의 손에서 화살 카드 1장을 당신이 조종하는 빈 아스날 구역에 앞면으로 놓을 수 있다. 그렇게 하면, 턴 종료 시까지 +1{p}을 얻는다. 고 어게인\n당신이 조종하는 화살들은 \"이번 체인 링크에서 방어 반응은 손에서 사용할 수 없다\"를 가진다."
   }
 }
