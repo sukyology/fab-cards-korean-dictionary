@@ -194,7 +194,11 @@ function openModal(card) {
         .join("")}</div>`
     : "";
 
-  const typeKo = card.type_text_ko ? `${escapeHtml(card.type_text_ko)} · ` : "";
+  // 한글 타입 번역이 있고 영어와 다를 때만 "한글 · 영어"로 표시(미번역이면 영어만)
+  const typeKo =
+    card.type_text_ko && card.type_text_ko !== card.type_text
+      ? `${escapeHtml(card.type_text_ko)} · `
+      : "";
 
   modalBody.innerHTML = `
     <div class="detail">
