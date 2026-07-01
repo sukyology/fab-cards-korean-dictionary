@@ -10023,5 +10023,650 @@
     "_name_en": "Heavy Artillery",
     "name_ko": "중포병",
     "text_ko": "에보 업그레이드 - 방어 영웅은 {p}이 X 미만인 공격 액션 카드로 이 카드를 방어할 수 없다. X는 당신이 장착한 에보의 수이다."
+  },
+  "PtcNWqrmfGgdQmLzBQWtp": {
+    "_name_en": "Heavy Industry Gear Shift",
+    "name_ko": "중공업 기어 시프트",
+    "text_ko": "액션 - 이것을 파괴한다: 당신 덱 맨 위 2장을 추방한다. 이렇게 추방된 메카놀로지스트 카드 1장당 액션 포인트 1을 얻는다.\n배틀원"
+  },
+  "6MktH8f6TgMJPmPLN8M8R": {
+    "_name_en": "Heavy Industry Power Plant",
+    "name_ko": "중공업 발전소",
+    "text_ko": "액션 - {r}, 이것을 파괴한다: 이번 턴 당신이 부스트할 때마다, {r}을 얻는다. 고 어게인\n템퍼"
+  },
+  "WgHWK8qbFHRzWFpH9NCWQ": {
+    "_name_en": "Heavy Industry Ram Stop",
+    "name_ko": "중공업 충각 저지대",
+    "text_ko": "이 카드가 방어할 때, {r}을 지불할 수 있다. 그렇게 하면, 턴 종료 시까지 +1{d}을 얻는다.\n템퍼"
+  },
+  "HDgpj7cmFJwFWqdrHgngk": {
+    "_name_en": "Heavy Industry Surveillance",
+    "name_ko": "중공업 감시",
+    "text_ko": "이 카드가 방어할 때, 당신 덱 맨 위 카드를 추방할 수 있다. 그것이 메카놀로지스트 카드라면, 턴 종료 시까지 +1{d}을 얻는다.\n템퍼"
+  },
+  "kcf7qcRNnNdCk8NL9N7NJ": {
+    "_name_en": "Heavy Metal Hardcore",
+    "name_ko": "헤비 메탈 하드코어",
+    "text_ko": "이번 턴에 부스트로 에보가 추방된 적이 있다면, 이 카드가 +1{p}을 얻는다.\n부스트"
+  },
+  "JjM6fT8dmFTMdKMpRjqCJ": {
+    "_name_en": "Heavy Metal Hardcore",
+    "name_ko": "헤비 메탈 하드코어",
+    "text_ko": "이번 턴에 부스트로 에보가 추방된 적이 있다면, 이 카드가 +1{p}을 얻는다.\n부스트"
+  },
+  "LRT8g7gJKf6RwWLbLmcdd": {
+    "_name_en": "Heavy Metal Hardcore",
+    "name_ko": "헤비 메탈 하드코어",
+    "text_ko": "이번 턴에 부스트로 에보가 추방된 적이 있다면, 이 카드가 +1{p}을 얻는다.\n부스트"
+  },
+  "z7HGHDCwMDgBmhdhTnRhW": {
+    "_name_en": "Heirloom of Rabbit Hide",
+    "name_ko": "토끼 가죽 가보",
+    "text_ko": "클로크\n이것이 뒷면으로 장착되어 있는 동안, 당신의 턴 시작 시, 당신의 {h}이 정확히 1이면, 이것을 앞면으로 뒤집을 수 있다.\n워드 4"
+  },
+  "wqzWn8rMcWhGwNQfKtWtG": {
+    "_name_en": "Heirloom of Snake Hide",
+    "name_ko": "뱀 가죽 가보",
+    "text_ko": "클로크\n이것이 뒷면으로 장착되어 있는 동안, 당신의 턴 시작 시, 당신의 {h}이 정확히 1이면, 이것을 앞면으로 뒤집을 수 있다.\n배틀원"
+  },
+  "6F7r7J6hRpwwH8hrtjdTp": {
+    "_name_en": "Heirloom of Tiger Hide",
+    "name_ko": "호랑이 가죽 가보",
+    "text_ko": "클로크\n이것이 뒷면으로 장착되어 있는 동안, 당신의 턴 시작 시, 당신의 {h}이 정확히 1이면, 이것을 앞면으로 뒤집을 수 있다.\n블레이드 브레이크"
+  },
+  "NmRw7kHM96FTDqDF69qJ9": {
+    "_name_en": "Heist",
+    "name_ko": "강탈",
+    "text_ko": "부스트\n이 카드가 영웅을 명중하면, 임의의 추방 구역에서 비용 0 또는 1인 아이템을 당신의 조종 하에 전장에 놓을 수 있다."
+  },
+  "gjgpkHgC6p7HNTPpCJdCh": {
+    "_name_en": "Helio's Mitre",
+    "name_ko": "헬리오스의 미트라",
+    "text_ko": "(플레이어는 업라이징 리미티드 포맷에서 헬리오스의 미트라를 자신의 카드 풀에 추가할 수 있다.)\n순간 - {r}{r}: 당신이 선택한 발생원으로부터 이번 턴 당신 영웅에게 가해질 다음 피해 1을 방지한다. 종료 단계 시작 시 헬리오스의 미트라를 파괴한다."
+  },
+  "zMbD7hqPwGNQCcDC6DPB9": {
+    "_name_en": "Hell Hammer",
+    "name_ko": "지옥 망치",
+    "text_ko": "턴당 1회 액션 - {r}{r}: 공격\n전투 체인이 종료되면, 이것이 공격했다면, 추방한다.\n블러드 뎃"
+  },
+  "cBRqwBmLLnnTKt8PKkh7k": {
+    "_name_en": "Helm of Astral Sanctuary",
+    "name_ko": "천상 성역의 투구",
+    "text_ko": "순간 - 당신의 영웅을 {t}한다, 이것을 파괴한다: 이번 턴 당신에게 가해질 다음 피해 1을 방지한다."
+  },
+  "TKbBnD6hMmqHfhDPtmHjL": {
+    "_name_en": "Helm of Halo's Grace",
+    "name_ko": "헤일로 그레이스의 투구",
+    "text_ko": "이 카드가 방어할 때, 당신 영웅의 소울을 충전할 수 있다. 이렇게 노란색 카드가 충전되면, 카드 1장을 뽑는다.\n블레이드 브레이크"
+  },
+  "HKqcfqWBCP9T6CHdQRCtn": {
+    "_name_en": "Helm of Hindsight",
+    "name_ko": "통찰의 투구",
+    "text_ko": "순간 - {r}{r}{r}, 이것을 파괴한다: 당신의 무덤에서 대상 공격 액션 카드를 덱 맨 위에 놓는다."
+  },
+  "rjhDRz7JGN7kpDdjHQfrg": {
+    "_name_en": "Helm of Isen's Peak",
+    "name_ko": "이센 봉우리의 투구",
+    "text_ko": "액션 - {r}, 이것을 파괴한다: 이번 턴 당신의 영웅이 +1{i}을 얻는다.\n배틀원"
+  },
+  "7gkkzWWDprGtBpfq8QPWC": {
+    "_name_en": "Helm of Lignum Vitae",
+    "name_ko": "리그넘 비테의 투구",
+    "text_ko": "당신의 추방 구역에 대지 카드가 4장 이상 있다면, 이 카드가 +1{d}을 얻는다.\n블레이드 브레이크"
+  },
+  "rcjgBWntdrDcMT7gHdgjF": {
+    "_name_en": "Helm of Might and Magic",
+    "name_ko": "힘과 마법의 투구",
+    "text_ko": "블레이드 브레이크\n스펠보이드 1"
+  },
+  "HDD8FDbbhgKFmpHBGCL9c": {
+    "_name_en": "Helm of Safe Haven",
+    "name_ko": "안전한 안식처의 투구",
+    "text_ko": "이 카드가 방어할 때, 당신 덱 맨 위 카드를 공개한다. 그것이 공격 액션 카드라면, 이번 체인 링크에 방어 카드로 추가하고 카드 1장을 버린다.\n블레이드 브레이크"
+  },
+  "MfBtnKK96JRR8Nb7RWMBn": {
+    "_name_en": "Helm of Sharp Eye",
+    "name_ko": "예리한 눈의 투구",
+    "text_ko": "공격 반응 - {r}, 이것을 파괴한다: 당신 덱 맨 위 카드를 추방한다. 이번 전투 체인에서 그것을 사용할 수 있다. 당신이 조종하는 무기 공격의 {p}이 기본값의 2배를 초과할 때만 이것을 활성화한다.\n배틀원"
+  },
+  "cWfNbbz7WB9nfNd8BbcNM": {
+    "_name_en": "Helm of the Adored",
+    "name_ko": "사랑받는 자의 투구",
+    "text_ko": "이 카드가 방어할 때, 관중이 당신에게 환호한다.\n블레이드 브레이크"
+  },
+  "ffLDbK7CGgrjL7R68jKJC": {
+    "_name_en": "Helm of the Arknight",
+    "name_ko": "아크나이트의 투구",
+    "text_ko": "템퍼"
+  },
+  "pwMHKpWQbDFMbH8pm77qd": {
+    "_name_en": "Helm of Unity",
+    "name_ko": "단결의 투구",
+    "text_ko": "유니티 - 이것이 손의 카드와 함께 방어할 때, 턴 종료 시까지 이 카드가 +1{d}을 얻는다.\n템퍼"
+  },
+  "PMh8LjJm6jmBKfm8FqfkW": {
+    "_name_en": "Helmsman's Peak",
+    "name_ko": "조타수의 봉우리",
+    "text_ko": "이 카드가 방어할 때, 당신 덱 맨 위 카드를 확인한다.\n블레이드 브레이크"
+  },
+  "JbhrgT86TGzH9rWPpzHBc": {
+    "_name_en": "Hemorrhage Bore",
+    "name_ko": "출혈 천공",
+    "text_ko": "출혈 천공에 조준 카운터가 있다면, \"이 카드가 영웅을 명중하면, 그의 아스날에 있는 카드 1장을 파괴한다\"를 가진다."
+  },
+  "KWpp9Jg6QBftjK9HKNNKW": {
+    "_name_en": "Hemorrhage Bore",
+    "name_ko": "출혈 천공",
+    "text_ko": "출혈 천공에 조준 카운터가 있다면, \"이 카드가 영웅을 명중하면, 그의 아스날에 있는 카드 1장을 파괴한다\"를 가진다."
+  },
+  "9hMdhNp7G6p6jqcrQD6Gd": {
+    "_name_en": "Hemorrhage Bore",
+    "name_ko": "출혈 천공",
+    "text_ko": "출혈 천공에 조준 카운터가 있다면, \"이 카드가 영웅을 명중하면, 그의 아스날에 있는 카드 1장을 파괴한다\"를 가진다."
+  },
+  "9BPFcP6dTCwRdJKJBbqCc": {
+    "_name_en": "Herald of Erudition",
+    "name_ko": "박식의 전령",
+    "text_ko": "이것이 명중하면, 소울에 놓은 뒤 카드 2장을 뽑는다.\n도미네이트\n팬텀"
+  },
+  "z7fKMTdrJ6jGBFWTMTbnF": {
+    "_name_en": "Herald of Judgment",
+    "name_ko": "심판의 전령",
+    "text_ko": "프리즘 스페셜라이제이션\n이것이 명중하면, 당신 영웅의 소울에 놓고 방어 영웅은 다음 액션 단계 동안 자신의 추방 구역에서 카드를 사용할 수 없다.\n팬텀"
+  },
+  "LrjRbqHNNKbLGfqDPjp7R": {
+    "_name_en": "Herald of Protection",
+    "name_ko": "보호의 전령",
+    "text_ko": "이것이 명중하면, 소울에 놓은 뒤 스펙트럴 실드 토큰 1개를 생성한다.\n팬텀"
+  },
+  "GpWJp9RKt7nrzt6dCMnbH": {
+    "_name_en": "Herald of Protection",
+    "name_ko": "보호의 전령",
+    "text_ko": "이것이 명중하면, 소울에 놓은 뒤 스펙트럴 실드 토큰 1개를 생성한다.\n팬텀"
+  },
+  "kWCjCDmt6k6Rq7bkf7pGr": {
+    "_name_en": "Herald of Protection",
+    "name_ko": "보호의 전령",
+    "text_ko": "이것이 명중하면, 소울에 놓은 뒤 스펙트럴 실드 토큰 1개를 생성한다.\n팬텀"
+  },
+  "6TdnF7dGqjJJcCBdKb98r": {
+    "_name_en": "Herald of Ravages",
+    "name_ko": "황폐의 전령",
+    "text_ko": "이것이 명중하면, 당신 영웅의 소울에 놓은 뒤 대상 영웅에게 비전 피해 1을 준다.\n팬텀"
+  },
+  "tpBFGmkQggrgbfN96bNW6": {
+    "_name_en": "Herald of Ravages",
+    "name_ko": "황폐의 전령",
+    "text_ko": "이것이 명중하면, 당신 영웅의 소울에 놓은 뒤 대상 영웅에게 비전 피해 1을 준다.\n팬텀"
+  },
+  "6kKnCBgtcwPWzKhHLDPLn": {
+    "_name_en": "Herald of Ravages",
+    "name_ko": "황폐의 전령",
+    "text_ko": "이것이 명중하면, 당신 영웅의 소울에 놓은 뒤 대상 영웅에게 비전 피해 1을 준다.\n팬텀"
+  },
+  "FLpRPPKtB668jDRD7Gknm": {
+    "_name_en": "Herald of Rebirth",
+    "name_ko": "부활의 전령",
+    "text_ko": "이것이 명중하면, 당신 영웅의 소울에 놓은 뒤 당신의 무덤에서 팬텀을 가진 카드 최대 1장을 덱 맨 위에 놓는다.\n팬텀"
+  },
+  "WzgPPdjkL9zHrrqpjHbNJ": {
+    "_name_en": "Herald of Rebirth",
+    "name_ko": "부활의 전령",
+    "text_ko": "이것이 명중하면, 당신 영웅의 소울에 놓은 뒤 당신의 무덤에서 팬텀을 가진 카드 최대 1장을 덱 맨 위에 놓는다.\n팬텀"
+  },
+  "wHPGqnKDg8mRNzmwfmh8W": {
+    "_name_en": "Herald of Rebirth",
+    "name_ko": "부활의 전령",
+    "text_ko": "이것이 명중하면, 당신 영웅의 소울에 놓은 뒤 당신의 무덤에서 팬텀을 가진 카드 최대 1장을 덱 맨 위에 놓는다.\n팬텀"
+  },
+  "8KBRjnQQ7cTq7M9q9CgCN": {
+    "_name_en": "Herald of Sekem",
+    "name_ko": "세켐의 전령",
+    "text_ko": "이 카드가 공격할 때, 당신의 손에서 노란색 카드 1장을 소울에 놓을 수 있다. 그렇게 하면, 아무 대상에게 비전 피해 2를 준다.\n팬텀"
+  },
+  "JRFMjNBpz9H6tmgGWHkrD": {
+    "_name_en": "Herald of Tenacity",
+    "name_ko": "불굴의 전령",
+    "text_ko": "도미네이트\n이것이 명중하면, 당신 영웅의 소울에 놓는다.\n팬텀"
+  },
+  "Jb7Ht9qpJRjRRwQMjJBKH": {
+    "_name_en": "Herald of Tenacity",
+    "name_ko": "불굴의 전령",
+    "text_ko": "도미네이트\n이것이 명중하면, 당신 영웅의 소울에 놓는다.\n팬텀"
+  },
+  "jgC7fqfp9rGLjPdJQNRBM": {
+    "_name_en": "Herald of Tenacity",
+    "name_ko": "불굴의 전령",
+    "text_ko": "도미네이트\n이것이 명중하면, 당신 영웅의 소울에 놓는다.\n팬텀"
+  },
+  "QD7K9HmH9g9CLWRPcz87n": {
+    "_name_en": "Herald of Triumph",
+    "name_ko": "승리의 전령",
+    "text_ko": "공격 액션 카드는 이 카드를 방어하는 동안 -1{p}을 가진다.\n이것이 명중하면, 당신 영웅의 소울에 놓는다.\n팬텀"
+  },
+  "pKzcGJ6MbDD7pBM6HNJpf": {
+    "_name_en": "Herald of Triumph",
+    "name_ko": "승리의 전령",
+    "text_ko": "공격 액션 카드는 이 카드를 방어하는 동안 -1{p}을 얻는다.\n이것이 명중하면, 소울에 놓는다.\n팬텀"
+  },
+  "rk9986mQCBfcCRTwFJRdL": {
+    "_name_en": "Herald of Triumph",
+    "name_ko": "승리의 전령",
+    "text_ko": "공격 액션 카드는 이 카드를 방어하는 동안 -1{p}을 얻는다.\n이것이 명중하면, 소울에 놓는다.\n팬텀"
+  },
+  "qpqwfj8MqTkWLqpbDgrd8": {
+    "_name_en": "Herald of Victoria",
+    "name_ko": "승전의 전령",
+    "text_ko": "순간 - 이것을 버린다: 턴 종료 시까지, 상대가 조종하는 공격 액션 카드는 공격하거나 방어하는 동안 -1{p}을 얻는다.\n팬텀"
+  },
+  "r96wGNm66Fft8RcWcQj7f": {
+    "_name_en": "Heroic Grit",
+    "name_ko": "영웅적 기개",
+    "text_ko": "이번 턴 당신의 다음 공격이 \"이 카드는 당신이 조종하는 터프니스 토큰 1개당 +1{p}을 얻는다\"를 얻는다.\n터프니스 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "z8f8PqBmdGwK9ftBbcBMb": {
+    "_name_en": "Heroic Pose",
+    "name_ko": "영웅적 자세",
+    "text_ko": "이번 턴 당신의 다음 공격이 +3{p}을 얻는다.\n관중이 당신에게 환호한다.\n고 어게인"
+  },
+  "GFMCKpFRhPcGpD9NzhpGm": {
+    "_name_en": "Heroic Pose",
+    "name_ko": "영웅적 자세",
+    "text_ko": "이번 턴 당신의 다음 공격이 +2{p}을 얻는다.\n관중이 당신에게 환호한다.\n고 어게인"
+  },
+  "KMChcRLgKq8tLHQwffNpP": {
+    "_name_en": "Heroic Pose",
+    "name_ko": "영웅적 자세",
+    "text_ko": "이번 턴 당신의 다음 공격이 +1{p}을 얻는다.\n관중이 당신에게 환호한다.\n고 어게인"
+  },
+  "j8jNwqCDtMqHPbCrnLcbf": {
+    "_name_en": "Heron's Flight",
+    "name_ko": "왜가리의 비상",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 크레인 댄스였다면, 왜가리의 비상으로 공격할 때, +2{p}을 얻고 하나를 선택한다;\n\n왜가리의 비상은 공격 액션 카드로만 방어할 수 있다.\n왜가리의 비상은 '비공격' 액션 카드로만 방어할 수 있다."
+  },
+  "zCRpPtm9BTfzBJFNkdpNw": {
+    "_name_en": "Hexagore, the Death Hydra",
+    "name_ko": "헥사고어, 죽음의 히드라",
+    "text_ko": "턴당 1회 액션 - {r}{r}: 공격\n당신이 헥사고어로 공격할 때마다, 6에서 당신의 추방 구역에 있는 블러드 뎃 카드 수를 뺀 만큼 당신에게 피해를 준다."
+  },
+  "dwfCfQLjJJNLpwrnmhcPt": {
+    "_name_en": "Hidden Agenda",
+    "name_ko": "숨겨진 계획",
+    "text_ko": "순간 - 당신의 아스날에 뒷면으로 있는 화살을 앞면으로 뒤집는다: {r}을 얻는다. 종료 단계 시작 시, 이것을 파괴한다.\n아케인 배리어 1"
+  },
+  "7MNrGmWN7jTtR99LrWNm7": {
+    "_name_en": "Hide Tanner",
+    "name_ko": "가죽 무두질사",
+    "text_ko": "당신이 {p} 6 이상인 카드를 무작위로 버릴 때, 이것을 파괴할 수 있다. 그렇게 하면, 마이트 토큰 2개를 생성한다.\n배틀원"
+  },
+  "pnrq67PgHWrKbHNDbhLWc": {
+    "_name_en": "High Current Currency",
+    "name_ko": "고전류 화폐",
+    "text_ko": "상대가 조종하는 대상 비-영웅 지속물에서 모든 에너지 카운터를 제거한다. 그만큼 골드 토큰을 생성한다."
+  },
+  "BF7rFRwnNckBK8cMGpKHH": {
+    "_name_en": "High Octane",
+    "name_ko": "고옥탄",
+    "text_ko": "이번 턴 카드를 부스트할 때마다, 액션 포인트 1을 얻는다.\n카드 1장을 뽑는다.\n고 어게인"
+  },
+  "mtQhLfLDgTzMpFdJgt88C": {
+    "_name_en": "High Pitched Howl",
+    "name_ko": "높은 음조의 울부짖음",
+    "text_ko": "이 카드가 공격할 때, 당신의 피치 존에 {p} 6 이상인 카드가 있다면, 비거 토큰 1개를 생성한다."
+  },
+  "khhbD7jztHMLmBGbqNdgf": {
+    "_name_en": "High Pitched Howl",
+    "name_ko": "높은 음조의 울부짖음",
+    "text_ko": "이 카드가 공격할 때, 당신의 피치 존에 {p} 6 이상인 카드가 있다면, 비거 토큰 1개를 생성한다."
+  },
+  "bRpJLNLCgwrHrwktkCGPd": {
+    "_name_en": "High Pitched Howl",
+    "name_ko": "높은 음조의 울부짖음",
+    "text_ko": "이 카드가 공격할 때, 당신의 피치 존에 {p} 6 이상인 카드가 있다면, 비거 토큰 1개를 생성한다."
+  },
+  "qRkrJ8t9RgGhDgpMpBBFd": {
+    "_name_en": "High Riser",
+    "name_ko": "하이 라이저",
+    "text_ko": "턴당 1회 액션 - {r}{r}{r}: 공격\n이번 턴에 카드를 뽑은 적이 있다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "FtQwNRWhWwhtbPNWcN8RJ": {
+    "_name_en": "High Roller",
+    "name_ko": "하이 롤러",
+    "text_ko": "인티미데이트\n이번 턴에 주사위에서 4, 5, 6을 굴린 적이 있다면, 대신 인티미데이트를 두 번 한다.\n고 어게인"
+  },
+  "Kg6pf7HDqczBhNpddC6KH": {
+    "_name_en": "High Roller",
+    "name_ko": "하이 롤러",
+    "text_ko": "인티미데이트\n이번 턴에 주사위에서 5나 6을 굴린 적이 있다면, 대신 인티미데이트를 두 번 한다.\n고 어게인"
+  },
+  "LkT9MmTbLGprPFDPNzwfQ": {
+    "_name_en": "High Roller",
+    "name_ko": "하이 롤러",
+    "text_ko": "인티미데이트\n이번 턴에 주사위에서 6을 굴린 적이 있다면, 대신 인티미데이트를 두 번 한다.\n고 어게인"
+  },
+  "7wmJfzLNM6WKW6wNGtTkN": {
+    "_name_en": "High Speed Impact",
+    "name_ko": "고속 충격",
+    "text_ko": "고속 충격이 명중하면, 이번 전투 체인에서 당신이 다음에 부스트하는 공격이 도미네이트를 얻는다.\n부스트"
+  },
+  "pzBQ8dDpb78qTW8RwGbPJ": {
+    "_name_en": "High Speed Impact",
+    "name_ko": "고속 충격",
+    "text_ko": "고속 충격이 명중하면, 이번 전투 체인에서 당신이 다음에 부스트하는 공격이 도미네이트를 얻는다.\n부스트"
+  },
+  "FRL8RKjcFT9zRbnn8gpTP": {
+    "_name_en": "High Speed Impact",
+    "name_ko": "고속 충격",
+    "text_ko": "고속 충격이 명중하면, 이번 전투 체인에서 당신이 다음에 부스트하는 공격이 도미네이트를 얻는다.\n부스트"
+  },
+  "8DbbfFFWLbmpbtdFMbnDM": {
+    "_name_en": "High Striker",
+    "name_ko": "하이 스트라이커",
+    "text_ko": "이번 턴 당신이 조종하는 공격이 다음에 명중할 때, 카퍼 토큰 6개를 생성한다.\n고 어게인"
+  },
+  "dT9zWQdWrRnqwfC7Qmcnp": {
+    "_name_en": "High Striker",
+    "name_ko": "하이 스트라이커",
+    "text_ko": "이번 턴 당신이 조종하는 공격이 다음에 명중할 때, 카퍼 토큰 4개를 생성한다.\n고 어게인"
+  },
+  "RFdQdrNDp9QHmpffbKFfg": {
+    "_name_en": "High Striker",
+    "name_ko": "하이 스트라이커",
+    "text_ko": "이번 턴 당신이 조종하는 공격이 다음에 명중할 때, 카퍼 토큰 2개를 생성한다.\n고 어게인"
+  },
+  "g8DkhdLpGnDhj8WmkqTgr": {
+    "_name_en": "High Voltage",
+    "name_ko": "고전압",
+    "text_ko": "앰프 1"
+  },
+  "nhqPkqkWqbcjBCWG6RrFq": {
+    "_name_en": "Hiss",
+    "name_ko": "쉬익",
+    "text_ko": "대상 어쌔신 또는 미스틱 공격 액션 카드가 +3{p}을 얻는다.\n이번 턴에 파란색 카드를 피치한 적이 있다면, 당신의 손에 슬리더를 생성한다."
+  },
+  "KWTp66RpbjrmqQPg87jbm": {
+    "_name_en": "Hiss",
+    "name_ko": "쉬익",
+    "text_ko": "대상 어쌔신 또는 미스틱 공격 액션 카드가 +2{p}을 얻는다.\n이번 턴에 파란색 카드를 피치한 적이 있다면, 당신의 손에 슬리더를 생성한다."
+  },
+  "8tzjQqHmRDzCTppjNRd9w": {
+    "_name_en": "Hiss",
+    "name_ko": "쉬익",
+    "text_ko": "대상 어쌔신 또는 미스틱 공격 액션 카드가 +1{p}을 얻는다.\n이번 턴에 파란색 카드를 피치한 적이 있다면, 당신의 손에 슬리더를 생성한다."
+  },
+  "wnrwnDFQzMQChWBt7JWtr": {
+    "_name_en": "Hit and Run",
+    "name_ko": "치고 빠지기",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 고 어게인을 얻는다.\n이번 턴에 무기로 공격한 적이 있다면, 이번 턴 당신의 다음 공격이 +3{p}을 얻는다.\n고 어게인"
+  },
+  "qbjpM6PbCPWjjQTfdt9TM": {
+    "_name_en": "Hit and Run",
+    "name_ko": "치고 빠지기",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 고 어게인을 얻는다.\n이번 턴에 무기로 공격한 적이 있다면, 이번 턴 당신의 다음 공격이 +2{p}을 얻는다.\n고 어게인"
+  },
+  "gqHqnRkFrm7dmJRDf9kzJ": {
+    "_name_en": "Hit and Run",
+    "name_ko": "치고 빠지기",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 고 어게인을 얻는다.\n이번 턴에 무기로 공격한 적이 있다면, 이번 턴 당신의 다음 공격이 +1{p}을 얻는다.\n고 어게인"
+  },
+  "C8RCCpMWmdNnF6JW7KQhP": {
+    "_name_en": "Hit the Gas",
+    "name_ko": "가속 페달을 밟다",
+    "text_ko": "맥스 스페셜라이제이션\n당신의 추방 구역에 있는 하이퍼 드라이버 원하는 수를 뒷면으로 뒤집고 그만큼 액션 포인트를 얻는다. 이렇게 3장 이상이 뒷면으로 뒤집히면, 카드 1장을 뽑는다."
+  },
+  "KGdgF77WDGGTdJPnfCbtm": {
+    "_name_en": "Hit the High Notes",
+    "name_ko": "고음을 내지르다",
+    "text_ko": "이번 턴에 오라를 사용하거나 생성한 적이 있다면, 이 카드가 +2{p}을 얻는다."
+  },
+  "pj9cPfwPz7mHkdwHhbdpf": {
+    "_name_en": "Hit the High Notes",
+    "name_ko": "고음을 내지르다",
+    "text_ko": "이번 턴에 오라를 사용하거나 생성한 적이 있다면, 이 카드가 +2{p}을 얻는다."
+  },
+  "7mWHRdqJGNzTkHwBqD78D": {
+    "_name_en": "Hit the High Notes",
+    "name_ko": "고음을 내지르다",
+    "text_ko": "이번 턴에 오라를 사용하거나 생성한 적이 있다면, 이 카드가 +2{p}을 얻는다."
+  },
+  "CDPJ7MNMhpFCmpRn79TP7": {
+    "_name_en": "Hit the Jackpot",
+    "name_ko": "대박을 터뜨리다",
+    "text_ko": "골드 토큰 1개를 생성한다.\n당신이 조종하는 골드 총수만큼 카드를 뽑는다."
+  },
+  "bkMchLmgcWQfPCf7MtjnF": {
+    "_name_en": "HMS Barracuda",
+    "name_ko": "HMS 바라쿠다",
+    "text_ko": "이 카드가 영웅을 명중하면, 그가 조종하는 아군 1개를 파괴한다.\n하이 타이드 - 당신의 피치 존에 파란색 카드가 2장 이상 있다면, 이 카드가 +1{p}과 오버파워를 얻는다."
+  },
+  "7p9qhCT76DDh6MQ9zFDwK": {
+    "_name_en": "HMS Kraken",
+    "name_ko": "HMS 크라켄",
+    "text_ko": "이 카드가 영웅을 명중하면, 그가 조종하는 아이템 1개를 파괴한다.\n하이 타이드 - 당신의 피치 존에 파란색 카드가 2장 이상 있다면, 이 카드가 +1{p}과 오버파워를 얻는다."
+  },
+  "NPjFdzCwz8HKdGkcwLPmw": {
+    "_name_en": "HMS Marlin",
+    "name_ko": "HMS 말린",
+    "text_ko": "이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 파괴한다.\n하이 타이드 - 당신의 피치 존에 파란색 카드가 2장 이상 있다면, 이 카드가 +1{p}과 오버파워를 얻는다."
+  },
+  "m78fRjCfRBzTwhbrdDBBc": {
+    "_name_en": "Hoarding of Denial",
+    "name_ko": "거부의 축적물",
+    "text_ko": "이 카드는 방어하는 동안 +X{d}을 얻는다. X는 이번 전투 체인에서 방어하는, 비용 3 이상인 카드의 수이다.\n블레이드 브레이크"
+  },
+  "mNTC7Tzb7hhKr6FMtbK6B": {
+    "_name_en": "Hocus Pocus",
+    "name_ko": "요술 부리기",
+    "text_ko": "이 카드가 공격할 때, 룬챈트 토큰 1개를 생성한다."
+  },
+  "kNCRpnpttdTCbrWkzkmfQ": {
+    "_name_en": "Hocus Pocus",
+    "name_ko": "요술 부리기",
+    "text_ko": "이 카드가 공격할 때, 룬챈트 토큰 1개를 생성한다."
+  },
+  "g6KGRbQjr8rg7JbnhFRT6": {
+    "_name_en": "Hocus Pocus",
+    "name_ko": "요술 부리기",
+    "text_ko": "이 카드가 공격할 때, 룬챈트 토큰 1개를 생성한다."
+  },
+  "rLgf6HdKBBDFTcJrkwgtT": {
+    "_name_en": "Hoist 'Em Up",
+    "name_ko": "끌어올려라",
+    "text_ko": "이 카드가 방어할 때, 당신이 조종하는 아군 1개를 {t}할 수 있다. 그렇게 하면, 이 카드가 +1{d}을 얻는다."
+  },
+  "nPfKdqt8wHnfLqdFNHKFH": {
+    "_name_en": "Hold 'em",
+    "name_ko": "판돈을 걸다",
+    "text_ko": "이번 턴 당신의 다음 워리어 공격이 +3{p}과 \"이 카드가 영웅을 공격할 때, 그와 비거 토큰을 걸고 내기할 수 있다\"를 얻는다.\n고 어게인"
+  },
+  "HhJtCMW6nLMfzGJLn7g8m": {
+    "_name_en": "Hold 'em",
+    "name_ko": "판돈을 걸다",
+    "text_ko": "이번 턴 당신의 다음 워리어 공격이 +2{p}과 \"이 카드가 영웅을 공격할 때, 그와 비거 토큰을 걸고 내기할 수 있다\"를 얻는다.\n고 어게인"
+  },
+  "WHLRchgdMH8Bjb8TDngkp": {
+    "_name_en": "Hold 'em",
+    "name_ko": "판돈을 걸다",
+    "text_ko": "이번 턴 당신의 다음 워리어 공격이 +1{p}과 \"이 카드가 영웅을 공격할 때, 그와 비거 토큰을 걸고 내기할 수 있다\"를 얻는다.\n고 어게인"
+  },
+  "6cfpHFn7czfqJDTRhw7fp": {
+    "_name_en": "Hold Firm",
+    "name_ko": "굳게 버티다",
+    "text_ko": "액션 - {r}{r}, 이것을 파괴한다: 터프니스 토큰 3개를 생성한다. 당신의 {h}이 다른 모든 영웅보다 적을 때만 이것을 활성화한다. 고 어게인\n블레이드 브레이크"
+  },
+  "mTWd9JgNqM9bGj9H87Jpq": {
+    "_name_en": "Hold Focus",
+    "name_ko": "집중 유지",
+    "text_ko": "액션 - 이것을 파괴한다: 앰프 1. 고 어게인"
+  },
+  "77rDjRrtRKDHTpNwbHWDW": {
+    "_name_en": "Hold the Line",
+    "name_ko": "전선을 사수하라",
+    "text_ko": "공격하는 영웅이 이번 턴에 카드를 2장 이상 뽑았다면, 이번 턴 당신 영웅에게 가해질 다음 피해 3을 방지한다."
+  },
+  "f9C7rd9WgL9b8bgFMrP9h": {
+    "_name_en": "Holo Shield",
+    "name_ko": "홀로 실드",
+    "text_ko": "워드 X. 이것에 홀로 카운터가 있다면 X는 4이다. 그렇지 않으면 X는 1이다."
+  },
+  "gQbKw7QPrQtQ7TTKDfLbb": {
+    "_name_en": "Holo Shield",
+    "name_ko": "홀로 실드",
+    "text_ko": "워드 X. 이것에 홀로 카운터가 있다면 X는 3이다. 그렇지 않으면 X는 1이다."
+  },
+  "H7PmnpTDN7WpBw7gtwCdq": {
+    "_name_en": "Holo Shield",
+    "name_ko": "홀로 실드",
+    "text_ko": "워드 X. 이것에 홀로 카운터가 있다면 X는 2이다. 그렇지 않으면 X는 1이다."
+  },
+  "mzKLGwTBmFHFd8KNdPQ7n": {
+    "_name_en": "Homage to Ancestors",
+    "name_ko": "선조에게 경의를",
+    "text_ko": "레전더리\n1{h}을 얻는다\n이번 턴에 다른 파란색 카드를 사용한 적이 있다면, 초월한다."
+  },
+  "zc8n8JQRfBTPHGfnBmw8L": {
+    "_name_en": "Honing Hood",
+    "name_ko": "연마의 두건",
+    "text_ko": "순간 - 연마의 두건을 파괴한다: 당신의 아스날에 있는 모든 카드를 손으로 되돌린 뒤, 손의 카드 1장을 뒷면으로 아스날에 놓는다."
+  },
+  "6ntF8Rdm7PqLkHWnPMkrF": {
+    "_name_en": "Hood of Red Sand",
+    "name_ko": "붉은 모래의 두건",
+    "text_ko": "카사이 스페셜라이제이션\n공격 반응 - {r}, 당신의 무덤에서 빨강과 노랑 카드 1장을 추방한다, 이것을 파괴한다: 대상 검 공격이 \"이것이 명중하면, 카드 1장을 뽑는다\"를 얻는다.\n배틀원"
+  },
+  "pnwRgqpdgHJCwh7QMbzwT": {
+    "_name_en": "Hood of Second Thoughts",
+    "name_ko": "재고의 두건",
+    "text_ko": "순간 - 이것을 파괴한다: 이번 턴 당신에게 가해질 다음 피해 1을 방지한다. 이번 턴에 피해를 받은 적이 있을 때만 이것을 활성화한다."
+  },
+  "9tPpWpwwJdjzdcBppcpQq": {
+    "_name_en": "Hook",
+    "name_ko": "갈고리",
+    "text_ko": "당신 덱 맨 위 카드를 확인한다. 그것이 화살이라면, 앞면으로 아스날에 놓을 수 있다. 그렇게 하면, 이번 턴 +1{p}을 얻는다.\n고 어게인"
+  },
+  "khP7tT6NRCgzjJMWB8JHm": {
+    "_name_en": "Hooves of the Shadowbeast",
+    "name_ko": "그림자 짐승의 발굽",
+    "text_ko": "{p} 6 이상인 카드가 당신의 추방 구역에 놓일 때마다, 그림자 짐승의 발굽을 파괴할 수 있다. 그렇게 하면, 액션 포인트 1을 얻는다.\n배틀원"
+  },
+  "DW7LjrR6RwKPhNB8d9CGM": {
+    "_name_en": "Hope Merchant's Hood",
+    "name_ko": "희망 상인의 두건",
+    "text_ko": "순간 - 이것을 파괴한다: 당신의 손에서 원하는 수의 카드를 덱에 섞은 뒤, 그만큼 카드를 뽑는다."
+  },
+  "kHTFbHM7GGctRFhMm8hBg": {
+    "_name_en": "Hornet's Sting",
+    "name_ko": "말벌의 침",
+    "text_ko": "말벌의 침이 방어할 때마다, 당신 덱 맨 위 카드를 공개한다. 그것이 화살이라면, 공격하는 영웅이나 아군에게 피해 1을 준다. 그렇지 않으면, 덱 맨 아래에 놓는다.\n블레이드 브레이크"
+  },
+  "667jCHDNcTc6zNTcjFk8m": {
+    "_name_en": "Horns of the Despised",
+    "name_ko": "경멸받는 자의 뿔",
+    "text_ko": "이 카드가 방어할 때, 관중이 당신에게 야유한다.\n블레이드 브레이크"
+  },
+  "dCFNBWG66KFGWzrfkM7cQ": {
+    "_name_en": "Horrors of the Past",
+    "name_ko": "과거의 공포",
+    "text_ko": "스텔스\n이 카드가 공격할 때, 전투 체인에서 당신이 조종하는, 스텔스를 가진 마지막 공격 액션 카드의 기본 능력을 얻는다."
+  },
+  "NKBJGDhp7TDQ7CzdQtpJM": {
+    "_name_en": "Hostile Encroachment",
+    "name_ko": "적대적 침범",
+    "text_ko": "이 카드가 영웅을 공격하면, 그가 카드 1장을 뽑는다.\n크러쉬 - 이 카드가 영웅에게 피해 4 이상을 줄 때, 그가 카드 1장을 버린다."
+  },
+  "dDw6tLrTHJMDftM86zRjK": {
+    "_name_en": "Hot on Their Heels",
+    "name_ko": "바짝 뒤쫓다",
+    "text_ko": "당신이 드라코닉 체인 링크를 2개 이상 조종하고 있다면, 이 카드가 고 어게인과 \"이 카드가 영웅을 명중하면, 그에게 표식을 남긴다\"를 얻는다."
+  },
+  "WKGJ7ktHDWrtCBnC9J7gW": {
+    "_name_en": "Hot Streak",
+    "name_ko": "핫 스트릭",
+    "text_ko": "턴당 1회 액션 - {r}: 공격\n이 카드가 공격 액션 카드 1장 이상으로 방어되면, 이번 턴 핫 스트릭의 공격들이 고 어게인을 얻는다."
+  },
+  "hGgJfbfTpknpFCTCgQCzw": {
+    "_name_en": "Howl from Beyond",
+    "name_ko": "저편의 울부짖음",
+    "text_ko": "당신의 추방 구역에서 저편의 울부짖음을 사용할 수 있다.\n이번 턴 당신이 사용하는 다음 공격 액션 카드가 +3{p}을 얻는다.\n고 어게인\n블러드 뎃"
+  },
+  "TwBPwf6rM9fKF6Kqg9j8p": {
+    "_name_en": "Howl from Beyond",
+    "name_ko": "저편의 울부짖음",
+    "text_ko": "당신의 추방 구역에서 저편의 울부짖음을 사용할 수 있다.\n이번 턴 당신이 사용하는 다음 공격 액션 카드가 +2{p}을 얻는다.\n고 어게인\n블러드 뎃"
+  },
+  "r6GJMftwgdpDGrfbwkprz": {
+    "_name_en": "Howl from Beyond",
+    "name_ko": "저편의 울부짖음",
+    "text_ko": "당신의 추방 구역에서 저편의 울부짖음을 사용할 수 있다.\n이번 턴 당신이 사용하는 다음 공격 액션 카드가 +1{p}을 얻는다.\n고 어게인\n블러드 뎃"
+  },
+  "dqMTFcnkTFmRwgHjKFhkz": {
+    "_name_en": "Hulk Up",
+    "name_ko": "포효하는 힘",
+    "text_ko": "당신의 {h}이 다른 모든 영웅보다 적다면, 이 카드는 사용하는 데 {r}이 덜 든다."
+  },
+  "GmNDLPfF8MFkTqkrbhLnp": {
+    "_name_en": "Hulk Up",
+    "name_ko": "포효하는 힘",
+    "text_ko": "당신의 {h}이 다른 모든 영웅보다 적다면, 이 카드는 사용하는 데 {r}이 덜 든다."
+  },
+  "mJKcWjzzzGmbTchphggNT": {
+    "_name_en": "Hulk Up",
+    "name_ko": "포효하는 힘",
+    "text_ko": "당신의 {h}이 다른 모든 영웅보다 적다면, 이 카드는 사용하는 데 {r}이 덜 든다."
+  },
+  "Ck8jCNWQmgKkcmD98bdjG": {
+    "_name_en": "Humble",
+    "name_ko": "겸손하게 만들다",
+    "text_ko": "이 카드가 영웅을 명중하면, 그의 다음 턴 종료 시까지 모든 영웅 카드 능력을 잃는다."
+  },
+  "RJn7qQFgkNz6qR9rwntCc": {
+    "_name_en": "Humble",
+    "name_ko": "겸손하게 만들다",
+    "text_ko": "이 카드가 영웅을 명중하면, 그의 다음 턴 종료 시까지 모든 영웅 카드 능력을 잃는다."
+  },
+  "JnQ8mtr69DWrhqmrWkJ8z": {
+    "_name_en": "Humble",
+    "name_ko": "겸손하게 만들다",
+    "text_ko": "이 카드가 영웅을 명중하면, 그의 다음 턴 종료 시까지 모든 영웅 카드 능력을 잃는다."
+  },
+  "R8W7dzcQdMj9BNjKQp6bd": {
+    "_name_en": "Humble Entrance",
+    "name_ko": "겸손한 입장",
+    "text_ko": "터프니스 토큰 3개를 생성한다.\n고 어게인"
+  },
+  "mgrmPqRmdHfMbptFfDcbC": {
+    "_name_en": "Hummingbird, Call of Adventure",
+    "name_ko": "허밍버드, 모험의 부름",
+    "text_ko": "당신의 턴 시작 시, 하나를 선택한다;\n- 각 영웅이 퀵큰 토큰을 생성한다.\n- 각 영웅이 카드 1장을 뽑는다.\n- 각 영웅이 1{h}을 얻는다."
+  },
+  "pGDD7t8RQzK7gdJkjdhdQ": {
+    "_name_en": "Hundred Winds",
+    "name_ko": "백풍",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 백풍이었다면, 이 공격이 이번 전투 체인에서 당신이 조종하는, 백풍이라는 이름의 다른 카드 1장당 +1{p}을 얻는다.\n고 어게인"
+  },
+  "gcfNgcdDLzRGCmpfWnKqF": {
+    "_name_en": "Hundred Winds",
+    "name_ko": "백풍",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 백풍이었다면, 이 공격이 이번 전투 체인에서 당신이 조종하는, 백풍이라는 이름의 다른 카드 1장당 +1{p}을 얻는다.\n고 어게인"
+  },
+  "JbrwN8cw6hzWNFg9cMrFH": {
+    "_name_en": "Hundred Winds",
+    "name_ko": "백풍",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 백풍이었다면, 이 공격이 이번 전투 체인에서 당신이 조종하는, 백풍이라는 이름의 다른 카드 1장당 +1{p}을 얻는다.\n고 어게인"
+  },
+  "bCTrnKTgwNCWbWrMFDTHr": {
+    "_name_en": "Hungering Demigon",
+    "name_ko": "굶주린 데미곤",
+    "text_ko": "상대 영웅의 소울에 카드가 1장 이상 있다면, 당신의 추방 구역에서 이 카드를 사용할 수 있다.\n이 카드가 영웅을 명중하면, 그의 소울에서 카드 1장을 추방한다.\n블러드 뎃"
+  },
+  "jbKCqbHCCkqMKKQfrDRwT": {
+    "_name_en": "Hungering Demigon",
+    "name_ko": "굶주린 데미곤",
+    "text_ko": "상대 영웅의 소울에 카드가 1장 이상 있다면, 당신의 추방 구역에서 이 카드를 사용할 수 있다.\n이 카드가 영웅을 명중하면, 그의 소울에서 카드 1장을 추방한다.\n블러드 뎃"
+  },
+  "zJrhrzqpRphqWwzn8gwRM": {
+    "_name_en": "Hungering Demigon",
+    "name_ko": "굶주린 데미곤",
+    "text_ko": "상대 영웅의 소울에 카드가 1장 이상 있다면, 당신의 추방 구역에서 이 카드를 사용할 수 있다.\n이 카드가 영웅을 명중하면, 그의 소울에서 카드 1장을 추방한다.\n블러드 뎃"
   }
 }
