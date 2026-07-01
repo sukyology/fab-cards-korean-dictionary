@@ -6854,5 +6854,612 @@
     "_name_en": "Emerging Dominance",
     "name_ko": "떠오르는 지배",
     "text_ko": "당신의 행동 단계 시작 시, 떠오르는 지배를 파괴한 뒤 이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 +2{p}과 도미네이트를 얻는다."
+  },
+  "RdftGrd8H6WJCkTPtNtGD": {
+    "_name_en": "Emerging Dominance",
+    "name_ko": "떠오르는 지배",
+    "text_ko": "당신의 행동 단계 시작 시, 떠오르는 지배를 파괴한 뒤 이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 +1{p}과 도미네이트를 얻는다."
+  },
+  "dNCDnH6TKq6bCW8ndKHGn": {
+    "_name_en": "Emerging Power",
+    "name_ko": "떠오르는 힘",
+    "text_ko": "고 어게인\n당신의 행동 단계 시작 시, 이것을 파괴한 뒤, 이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 +3{p}을 얻는다."
+  },
+  "QhGTkpkFQbMB7zzTdcKM8": {
+    "_name_en": "Emerging Power",
+    "name_ko": "떠오르는 힘",
+    "text_ko": "고 어게인\n당신의 행동 단계 시작 시, 이것을 파괴한 뒤, 이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 +2{p}을 얻는다."
+  },
+  "mrrwW6wDFJRfctKLrfkTK": {
+    "_name_en": "Emerging Power",
+    "name_ko": "떠오르는 힘",
+    "text_ko": "고 어게인\n당신의 행동 단계 시작 시, 이것을 파괴한 뒤, 이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 +1{p}을 얻는다."
+  },
+  "DtjWNmQLmDmKg6dwzNh7h": {
+    "_name_en": "Emeritus Scolding",
+    "name_ko": "명예교수의 질책",
+    "text_ko": "대상 영웅에게 비전 피해 4를 준다. 명예교수의 질책이 상대의 턴에 사용되면, 대신 비전 피해 6을 준다."
+  },
+  "zrQ8nHpjJBbtRTpRDjfMf": {
+    "_name_en": "Emeritus Scolding",
+    "name_ko": "명예교수의 질책",
+    "text_ko": "대상 영웅에게 비전 피해 3을 준다. 명예교수의 질책이 상대의 턴에 사용되면, 대신 비전 피해 5를 준다."
+  },
+  "TLfzTNH6GD9CG9fnwzwhb": {
+    "_name_en": "Emeritus Scolding",
+    "name_ko": "명예교수의 질책",
+    "text_ko": "대상 영웅에게 비전 피해 2를 준다. 명예교수의 질책이 상대의 턴에 사용되면, 대신 비전 피해 4를 준다."
+  },
+  "DgQfj8jGQBWmBQKW9kngT": {
+    "_name_en": "Emissary of Moon",
+    "name_ko": "달의 사절",
+    "text_ko": "이 카드가 공격할 때, 당신의 손에서 카드 1장을 덱 맨 아래에 놓을 수 있다. 그렇게 하면, 카드 1장을 뽑는다."
+  },
+  "zFJbjDkLPqmCzQFwjtdFc": {
+    "_name_en": "Emissary of Tides",
+    "name_ko": "조류의 사절",
+    "text_ko": "이 카드가 공격할 때, 당신의 손에서 카드 1장을 덱 맨 아래에 놓을 수 있다. 그렇게 하면, 이 카드가 +2{p}을 얻는다."
+  },
+  "MhJphRFQWwMc7JpbJQfGt": {
+    "_name_en": "Emissary of Wind",
+    "name_ko": "바람의 사절",
+    "text_ko": "이 카드가 공격할 때, 당신의 손에서 카드 1장을 덱 맨 아래에 놓을 수 있다. 그렇게 하면, 이 카드가 고 어게인을 얻는다."
+  },
+  "QgqNQGbtcF6NNBMDbDMhh": {
+    "_name_en": "Emperor, Dracai of Aesir",
+    "name_ko": "엠퍼러, 아이시르의 드라카이",
+    "text_ko": "당신은 덱에 빨간색 카드만 넣을 수 있다.\n액션 - {r}{r}{r}: 당신의 덱에서 '명령과 정복'을 찾아 그것으로 공격한 뒤, 덱을 섞는다."
+  },
+  "rTWLDhwKJcwrK8mqwDJpb": {
+    "_name_en": "Empowering Ruckus",
+    "name_ko": "힘을 북돋우는 소동",
+    "text_ko": "이번 턴에 환호를 받았다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "Mr6TbnRrKTrJWndKh8QwF": {
+    "_name_en": "Empyrean Rapture",
+    "name_ko": "천상의 환희",
+    "text_ko": "당신의 턴 동안 이름에 '헤럴드(Herald)'가 들어간 카드가 당신 영웅의 소울에 놓인 적이 있다면, 그 턴에 당신이 활성화하는 첫 영웅 능력이 활성화하는 데 {r}{r} 적은 비용이 든다.\n턴당 1회 순간 - {r}: 턴 종료 시까지 이 카드가 워드 1을 얻는다."
+  },
+  "dJhftDhtgzGRMPCt7btf9": {
+    "_name_en": "En Garde",
+    "name_ko": "앙가르드",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +3{p}을 얻는다.\n고 어게인"
+  },
+  "jR8M7zkdc97kKqDjw7RWD": {
+    "_name_en": "Enact Vengeance",
+    "name_ko": "복수를 실행하다",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 가을의 칼날이나 이름에 '복수(Vengeance)'가 들어간 카드였다면, 이 카드는 \"이 카드가 영웅을 명중하면, 그 영웅의 아스날에 있는 모든 카드를 파괴한다\"를 얻는다."
+  },
+  "dzMtpNHjPcPNCFFkrR9QJ": {
+    "_name_en": "Encase",
+    "name_ko": "가두다",
+    "text_ko": "얼음 퓨전\n아무 대상에게 비전 피해 3을 준다. 가두다가 퓨전되었고 영웅에게 피해를 주면, 당신의 다음 턴 시작 시까지 그 영웅과 그가 조종하는 모든 장비를 얼린다."
+  },
+  "CWPHzh8wWpWNgwmQWgt7C": {
+    "_name_en": "Enchanted Quiver",
+    "name_ko": "마법의 화살통",
+    "text_ko": "순간 - 이것을 파괴한다: 이번 턴 당신에게 가해질 다음 비전 피해 1을 방지한다. 당신의 아스날에 앞면 화살이 있다면, 대신 다음 2를 방지한다."
+  },
+  "cjpL88F8RRRbwDm8bwqqJ": {
+    "_name_en": "Enchanting Melody",
+    "name_ko": "매혹적인 선율",
+    "text_ko": "고 어게인\n당신의 영웅이 피해를 받게 될 경우, 대신 매혹적인 선율을 파괴하고 그 원천이 줄 피해 4를 방지한다.\n당신의 종료 단계 시작 시, 이번 턴에 '비-공격' 액션 카드를 사용하지 않았다면, 매혹적인 선율을 파괴한다."
+  },
+  "LKNtHHFMTDbfMHnGLM9Wm": {
+    "_name_en": "Enchanting Melody",
+    "name_ko": "매혹적인 선율",
+    "text_ko": "고 어게인\n당신의 영웅이 피해를 받게 될 경우, 대신 매혹적인 선율을 파괴하고 그 원천이 줄 피해 3을 방지한다.\n당신의 종료 단계 시작 시, 이번 턴에 '비-공격' 액션 카드를 사용하지 않았다면, 매혹적인 선율을 파괴한다."
+  },
+  "8NnRnhhcQHKqCL97TN8gP": {
+    "_name_en": "Enchanting Melody",
+    "name_ko": "매혹적인 선율",
+    "text_ko": "고 어게인\n당신의 영웅이 피해를 받게 될 경우, 대신 매혹적인 선율을 파괴하고 그 원천이 줄 피해 2를 방지한다.\n당신의 종료 단계 시작 시, 이번 턴에 '비-공격' 액션 카드를 사용하지 않았다면, 매혹적인 선율을 파괴한다."
+  },
+  "K8qbPC8KHcW77BNH9czcr": {
+    "_name_en": "Enclosed Firemind",
+    "name_ko": "봉쇄된 불의 정신",
+    "text_ko": "아케인 배리어 1"
+  },
+  "dzwfFWGJkBjbWtjK6qbtM": {
+    "_name_en": "Encore",
+    "name_ko": "앙코르",
+    "text_ko": "당신의 무덤에서 바드 공격 액션 카드 1장을 손으로 되돌린다.\n고 어게인"
+  },
+  "9zPDb7dgNqTgDTpGNDQHg": {
+    "_name_en": "Endear Devotion",
+    "name_ko": "헌신을 아끼다",
+    "text_ko": "대상 단검 공격이 +3{p}을 얻는다. 당신이 드라코닉 체인 링크를 2개 이상 조종하고 있다면, 충성 토큰 1개를 생성한다."
+  },
+  "qQ9TfqhWK967WMGdfQRLK": {
+    "_name_en": "Endless Arrow",
+    "name_ko": "끝없는 화살",
+    "text_ko": "이 카드가 명중하면, 소유자의 손으로 되돌린다."
+  },
+  "MtPhfMbKcN8bN7DpPjNHT": {
+    "_name_en": "Endless Maw",
+    "name_ko": "끝없는 아가리",
+    "text_ko": "끝없는 아가리를 사용하기 위한 추가 비용으로, 당신의 무덤에서 무작위 카드 3장을 추방한다.\n이렇게 {p}이 6 이상인 카드가 추방되면, 끝없는 아가리가 +3{p}을 얻는다.\n블러드 뎃"
+  },
+  "CMfRgznLHg6BGwDLqL9nK": {
+    "_name_en": "Endless Maw",
+    "name_ko": "끝없는 아가리",
+    "text_ko": "끝없는 아가리를 사용하기 위한 추가 비용으로, 당신의 무덤에서 무작위 카드 3장을 추방한다.\n이렇게 {p}이 6 이상인 카드가 추방되면, 끝없는 아가리가 +3{p}을 얻는다.\n블러드 뎃"
+  },
+  "Cp7q8KGCNJQDTqDNBGMGD": {
+    "_name_en": "Endless Maw",
+    "name_ko": "끝없는 아가리",
+    "text_ko": "끝없는 아가리를 사용하기 위한 추가 비용으로, 당신의 무덤에서 무작위 카드 3장을 추방한다.\n이렇게 {p}이 6 이상인 카드가 추방되면, 끝없는 아가리가 +3{p}을 얻는다.\n블러드 뎃"
+  },
+  "dncM8DzP7fJ9JWDqqWfHj": {
+    "_name_en": "Endless Winter",
+    "name_ko": "끝없는 겨울",
+    "text_ko": "올드힘 스페셜라이제이션\n얼음 퓨전\n끝없는 겨울이 퓨전되었다면, 방어 영웅이 이 체인 링크에 방어 카드를 추가할 때마다, 그 영웅의 조종 하에 프로스트바이트 토큰 1개를 생성한다.\n끝없는 겨울이 영웅을 명중하면, 그 영웅의 다음 턴 종료 시까지, 그가 능력을 활성화할 때마다, 그의 조종 하에 프로스트바이트 토큰 1개를 생성한다."
+  },
+  "gjGhfGCFbTtWRGrfcgMQN": {
+    "_name_en": "Energetic Impact",
+    "name_ko": "활기찬 충격",
+    "text_ko": "이것이 {p}이 6 이상인 카드와 함께 방어할 때, 비거 토큰 1개를 생성한다."
+  },
+  "phNWtHpDC6BQhhbKT79HT": {
+    "_name_en": "Energy of the Audience",
+    "name_ko": "관중의 에너지",
+    "text_ko": "당신이 다른 모든 영웅보다 {h}가 적다면, 이 카드는 당신이 조종하는 서스펜스를 가진 오라마다 +1{p}을 얻는다."
+  },
+  "nHTP6hGgLz6zfpdFH9Fpt": {
+    "_name_en": "Energy Potion",
+    "name_ko": "에너지 물약",
+    "text_ko": "순간 - 이것을 파괴한다: {r}{r}을 얻는다"
+  },
+  "mpzTpgpKkq6TDRT8JK7fF": {
+    "_name_en": "Enflame the Firebrand",
+    "name_ko": "불의 전달자를 점화하다",
+    "text_ko": "이 카드가 공격할 때, 당신이 드라코닉 체인 링크를 2개 이상 조종하고 있다면 고 어게인을 얻고, 3개 이상이면 이번 전투 체인에 당신의 공격들이 드라코닉이 되며, 4개 이상이면 +2{p}을 얻는다."
+  },
+  "BRg6rFMmGRn6kPpT96W89": {
+    "_name_en": "Engaged Swiftblade",
+    "name_ko": "교전 중인 쾌속검",
+    "text_ko": "이번 턴 당신의 다음 전사 공격이 +3{p}과 \"이 카드가 공격 액션 카드로 방어되면, 고 어게인을 얻는다\"를 얻는다.\n고 어게인"
+  },
+  "T8JFkBdwqccpH6PFCcBHq": {
+    "_name_en": "Engaged Swiftblade",
+    "name_ko": "교전 중인 쾌속검",
+    "text_ko": "이번 턴 당신의 다음 전사 공격이 +2{p}과 \"이 카드가 공격 액션 카드로 방어되면, 고 어게인을 얻는다\"를 얻는다.\n고 어게인"
+  },
+  "MDPTg8tjBW6CC9gFrGWFQ": {
+    "_name_en": "Engaged Swiftblade",
+    "name_ko": "교전 중인 쾌속검",
+    "text_ko": "이번 턴 당신의 다음 전사 공격이 +1{p}과 \"이 카드가 공격 액션 카드로 방어되면, 고 어게인을 얻는다\"를 얻는다.\n고 어게인"
+  },
+  "9GLmGhw9CCzhbkKBFzQzH": {
+    "_name_en": "Engulfing Flamewave",
+    "name_ko": "휘몰아치는 화염파도",
+    "text_ko": "휘몰아치는 화염파도가 명중하면, 당신의 덱 맨 위 카드를 공개한다. 그것이 당신이 조종하는 드라코닉 체인 링크 수보다 낮은 비용의 공격 액션 카드라면, 추방한다. 이번 턴에 그것을 사용할 수 있다.\n고 어게인"
+  },
+  "cQ88fwLwTCjgPtdCt8FC7": {
+    "_name_en": "Engulfing Flamewave",
+    "name_ko": "휘몰아치는 화염파도",
+    "text_ko": "휘몰아치는 화염파도가 명중하면, 당신의 덱 맨 위 카드를 공개한다. 그것이 당신이 조종하는 드라코닉 체인 링크 수보다 낮은 비용의 공격 액션 카드라면, 추방한다. 이번 턴에 그것을 사용할 수 있다.\n고 어게인"
+  },
+  "Jwckb9hTJd6N8jzmzf7LR": {
+    "_name_en": "Engulfing Flamewave",
+    "name_ko": "휘몰아치는 화염파도",
+    "text_ko": "휘몰아치는 화염파도가 명중하면, 당신의 덱 맨 위 카드를 공개한다. 그것이 당신이 조종하는 드라코닉 체인 링크 수보다 낮은 비용의 공격 액션 카드라면, 추방한다. 이번 턴에 그것을 사용할 수 있다.\n고 어게인"
+  },
+  "kpbCBbCmP8KqqggdhPRtj": {
+    "_name_en": "Engulfing Light",
+    "name_ko": "휘감는 빛",
+    "text_ko": "휘감는 빛을 사용하기 위한 추가 비용으로, 당신 영웅의 소울을 충전할 수 있다.\n이번 턴에 충전했다면, 휘감는 빛이 \"이 카드가 명중하면, 당신 영웅의 소울에 놓는다\"를 얻는다."
+  },
+  "tf7BQQcnH9LR6jFQTKJrC": {
+    "_name_en": "Engulfing Light",
+    "name_ko": "휘감는 빛",
+    "text_ko": "휘감는 빛을 사용하기 위한 추가 비용으로, 당신 영웅의 소울을 충전할 수 있다.\n이번 턴에 충전했다면, 휘감는 빛이 \"이 카드가 명중하면, 당신 영웅의 소울에 놓는다\"를 얻는다."
+  },
+  "DbFJncpjwQmp8mg99RPqL": {
+    "_name_en": "Engulfing Light",
+    "name_ko": "휘감는 빛",
+    "text_ko": "휘감는 빛을 사용하기 위한 추가 비용으로, 당신 영웅의 소울을 충전할 수 있다.\n이번 턴에 충전했다면, 휘감는 빛이 \"이 카드가 명중하면, 당신 영웅의 소울에 놓는다\"를 얻는다."
+  },
+  "jrJHMtHfhk7bGFqhNkD8K": {
+    "_name_en": "Engulfing Shadows",
+    "name_ko": "휘감는 그림자",
+    "text_ko": "이 카드가 임의의 곳에서 당신의 무덤에 놓이게 될 경우, 대신 추방한다.\n블러드 뎃"
+  },
+  "JKPFKKFqnLtmctLkwNCmc": {
+    "_name_en": "Enigma",
+    "name_ko": "이니그마",
+    "text_ko": "각 턴 당신의 첫 스펙트럴 실드 공격은 활성화하는 데 {r} 적은 비용이 든다.\n턴당 1회 순간 - {c}{c}{c}: +1{p} 카운터를 가진 스펙트럴 실드 토큰 1개를 생성한다."
+  },
+  "KPm87t9nFjpM9jzrM7hzp": {
+    "_name_en": "Enigma Chimera",
+    "name_ko": "이니그마 키메라",
+    "text_ko": "팬텀"
+  },
+  "QFJ7cfqhj6TqrwLQQJNFL": {
+    "_name_en": "Enigma Chimera",
+    "name_ko": "이니그마 키메라",
+    "text_ko": "팬텀"
+  },
+  "CQRFRLf9kHFWnrmqfFRTn": {
+    "_name_en": "Enigma Chimera",
+    "name_ko": "이니그마 키메라",
+    "text_ko": "팬텀"
+  },
+  "tJhRRN9kkMCnGQdQJ8TWg": {
+    "_name_en": "Enigma, Ledger of Ancestry",
+    "name_ko": "이니그마, 선조의 원장",
+    "text_ko": "각 턴 당신의 첫 스펙트럴 실드 공격은 활성화하는 데 {r} 적은 비용이 든다.\n턴당 1회 순간 - {c}{c}{c}: +1{p} 카운터를 가진 스펙트럴 실드 토큰 1개를 생성한다."
+  },
+  "9HfDfRR8m8cLKDdg88gjm": {
+    "_name_en": "Enigma, New Moon",
+    "name_ko": "이니그마, 초승달",
+    "text_ko": "당신이 소유한 장비는 클록드를 얻는다\n순간 - {c}{c}{c}: 당신이 장착한 대상 뒷면 장비를 앞면으로 뒤집는다. 그것이 워드를 가졌다면, 스펙트럴 실드 토큰 3개를 생성한다."
+  },
+  "dzMffTNHqjw8q8jkDjGwD": {
+    "_name_en": "Enion Surge",
+    "name_ko": "에니온 서지",
+    "text_ko": "아무 대상에게 비전 피해 3을 준다.\n이 카드가 피해를 주면, 당신의 영웅을 {t}할 수 있다. 그렇게 하면, 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "McHtzkNrnJDfNFNNqCFC8": {
+    "_name_en": "Enion Surge",
+    "name_ko": "에니온 서지",
+    "text_ko": "아무 대상에게 비전 피해 2를 준다.\n이 카드가 피해를 주면, 당신의 영웅을 {t}할 수 있다. 그렇게 하면, 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "fWQbRmQL9nM8TBfkfbCbW": {
+    "_name_en": "Enion Surge",
+    "name_ko": "에니온 서지",
+    "text_ko": "아무 대상에게 비전 피해 1을 준다.\n이 카드가 피해를 주면, 당신의 영웅을 {t}할 수 있다. 그렇게 하면, 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "QDrWjRHBmBWBnJHmmbzRM": {
+    "_name_en": "Enlightened Strike",
+    "name_ko": "깨달음의 일격",
+    "text_ko": "깨달음의 일격을 사용하기 위한 추가 비용으로, 당신의 손에서 카드 1장을 덱 맨 아래에 놓는다.\n다음 중 1개 선택;\n- 깨달음의 일격으로 공격할 때, 카드 1장을 뽑는다.\n- 깨달음의 일격이 +2{p}을 얻는다.\n- 깨달음의 일격이 고 어게인을 얻는다."
+  },
+  "LBzMBqHhtB9Tqqn8PTqMM": {
+    "_name_en": "Entangle",
+    "name_ko": "얽어매다",
+    "text_ko": "대지 퓨전\n얽어매다가 퓨전되었다면, \"이 카드가 영웅을 명중하면, 그 영웅의 다음 턴 첫 공격이 -2{p}을 가진다\"를 얻는다."
+  },
+  "HQ9WdqFdnqqgjqHPb8ppH": {
+    "_name_en": "Entangle",
+    "name_ko": "얽어매다",
+    "text_ko": "대지 퓨전\n얽어매다가 퓨전되었다면, \"이 카드가 영웅을 명중하면, 그 영웅의 다음 턴 첫 공격이 -2{p}을 가진다\"를 얻는다."
+  },
+  "hWTwmwHfMg8PfTFRffBqz": {
+    "_name_en": "Entangle",
+    "name_ko": "얽어매다",
+    "text_ko": "대지 퓨전\n얽어매다가 퓨전되었다면, \"이 카드가 영웅을 명중하면, 그 영웅의 다음 턴 첫 공격이 -2{p}을 가진다\"를 얻는다."
+  },
+  "JKqPrBhgGqjjWjnwBPpJN": {
+    "_name_en": "Entangling Shot",
+    "name_ko": "옭아매는 사격",
+    "text_ko": "이 카드가 앞면으로 아스날에 놓이면, 대상 영웅을 {t}할 수 있다."
+  },
+  "DdJT86P9h6tQ77czjkwBc": {
+    "_name_en": "Entwine Earth",
+    "name_ko": "대지와 얽히다",
+    "text_ko": "대지 퓨전\n대지와 얽히다가 퓨전되었다면, +2{p}을 얻는다."
+  },
+  "WMfcGGztRCRgfDdhgKmQc": {
+    "_name_en": "Entwine Earth",
+    "name_ko": "대지와 얽히다",
+    "text_ko": "대지 퓨전\n대지와 얽히다가 퓨전되었다면, +2{p}을 얻는다."
+  },
+  "wNPCmBDgPJrrFhMphqPdM": {
+    "_name_en": "Entwine Earth",
+    "name_ko": "대지와 얽히다",
+    "text_ko": "대지 퓨전\n대지와 얽히다가 퓨전되었다면, +2{p}을 얻는다."
+  },
+  "jHLRPPQDpFDLGHJkPKQtz": {
+    "_name_en": "Entwine Ice",
+    "name_ko": "얼음과 얽히다",
+    "text_ko": "얼음 퓨전\n얼음과 얽히다가 퓨전되었다면, 도미네이트를 얻는다."
+  },
+  "gt9gmN9KWC9cDJNbFH7KN": {
+    "_name_en": "Entwine Ice",
+    "name_ko": "얼음과 얽히다",
+    "text_ko": "얼음 퓨전\n얼음과 얽히다가 퓨전되었다면, 도미네이트를 얻는다."
+  },
+  "mgJnLbfjqBDtWrdQHgTw8": {
+    "_name_en": "Entwine Ice",
+    "name_ko": "얼음과 얽히다",
+    "text_ko": "얼음 퓨전\n얼음과 얽히다가 퓨전되었다면, 도미네이트를 얻는다."
+  },
+  "M76qpCDkBRTJwCgbD8qWC": {
+    "_name_en": "Entwine Lightning",
+    "name_ko": "번개와 얽히다",
+    "text_ko": "번개 퓨전\n번개와 얽히다가 퓨전되었다면, 고 어게인을 얻는다."
+  },
+  "8GMQWkrqHKDHkWQzg8nJj": {
+    "_name_en": "Entwine Lightning",
+    "name_ko": "번개와 얽히다",
+    "text_ko": "번개 퓨전\n번개와 얽히다가 퓨전되었다면, 고 어게인을 얻는다."
+  },
+  "JqTFK6frf7P9WngJCg76P": {
+    "_name_en": "Entwine Lightning",
+    "name_ko": "번개와 얽히다",
+    "text_ko": "번개 퓨전\n번개와 얽히다가 퓨전되었다면, 고 어게인을 얻는다."
+  },
+  "jTt8B8LqdBkCkwNwbGW8n": {
+    "_name_en": "Envelop in Darkness",
+    "name_ko": "어둠에 감싸이다",
+    "text_ko": "룬챈트 토큰 1개를 생성한다.\n이번 턴 당신이 룬 게이트하는 다음 공격 액션 카드가 +3{p}을 얻는다.\n고 어게인"
+  },
+  "H9jP9mrrKwWtGdbnq99dd": {
+    "_name_en": "Envelop in Darkness",
+    "name_ko": "어둠에 감싸이다",
+    "text_ko": "룬챈트 토큰 1개를 생성한다.\n이번 턴 당신이 룬 게이트하는 다음 공격 액션 카드가 +2{p}을 얻는다.\n고 어게인"
+  },
+  "HBdG9Cpqgz6nj6D66tJHR": {
+    "_name_en": "Envelop in Darkness",
+    "name_ko": "어둠에 감싸이다",
+    "text_ko": "룬챈트 토큰 1개를 생성한다.\n이번 턴 당신이 룬 게이트하는 다음 공격 액션 카드가 +1{p}을 얻는다.\n고 어게인"
+  },
+  "CnzHmjrhb7TTzGJppkpfc": {
+    "_name_en": "Eradicate",
+    "name_ko": "박멸",
+    "text_ko": "컨트랙트 - 당신은 상대의 노란색 카드를 추방하기로 계약되어 있다. 이 계약을 완수할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그 영웅의 덱 맨 위 X장을 추방한다. X는 박멸이 준 피해량이다."
+  },
+  "qJTKdmdtgwgfgPFLtWpNj": {
+    "_name_en": "Erase Face",
+    "name_ko": "얼굴 지우기",
+    "text_ko": "이 카드가 영웅을 명중하면, 그 영웅이 소유한 카드들은 다음 턴 종료 시까지 모든 클래스와 재능 유형을 잃는다."
+  },
+  "dmGpmBBdMCt7dTpGHmjmr": {
+    "_name_en": "Erode Authority",
+    "name_ko": "권위를 침식하다",
+    "text_ko": "도미네이트\n프래그먼트"
+  },
+  "hFtq9BPKqRgdTGQF9mpRN": {
+    "_name_en": "Erode Authority",
+    "name_ko": "권위를 침식하다",
+    "text_ko": "도미네이트\n프래그먼트"
+  },
+  "B9PzLK6qCpDjDpPHmmFdF": {
+    "_name_en": "Erode Authority",
+    "name_ko": "권위를 침식하다",
+    "text_ko": "도미네이트\n프래그먼트"
+  },
+  "NdcgmHW9WJnCHKNfLRhDd": {
+    "_name_en": "Escalate Bloodshed",
+    "name_ko": "유혈을 격화시키다",
+    "text_ko": "영웅이 행동 단계 동안 카드를 뽑으면, 1{h}을 잃는다.\n각 영웅의 행동 단계 시작 시, 그 영웅은 카드 1장을 뽑는다.\n각 영웅의 종료 단계 시작 시, 이번 턴에 무기가 공격하지 않았다면, 이것을 파괴한다."
+  },
+  "MpFfQjRhkdrL8QhmgbhgM": {
+    "_name_en": "Escalate Order",
+    "name_ko": "질서를 고조시키다",
+    "text_ko": "이 카드가 공격할 때, 당신이 강인함 토큰을 조종하고 있다면, 3개를 더 생성한다."
+  },
+  "CrhRqD9BkQGpHpmRN8JwC": {
+    "_name_en": "Escalate Violence",
+    "name_ko": "폭력을 고조시키다",
+    "text_ko": "이 카드가 공격할 때, 당신이 마이트 토큰을 조종하고 있다면, 3개를 더 생성한다."
+  },
+  "qMzCjGnnHpbqRJPtJfp6T": {
+    "_name_en": "Essence of Ancestry: Body",
+    "name_ko": "선조의 정수: 육체",
+    "text_ko": "이 카드가 전장을 떠날 때, 당신이 일루저니스트 오라를 조종하고 있지 않다면, 이번 턴 당신이 다음에 빨간색 원천에게 피해를 받게 될 경우, 방지한다.\n워드 2"
+  },
+  "HMMRL8LDTCdzFRpzgTCkz": {
+    "_name_en": "Essence of Ancestry: Mind",
+    "name_ko": "선조의 정수: 정신",
+    "text_ko": "이 카드가 전장을 떠날 때, 당신이 일루저니스트 오라를 조종하고 있지 않다면, 이번 턴 당신이 다음에 파란색 원천에게 피해를 받게 될 경우, 방지한다.\n워드 2"
+  },
+  "Nw6hkj6NCpWtBN9BcTFcq": {
+    "_name_en": "Essence of Ancestry: Soul",
+    "name_ko": "선조의 정수: 영혼",
+    "text_ko": "이 카드가 전장을 떠날 때, 당신이 일루저니스트 오라를 조종하고 있지 않다면, 이번 턴 당신이 다음에 노란색 원천에게 피해를 받게 될 경우, 방지한다.\n워드 2"
+  },
+  "9QB9tNFgJJrW87DhjjdrM": {
+    "_name_en": "Etchings of Arcana",
+    "name_ko": "비전의 각인",
+    "text_ko": "대상 영웅에게 비전 피해 3을 준다.\n서지 - 이 카드가 3을 초과하는 피해를 주면, 당신의 무덤에서 이름에 '시길(Sigil)'이 들어간 오라를 손으로 되돌릴 수 있다."
+  },
+  "L8QMPzFdqBBGzD7CNRHQj": {
+    "_name_en": "Etchings of Arcana",
+    "name_ko": "비전의 각인",
+    "text_ko": "대상 영웅에게 비전 피해 2를 준다.\n서지 - 이 카드가 2를 초과하는 피해를 주면, 당신의 무덤에서 이름에 '시길(Sigil)'이 들어간 오라를 손으로 되돌릴 수 있다."
+  },
+  "Hnw87jtbJwdMWMNf8NgPk": {
+    "_name_en": "Etchings of Arcana",
+    "name_ko": "비전의 각인",
+    "text_ko": "대상 영웅에게 비전 피해 1을 준다.\n서지 - 이 카드가 1을 초과하는 피해를 주면, 당신의 무덤에서 이름에 '시길(Sigil)'이 들어간 오라를 손으로 되돌릴 수 있다."
+  },
+  "WjPK7cb8rwPzthcDtczmj": {
+    "_name_en": "Eternal Inferno",
+    "name_ko": "영원한 인페르노",
+    "text_ko": "아무 대상에게 비전 피해 4를 준다.\n서지 - 이 카드가 4를 초과하는 피해를 주면, 이것을 추방한다. 이번 턴에 그것을 사용할 수 있다."
+  },
+  "QtTgrgcKwKqCJ8dc9Mbbb": {
+    "_name_en": "Evasive Leap",
+    "name_ko": "회피 도약"
+  },
+  "whmMnfgwjqMJCHKGBHfq7": {
+    "_name_en": "Evasive Leap",
+    "name_ko": "회피 도약"
+  },
+  "N8LCzb9K8GdzMRmNbB6GM": {
+    "_name_en": "Evasive Leap",
+    "name_ko": "회피 도약"
+  },
+  "cgbzzLfPLKTTbpdGrnLGP": {
+    "_name_en": "Evasive Nageboshi",
+    "name_ko": "회피하는 나게보시",
+    "text_ko": "레전더리\n액션 - {r}, {t}, 전투 체인이 종료되면 이것을 파괴한다: 공격. 고 어게인\n이 카드는 장비나 반응 카드로 방어될 수 없다."
+  },
+  "WQQFCnb8FKJn9HrzCNDmG": {
+    "_name_en": "Even Bigger Than That!",
+    "name_ko": "이보다 더 클 수는!",
+    "text_ko": "이번 턴에 {p}만큼 피해를 준 적이 있을 때만 '이보다 더 클 수는!'을 사용한다.\n옵트 3을 한 뒤, 당신의 덱 맨 위 카드를 공개한다. 그것의 {p}이 이번 턴에 당신이 준 피해량보다 높다면, 퀴큰 토큰 1개를 생성하고 카드 1장을 뽑는다."
+  },
+  "QbtQ6rBPTTD99TNC7PGRM": {
+    "_name_en": "Even Bigger Than That!",
+    "name_ko": "이보다 더 클 수는!",
+    "text_ko": "이번 턴에 {p}만큼 피해를 준 적이 있을 때만 '이보다 더 클 수는!'을 사용한다.\n옵트 2를 한 뒤, 당신의 덱 맨 위 카드를 공개한다. 그것의 {p}이 이번 턴에 당신이 준 피해량보다 높다면, 퀴큰 토큰 1개를 생성하고 카드 1장을 뽑는다."
+  },
+  "LDCrQmNm8bFk8wcCJ6pj9": {
+    "_name_en": "Even Bigger Than That!",
+    "name_ko": "이보다 더 클 수는!",
+    "text_ko": "이번 턴에 {p}만큼 피해를 준 적이 있을 때만 '이보다 더 클 수는!'을 사용한다.\n옵트 1을 한 뒤, 당신의 덱 맨 위 카드를 공개한다. 그것의 {p}이 이번 턴에 당신이 준 피해량보다 높다면, 퀴큰 토큰 1개를 생성하고 카드 1장을 뽑는다."
+  },
+  "nnQpNFFKqfMwJbRQ6brJ6": {
+    "_name_en": "Everbloom // Life",
+    "name_ko": "상록수 // 생명",
+    "text_ko": "멜드\n무덤에 있는, 비용이 이번 턴에 당신이 얻은 총 {h}보다 낮은 액션 카드 1장을 선택한다. 그것을 소유자의 덱 맨 아래에 놓는다.\n고 어게인\n//\n1{h}을 얻는다"
+  },
+  "tfdr8MdNBHPQjKn9FJCT6": {
+    "_name_en": "Evergreen",
+    "name_ko": "상록수",
+    "text_ko": "상록수가 아스날에서 사용되면, 전투 체인이 종료될 때 소유자의 덱 맨 아래에 놓는다."
+  },
+  "JTc7kdrn9kHtq7LdJ8pQW": {
+    "_name_en": "Evergreen",
+    "name_ko": "상록수",
+    "text_ko": "상록수가 아스날에서 사용되면, 전투 체인이 종료될 때 소유자의 덱 맨 아래에 놓는다."
+  },
+  "nRDPrpfRT9gGCWf9K8nBT": {
+    "_name_en": "Evergreen",
+    "name_ko": "상록수",
+    "text_ko": "상록수가 아스날에서 사용되면, 전투 체인이 종료될 때 소유자의 덱 맨 아래에 놓는다."
+  },
+  "tGhCtnrQTn8KtcmnJdqmq": {
+    "_name_en": "Evo Atom Breaker",
+    "name_ko": "에보 원자 파쇄기",
+    "text_ko": "당신이 베이스 가슴 장비를 장착하고 있다면, 그것과 당신이 조종하는 하이퍼 드라이버 X개를 이것으로 변형한 뒤, 이것을 장착한다. 그렇게 하면, 이번 턴 당신이 다음에 피해를 받게 될 경우, 그 피해 중 X의 두 배를 방지한다.\n당신이 부스트할 때마다, 이것 아래의 카드 1장을 파괴할 수 있다. 그렇게 하면, {r}{r}을 얻는다."
+  },
+  "kD7rTHdWjpwfWR9mw8qG7": {
+    "_name_en": "Evo Battery Pack",
+    "name_ko": "에보 배터리 팩",
+    "text_ko": "당신이 베이스 가슴 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n턴당 1회 순간 - 이것 아래의 카드 1장을 파괴한다: 크랭크를 가진, 당신이 조종하는 아이템 1개에 스팀 카운터를 올린다.\n블레이드 브레이크"
+  },
+  "QT9MbtNRBFHRQdGhckjpk": {
+    "_name_en": "Evo Beta Base Arms",
+    "name_ko": "에보 베타 베이스 팔",
+    "text_ko": "당신이 베이스 팔 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n에보 팔은 당신이 사용하는 데 {r} 적은 비용이 든다.\n배틀원"
+  },
+  "km9fGmwfBqRwGhccLtgJm": {
+    "_name_en": "Evo Beta Base Chest",
+    "name_ko": "에보 베타 베이스 가슴",
+    "text_ko": "당신이 베이스 가슴 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n에보 가슴은 당신이 사용하는 데 {r} 적은 비용이 든다.\n배틀원"
+  },
+  "hwJJhrDhBFrkWr678FMrL": {
+    "_name_en": "Evo Beta Base Head",
+    "name_ko": "에보 베타 베이스 머리",
+    "text_ko": "당신이 베이스 머리 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n에보 머리는 당신이 사용하는 데 {r} 적은 비용이 든다.\n배틀원"
+  },
+  "GQDtpfrtDcDkPDFPwjRmf": {
+    "_name_en": "Evo Beta Base Legs",
+    "name_ko": "에보 베타 베이스 다리",
+    "text_ko": "당신이 베이스 다리 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n에보 다리는 당신이 사용하는 데 {r} 적은 비용이 든다.\n배틀원"
+  },
+  "8CdLzKHrrnjKTFKG77GjM": {
+    "_name_en": "Evo Buzz Hive",
+    "name_ko": "에보 버즈 하이브",
+    "text_ko": "당신이 베이스 가슴 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n이 카드가 장착될 때, {r}을 얻는다."
+  },
+  "PzB6NcbhjdFqq7QBgTLgg": {
+    "_name_en": "Evo Charging Rods",
+    "name_ko": "에보 충전봉",
+    "text_ko": "당신이 베이스 다리 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n턴당 1회 순간 - 이것 아래의 카드 1장을 파괴한다: 퀴큰 토큰 1개를 생성한다.\n블레이드 브레이크"
+  },
+  "hNkCtbWQNhtGkb77cFzhF": {
+    "_name_en": "Evo Circuit Breaker",
+    "name_ko": "에보 회로 차단기",
+    "text_ko": "당신이 베이스 머리 장비를 장착하고 있다면, 그것과 당신이 조종하는 하이퍼 드라이버 X개를 이것으로 변형한 뒤, 이것을 장착한다. 그렇게 하면, 이번 턴 당신이 다음에 피해를 받게 될 경우, 그 피해 중 X의 두 배를 방지한다.\n당신이 부스트할 때마다, 이것 아래의 카드 1장을 파괴할 수 있다. 그렇게 하면, 당신의 추방 구역에서 공격 액션 카드 2장을 덱에 섞는다."
+  },
+  "gDhRftBzcK9cMp7tRmCTB": {
+    "_name_en": "Evo Cogspitter",
+    "name_ko": "에보 코그스피터",
+    "text_ko": "당신이 베이스 팔 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n턴당 1회 순간 - 이것 아래의 카드 1장을 파괴한다: 당신의 손에서 비용 0 또는 1인 아이템을 전장에 놓는다.\n블레이드 브레이크"
+  },
+  "G9PPQckWnzpDTBpWnt9M8": {
+    "_name_en": "Evo Command Center",
+    "name_ko": "에보 지휘본부",
+    "text_ko": "당신이 베이스 머리 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n턴당 1회 순간 - 이것 아래의 카드 1장을 파괴한다: 이번 턴 당신의 다음 무기 공격이 \"이 카드가 명중하면, 카드 1장을 뽑는다\"를 얻는다.\n블레이드 브레이크"
+  },
+  "JnqPMkpqMBFTQhb7RBqdJ": {
+    "_name_en": "Evo Data Mine",
+    "name_ko": "에보 데이터 마인",
+    "text_ko": "당신이 베이스 머리 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n턴당 1회 순간 - 이것 아래의 카드 1장을 파괴한다: 카드 1장을 뽑은 뒤, 당신의 손에서 카드 1장을 덱 맨 위에 놓는다.\n블레이드 브레이크"
+  },
+  "6B8TGFRbgK6dQQLKfP8qD": {
+    "_name_en": "Evo Energy Matrix",
+    "name_ko": "에보 에너지 매트릭스",
+    "text_ko": "당신이 베이스 가슴 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n당신의 테클로 블래스터는 각 상대 영웅마다 {r} 적은 비용으로 활성화된다.\n배틀원"
+  },
+  "DpRWWLNTqjtBtjMjpnm7J": {
+    "_name_en": "Evo Engine Room",
+    "name_ko": "에보 엔진룸",
+    "text_ko": "당신이 베이스 가슴 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n턴당 1회 순간 - 이것 아래의 카드 1장을 파괴한다: 이번 턴 당신의 다음 무기 공격이 {r} 적은 비용으로 활성화된다.\n블레이드 브레이크"
+  },
+  "qR9dqP7WCqkzp69ctCNcp": {
+    "_name_en": "Evo Face Breaker",
+    "name_ko": "에보 안면 파쇄기",
+    "text_ko": "당신이 베이스 팔 장비를 장착하고 있다면, 그것과 당신이 조종하는 하이퍼 드라이버 X개를 이것으로 변형한 뒤, 이것을 장착한다. 그렇게 하면, 이번 턴 당신이 다음에 피해를 받게 될 경우, 그 피해 중 X의 두 배를 방지한다.\n당신이 공격 액션 카드를 부스트할 때마다, 이것 아래의 카드 1장을 파괴할 수 있다. 그렇게 하면, 그 공격이 +2{p}을 얻는다."
+  },
+  "zn9kGcMM8kRmtkdLchqqM": {
+    "_name_en": "Evo Heartdrive",
+    "name_ko": "에보 심장구동",
+    "text_ko": "당신이 베이스 가슴 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n이 카드가 장착될 때, 이번 턴 당신이 사용하는 다음 공격 액션 카드가 {r} 적은 비용으로 사용된다.\n아케인 배리어 1"
+  },
+  "LHkFKd9GfdqN7cR6PgPQG": {
+    "_name_en": "Evo Mach Breaker",
+    "name_ko": "에보 마하 파쇄기",
+    "text_ko": "당신이 베이스 다리 장비를 장착하고 있다면, 그것과 당신이 조종하는 하이퍼 드라이버 X개를 이것으로 변형한 뒤, 이것을 장착한다. 그렇게 하면, 이번 턴 당신이 다음에 피해를 받게 될 경우, 그 피해 중 X의 두 배를 방지한다.\n당신이 부스트할 때마다, 이것 아래의 카드 1장을 파괴할 수 있다. 그렇게 하면, 퀴큰 토큰 1개를 생성한다."
+  },
+  "DDTHnwBGLRMwrDLd6bMwc": {
+    "_name_en": "Evo Magneto",
+    "name_ko": "에보 마그네토",
+    "text_ko": "당신이 베이스 팔 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n이 카드가 방어할 때, 이것 아래의 카드 1장을 파괴할 수 있다. 그렇게 하면, 공격하는 영웅이 조종하는, 비용 0 또는 1인 대상 아이템의 조종권을 얻는다.\n템퍼"
+  },
+  "RMcmPNFfqQp6rpn6dkJ9H": {
+    "_name_en": "Evo Rapid Fire",
+    "name_ko": "에보 속사",
+    "text_ko": "당신이 베이스 다리 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n당신의 테클로 블래스터 공격들이 고 어게인을 얻는다.\n배틀원"
+  },
+  "Pwqq9mKTNnKBPMrH9NHk6": {
+    "_name_en": "Evo Recall",
+    "name_ko": "에보 리콜",
+    "text_ko": "당신이 베이스 머리 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n이 카드가 장착될 때, 당신의 추방 구역에서 최대 1장의 메카놀로지스트 액션 카드를 덱 맨 위에 놓는다.\n아케인 배리어 1"
+  },
+  "CJ9PkdfKF78Khqf88zDmM": {
+    "_name_en": "Evo Scatter Shot",
+    "name_ko": "에보 산탄 사격",
+    "text_ko": "당신이 베이스 팔 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n당신의 테클로 블래스터는 각 상대 영웅마다 +1{p}을 얻는다.\n배틀원"
+  },
+  "PzrMFnfwtKgzMTTLWqRdj": {
+    "_name_en": "Evo Sentry Base Arms",
+    "name_ko": "에보 센트리 베이스 팔",
+    "text_ko": "당신이 베이스 팔 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n배틀원"
+  },
+  "gbKHPCw8zzPmQcKWN9gnC": {
+    "_name_en": "Evo Sentry Base Chest",
+    "name_ko": "에보 센트리 베이스 가슴",
+    "text_ko": "당신이 베이스 가슴 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n배틀원"
+  },
+  "JCpttFGTtgBH7BKwJ6T7r": {
+    "_name_en": "Evo Sentry Base Head",
+    "name_ko": "에보 센트리 베이스 머리",
+    "text_ko": "당신이 베이스 머리 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n배틀원"
+  },
+  "nmGPgfcDFHDb8gkndLkfM": {
+    "_name_en": "Evo Sentry Base Legs",
+    "name_ko": "에보 센트리 베이스 다리",
+    "text_ko": "당신이 베이스 다리 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n배틀원"
+  },
+  "NtRJdNDbtJKWHJBPFn7Pc": {
+    "_name_en": "Evo Shortcircuit",
+    "name_ko": "에보 합선",
+    "text_ko": "당신이 베이스 팔 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n이 카드가 장착될 때, 아무 대상에게 피해 1을 준다.\n아케인 배리어 1"
+  },
+  "mmMwHD8tLPdGBDtnCgWkR": {
+    "_name_en": "Evo Smoothbore",
+    "name_ko": "에보 활강포",
+    "text_ko": "당신이 베이스 팔 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n턴당 1회 순간 - 이것 아래의 카드 1장을 파괴한다: 이번 턴 당신의 다음 무기 공격이 +1{p}을 얻는다.\n블레이드 브레이크"
+  },
+  "FrqBWn7PHJgkQr7wHMNjq": {
+    "_name_en": "Evo Speedslip",
+    "name_ko": "에보 스피드슬립",
+    "text_ko": "당신이 베이스 다리 장비를 장착하고 있다면, 그것을 이것으로 변형한 뒤, 이것을 장착한다.\n이 카드가 장착될 때, 이번 턴 당신이 사용하는 다음 공격 액션 카드가 부스트를 얻는다.\n아케인 배리어 1"
   }
 }
