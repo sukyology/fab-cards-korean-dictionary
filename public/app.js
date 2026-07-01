@@ -8,7 +8,6 @@ const TURNSTILE_SITEKEY = ""; // Cloudflare Turnstile 사이트 키(설정하면
 let CARDS = [];
 let KEYWORDS = {};
 let fuse = null;
-let activeColor = ""; // "", "Red", "Yellow", "Blue", "__translated"
 const PAGE_SIZE = 60;
 
 // 이미지 로딩 토글(느린 환경에서 번역만 빠르게 보고 싶은 사용자를 위한 설정)
@@ -89,20 +88,9 @@ function cardEl(card) {
   return el;
 }
 
-// 현재 쿼리/필터로 카드 목록 계산
+// 현재 쿼리로 카드 목록 계산
 function computeList(query) {
-  let list;
-  if (query) {
-    list = fuse.search(query).map((r) => r.item);
-  } else {
-    list = CARDS;
-  }
-  if (activeColor === "__translated") {
-    list = list.filter((c) => c.name_ko || c.text_ko);
-  } else if (activeColor) {
-    list = list.filter((c) => c.color === activeColor);
-  }
-  return list;
+  return query ? fuse.search(query).map((r) => r.item) : CARDS;
 }
 
 let currentList = [];
@@ -114,9 +102,8 @@ function render(query) {
   shown = 0;
   resultsEl.innerHTML = "";
 
-  // 검색어도 없고 필터도 없으면 카드 목록을 보여주지 않는다(검색 중심 UI)
-  const showResults = query !== "" || activeColor !== "";
-  if (!showResults) {
+  // 검색어가 없으면 카드 목록을 보여주지 않는다(검색 중심 UI)
+  if (query === "") {
     currentList = [];
     moreEl.hidden = true;
     statusEl.textContent = `카드 이름(한글·영어)이나 효과를 입력하고 Enter를 누르세요 · 전체 ${CARDS.length.toLocaleString()}장`;
@@ -362,16 +349,6 @@ imgToggle.addEventListener("change", () => {
   imagesEnabled = imgToggle.checked;
   localStorage.setItem(IMG_TOGGLE_KEY, imagesEnabled ? "1" : "0");
   rerenderVisible();
-});
-
-// 색상 필터
-$("#color-filters").addEventListener("click", (e) => {
-  const btn = e.target.closest(".chip");
-  if (!btn) return;
-  activeColor = btn.dataset.color;
-  document.querySelectorAll("#color-filters .chip").forEach((c) => c.classList.remove("active"));
-  btn.classList.add("active");
-  render(currentQuery);
 });
 
 // 초기 로드

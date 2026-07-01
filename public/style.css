@@ -99,49 +99,6 @@ body {
   color: var(--text-dim);
 }
 
-/* 필터 칩 */
-.filters {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-bottom: 16px;
-}
-.chip {
-  padding: 7px 14px;
-  font-size: 0.88rem;
-  color: var(--text-dim);
-  background: var(--bg-elev);
-  border: 1px solid var(--border);
-  border-radius: 999px;
-  cursor: pointer;
-  transition: all 0.12s;
-}
-.chip:hover {
-  color: var(--text);
-  border-color: #3a414f;
-}
-.chip.active {
-  color: #111;
-  background: var(--accent);
-  border-color: var(--accent);
-  font-weight: 600;
-}
-.chip-red.active {
-  background: var(--red);
-  border-color: var(--red);
-  color: #fff;
-}
-.chip-yellow.active {
-  background: var(--yellow);
-  border-color: var(--yellow);
-  color: #111;
-}
-.chip-blue.active {
-  background: var(--blue);
-  border-color: var(--blue);
-  color: #fff;
-}
-
 /* 이미지 로딩 토글 */
 .img-toggle {
   display: inline-flex;
