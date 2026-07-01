@@ -8101,5 +8101,685 @@
     "_name_en": "Fish Fingers",
     "name_ko": "생선 손가락",
     "text_ko": "액션 - {r}, 이것을 파괴한다: 이번 턴 당신의 다음 공격이 +1{p}을 얻는다. 고 어게인\n블레이드 브레이크"
+  },
+  "PGCBWLPcTWcHRh7CwW8K7": {
+    "_name_en": "Fist Pump",
+    "name_ko": "주먹 펌프",
+    "text_ko": "당신이 부스트로 하이퍼 드라이버를 추방할 때마다, 대상 렌치가 이번 턴 +1{p}을 얻는다.\n배틀원"
+  },
+  "FwDRt9TR7CCJd9NnNBmfP": {
+    "_name_en": "Fisticuffs",
+    "name_ko": "주먹다짐",
+    "text_ko": "공격 반응 - {r}{r}, 주먹다짐을 파괴한다: 대상 공격 액션 카드가 +1{p}을 얻는다."
+  },
+  "R7B9m6hKjCKhRFpfcNzbT": {
+    "_name_en": "Fix the Match",
+    "name_ko": "경기 조작",
+    "text_ko": "이 카드가 공격할 때, 당신의 덱에서 카드 1장을 찾은 뒤, 덱을 섞고 그 카드를 맨 위에 놓는다.\n카드가 이 카드를 방어할 때마다, 방어 영웅과 격돌한다. 승자는 마이트 토큰 1개를 생성한다."
+  },
+  "KthQj9HCRMDRfngK88kCw": {
+    "_name_en": "Flail of Agony",
+    "name_ko": "고통의 도리깨",
+    "text_ko": "빈세트 스페셜라이제이션\n턴당 1회 액션 - {h}: 공격\n이 카드가 명중하면, 룬챈트 토큰 1개를 생성한다."
+  },
+  "nfNQF8fT8Lf668dWP9DB6": {
+    "_name_en": "Flake Out",
+    "name_ko": "떨어져나가다",
+    "text_ko": "얼음 퓨전\n떨어져나가다가 퓨전되었다면, 도미네이트를 얻는다."
+  },
+  "jwrDJnLHdGdWnWNMd6RnB": {
+    "_name_en": "Flake Out",
+    "name_ko": "떨어져나가다",
+    "text_ko": "얼음 퓨전\n떨어져나가다가 퓨전되었다면, 도미네이트를 얻는다."
+  },
+  "CmQnkwJDjdtkJwrrJKqwz": {
+    "_name_en": "Flake Out",
+    "name_ko": "떨어져나가다",
+    "text_ko": "얼음 퓨전\n떨어져나가다가 퓨전되었다면, 도미네이트를 얻는다."
+  },
+  "WnBPzmt9KKqqBpccHPJTG": {
+    "_name_en": "Flameborn Retribution",
+    "name_ko": "불꽃탄생의 응징",
+    "text_ko": "당신이 불꽃탄생의 응징으로 방어할 때, 이번 턴에 피해를 받은 적이 있다면, 당신의 무덤에서 피닉스 플레임 1장을 손으로 되돌릴 수 있다.\n고 어게인"
+  },
+  "HjFbJmPHHbLwqfnbPfFML": {
+    "_name_en": "Flamecall Awakening",
+    "name_ko": "불꽃부름의 각성",
+    "text_ko": "당신이 불꽃부름의 각성으로 공격할 때, 이번 턴에 다른 빨간색 카드를 사용한 적이 있다면, 당신의 덱에서 피닉스 플레임을 찾아 공개하고 손에 넣은 뒤, 덱을 섞을 수 있다.\n고 어게인"
+  },
+  "Fg6Mc9mLLBCDFdrTpTpTB": {
+    "_name_en": "Flamescale Furnace",
+    "name_ko": "불비늘 화로",
+    "text_ko": "턴당 1회 순간 - {r}: 당신의 피치 존에 있는 빨간색 카드마다 {r}을 얻는다. 이번 턴에 빨간색 카드를 사용했을 때만 이 능력을 활성화한다.\n템퍼"
+  },
+  "cQbwHf7HLrPGwPhCw88mq": {
+    "_name_en": "Flash",
+    "name_ko": "플래시",
+    "text_ko": "이번 턴 당신이 사용하는, 비용 0 이상인 다음 액션 카드가 고 어게인을 얻는다.\n고 어게인"
+  },
+  "67fGrFQnnpt8PLBckjKdG": {
+    "_name_en": "Flash",
+    "name_ko": "플래시",
+    "text_ko": "이번 턴 당신이 사용하는, 비용 1 이상인 다음 액션 카드가 고 어게인을 얻는다.\n고 어게인"
+  },
+  "BGDgkjjjkjJPtfRndfmFN": {
+    "_name_en": "Flash",
+    "name_ko": "플래시",
+    "text_ko": "이번 턴 당신이 사용하는, 비용 2 이상인 다음 액션 카드가 고 어게인을 얻는다.\n고 어게인"
+  },
+  "TkpjjKgfzKLgjRMDJNpk7": {
+    "_name_en": "Flash Bolt",
+    "name_ko": "플래시 볼트",
+    "text_ko": "대상 영웅에게 비전 피해 3을 준다."
+  },
+  "bnHbThztdNdG7g7gNqFj6": {
+    "_name_en": "Flash Bolt",
+    "name_ko": "플래시 볼트",
+    "text_ko": "대상 영웅에게 비전 피해 2를 준다."
+  },
+  "PhD7nmCtwWrmPpQ7NG8tz": {
+    "_name_en": "Flash Bolt",
+    "name_ko": "플래시 볼트",
+    "text_ko": "대상 영웅에게 비전 피해 1을 준다."
+  },
+  "hBDtCDkPFDtWFTm9hGJDq": {
+    "_name_en": "Flash of Brilliance",
+    "name_ko": "찬란함의 섬광",
+    "text_ko": "이 카드가 방어할 때, 번개 카드 1장을 버릴 수 있다. 그렇게 하면, 당신이 조종하는 오라 1개를 소유자의 손으로 되돌린다.\n블레이드 브레이크"
+  },
+  "KGMH76KLtDChtw8JBqMbJ": {
+    "_name_en": "Flashfreeze",
+    "name_ko": "급속냉동",
+    "text_ko": "얼음 그리고/또는 번개 퓨전\n급속냉동이 얼음 카드와 퓨전되었다면, 이번 턴 당신이 조종하는 공격들이 \"이 카드로 공격할 때, 방어 영웅이 {r}{r}을 지불하지 않는 한 도미네이트를 얻는다\"를 얻는다.\n급속냉동이 번개 카드와 퓨전되었다면, 이번 턴 당신이 조종하는 공격들이 \"이 카드가 영웅을 명중하면, 그 영웅에게 피해 3을 준다\"를 얻는다.\n고 어게인"
+  },
+  "RNdgT9tDmGkztGN7zpkRn": {
+    "_name_en": "Flat Trackers",
+    "name_ko": "평평한 추적자",
+    "text_ko": "액션 - 이것을 파괴한다: 어질리티 토큰 1개를 생성한다. 고 어게인\n블레이드 브레이크"
+  },
+  "RJjbqnMGDRbB9LMT8LpDk": {
+    "_name_en": "Flatten the Field",
+    "name_ko": "전장을 평평하게",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅이 조종하는 지진 파동 토큰 1개를 파괴한다."
+  },
+  "9TDdTNcJdThkBt9HwmJMK": {
+    "_name_en": "Flatten the Field",
+    "name_ko": "전장을 평평하게",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅이 조종하는 지진 파동 토큰 1개를 파괴한다."
+  },
+  "HjbGtQFJWLJ6C7ChzRBhf": {
+    "_name_en": "Flatten the Field",
+    "name_ko": "전장을 평평하게",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅이 조종하는 지진 파동 토큰 1개를 파괴한다."
+  },
+  "cKbtrKKgB6TQdgwKQRRMp": {
+    "_name_en": "Fleece the Frail",
+    "name_ko": "약자를 벗겨먹다",
+    "text_ko": "컨트랙트 - 당신은 상대의, {d}이 2 이하인 카드를 추방하기로 계약되어 있다. 이 계약을 완수할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그 영웅의 덱 맨 위 카드를 추방한다."
+  },
+  "pTkGCNJD989J9TkqLnfRb": {
+    "_name_en": "Fleece the Frail",
+    "name_ko": "약자를 벗겨먹다",
+    "text_ko": "컨트랙트 - 당신은 상대의, {d}이 2 이하인 카드를 추방하기로 계약되어 있다. 이 계약을 완수할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그 영웅의 덱 맨 위 카드를 추방한다."
+  },
+  "QBDrnc9CmJD6BdzzhQGjJ": {
+    "_name_en": "Fleece the Frail",
+    "name_ko": "약자를 벗겨먹다",
+    "text_ko": "컨트랙트 - 당신은 상대의, {d}이 2 이하인 카드를 추방하기로 계약되어 있다. 이 계약을 완수할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그 영웅의 덱 맨 위 카드를 추방한다."
+  },
+  "qPDJLjQBMWtW8fJ8Kdznp": {
+    "_name_en": "Fleeing Starbreeze",
+    "name_ko": "달아나는 별바람",
+    "text_ko": "이 카드가 전장에 들어올 때, 최대 1개의 대상 공격이 고 어게인을 얻는다.\n워드 1"
+  },
+  "gJnrmh7M9pLPfkfNnzfMk": {
+    "_name_en": "Fleet Foot Sandals",
+    "name_ko": "쾌속 발 샌들",
+    "text_ko": "공격 반응 - 쾌속 발 샌들을 파괴한다: 기본 {p}이 1 이하인 대상 공격이 고 어게인을 얻는다."
+  },
+  "wQHKQHcJLKwBRwgNG8QMB": {
+    "_name_en": "Fletch a Blue Tail",
+    "name_ko": "파란 꼬리 화살깃",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +2{p}을 얻는다.\n그것이 조준 카운터를 가졌다면, \"이 카드를 방어하는 동안 파란색 카드는 -1{d}을 가진다\"를 얻는다.\n고 어게인"
+  },
+  "pj8DmGTHp6bDzpLdz968F": {
+    "_name_en": "Fletch a Red Tail",
+    "name_ko": "빨간 꼬리 화살깃",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +4{p}을 얻는다.\n그것이 조준 카운터를 가졌다면, \"이 카드를 방어하는 동안 빨간색 카드는 -1{d}을 가진다\"를 얻는다.\n고 어게인"
+  },
+  "wFb9Nd9dBWPJrmNQNQdW8": {
+    "_name_en": "Fletch a Yellow Tail",
+    "name_ko": "노란 꼬리 화살깃",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +3{p}을 얻는다.\n그것이 조준 카운터를 가졌다면, \"이 카드를 방어하는 동안 노란색 카드는 -1{d}을 가진다\"를 얻는다.\n고 어게인"
+  },
+  "8gFjHb6jgWPdwHbQjgRKN": {
+    "_name_en": "Flex",
+    "name_ko": "플렉스",
+    "text_ko": "당신이 플렉스로 공격하거나 방어할 때, {r}{r}을 지불할 수 있다. 그렇게 하면, +2{p}을 얻는다."
+  },
+  "jPD7Qr9HHgnr6BrLCpFBK": {
+    "_name_en": "Flex",
+    "name_ko": "플렉스",
+    "text_ko": "당신이 플렉스로 공격하거나 방어할 때, {r}{r}을 지불할 수 있다. 그렇게 하면, +2{p}을 얻는다."
+  },
+  "mLGDzNdDjfN9CFc6zNntW": {
+    "_name_en": "Flex",
+    "name_ko": "플렉스",
+    "text_ko": "당신이 플렉스로 공격하거나 방어할 때, {r}{r}을 지불할 수 있다. 그렇게 하면, +2{p}을 얻는다."
+  },
+  "HNQqczGWgqmCzqGqnWkwk": {
+    "_name_en": "Flex Claws",
+    "name_ko": "발톱 자랑",
+    "text_ko": "이 카드가 명중하면, 당신의 추방 구역에 크라우칭 타이거를 생성한다. 이번 턴에 그것을 사용할 수 있다.\n고 어게인"
+  },
+  "MGFhzzHdwLqwChD6TLkjk": {
+    "_name_en": "Flex Claws",
+    "name_ko": "발톱 자랑",
+    "text_ko": "이 카드가 명중하면, 당신의 추방 구역에 크라우칭 타이거를 생성한다. 이번 턴에 그것을 사용할 수 있다.\n고 어게인"
+  },
+  "phtD8RM6rJ6FWPFwFwkzg": {
+    "_name_en": "Flex Claws",
+    "name_ko": "발톱 자랑",
+    "text_ko": "이 카드가 명중하면, 당신의 추방 구역에 크라우칭 타이거를 생성한다. 이번 턴에 그것을 사용할 수 있다.\n고 어게인"
+  },
+  "GHJbjDGDGhF7B8bLFHrz6": {
+    "_name_en": "Flex Speed",
+    "name_ko": "속도 자랑",
+    "text_ko": "이 카드가 {p} 6 이상이면, 고 어게인을 얻는다."
+  },
+  "mhfCHdrC7Bb7rPBwbfqtf": {
+    "_name_en": "Flex Speed",
+    "name_ko": "속도 자랑",
+    "text_ko": "이 카드가 {p} 6 이상이면, 고 어게인을 얻는다."
+  },
+  "gTdKt8WpBT7m9WpGMQFmw": {
+    "_name_en": "Flex Speed",
+    "name_ko": "속도 자랑",
+    "text_ko": "이 카드가 {p} 6 이상이면, 고 어게인을 얻는다."
+  },
+  "dRp7czHgccGwbFTQjLPCk": {
+    "_name_en": "Flex Strength",
+    "name_ko": "힘 자랑",
+    "text_ko": "이 카드가 {p} 6 이상이면, +3{p}을 얻는다."
+  },
+  "nBTzTMQBBmg9qTBCQkP8F": {
+    "_name_en": "Flex Strength",
+    "name_ko": "힘 자랑",
+    "text_ko": "이 카드가 {p} 6 이상이면, +3{p}을 얻는다."
+  },
+  "Hz9KzqHfR7PqfWBqphBz9": {
+    "_name_en": "Flex Strength",
+    "name_ko": "힘 자랑",
+    "text_ko": "이 카드가 {p} 6 이상이면, +3{p}을 얻는다."
+  },
+  "WtGtPtHBQMNnjzBdcdLNd": {
+    "_name_en": "Flic Flak",
+    "name_ko": "플릭 플랙",
+    "text_ko": "이번 턴 당신이 다음에 방어에 사용하는 카드가 콤보를 가진 카드라면, +2{d}을 얻는다."
+  },
+  "NWTPMPpLT7TL7qzkBLTHF": {
+    "_name_en": "Flic Flak",
+    "name_ko": "플릭 플랙",
+    "text_ko": "이번 턴 당신이 다음에 방어에 사용하는 카드가 콤보를 가진 카드라면, +2{d}을 얻는다."
+  },
+  "tNwNjDkrznjwrPP6bHBtD": {
+    "_name_en": "Flic Flak",
+    "name_ko": "플릭 플랙",
+    "text_ko": "이번 턴 당신이 다음에 방어에 사용하는 카드가 콤보를 가진 카드라면, +2{d}을 얻는다."
+  },
+  "Bh6NHMCNrhdwbHb7CJRb7": {
+    "_name_en": "Flick Knives",
+    "name_ko": "플릭 나이브즈",
+    "text_ko": "턴당 1회 공격 반응 - 0: 활성 체인 링크에 없는, 당신이 조종하는 대상 단검이 대상 영웅에게 피해 1을 준다. 이렇게 피해를 주면, 그 단검은 명중한 것이다. 그 단검을 파괴한다.\n블레이드 브레이크"
+  },
+  "pDcNGgGpPKKtj9wkD7jQR": {
+    "_name_en": "Flicker Reality",
+    "name_ko": "일렁이는 현실",
+    "text_ko": "이 카드가 전장을 떠날 때, 홀로 카운터가 없는, 당신이 조종하는 다른 번개 오라 지속물 1개를 추방한 뒤, 홀로 카운터와 함께 전장으로 되돌릴 수 있다.\n워드 1"
+  },
+  "kCKqHQb8W96FJTWqnNhCj": {
+    "_name_en": "Flicker Trick",
+    "name_ko": "깜빡임 속임수",
+    "text_ko": "미라지"
+  },
+  "wq9TcGTj79nqfWPtJFdkR": {
+    "_name_en": "Flicker Wisp",
+    "name_ko": "일렁이는 도깨비불",
+    "text_ko": "번개 퓨전\n일렁이는 도깨비불이 퓨전되었다면, 턴 종료 시까지, 당신이 조종하는, 비전 피해를 주는 액션 카드 효과는 대신 그만큼의 비전 피해에 1을 더해 준다.\n대상 영웅에게 비전 피해 1을 준다.\n고 어게인"
+  },
+  "mRMLQ9PM6rhFMcMKWdcbm": {
+    "_name_en": "Flight Path",
+    "name_ko": "비행 경로",
+    "text_ko": "공격 반응 - 이것을 파괴한다: 조준 카운터를 가진 대상 화살 공격이 고 어게인을 얻는다.\n배틀원"
+  },
+  "rPFqdQD8MGWwJh9th7NGz": {
+    "_name_en": "Flittering Charge",
+    "name_ko": "번쩍이는 돌격",
+    "text_ko": "이번 체인 링크에 순간 카드를 사용한 적이 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "PQbd6FrtTPTWfWQLT6Gr7": {
+    "_name_en": "Flittering Charge",
+    "name_ko": "번쩍이는 돌격",
+    "text_ko": "이번 체인 링크에 순간 카드를 사용한 적이 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "MPwMhPCJgTFpFWTTHfGW9": {
+    "_name_en": "Flittering Charge",
+    "name_ko": "번쩍이는 돌격",
+    "text_ko": "이번 체인 링크에 순간 카드를 사용한 적이 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "9wjwrtNmPJzqbLfcrchgR": {
+    "_name_en": "Flittering Forcefield",
+    "name_ko": "번쩍이는 역장",
+    "text_ko": "이 카드가 방어하는 동안, 이번 체인 링크에 순간 카드를 사용한 적이 있다면, +1{d}을 얻는다."
+  },
+  "hRQFwWPRMpJrgj8NTmbCR": {
+    "_name_en": "Flittering Forcefield",
+    "name_ko": "번쩍이는 역장",
+    "text_ko": "이 카드가 방어하는 동안, 이번 체인 링크에 순간 카드를 사용한 적이 있다면, +1{d}을 얻는다."
+  },
+  "gRQQM97BJrfQFQjB8jPzz": {
+    "_name_en": "Flittering Forcefield",
+    "name_ko": "번쩍이는 역장",
+    "text_ko": "이 카드가 방어하는 동안, 이번 체인 링크에 순간 카드를 사용한 적이 있다면, +1{d}을 얻는다."
+  },
+  "QQqkkCLrwB88t8t7w8mwz": {
+    "_name_en": "Flittering Spike",
+    "name_ko": "번쩍이는 쐐기",
+    "text_ko": "이번 체인 링크에 순간 카드를 사용한 적이 있다면, 이 카드가 +2{p}을 얻는다.\n이 카드가 명중하면, 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "NwMDbH6HdbCPLbKQCCqDh": {
+    "_name_en": "Flittering Spike",
+    "name_ko": "번쩍이는 쐐기",
+    "text_ko": "이번 체인 링크에 순간 카드를 사용한 적이 있다면, 이 카드가 +2{p}을 얻는다.\n이 카드가 명중하면, 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "hLpJwQM8kntLtkwcqdrrF": {
+    "_name_en": "Flittering Spike",
+    "name_ko": "번쩍이는 쐐기",
+    "text_ko": "이번 체인 링크에 순간 카드를 사용한 적이 있다면, 이 카드가 +2{p}을 얻는다.\n이 카드가 명중하면, 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "C6NjgQKQBjDBcCJFg6cGd": {
+    "_name_en": "Flock of the Feather Walkers",
+    "name_ko": "깃털 보행자 무리",
+    "text_ko": "깃털 보행자 무리를 사용하기 위한 추가 비용으로, 당신의 손에서 비용 1 이하인 카드 1장을 공개한다.\n당신이 깃털 보행자 무리로 공격할 때, 퀴큰 토큰 1개를 생성한다."
+  },
+  "bbJnkTkktrTJPPwGdWg7h": {
+    "_name_en": "Flock of the Feather Walkers",
+    "name_ko": "깃털 보행자 무리",
+    "text_ko": "깃털 보행자 무리를 사용하기 위한 추가 비용으로, 당신의 손에서 비용 1 이하인 카드 1장을 공개한다.\n당신이 깃털 보행자 무리로 공격할 때, 퀴큰 토큰 1개를 생성한다."
+  },
+  "6fB9pCdHTN9WBhTBF7D6D": {
+    "_name_en": "Flock of the Feather Walkers",
+    "name_ko": "깃털 보행자 무리",
+    "text_ko": "깃털 보행자 무리를 사용하기 위한 추가 비용으로, 당신의 손에서 비용 1 이하인 카드 1장을 공개한다.\n당신이 깃털 보행자 무리로 공격할 때, 퀴큰 토큰 1개를 생성한다."
+  },
+  "9QkzLM66JjHbrMD9M6KDf": {
+    "_name_en": "Flood of Force",
+    "name_ko": "힘의 홍수",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 러싱 리버나 힘의 홍수였다면, 당신이 힘의 홍수로 공격할 때, 당신의 덱 맨 위 카드를 공개한다. 그것이 콤보를 가진 카드라면, 손에 넣은 뒤 힘의 홍수가 +3{p}과 고 어게인을 얻는다."
+  },
+  "Ht8qhJWDMHjjMjzqgf6KG": {
+    "_name_en": "Florian",
+    "name_ko": "플로리안",
+    "text_ko": "당신의 추방 구역에 대지 카드가 4장 이상 있다면, 플로리안은 \"당신이 오라 토큰을 1개 이상 생성하게 될 경우, 대신 그 각 토큰을 그만큼에 1을 더해 생성한다\"를 얻는다.\n대지의 정수"
+  },
+  "hjMQGwKgDTh8LzFdnk8Rg": {
+    "_name_en": "Florian, Rotwood Harbinger",
+    "name_ko": "플로리안, 썩은나무의 선구자",
+    "text_ko": "당신의 추방 구역에 대지 카드가 8장 이상 있다면, 플로리안은 \"당신이 오라 토큰을 1개 이상 생성하게 될 경우, 대신 그 각 토큰을 그만큼에 1을 더해 생성한다\"를 얻는다.\n대지의 정수"
+  },
+  "RrrMdb8KPhtNTzKFrRRWQ": {
+    "_name_en": "Flourish",
+    "name_ko": "번성",
+    "text_ko": "이번 턴 공격이 다음에 {p}을 얻게 될 경우, 대신 그만큼에 3을 더해 얻는다.\n고 어게인"
+  },
+  "PK8zK8ngMjKPzjTLR9zfB": {
+    "_name_en": "Flourish",
+    "name_ko": "번성",
+    "text_ko": "이번 턴 공격이 다음에 {p}을 얻게 될 경우, 대신 그만큼에 2를 더해 얻는다.\n고 어게인"
+  },
+  "PcCQGjz68TjzgQrMfRnLQ": {
+    "_name_en": "Flow Through",
+    "name_ko": "관통하여 흐르다",
+    "text_ko": "대상 번개 공격이 +1{p}과 \"이 카드가 명중하면, 라이트닝 플로우 토큰 1개를 생성한다\"를 얻는다."
+  },
+  "KQhHqHjdrF8cFkRhQDQWq": {
+    "_name_en": "Flowing Stormstrike",
+    "name_ko": "흐르는 폭풍강타",
+    "text_ko": "턴당 2회 순간 - {r}: 이 카드가 +1{p}을 얻는다.\n이 카드가 명중하면, 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "tR69zGf7gHHC9pTwwwnkH": {
+    "_name_en": "Flowshard Elemental",
+    "name_ko": "유동파편 엘리멘탈",
+    "text_ko": "이 카드가 공격할 때, 순간 카드 1장을 버릴 수 있다. 그렇게 하면, 라이트닝 플로우 토큰 1개를 생성하고 이 카드가 고 어게인을 얻는다."
+  },
+  "HWwCcqHRHkB69mfHDdJfk": {
+    "_name_en": "Flowstate Embodiment",
+    "name_ko": "유동상태의 화신",
+    "text_ko": "당신이 이번 체인 링크에 순간 카드를 사용할 때마다, 번개의 화신 또는 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "DfDQKGMfKrkdtfkJKLQch": {
+    "_name_en": "Fluid Motion",
+    "name_ko": "유동적인 움직임",
+    "text_ko": "이번 턴에 카드를 생성한 적이 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "jdkmHT8QfQmMbPLBHPrHJ": {
+    "_name_en": "Flurry",
+    "name_ko": "플러리",
+    "text_ko": "당신이 무기 공격을 활성화할 때, 이것을 파괴하고 이번 턴에 그 무기로 두 번 공격할 수 있다."
+  },
+  "CRcjBPdh8TCq96GKpcmBc": {
+    "_name_en": "Flurry Foot Dance",
+    "name_ko": "질풍 발놀림",
+    "text_ko": "이 카드가 방어하는 동안, 당신이 플러리 토큰을 조종하고 있다면, +2{d}을 얻는다."
+  },
+  "G8kKjJCFCz6GMTWhQkdzT": {
+    "_name_en": "Flurry Stance",
+    "name_ko": "질풍 태세",
+    "text_ko": "고 어게인\n당신의 턴 시작 시, 이것을 파괴한 뒤, 이번 턴 당신이 조종하는 각 단검으로 추가로 한 번 더 공격할 수 있다."
+  },
+  "Wk9cnfJGMJRgWNMm7czwH": {
+    "_name_en": "Fluster Fist",
+    "name_ko": "당황한 주먹",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 오픈 더 센터였다면, 당황한 주먹은 이번 전투 체인에 명중한 공격마다 +1{p}을 얻는다."
+  },
+  "HGNCdBCQmdRqQGggmrLjg": {
+    "_name_en": "Fluster Fist",
+    "name_ko": "당황한 주먹",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 오픈 더 센터였다면, 당황한 주먹은 이번 전투 체인에 명중한 공격마다 +1{p}을 얻는다."
+  },
+  "9n8wHtnLRcNrMhctcDQCb": {
+    "_name_en": "Fluster Fist",
+    "name_ko": "당황한 주먹",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 오픈 더 센터였다면, 당황한 주먹은 이번 전투 체인에 명중한 공격마다 +1{p}을 얻는다."
+  },
+  "PGmLNJTqFnRhJwBgdc698": {
+    "_name_en": "Fluttersteps",
+    "name_ko": "펄럭이는 발걸음",
+    "text_ko": "이 카드가 파괴되면, 이번 턴 당신의 다음 오라를 순간 카드인 것처럼 사용할 수 있다.\n워드 1"
+  },
+  "g8DkCdbjNtDPTMWhDFnNf": {
+    "_name_en": "Flying High",
+    "name_ko": "높이 날다",
+    "text_ko": "이번 턴 당신의 다음 공격이 고 어게인을 얻는다. 그것이 빨간색이면, +1{p}을 얻는다.\n고 어게인"
+  },
+  "6cjnMQdchnmhcWTkNMrbK": {
+    "_name_en": "Flying High",
+    "name_ko": "높이 날다",
+    "text_ko": "이번 턴 당신의 다음 공격이 고 어게인을 얻는다. 그것이 노란색이면, +1{p}을 얻는다.\n고 어게인"
+  },
+  "nL9rPDJLqLM9dBndmpn6L": {
+    "_name_en": "Flying High",
+    "name_ko": "높이 날다",
+    "text_ko": "이번 턴 당신의 다음 공격이 고 어게인을 얻는다. 그것이 파란색이면, +1{p}을 얻는다.\n고 어게인"
+  },
+  "fRMpqdL8MjMKkPq9rG8J8": {
+    "_name_en": "Flying Kick",
+    "name_ko": "플라잉 킥",
+    "text_ko": "이 카드가 체인 링크 3 이상으로 사용되었다면, +2{p}을 얻는다."
+  },
+  "R7RwbN6Gw8g79hw7wwPMf": {
+    "_name_en": "Flying Kick",
+    "name_ko": "플라잉 킥",
+    "text_ko": "이 카드가 체인 링크 3 이상으로 사용되었다면, +2{p}을 얻는다."
+  },
+  "MCtGBgjzJWb8rPmNPTDWp": {
+    "_name_en": "Flying Kick",
+    "name_ko": "플라잉 킥",
+    "text_ko": "이 카드가 체인 링크 3 이상으로 사용되었다면, +2{p}을 얻는다."
+  },
+  "tKf7fDRqqJHHn7QgrKjdR": {
+    "_name_en": "Fog Down",
+    "name_ko": "안개 내리기",
+    "text_ko": "'비-공격' 액션 카드들은 고 어게인을 잃고 얻을 수 없다.\n당신의 행동 단계 시작 시, 안개 내리기를 파괴한다."
+  },
+  "t9FQnwWKw7RWz7pPBGf7f": {
+    "_name_en": "Fool's Gold",
+    "name_ko": "가짜 금",
+    "text_ko": "이 카드가 버려지면, 골드 토큰 1개를 생성한다."
+  },
+  "JBQPqNK9TGWNHD9NKmKTh": {
+    "_name_en": "For the Dracai",
+    "name_ko": "드라카이를 위하여",
+    "text_ko": "이 카드가 표식된 영웅을 공격할 때, 충성 토큰 1개를 생성한다."
+  },
+  "kfQHGNNdKjPpG8nWkfB9P": {
+    "_name_en": "For the Emperor",
+    "name_ko": "황제를 위하여",
+    "text_ko": "이 카드가 표식된 영웅을 공격할 때, 충성 토큰 1개를 생성한다."
+  },
+  "bFDwJwbqJQPJpcnHRjLCj": {
+    "_name_en": "For the Realm",
+    "name_ko": "왕국을 위하여",
+    "text_ko": "이 카드가 표식된 영웅을 공격할 때, 충성 토큰 1개를 생성한다."
+  },
+  "GwJdwRwJFbjNNWLzCqr6M": {
+    "_name_en": "Force of Nature",
+    "name_ko": "자연의 힘",
+    "text_ko": "브라이어 스페셜라이제이션\n대지 퓨전\n이번 턴에 당신이 조종하는 공격 액션 카드가 명중할 때마다, 그 {p}이 기본보다 높다면, 카드 1장을 뽑는다.\n자연의 힘이 퓨전되었다면, 이번 턴 당신의 다음 공격이 +1{p}을 얻는다.\n고 어게인"
+  },
+  "RN8gkCHTdn6DLWt7BzNfW": {
+    "_name_en": "Force Sight",
+    "name_ko": "예지력",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 +3{p}을 얻는다.\n예지력이 아스날에서 사용되면, 옵트 2.\n고 어게인"
+  },
+  "gfNtDbBpfqGJPKHGqdJWH": {
+    "_name_en": "Force Sight",
+    "name_ko": "예지력",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 +2{p}을 얻는다.\n예지력이 아스날에서 사용되면, 옵트 2.\n고 어게인"
+  },
+  "W86QwWGnpPRqPmcjKjkrb": {
+    "_name_en": "Force Sight",
+    "name_ko": "예지력",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 +1{p}을 얻는다.\n예지력이 아스날에서 사용되면, 옵트 2.\n고 어게인"
+  },
+  "LzzKmcmdQdKhcJkN7zhB7": {
+    "_name_en": "Foreboding Bolt",
+    "name_ko": "불길한 화살",
+    "text_ko": "대상 영웅에게 피해 3을 준다.\n옵트 1"
+  },
+  "cdpfM6bdKzrfhDf6TTwQH": {
+    "_name_en": "Foreboding Bolt",
+    "name_ko": "불길한 화살",
+    "text_ko": "대상 영웅에게 피해 2를 준다.\n옵트 1"
+  },
+  "wz7pNtnfqfnLjgknJ8n8h": {
+    "_name_en": "Foreboding Bolt",
+    "name_ko": "불길한 화살",
+    "text_ko": "대상 영웅에게 피해 1을 준다.\n옵트 1"
+  },
+  "fdTzMwFCfWtRTwC6qDMRt": {
+    "_name_en": "Forged for War",
+    "name_ko": "전쟁을 위해 벼려지다",
+    "text_ko": "고 어게인\n당신이 조종하는 장비들이 +1{d}을 얻는다.\n당신의 행동 단계 시작 시, 전쟁을 위해 벼려지다를 파괴한다."
+  },
+  "jPhJQqDbHFbnGHFPNmntR": {
+    "_name_en": "Forked Lightning",
+    "name_ko": "갈라지는 번개",
+    "text_ko": "대상 영웅 2명에게 비전 피해 2를 준다. 같은 영웅을 두 번 대상으로 할 수 있다."
+  },
+  "6BCMqFPmmMJDgMPCrKh9Q": {
+    "_name_en": "Fortitude of Anvilheim",
+    "name_ko": "안빌하임의 불굴",
+    "text_ko": "공격 반응 - {r}{r}, 당신의 영웅을 {t}한다, 이것을 파괴한다: 무기 공격을 방어하는 액션 카드 1장을 소유자의 손으로 되돌린다. 가드웰"
+  },
+  "PnpHhBNBrWPC89LLC8td7": {
+    "_name_en": "Four Feathers One Crown",
+    "name_ko": "네 깃털 하나의 왕관",
+    "text_ko": "이 카드가 공격할 때, 당신의 무덤에 있는, 이름에 '피닉스 배너맨(Phoenix Bannerman)'이 들어간 카드마다 +1{p}을 얻는다."
+  },
+  "hqnLfCpjbMKBrjTHQNRfk": {
+    "_name_en": "Four Finger Gloves",
+    "name_ko": "네 손가락 장갑",
+    "text_ko": "순간 - 이것을 파괴한다: 이번 턴 당신에게 가해질 다음 피해 1을 방지한다. 이번 턴에 피해를 받은 적이 있을 때만 이것을 활성화한다."
+  },
+  "K6PPGtffFCcGHLNkQbdpm": {
+    "_name_en": "Fractal Creation",
+    "name_ko": "프랙탈 창조",
+    "text_ko": "이 카드가 명중하면, 당신이 조종하는 오라 1개의 토큰 사본을 생성할 수 있다.\n프래그먼트"
+  },
+  "NmpnLBpB9D6ghMfqNfDKm": {
+    "_name_en": "Fractal Replication",
+    "name_ko": "프랙탈 복제",
+    "text_ko": "당신이 프랙탈 복제를 사용하거나 그것으로 방어할 때, 이 카드는 전투 체인에 있는 모든 일루저니스트 공격 액션 카드의 기본 능력을 얻는다.\n프랙탈 복제의 {p}은 전투 체인에 있는 일루저니스트 공격 액션 카드 중 가장 높은 기본 {p}과 같다.\n프랙탈 복제의 {d}은 전투 체인에 있는 일루저니스트 공격 액션 카드 중 가장 높은 기본 {d}과 같다."
+  },
+  "wtKDkD6MRwz77CmthMHMz": {
+    "_name_en": "Frail Swingline",
+    "name_ko": "허약한 스윙라인",
+    "text_ko": "대상 영웅의 조종 하에 쇠약함 토큰 1개를 생성한다.\n고 어게인\n이 카드가 {p}이 기본보다 낮은 공격을 방어하면, 그 조종자는 카드 1장을 버린다."
+  },
+  "KPWKQmMgm7rmM7bfFw9gF": {
+    "_name_en": "Frailty",
+    "name_ko": "쇠약함",
+    "text_ko": "당신이 아스날에서 사용하는 공격 액션 카드와 무기 공격들은 -1{p}을 가진다.\n당신의 종료 단계 시작 시 쇠약함을 파괴한다."
+  },
+  "gpwqqHDD7DwWNrJPdpzRT": {
+    "_name_en": "Frailty Trap",
+    "name_ko": "쇠약함 함정",
+    "text_ko": "이 카드가 고 어게인을 가진 공격을 방어하면, 공격하는 영웅의 조종 하에 쇠약함 토큰 1개를 생성한다."
+  },
+  "qJdwq7GGjFb96CzLDqCdk": {
+    "_name_en": "Frankie, Make Ends Meat",
+    "name_ko": "프랭키, 겨우 먹고 살다",
+    "text_ko": "당신이 조종하는 장비가 무덤에 놓이게 될 경우, 대신 추방한다.\n액션 - {r}{r}{r}, {t}: 무덤에서 장비를 장착한다. 고 어게인"
+  },
+  "MQCrDKpjPzkPHDGKztTTr": {
+    "_name_en": "Fraying Lifeforce",
+    "name_ko": "닳아가는 생명력",
+    "text_ko": "이 카드가 프래그먼트할 때마다, 1{h}을 얻는다.\n프래그먼트"
+  },
+  "DL7gtdthCmhqGfQq8RJjj": {
+    "_name_en": "Frazzle",
+    "name_ko": "프래즐",
+    "text_ko": "번개 퓨전\n프래즐이 퓨전되었다면, 이번 턴에 공격이 피해를 주게 될 경우, 대신 그만큼에 1을 더해 준다."
+  },
+  "FfGDLQNdtB6rgKNFdtdzD": {
+    "_name_en": "Frazzle",
+    "name_ko": "프래즐",
+    "text_ko": "번개 퓨전\n프래즐이 퓨전되었다면, 이번 턴에 공격이 피해를 주게 될 경우, 대신 그만큼에 1을 더해 준다."
+  },
+  "nQMFLbtnFwQJhgzFMMcrd": {
+    "_name_en": "Frazzle",
+    "name_ko": "프래즐",
+    "text_ko": "번개 퓨전\n프래즐이 퓨전되었다면, 이번 턴에 공격이 피해를 주게 될 경우, 대신 그만큼에 1을 더해 준다."
+  },
+  "dbFjRNnQkD8fRTNJn8pJC": {
+    "_name_en": "Freewheeling Renegades",
+    "name_ko": "자유분방한 무법자들",
+    "text_ko": "이 카드가 액션 카드로 방어되면, -2{p}을 가진다."
+  },
+  "Rd8NkggL9QCtdLG8Bd8WG": {
+    "_name_en": "Freewheeling Renegades",
+    "name_ko": "자유분방한 무법자들",
+    "text_ko": "이 카드가 액션 카드로 방어되면, -2{p}을 가진다."
+  },
+  "cCbqhRbTwGhJnk9zKGLCj": {
+    "_name_en": "Freewheeling Renegades",
+    "name_ko": "자유분방한 무법자들",
+    "text_ko": "이 카드가 액션 카드로 방어되면, -2{p}을 가진다."
+  },
+  "bTtrCGpnGPrnC7pNFt6pw": {
+    "_name_en": "Freezing Point",
+    "name_ko": "빙결점",
+    "text_ko": "얼음 퓨전\n대상 영웅에게 비전 피해 5를 준다. 빙결점이 퓨전되었다면, 대신 비전 피해 X를 준다. X는 5에 그 영웅이 조종하는 프로스트바이트, 얼음 질병, 얼려진 카드의 수를 더한 값이다."
+  },
+  "tchtjzTbfPjRDFN8mcKR7": {
+    "_name_en": "Frightmare",
+    "name_ko": "프라이트메어",
+    "text_ko": "이번 턴에 당신이 조종하는 일루저니스트 공격 액션 카드가 팬텀으로 파괴된 적이 있을 때만 프라이트메어를 사용한다.\n팬텀"
+  },
+  "9WFrC8Knr9qdtRbfCWq8c": {
+    "_name_en": "Frontline Gauntlets",
+    "name_ko": "전선의 건틀릿",
+    "text_ko": "당신의 종료 단계 시작 시, 이것에 -1{d} 카운터를 올린다.\n블레이드 브레이크"
+  },
+  "dw8F9WDckzGdK6hhQWnTt": {
+    "_name_en": "Frontline Helm",
+    "name_ko": "전선의 투구",
+    "text_ko": "당신의 종료 단계 시작 시, 이것에 -1{d} 카운터를 올린다.\n블레이드 브레이크"
+  },
+  "zLkjmfmJ7mgnMJCC8WbbW": {
+    "_name_en": "Frontline Legs",
+    "name_ko": "전선의 다리보호구",
+    "text_ko": "당신의 종료 단계 시작 시, 이것에 -1{d} 카운터를 올린다.\n블레이드 브레이크"
+  },
+  "rWGNRWnzMBzgWzth9676b": {
+    "_name_en": "Frontline Plating",
+    "name_ko": "전선의 판금",
+    "text_ko": "당신의 종료 단계 시작 시, 이것에 -1{d} 카운터를 올린다.\n블레이드 브레이크"
+  },
+  "DRqd8NPqtJjrKTPNkNzjg": {
+    "_name_en": "Frontline Scout",
+    "name_ko": "전선의 정찰병",
+    "text_ko": "방어 영웅의 손을 볼 수 있다.\n전선의 정찰병이 아스날에서 사용되면, 고 어게인을 얻는다."
+  },
+  "zWdCw7fz7N6qwLMwBjrf8": {
+    "_name_en": "Frontline Scout",
+    "name_ko": "전선의 정찰병",
+    "text_ko": "방어 영웅의 손을 볼 수 있다.\n전선의 정찰병이 아스날에서 사용되면, 고 어게인을 얻는다."
+  },
+  "CKgr9QWHWwJQFdBHBqL8G": {
+    "_name_en": "Frontline Scout",
+    "name_ko": "전선의 정찰병",
+    "text_ko": "방어 영웅의 손을 볼 수 있다.\n전선의 정찰병이 아스날에서 사용되면, 고 어게인을 얻는다."
+  },
+  "MbCBHGzbw7DttmDcrkMzB": {
+    "_name_en": "Frost Fang",
+    "name_ko": "서리송곳니",
+    "text_ko": "서리송곳니가 영웅을 명중하면, 그 영웅은 {r}{r}을 지불하지 않는 한 카드 1장을 버린다."
+  },
+  "6jnwnJMfJmF8tzMP6p86j": {
+    "_name_en": "Frost Fang",
+    "name_ko": "서리송곳니",
+    "text_ko": "서리송곳니가 영웅을 명중하면, 그 영웅은 {r}{r}을 지불하지 않는 한 카드 1장을 버린다."
+  },
+  "dcLgct9B7DmJnG6WbHpQk": {
+    "_name_en": "Frost Fang",
+    "name_ko": "서리송곳니",
+    "text_ko": "서리송곳니가 영웅을 명중하면, 그 영웅은 {r}{r}을 지불하지 않는 한 카드 1장을 버린다."
+  },
+  "rNW8mjhb6qbTfr9PHLQqb": {
+    "_name_en": "Frost Hex",
+    "name_ko": "서리 저주",
+    "text_ko": "이슬란더 스페셜라이제이션\n당신이 조종하는 프로스트바이트들은 \"당신의 종료 단계 시작 시, 이 카드가 당신에게 비전 피해 1을 준다\"를 가진다."
+  },
+  "NTctCqpK7LLrnKr9BnJKq": {
+    "_name_en": "Frost Lock",
+    "name_ko": "서리 자물쇠",
+    "text_ko": "얼음 퓨전\n이번 턴 상대 영웅이 카드를 사용하거나 능력을 활성화하려면 추가로 {r}이 든다.\n서리 자물쇠가 퓨전되었다면, +1{p}과 \"이 카드가 영웅을 명중하면, 그 영웅의 다음 턴 종료 시까지 그는 기본 비용 0인 카드를 피치하거나 사용할 수 없다\"를 얻는다."
+  },
+  "nrj7b7pBJCfDBqC7MgkN7": {
+    "_name_en": "Frost Spike",
+    "name_ko": "서리 쐐기",
+    "text_ko": "노출된 머리, 가슴, 팔, 다리 구역에 프로스트바이트 토큰 1개를 생성한다."
+  },
+  "GHG6KkBzPkHDnMf7hL7K7": {
+    "_name_en": "Frostbite",
+    "name_ko": "프로스트바이트",
+    "text_ko": "당신이 카드를 사용하거나 능력을 활성화하려면 추가로 {r}이 든다.\n당신의 종료 단계 시작 시 또는 당신이 카드를 사용하거나 능력을 활성화할 때, 프로스트바이트를 파괴한다."
+  },
+  "bGjFwg8ztdMPhnRmdmfRn": {
+    "_name_en": "Frosthaven Sheath",
+    "name_ko": "서리안식처 칼집",
+    "text_ko": "얼음 본드 - 이 카드를 사용하기 위해 얼음 카드가 피치되었다면, 공격하는 영웅의 조종 하에 프로스트바이트 토큰 1개를 생성한다."
+  },
+  "pqPKGCqKntcTpQRjGwLpF": {
+    "_name_en": "Frosting",
+    "name_ko": "서리내림",
+    "text_ko": "아무 대상에게 비전 피해 3을 준다."
+  },
+  "wQwFMHb6LtTgHF6FJKnqQ": {
+    "_name_en": "Frosting",
+    "name_ko": "서리내림",
+    "text_ko": "아무 대상에게 비전 피해 2를 준다."
+  },
+  "mfbBCQnMpDR7PMbkgF9RP": {
+    "_name_en": "Frosting",
+    "name_ko": "서리내림",
+    "text_ko": "아무 대상에게 비전 피해 1을 준다."
+  },
+  "f8tNHBndcKqGPGbhQNmWw": {
+    "_name_en": "Frozen to Death",
+    "name_ko": "얼어 죽다",
+    "text_ko": "얼음 퓨전\n이 카드가 퓨전되었다면, -1{d} 카운터를 가진 장비 1개를 파괴할 수 있다.\n노출된 머리, 가슴, 팔, 다리 구역에 프로스트바이트 토큰 1개를 생성할 수 있다."
   }
 }
