@@ -13730,5 +13730,655 @@
     "_name_en": "Odds on Favorite",
     "name_ko": "확률상 유리한 자",
     "text_ko": "이번 턴 당신의 다음 검 공격이 \"이것이 공격할 때, 방어 영웅과 내기한다. 승자는 자신의 덱에서 카드 1장을 찾아 섞은 뒤, 그 카드를 맨 위에 놓는다\"를 얻는다.\n고 어게인"
+  },
+  "DWcKpdjNKBcK67WpPb9Qf": {
+    "_name_en": "Ode to Wrath",
+    "name_ko": "분노에 바치는 송가",
+    "text_ko": "당신이 조종하는 발생원이 상대에게 피해를 줄 때마다, 그가 1{h}을 잃는다.\n당신이 조종하는 일루저니스트 공격 액션 카드들이 고 어게인을 얻는다.\n스펙트라"
+  },
+  "HrhpmTCdRFLw9HnqcqCrT": {
+    "_name_en": "Off Cuts",
+    "name_ko": "자투리 조각",
+    "text_ko": "프랭키 스페셜라이제이션\n각 영웅이 자신이 조종하는 장비 1개를 파괴한다.\n고 어게인"
+  },
+  "qLttRBczGdzDtWNtFTGMn": {
+    "_name_en": "Offensive Behavior",
+    "name_ko": "공격적 행동",
+    "text_ko": "당신이 마이트나 비거 토큰을 조종하고 있다면, 이 카드가 +1{p}을 얻는다.\n이 카드가 영웅을 명중하면, 마이트 토큰과 비거 토큰을 생성한다."
+  },
+  "ph6zmRnbqhCtD7T7FwpdB": {
+    "_name_en": "Okana Scar Wraps",
+    "name_ko": "오카나 흉터 감개",
+    "text_ko": "공격 반응 - {t}, 당신이 조종하는 에지 오브 오텀을 추방한다: 대상 닌자 공격 액션 카드가 +1{p}을 얻는다.\n이름에 벤전스가 들어간, 당신이 조종하는 공격이 명중할 때마다, 당신의 추방 구역에서 에지 오브 오텀을 장착할 수 있다.\n블레이드 브레이크"
+  },
+  "9WTLj9NnpqnWnpJNjpW6F": {
+    "_name_en": "Old Favorite",
+    "name_ko": "옛 애장품",
+    "text_ko": "이 카드가 공격할 때, 이번 턴에 환호를 받은 적이 있다면, 터프니스 토큰 1개를 생성한다.\n이 카드가 방어할 때, {d} 6 이상이면, 전투 체인이 종료될 때 소유자의 덱 맨 아래에 놓는다."
+  },
+  "KTh89nLtmJWQcQQJPwgDW": {
+    "_name_en": "Old Knocker",
+    "name_ko": "낡은 문고리",
+    "text_ko": "순간 - 당신의 영웅을 {t}한다, 이것을 파괴한다: {r}을 얻는다\n블레이드 브레이크"
+  },
+  "CDWJGrPLQbrqwkj7mzQ8B": {
+    "_name_en": "Old Leather and Vim",
+    "name_ko": "오래된 가죽과 활력",
+    "text_ko": "당신이 터프니스나 비거 토큰을 조종하고 있다면, 이 카드가 +1{p}을 얻는다.\n이 카드가 영웅을 명중하면, 터프니스 토큰과 비거 토큰을 생성한다."
+  },
+  "hw6qHfWdqQGfRPfKJMgR7": {
+    "_name_en": "Oldhim",
+    "name_ko": "올드힘",
+    "text_ko": "대지와 얼음의 정수\n턴당 1회 방어 반응 - {r}{r}{r}: 이렇게 대지 카드가 피치되면, 이번 턴 올드힘에게 가해질 다음 피해 2를 방지한다. 이렇게 얼음 카드가 피치되면, 공격하는 영웅이 자신의 손에서 카드 1장을 덱 맨 위에 놓는다."
+  },
+  "bh96L8jp69mNpjcGRCDbj": {
+    "_name_en": "Oldhim, Grandfather of Eternity",
+    "name_ko": "올드힘, 영원의 조상",
+    "text_ko": "대지와 얼음의 정수\n턴당 1회 방어 반응 - {r}{r}{r}: 이렇게 대지 카드가 피치되면, 이번 턴 올드힘에게 가해질 다음 피해 2를 방지한다. 이렇게 얼음 카드가 피치되면, 공격하는 영웅이 자신의 손에서 카드 1장을 덱 맨 위에 놓는다."
+  },
+  "chGgK8FWnBB7dMj8nTRLR": {
+    "_name_en": "Olé",
+    "name_ko": "올레",
+    "text_ko": "대상 공격하는 무기에서 +1{p} 카운터 1개를 제거한다. 그렇게 하면, 플러리 토큰 1개를 생성하고 카드 1장을 뽑는다."
+  },
+  "W89dCjCrz8cQKd78zHFBR": {
+    "_name_en": "Ollin Ice Cap",
+    "name_ko": "올린 얼음 모자",
+    "text_ko": "이 카드가 얼음 카드와 함께 방어할 때, 공격하는 영웅의 조종 하에 프로스트바이트 토큰 1개를 생성한다.\n블레이드 브레이크"
+  },
+  "t7H7JCQcTb9TTjjCbNwDH": {
+    "_name_en": "Olympia",
+    "name_ko": "올림피아",
+    "text_ko": "각 턴 당신의 공격이 처음으로 내기에서 이길 때, 골드 토큰 1개를 생성한다."
+  },
+  "9JqrM7dbgfG87L6tPghrM": {
+    "_name_en": "Olympia, Prized Fighter",
+    "name_ko": "올림피아, 상 받는 파이터",
+    "text_ko": "각 턴 당신의 공격이 처음으로 내기에서 이길 때, 골드 토큰 1개를 생성한다."
+  },
+  "mjprN8T6mMh9pcWCmgPrN": {
+    "_name_en": "Omens of Arcana",
+    "name_ko": "비전의 징조",
+    "text_ko": "각 영웅이 라이트닝 플로우 토큰을 가지고 게임을 시작한다.\n라이트닝 플로우 토큰들이 스펠보이드 1을 얻는다."
+  },
+  "LFBD7NtGwCjpmBCBkkpG8": {
+    "_name_en": "Ominous Aggression",
+    "name_ko": "불길한 공격성",
+    "text_ko": "대상 공격 액션 카드가 +2{p}을 얻는다. 이번 턴에 당신이 조종하는 오라가 파괴된 적이 있다면, 대신 그 카드가 +4{p}을 얻는다."
+  },
+  "MNTwwGcGgbWBPrnDdKtBb": {
+    "_name_en": "Ominous Excavation",
+    "name_ko": "불길한 발굴",
+    "text_ko": "당신의 무덤에서 순간 카드를 덱에 섞을 수 있다.\n이번 턴에 당신이 조종하는 오라가 파괴된 적이 있다면, 폰더 토큰 1개를 생성한다."
+  },
+  "dbpfNKKDCMKCPHDkL6BJf": {
+    "_name_en": "Ominous Respite",
+    "name_ko": "불길한 휴식",
+    "text_ko": "2{h}을 얻는다. 이번 턴에 당신이 조종하는 오라가 파괴된 적이 있다면, 대신 3{h}을 얻는다."
+  },
+  "rC98Cch9DNGTfpggrNBh6": {
+    "_name_en": "On a Knife Edge",
+    "name_ko": "칼날 위에서",
+    "text_ko": "이번 턴 당신의 다음 검 공격이 고 어게인을 얻는다.\n고 어게인"
+  },
+  "LqpTFf7TmpdtPgf8WtdfQ": {
+    "_name_en": "On the Horizon",
+    "name_ko": "지평선 너머",
+    "text_ko": "이 카드가 방어할 때, 당신 덱 맨 위 카드를 확인한다."
+  },
+  "bFMkfr79WHCrP6HK6krM6": {
+    "_name_en": "On the Horizon",
+    "name_ko": "지평선 너머",
+    "text_ko": "이 카드가 방어할 때, 당신 덱 맨 위 카드를 확인한다."
+  },
+  "gqfJ6k7rFMpbcHMqjDJKR": {
+    "_name_en": "On the Horizon",
+    "name_ko": "지평선 너머",
+    "text_ko": "이 카드가 방어할 때, 당신 덱 맨 위 카드를 확인한다."
+  },
+  "pFLwpNDCLLMNtd7rRqNMf": {
+    "_name_en": "One-Two Punch",
+    "name_ko": "원투 펀치",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 헤드 잽이었다면, 이 카드는 \"이 카드가 영웅을 명중하면, 그에게 피해 2를 준다\"를 가진다."
+  },
+  "nCKMcTCR7mjKgkhQk7TWc": {
+    "_name_en": "One-Two Punch",
+    "name_ko": "원투 펀치",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 헤드 잽이었다면, 이 카드는 \"이 카드가 영웅을 명중하면, 그에게 피해 2를 준다\"를 가진다."
+  },
+  "TrQFGjDB6ktDwC6JMcqFT": {
+    "_name_en": "One-Two Punch",
+    "name_ko": "원투 펀치",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 헤드 잽이었다면, 이 카드는 \"이 카드가 영웅을 명중하면, 그에게 피해 2를 준다\"를 가진다."
+  },
+  "hpQCHKmzQGrjhJFJR8pBP": {
+    "_name_en": "Onyx Amulet",
+    "name_ko": "흑옥 부적",
+    "text_ko": "액션 - 이것을 파괴한다: 모든 영웅과 아군을 {t}한다. 고 어게인\n워터리 그레이브의 전설"
+  },
+  "rdG6zR6dgDWwzw9KKtq78": {
+    "_name_en": "Opal Amulet",
+    "name_ko": "단백석 부적",
+    "text_ko": "순간 - 이것을 파괴한다: 옵트 2\n워터리 그레이브의 전설"
+  },
+  "TkCWdhw8pfcpfckC9MLNm": {
+    "_name_en": "Open the Center",
+    "name_ko": "중심을 열다",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 헤드 잽이었다면, 중심을 열다가 +1{p}, 고 어게인, 도미네이트를 얻는다."
+  },
+  "BfQnT8rqMhTBmDWCFgdhW": {
+    "_name_en": "Open the Center",
+    "name_ko": "중심을 열다",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 헤드 잽이었다면, 중심을 열다가 +1{p}, 고 어게인, 도미네이트를 얻는다."
+  },
+  "CChttCnwGwHMcBKm6LhNR": {
+    "_name_en": "Open the Center",
+    "name_ko": "중심을 열다",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 헤드 잽이었다면, 중심을 열다가 +1{p}, 고 어게인, 도미네이트를 얻는다."
+  },
+  "FwtKQ8HK8JLbHFWbFQDPg": {
+    "_name_en": "Open the Flood Gates",
+    "name_ko": "수문을 열다",
+    "text_ko": "대상 영웅에게 비전 피해 3을 준다.\n서지 - 이것이 3을 초과하는 피해를 주면, 카드 2장을 뽑는다."
+  },
+  "NHdBTDcjh8hGJBKPpcgQ9": {
+    "_name_en": "Open the Flood Gates",
+    "name_ko": "수문을 열다",
+    "text_ko": "대상 영웅에게 비전 피해 2를 준다.\n서지 - 이것이 2를 초과하는 피해를 주면, 카드 2장을 뽑는다."
+  },
+  "jBbnKk8wHjT9GG7fMzkdJ": {
+    "_name_en": "Open the Flood Gates",
+    "name_ko": "수문을 열다",
+    "text_ko": "대상 영웅에게 비전 피해 1을 준다.\n서지 - 이것이 1을 초과하는 피해를 주면, 카드 2장을 뽑는다."
+  },
+  "6Wcpcb7DQ8GMGMTwjdQTR": {
+    "_name_en": "Optekal Monocle",
+    "name_ko": "옵테칼 모노클",
+    "text_ko": "옵테칼 모노클은 스팀 카운터 5개를 지닌 채 전장에 들어온다. 옵테칼 모노클에 스팀 카운터가 없으면, 파괴한다.\n액션 - 옵테칼 모노클에서 스팀 카운터 1개를 제거한다: 옵트 1. 고 어게인"
+  },
+  "rLgr6PwGt9TtRFMwTFQf7": {
+    "_name_en": "Orb-Weaver Spinneret",
+    "name_ko": "거미줄 방적돌기",
+    "text_ko": "그래핀 첼리세라 토큰을 장착한다.\n이번 턴 당신의 다음 스텔스를 가진 공격이 +3{p}을 얻는다.\n고 어게인"
+  },
+  "T8Djg7CtcKNrhdbfBCb8t": {
+    "_name_en": "Orb-Weaver Spinneret",
+    "name_ko": "거미줄 방적돌기",
+    "text_ko": "그래핀 첼리세라 토큰을 장착한다.\n이번 턴 당신의 다음 스텔스를 가진 공격이 +2{p}을 얻는다.\n고 어게인"
+  },
+  "HDJFD6zmgqHN9jfNNMDCD": {
+    "_name_en": "Orb-Weaver Spinneret",
+    "name_ko": "거미줄 방적돌기",
+    "text_ko": "그래핀 첼리세라 토큰을 장착한다.\n이번 턴 당신의 다음 스텔스를 가진 공격이 +1{p}을 얻는다.\n고 어게인"
+  },
+  "wrBpz9J66tTJtRK67FWdp": {
+    "_name_en": "Orbitoclast",
+    "name_ko": "오르비토클래스트",
+    "text_ko": "턴당 1회 액션 - {r}{r}: 공격. 고 어게인\n피어싱 1\n이 카드가 영웅을 명중하면, 이번 턴 그가 다음에 '비공격' 액션 카드 1장 이상으로 방어할 때, 그 카드들은 방어하는 동안 -1{d}을 가진다."
+  },
+  "bwtjtjCqP6wTHtkR9HtGh": {
+    "_name_en": "Orihon of Mystic Tenets",
+    "name_ko": "미스틱 교리의 오리혼",
+    "text_ko": "레전더리\n카드 2장을 뽑는다. 이 카드를 사용하기 위해 치 카드가 피치되었다면, 대신 카드 3장을 뽑는다."
+  },
+  "JwhRzNPr9KNpMHzP8kWNG": {
+    "_name_en": "Ornate Tessen",
+    "name_ko": "화려한 부채",
+    "text_ko": "순간 - {r}, 화려한 부채를 파괴한다: 당신의 손에서 카드 1장을 덱 맨 아래에 놓는다. 그렇게 하면, 카드 1장을 뽑는다."
+  },
+  "jC7KWzhP9jMrPDNCHJWtk": {
+    "_name_en": "Oscilio",
+    "name_ko": "오실리오",
+    "text_ko": "턴당 1회 순간 - 순간 카드 1장을 버린다: 카드 1장을 뽑는다.\n번개의 정수"
+  },
+  "Bd8JQMtjbmwQ7W6GLt7KL": {
+    "_name_en": "Oscilio, Constella Intelligence",
+    "name_ko": "오실리오, 별자리 지능체",
+    "text_ko": "턴당 1회 순간 - 순간 카드 1장을 버린다: 카드 1장을 뽑는다.\n번개의 정수"
+  },
+  "nqbttmdCrgTbFBjJBzLtz": {
+    "_name_en": "Oscilio, Forked Continuum",
+    "name_ko": "오실리오, 갈라진 연속체",
+    "text_ko": "순간 - {r}, {t}, 당신이 조종하는 라이트닝 플로우를 파괴한다: 카드 1장을 버리고 폰더 토큰 1개를 생성한다. 이렇게 순간 카드가 버려지면, 이번 턴 그것을 사용할 수 있다."
+  },
+  "bdD7LdLhpgdfLwzCq6jBc": {
+    "_name_en": "Oscilio, Scion of the Third Age",
+    "name_ko": "오실리오, 세 번째 시대의 후예",
+    "text_ko": "순간 - {r}, {t}, 당신이 조종하는 라이트닝 플로우를 파괴한다: 카드 1장을 버리고 폰더 토큰 1개를 생성한다. 이렇게 순간 카드가 버려지면, 이번 턴 그것을 사용할 수 있다."
+  },
+  "gNPcP7pPgPCh6PCPBh9R8": {
+    "_name_en": "Out for Blood",
+    "name_ko": "피에 굶주리다",
+    "text_ko": "대상 무기 공격이 +3{p}을 얻는다.\n리프라이즈 - 방어 영웅이 이번 체인 링크에서 자신의 손의 카드로 방어했다면, 이번 턴 당신의 다음 공격이 +1{p}을 얻는다."
+  },
+  "hdBzQDmLW99WzrRmgqBcg": {
+    "_name_en": "Out for Blood",
+    "name_ko": "피에 굶주리다",
+    "text_ko": "대상 무기 공격이 +2{p}을 얻는다.\n리프라이즈 - 방어 영웅이 이번 체인 링크에서 자신의 손의 카드로 방어했다면, 이번 턴 당신의 다음 공격이 +1{p}을 얻는다."
+  },
+  "hmh7T87jmwTmpfdbdjBFR": {
+    "_name_en": "Out for Blood",
+    "name_ko": "피에 굶주리다",
+    "text_ko": "대상 무기 공격이 +1{p}을 얻는다.\n리프라이즈 - 방어 영웅이 이번 체인 링크에서 자신의 손의 카드로 방어했다면, 이번 턴 당신의 다음 공격이 +1{p}을 얻는다."
+  },
+  "qgzjH8rNPpg6Jb6PgzggC": {
+    "_name_en": "Out Muscle",
+    "name_ko": "힘으로 압도하다",
+    "text_ko": "힘으로 압도하다가 자신 이상의 {p}을 가진 카드로 방어되지 않는 동안, 이것이 고 어게인을 가진다."
+  },
+  "dRFbtRTF8qzzBwbqHkWtF": {
+    "_name_en": "Out Muscle",
+    "name_ko": "힘으로 압도하다",
+    "text_ko": "힘으로 압도하다가 자신 이상의 {p}을 가진 카드로 방어되지 않는 동안, 이것이 고 어게인을 가진다."
+  },
+  "Tt9bDKwjdn6dLqhGNc9Rc": {
+    "_name_en": "Out Muscle",
+    "name_ko": "힘으로 압도하다",
+    "text_ko": "힘으로 압도하다가 자신 이상의 {p}을 가진 카드로 방어되지 않는 동안, 이것이 고 어게인을 가진다."
+  },
+  "QCNfk6P8BPNNwfP7WCczg": {
+    "_name_en": "Out Pace",
+    "name_ko": "아웃 페이스",
+    "text_ko": "부스트\n이 카드는 장비로 방어할 수 없다."
+  },
+  "NcjFG8znGbnFbjcRckFP9": {
+    "_name_en": "Out Pace",
+    "name_ko": "아웃 페이스",
+    "text_ko": "부스트\n이 카드는 장비로 방어할 수 없다."
+  },
+  "dHJNBgd9MgWfgbnz7WFPm": {
+    "_name_en": "Out Pace",
+    "name_ko": "아웃 페이스",
+    "text_ko": "부스트\n이 카드는 장비로 방어할 수 없다."
+  },
+  "jhHRPW9NgMWC66TRC9G8d": {
+    "_name_en": "Outed",
+    "name_ko": "발각되다",
+    "text_ko": "당신이 표식을 가지고 있다면, 이 카드를 사용할 수 없다.\n방어 영웅이 표식을 가지고 있다면, 이 카드가 +1{p}을 얻는다.\n고 어게인"
+  },
+  "cbKTjfkmpJCCQcRpKbPCJ": {
+    "_name_en": "Outland Skirmish",
+    "name_ko": "변경지의 교전",
+    "text_ko": "이번 턴 당신의 다음 한손 무기 공격이 +3{p}을 얻는다.\n이번 턴 무기가 다음에 명중할 때, 카퍼 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "h7cHBbCqJnRKPFFLHmbHL": {
+    "_name_en": "Outland Skirmish",
+    "name_ko": "변경지의 교전",
+    "text_ko": "이번 턴 당신의 다음 한손 무기 공격이 +2{p}을 얻는다.\n이번 턴 무기가 다음에 명중할 때, 카퍼 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "6NqHrDGMBKrbmcCKQG6Hd": {
+    "_name_en": "Outland Skirmish",
+    "name_ko": "변경지의 교전",
+    "text_ko": "이번 턴 당신의 다음 한손 무기 공격이 +1{p}을 얻는다.\n이번 턴 무기가 다음에 명중할 때, 카퍼 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "f98CNTJTLWWTgPzmRpmGK": {
+    "_name_en": "Outside Interference",
+    "name_ko": "외부 개입",
+    "text_ko": "순간 - 이것을 버린다: 당신의 인벤토리에서 리바일드 공격 액션 카드 1장을 공개하고 손에 놓을 수 있다."
+  },
+  "dR8hjTth9bHpdLfTBPLNM": {
+    "_name_en": "Ouvia",
+    "name_ko": "오우비아",
+    "text_ko": "당신의 턴 시작 시 또는 오우비아가 전장에 들어올 때, 당신이 조종하는 애쉬 최대 1개를 에테르 날개로 변신시킨다."
+  },
+  "WWPf7JkLnRcmfhdfw8M9g": {
+    "_name_en": "Over Flex",
+    "name_ko": "과시하다",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +4{p}을 얻는다.\n리로드\n고 어게인"
+  },
+  "bNQWmkDDnKgPfpTGmWBQ8": {
+    "_name_en": "Over Flex",
+    "name_ko": "과시하다",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +3{p}을 얻는다.\n리로드\n고 어게인"
+  },
+  "btndHckBR7ffBqCwHRJfD": {
+    "_name_en": "Over Flex",
+    "name_ko": "과시하다",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +2{p}을 얻는다.\n리로드\n고 어게인"
+  },
+  "RrjhFCHBwjJHg7PQc6Prk": {
+    "_name_en": "Over Loop",
+    "name_ko": "오버 루프",
+    "text_ko": "부스트\n이것이 명중하면, 소유자의 덱 맨 아래에 놓는다."
+  },
+  "d8qtfb87mk97GKMDPgDKb": {
+    "_name_en": "Over Loop",
+    "name_ko": "오버 루프",
+    "text_ko": "부스트\n이것이 명중하면, 소유자의 덱 맨 아래에 놓는다."
+  },
+  "CMTbqWQL99gDnd8L7tthp": {
+    "_name_en": "Over Loop",
+    "name_ko": "오버 루프",
+    "text_ko": "부스트\n이것이 명중하면, 소유자의 덱 맨 아래에 놓는다."
+  },
+  "BRQTgW6LNkTcB7MQFWTNL": {
+    "_name_en": "Over the Top",
+    "name_ko": "오버 더 탑",
+    "text_ko": "이 카드가 기본값을 초과하는 {p}을 가지고 있다면, 오버파워를 얻는다."
+  },
+  "6LHg9KT9MK8GzCJ8HGPpN": {
+    "_name_en": "Over the Top",
+    "name_ko": "오버 더 탑",
+    "text_ko": "이 카드가 기본값을 초과하는 {p}을 가지고 있다면, 오버파워를 얻는다."
+  },
+  "WJJfW7bHMPbfLPbK8Q9Wm": {
+    "_name_en": "Over the Top",
+    "name_ko": "오버 더 탑",
+    "text_ko": "이 카드가 기본값을 초과하는 {p}을 가지고 있다면, 오버파워를 얻는다."
+  },
+  "mzzkQRbJp8KjGcw6M8z6j": {
+    "_name_en": "Overbearing Presence",
+    "name_ko": "위압적인 존재감",
+    "text_ko": "액션 - {r}{r}{r}, 이것을 파괴한다: 비거 토큰 3개를 생성한다. 당신의 피치 존에 {p} 6 이상인 카드가 있을 때만 이것을 활성화한다. 고 어게인\n블레이드 브레이크"
+  },
+  "wpLckQt7zw66h87TbjcWt": {
+    "_name_en": "Overblast",
+    "name_ko": "오버블래스트",
+    "text_ko": "오버블래스트가 +X{p}을 얻는다. X는 이번 전투 체인에서 당신이 부스트한 횟수이다."
+  },
+  "MHkLpfgkgh7hNwbrTJrDF": {
+    "_name_en": "Overblast",
+    "name_ko": "오버블래스트",
+    "text_ko": "오버블래스트가 +X{p}을 얻는다. X는 이번 전투 체인에서 당신이 부스트한 횟수이다."
+  },
+  "JHRhwNCKG97trbQLfhg9j": {
+    "_name_en": "Overblast",
+    "name_ko": "오버블래스트",
+    "text_ko": "오버블래스트가 +X{p}을 얻는다. X는 이번 전투 체인에서 당신이 부스트한 횟수이다."
+  },
+  "WLw6Ft6qgMDH7fwMpNdWR": {
+    "_name_en": "Overcharge",
+    "name_ko": "과충전",
+    "text_ko": "이번 체인 링크에 순간 카드를 사용한 적이 있다면, 이 카드가 +3{p}을 얻는다.\n고 어게인"
+  },
+  "QFHnNNCbhDptJfPMbcmHK": {
+    "_name_en": "Overcharge",
+    "name_ko": "과충전",
+    "text_ko": "이번 체인 링크에 순간 카드를 사용한 적이 있다면, 이 카드가 +2{p}을 얻는다.\n고 어게인"
+  },
+  "hbKPmFcFKbFq6DW9bbtBK": {
+    "_name_en": "Overcharge",
+    "name_ko": "과충전",
+    "text_ko": "이번 체인 링크에 순간 카드를 사용한 적이 있다면, 이 카드가 +1{p}을 얻는다.\n고 어게인"
+  },
+  "BrCKk9JLw8r69fGgNt8BH": {
+    "_name_en": "Overcome Adversity",
+    "name_ko": "역경을 극복하다",
+    "text_ko": "이 카드는 공격의 조종자가 이번 턴에 어질리티 토큰을 파괴한 적이 있을 때만 그 공격을 방어할 수 있다.\n블레이드 브레이크"
+  },
+  "9zW8NL8CktpnMwmD7dWrh": {
+    "_name_en": "Overcrowded",
+    "name_ko": "붐비는",
+    "text_ko": "앰부시\n이 카드가 공격하거나 방어할 때, 전장에 있는 오라 토큰들 중 서로 다른 이름 하나당 +1{p} +1{d}을 얻는다."
+  },
+  "CMbWnJbGKW8JdmD7TB8JF": {
+    "_name_en": "Overflow the Aetherwell",
+    "name_ko": "에테르 우물을 넘치게 하다",
+    "text_ko": "대상 영웅에게 비전 피해 3을 준다.\n서지 - 이것이 3을 초과하는 피해를 주면, {r}{r}을 얻는다."
+  },
+  "d9FtdtrTdngR8nLPQqwmN": {
+    "_name_en": "Overflow the Aetherwell",
+    "name_ko": "에테르 우물을 넘치게 하다",
+    "text_ko": "대상 영웅에게 비전 피해 2를 준다.\n서지 - 이것이 2를 초과하는 피해를 주면, {r}{r}을 얻는다."
+  },
+  "ghzGbkHbQ8cgDFHj9gGKP": {
+    "_name_en": "Overflow the Aetherwell",
+    "name_ko": "에테르 우물을 넘치게 하다",
+    "text_ko": "대상 영웅에게 비전 피해 1을 준다.\n서지 - 이것이 1을 초과하는 피해를 주면, {r}{r}을 얻는다."
+  },
+  "jjzTRHWhnQT7M7FwKjjpq": {
+    "_name_en": "Overload",
+    "name_ko": "오버로드",
+    "text_ko": "도미네이트\n오버로드가 명중하면, 고 어게인을 얻는다."
+  },
+  "mfdFLWhQGLtTmGzqhrHtp": {
+    "_name_en": "Overload",
+    "name_ko": "오버로드",
+    "text_ko": "도미네이트\n오버로드가 명중하면, 고 어게인을 얻는다."
+  },
+  "cgRPcm7Hfj6jMHFKmbMtj": {
+    "_name_en": "Overload",
+    "name_ko": "오버로드",
+    "text_ko": "도미네이트\n오버로드가 명중하면, 고 어게인을 얻는다."
+  },
+  "zqwKN9QMKKMpNCJF6RwWN": {
+    "_name_en": "Overload Script",
+    "name_ko": "오버로드 스크립트",
+    "text_ko": "크랭크\n이 카드는 스팀 카운터 1개를 지닌 채 전장에 들어온다. 당신의 턴 시작 시, 스팀 카운터 1개를 제거하지 않는 한 이것을 파괴한다.\n당신의 메카놀로지스트 공격 액션 카드들이 오버파워를 얻는다."
+  },
+  "BDbLKmLQzJTjHjgJrtLWT": {
+    "_name_en": "Overpower",
+    "name_ko": "제압",
+    "text_ko": "대상 무기 공격이 +4{p}을 얻는다\n리프라이즈 - 방어 영웅이 이번 체인 링크에서 자신의 손의 카드로 방어했다면, 대신 +6{p}을 얻는다."
+  },
+  "688rBwm6gmkFjGPrchjCq": {
+    "_name_en": "Overpower",
+    "name_ko": "제압",
+    "text_ko": "대상 무기 공격이 +3{p}을 얻는다\n리프라이즈 - 방어 영웅이 이번 체인 링크에서 자신의 손의 카드로 방어했다면, 대신 +5{p}을 얻는다."
+  },
+  "68PDzWMgFLKpqQNpQGQFB": {
+    "_name_en": "Overpower",
+    "name_ko": "제압",
+    "text_ko": "대상 무기 공격이 +2{p}을 얻는다\n리프라이즈 - 방어 영웅이 이번 체인 링크에서 자신의 손의 카드로 방어했다면, 대신 +4{p}을 얻는다."
+  },
+  "M9TP7nmfQ7FhJQbJfnkRW": {
+    "_name_en": "Overswing",
+    "name_ko": "오버스윙",
+    "text_ko": "이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 +3{p}을 얻는다.\n고 어게인\n헤이브 2"
+  },
+  "7kkkWWQkpm7fWfqwmzBn6": {
+    "_name_en": "Overswing",
+    "name_ko": "오버스윙",
+    "text_ko": "이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 +2{p}을 얻는다.\n고 어게인\n헤이브 2"
+  },
+  "NMzW9mGgTcFdFQFntwG7P": {
+    "_name_en": "Overswing",
+    "name_ko": "오버스윙",
+    "text_ko": "이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 +1{p}을 얻는다.\n고 어게인\n헤이브 2"
+  },
+  "LhDDmCt6MkphNPfdFWrj7": {
+    "_name_en": "Overturn the Results",
+    "name_ko": "결과를 뒤집다",
+    "text_ko": "이 카드를 공개하여 클래시에서 이기지 못하게 될 경우, 대신 클래시에서 이기고 관중이 당신에게 야유한다."
+  },
+  "wdGWQ6BQfP67F9Tb7CFGT": {
+    "_name_en": "Overwhelming Swing",
+    "name_ko": "압도적인 스윙",
+    "text_ko": "활성 체인 링크에서 방어하는 카드 1장당 이 카드는 사용하는 데 {r}이 추가로 든다.\n대상 무기 공격이 +X{p}을 얻는다. X는 이것을 방어하는 카드 수의 2배에 1을 더한 값이다."
+  },
+  "fDMt9jWjpCQKJPQbfcpWg": {
+    "_name_en": "Oysten, Heart of Gold",
+    "name_ko": "오이스텐, 황금의 마음",
+    "text_ko": "액션 - {t}: 공격\n이것이 죽으면, 골드 토큰 1개를 생성한다.\n워터리 그레이브"
+  },
+  "MzqJQdLGgrHNQnLjMG99B": {
+    "_name_en": "Pack Call",
+    "name_ko": "무리의 부름",
+    "text_ko": "이 카드가 방어할 때, 당신 덱 맨 위 카드를 공개한다. 그것이 {p} 6 이상이면, 맨 위에 놓는다. 그렇지 않으면, 맨 아래에 놓는다."
+  },
+  "JkqmHRmjDr8cm6wcdCkPj": {
+    "_name_en": "Pack Call",
+    "name_ko": "무리의 부름",
+    "text_ko": "이 카드가 방어할 때, 당신 덱 맨 위 카드를 공개한다. 그것이 {p} 6 이상이면, 맨 위에 놓는다. 그렇지 않으면, 맨 아래에 놓는다."
+  },
+  "WBf76MHCnCnh87Wt86w9T": {
+    "_name_en": "Pack Call",
+    "name_ko": "무리의 부름",
+    "text_ko": "이 카드가 방어할 때, 당신 덱 맨 위 카드를 공개한다. 그것이 {p} 6 이상이면, 맨 위에 놓는다. 그렇지 않으면, 맨 아래에 놓는다."
+  },
+  "ckjckdp6twK8nfwqGch7J": {
+    "_name_en": "Pack Hunt",
+    "name_ko": "무리 사냥",
+    "text_ko": "이 카드가 공격할 때, 인티미데이트한다."
+  },
+  "rRHncwrCNq9TmTcndW8bq": {
+    "_name_en": "Pack Hunt",
+    "name_ko": "무리 사냥",
+    "text_ko": "이 카드가 공격할 때, 인티미데이트한다."
+  },
+  "BntHbFDb7HmGmNq8wmLCq": {
+    "_name_en": "Pack Hunt",
+    "name_ko": "무리 사냥",
+    "text_ko": "이 카드가 공격할 때, 인티미데이트한다."
+  },
+  "PJQgmWWftPgbC9Nz7zzKD": {
+    "_name_en": "Paddle Faster",
+    "name_ko": "더 빨리 노를 저어라",
+    "text_ko": "이 카드가 공격할 때, 당신이 조종하는 아군 1개를 {t}할 수 있다. 그렇게 하면, 이 카드가 고 어게인을 얻는다."
+  },
+  "N6LPcMrTJHqQGMctQKWTQ": {
+    "_name_en": "Pain in the Backside",
+    "name_ko": "골칫거리",
+    "text_ko": "이 카드가 영웅을 명중하면, 당신이 조종하는 대상 단검이 그에게 피해 1을 준다. 이렇게 피해를 주면, 그 단검이 명중한 것으로 취급한다.\n고 어게인"
+  },
+  "hNMR9pM9djfm8m9FHdmRb": {
+    "_name_en": "Painful Passage",
+    "name_ko": "고통스러운 통로",
+    "text_ko": "당신의 손에서 공격 액션 카드 1장을 추방할 수 있다. 그렇게 하면, 그것이 턴 종료 시까지 +3{p} 또는 고 어게인을 얻는다.\n고 어게인"
+  },
+  "rk8tgdRQmPwNrDfdTTFgF": {
+    "_name_en": "Painful Premonition",
+    "name_ko": "고통스러운 예감",
+    "text_ko": "아무 대상에게 비전 피해 3을 준다.\n이것이 피해를 주면, 운명의 표식 토큰 1개를 생성한다."
+  },
+  "CqfqDWQc8mbmcdmbrnPqz": {
+    "_name_en": "Painful Premonition",
+    "name_ko": "고통스러운 예감",
+    "text_ko": "아무 대상에게 비전 피해 2를 준다.\n이것이 피해를 주면, 운명의 표식 토큰 1개를 생성한다."
+  },
+  "W9kDJQqdh6k8CGr9gctd6": {
+    "_name_en": "Painful Premonition",
+    "name_ko": "고통스러운 예감",
+    "text_ko": "아무 대상에게 비전 피해 1을 준다.\n이것이 피해를 주면, 운명의 표식 토큰 1개를 생성한다."
+  },
+  "c9TrL6MwcrMKtmTbCHL76": {
+    "_name_en": "Palantir Aeronought",
+    "name_ko": "팔란티어 항공사",
+    "text_ko": "방어 영웅은 가능하다면 자신이 조종하는 장비로 이 카드를 방어해야 한다.\n턴당 3회 순간 - 당신이 조종하는 톱니바퀴를 {t}한다: 이 카드가 +1{p}을 얻는다. 이 능력을 세 번째로 활성화하는 것이라면, 방어 카드 1개를 파괴한다."
+  },
+  "QqMdqbNP8f7jj7DkmNMj9": {
+    "_name_en": "Panel Beater",
+    "name_ko": "패널 비터",
+    "text_ko": "부스트\n이 카드가 +X{p}을 얻는다. X는 이것을 방어하는 장비 수이다."
+  },
+  "dMqghRmmRF9DfFnqrBPbP": {
+    "_name_en": "Panel Beater",
+    "name_ko": "패널 비터",
+    "text_ko": "부스트\n이 카드가 +X{p}을 얻는다. X는 이것을 방어하는 장비 수이다."
+  },
+  "LbTNzkLcknj97tLPRqJwH": {
+    "_name_en": "Panel Beater",
+    "name_ko": "패널 비터",
+    "text_ko": "부스트\n이 카드가 +X{p}을 얻는다. X는 이것을 방어하는 장비 수이다."
+  },
+  "Gq8RtNNrR7hz6QB9gj7CG": {
+    "_name_en": "Parable of Humility",
+    "name_ko": "겸손의 비유",
+    "text_ko": "상대가 조종하는 공격 액션 카드는 공격하거나 방어하는 동안 -1{p}을 얻는다.\n스펙트라"
+  },
+  "CWDdwtBckLgb6gR6KqnD9": {
+    "_name_en": "Paragon Plate",
+    "name_ko": "귀감의 판금",
+    "text_ko": "공격 반응 - {t}, 당신이 조종하는 공격하는 검에서 +1{p} 카운터 1개를 제거한다: {r}을 얻는다\n템퍼"
+  },
+  "9HncGgPTznnKwPwHCJMgb": {
+    "_name_en": "Parched Terrain",
+    "name_ko": "메마른 지형",
+    "text_ko": "영웅들은 {h}을 얻을 수 없다.\n당신의 종료 단계 시작 시, 이것에 모래 카운터를 놓은 뒤, 여기에 있는 모래 카운터 수만큼 당신의 무덤에서 빨간색 카드를 추방하지 않는 한 이것을 파괴한다."
+  },
+  "8RgDcJhnpLP9j6DqNqPfp": {
+    "_name_en": "Parry Blade",
+    "name_ko": "패리 블레이드",
+    "text_ko": "턴당 1회 액션 - {r}: 공격\n이 카드는 무기 공격을 방어하는 동안 +2{d}을 얻는다.\n블레이드 브레이크"
+  },
+  "m9tj8WGNNjQPt8wjMqFFf": {
+    "_name_en": "Pass Over",
+    "name_ko": "지나쳐 가다",
+    "text_ko": "레전더리\n상대 영웅의 무덤에서 대상 카드를 추방한다.\n이번 턴에 다른 파란색 카드를 사용한 적이 있다면, 초월한다."
+  },
+  "NBnFFCH9njbMMhBLc6jzw": {
+    "_name_en": "Passing Mirage",
+    "name_ko": "스쳐가는 신기루",
+    "text_ko": "각 턴 당신의 첫 일루저니스트 공격은 팬텀을 잃고 얻을 수 없다.\n스펙트라"
+  },
+  "nJMKbnPpBCWztRhwhngTw": {
+    "_name_en": "Patch the Hole",
+    "name_ko": "구멍을 메우다",
+    "text_ko": "순간 - 이것을 파괴한다: 당신의 아스날에서 카드 1장을 손으로 되돌린다."
+  },
+  "LBFrKWRLJkKBgLc9nKmBb": {
+    "_name_en": "Path of Same Ends",
+    "name_ko": "같은 끝의 길",
+    "text_ko": "이 카드가 영웅을 공격할 때, 그에게 비전 피해 1을 준다. 이렇게 피해를 주면, 이 카드가 고 어게인을 얻는다.\n순간 - {r}: 이 카드가 고 어게인을 얻는다."
+  },
+  "GQkkQFm9FHbRhCkTJm7Gj": {
+    "_name_en": "Path of Same Ends",
+    "name_ko": "같은 끝의 길",
+    "text_ko": "이 카드가 영웅을 공격할 때, 그에게 비전 피해 1을 준다. 이렇게 피해를 주면, 이 카드가 고 어게인을 얻는다.\n순간 - {r}: 이 카드가 고 어게인을 얻는다."
+  },
+  "LQt7KLBFHmdk7BKwdtD6M": {
+    "_name_en": "Path of Same Ends",
+    "name_ko": "같은 끝의 길",
+    "text_ko": "이 카드가 영웅을 공격할 때, 그에게 비전 피해 1을 준다. 이렇게 피해를 주면, 이 카드가 고 어게인을 얻는다.\n순간 - {r}: 이 카드가 고 어게인을 얻는다."
+  },
+  "MLFcr8MRb7J7mDBzh6Lhk": {
+    "_name_en": "Path of Vengeance",
+    "name_ko": "복수의 길",
+    "text_ko": "공격 반응 - 이것을 파괴한다: 아라크니를 공격하는 대상 공격이 고 어게인을 얻는다.\n블레이드 브레이크"
+  },
+  "7fN6NNBdf9KQF9gWWpdzL": {
+    "_name_en": "Path Well Traveled",
+    "name_ko": "잘 다져진 길",
+    "text_ko": "레전더리\n대상 공격이 고 어게인을 얻는다.\n이번 턴에 다른 파란색 카드를 사용한 적이 있다면, 초월한다."
+  },
+  "WMDBhmGwnGHT7MKf7dLdk": {
+    "_name_en": "Pathing Helix",
+    "name_ko": "경로 나선",
+    "text_ko": "경로 나선이 명중하고 당신의 아스날에 카드가 없다면, 당신의 손에서 카드 1장을 뒷면으로 아스날에 놓을 수 있다."
+  },
+  "KBND9JzTdFwBdtMgMq7Tj": {
+    "_name_en": "Pathing Helix",
+    "name_ko": "경로 나선",
+    "text_ko": "경로 나선이 명중하고 당신의 아스날에 카드가 없다면, 당신의 손에서 카드 1장을 뒷면으로 아스날에 놓을 수 있다."
+  },
+  "b7DpNcDrnBrhFD78gQPdD": {
+    "_name_en": "Pathing Helix",
+    "name_ko": "경로 나선",
+    "text_ko": "경로 나선이 명중하고 당신의 아스날에 카드가 없다면, 당신의 손에서 카드 1장을 뒷면으로 아스날에 놓을 수 있다."
+  },
+  "JJcft9d6mrcTCbwbkQTcB": {
+    "_name_en": "Pay Day",
+    "name_ko": "월급날",
+    "text_ko": "이번 턴에 계약을 완료한 적이 있다면, 실버 토큰 4개를 생성한다."
+  },
+  "97PpjPGqWTWDfNdPCGKLM": {
+    "_name_en": "Pay Up",
+    "name_ko": "지불하라",
+    "text_ko": "방어 영웅이 골드를 조종하고 있다면, 이 카드가 오버파워를 얻는다.\n이 카드가 영웅을 명중하면, 그가 조종하는 골드 토큰 1개의 조종권을 얻는다. 그러지 못하면, 그에게 피해 1을 준다."
+  },
+  "fnnhHCfMmz6R8BjbWwRTt": {
+    "_name_en": "Payload",
+    "name_ko": "화물",
+    "text_ko": "이번 전투 체인에서 부스트한 적이 있다면, 화물이 도미네이트를 얻는다."
+  },
+  "KBdJqh9KgdGzkRTbGDn7W": {
+    "_name_en": "Payload",
+    "name_ko": "화물",
+    "text_ko": "이번 전투 체인에서 부스트한 적이 있다면, 화물이 도미네이트를 얻는다."
+  },
+  "W9B6LwPdtKknpqJ8bKfMr": {
+    "_name_en": "Payload",
+    "name_ko": "화물",
+    "text_ko": "이번 전투 체인에서 부스트한 적이 있다면, 화물이 도미네이트를 얻는다."
+  },
+  "NGjkmJLnHHqG7GGcGFk69": {
+    "_name_en": "Peace of Mind",
+    "name_ko": "마음의 평화",
+    "text_ko": "당신이 다음에 {p} 피해를 받게 될 경우, 그 피해 4를 방지한다.\n폰더 토큰 1개를 생성한다."
+  },
+  "WJF9DkbGLF6zWdGFFRFnh": {
+    "_name_en": "Peace of Mind",
+    "name_ko": "마음의 평화",
+    "text_ko": "당신이 다음에 {p} 피해를 받게 될 경우, 그 피해 3을 방지한다.\n폰더 토큰 1개를 생성한다."
   }
 }
