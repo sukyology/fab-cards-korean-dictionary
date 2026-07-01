@@ -14380,5 +14380,625 @@
     "_name_en": "Peace of Mind",
     "name_ko": "마음의 평화",
     "text_ko": "당신이 다음에 {p} 피해를 받게 될 경우, 그 피해 3을 방지한다.\n폰더 토큰 1개를 생성한다."
+  },
+  "LhPbGbqqgcdFhMMJTkHhw": {
+    "_name_en": "Peace of Mind",
+    "name_ko": "마음의 평화",
+    "text_ko": "당신이 다음에 {p} 피해를 받게 될 경우, 그 피해 2를 방지한다.\n폰더 토큰 1개를 생성한다."
+  },
+  "rKb97mmPGtmm9R9dMDW8d": {
+    "_name_en": "Pearl Amulet",
+    "name_ko": "진주 부적",
+    "text_ko": "액션 - 이것을 파괴한다: 대상 지속물을 {u}한다. 고 어게인\n워터리 그레이브의 전설"
+  },
+  "LNtDknLJmNDk6wDhQdQb8": {
+    "_name_en": "Pec Perfect",
+    "name_ko": "완벽한 가슴근육",
+    "text_ko": "카드가 이 카드를 방어할 때마다, 방어 영웅과 클래시한다. 승자가 상대 영웅의 덱 맨 위 카드를 파괴한다."
+  },
+  "rkKktHBPDLQDfpddktPwn": {
+    "_name_en": "Pedal to the Metal",
+    "name_ko": "가속 페달",
+    "text_ko": "가속 페달이 명중하면, 이번 턴 당신의 다음 공격이 도미네이트를 얻는다.\n부스트"
+  },
+  "hqdkcKzDpMTrNrNjKPk7n": {
+    "_name_en": "Pedal to the Metal",
+    "name_ko": "가속 페달",
+    "text_ko": "가속 페달이 명중하면, 이번 턴 당신의 다음 공격이 도미네이트를 얻는다.\n부스트"
+  },
+  "zqpjjkQcPrDPQJGhDKkbC": {
+    "_name_en": "Pedal to the Metal",
+    "name_ko": "가속 페달",
+    "text_ko": "가속 페달이 명중하면, 이번 턴 당신의 다음 공격이 도미네이트를 얻는다.\n부스트"
+  },
+  "wcP88wJc6CFbLQpQFJcCn": {
+    "_name_en": "Peg Leg",
+    "name_ko": "의족",
+    "text_ko": "액션 - {r}{r}{r}, 이것을 파괴한다: 이번 턴 당신의 다음 공격이 고 어게인을 얻는다. 고 어게인.\n블레이드 브레이크"
+  },
+  "QGHNhTQCTGmdJ9FRDbTNC": {
+    "_name_en": "Pendulum Trap",
+    "name_ko": "진자 함정",
+    "text_ko": "이 카드가 방어하고 공격하는 영웅이 이번 체인 링크에 반응을 사용하거나 활성화한 적이 있다면, 그의 덱 맨 위 2장을 그의 무덤에 놓는다."
+  },
+  "qGKR8rcj7wrHQdF6kBwmk": {
+    "_name_en": "Penetration Script",
+    "name_ko": "관통 스크립트",
+    "text_ko": "크랭크\n이 카드는 스팀 카운터 1개를 지닌 채 전장에 들어온다. 당신의 턴 시작 시, 스팀 카운터 1개를 제거하지 않는 한 이것을 파괴한다.\n당신의 메카놀로지스트 공격 액션 카드들이 +1{p}을 얻는다."
+  },
+  "8CLhBWj6dbMgg9gfPCQjH": {
+    "_name_en": "Perch Grapplers",
+    "name_ko": "횃대 갈고리",
+    "text_ko": "액션 - {r}{r}, 횃대 갈고리를 파괴한다: 턴 종료 시까지, 아스날에서 사용되는 앞면 화살 카드들이 고 어게인을 얻는다. 고 어게인\n블레이드 브레이크"
+  },
+  "Mn7GCfnN9PJTP9dTGtkdn": {
+    "_name_en": "Perennial Aetherbloom",
+    "name_ko": "다년생 에테르화",
+    "text_ko": "대상 영웅에게 비전 피해 3을 준다.\n서지 - 이것이 3을 초과하는 피해를 주면, 소유자의 덱 맨 아래에 놓는다."
+  },
+  "NCTn7FNh8QCgcJnFzHcGK": {
+    "_name_en": "Perennial Aetherbloom",
+    "name_ko": "다년생 에테르화",
+    "text_ko": "대상 영웅에게 비전 피해 2를 준다.\n서지 - 이것이 2를 초과하는 피해를 주면, 소유자의 덱 맨 아래에 놓는다."
+  },
+  "cTC7fqqfnrTWzdKpzcKnG": {
+    "_name_en": "Perennial Aetherbloom",
+    "name_ko": "다년생 에테르화",
+    "text_ko": "대상 영웅에게 비전 피해 1을 준다.\n서지 - 이것이 1을 초과하는 피해를 주면, 소유자의 덱 맨 아래에 놓는다."
+  },
+  "kcWTWNfgMCjmWT9BNKwmJ": {
+    "_name_en": "Perforate",
+    "name_ko": "관통하다",
+    "text_ko": "대상 단검으로 추가로 한 번 더 공격할 수 있고 이번 턴 그 공격들은 활성화하는 데 {r}이 덜 든다.\n카드 1장을 뽑는다."
+  },
+  "NJcrQWnf8KF9jd7FGDg8p": {
+    "_name_en": "Performance Bonus",
+    "name_ko": "성과급",
+    "text_ko": "이것이 명중하면, 골드 토큰 1개를 생성한다.\n이것이 아스날에서 사용되었다면, 고 어게인을 얻는다."
+  },
+  "RnL78Jfhr8nfnqbgFFQwk": {
+    "_name_en": "Performance Bonus",
+    "name_ko": "성과급",
+    "text_ko": "이것이 명중하면, 골드 토큰 1개를 생성한다.\n이것이 아스날에서 사용되었다면, 고 어게인을 얻는다."
+  },
+  "ChbzMDmWzwMD9FRF87cq8": {
+    "_name_en": "Performance Bonus",
+    "name_ko": "성과급",
+    "text_ko": "이것이 명중하면, 골드 토큰 1개를 생성한다.\n이것이 아스날에서 사용되었다면, 고 어게인을 얻는다."
+  },
+  "nrwKjjNcwNLF9KwWNLmHP": {
+    "_name_en": "Perk Up",
+    "name_ko": "기운을 내다",
+    "text_ko": "이번 턴 당신의 다음 메카놀로지스트 공격이 +4{p}을 얻는다.\n당신의 영웅을 {u}할 수 있다.\n고 어게인"
+  },
+  "pnfqGpznd7LM8JQHQJfPB": {
+    "_name_en": "Persuasive Prognosis",
+    "name_ko": "설득력 있는 예언",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다. 그런 다음 그의 손을 확인하고 추방된 카드와 같은 색상의 카드 1장을 추방한다.\n이것이 액션 카드를 추방할 때마다, 1{h}을 얻는다."
+  },
+  "tPqfbKjpBmrNfBnFgDFMH": {
+    "_name_en": "Phantasmaclasm",
+    "name_ko": "환영 파괴",
+    "text_ko": "방어 영웅의 손을 확인하고 카드 1장을 선택한다. 그가 그것을 덱 맨 아래에 놓은 뒤 카드 1장을 뽑는다.\n팬텀"
+  },
+  "HDKn8nJQDRBKdgdTcjqh9": {
+    "_name_en": "Phantasmal Footsteps",
+    "name_ko": "환영의 발걸음",
+    "text_ko": "턴당 한 번, 당신이 조종하는 일루저니스트 공격 액션 카드가 파괴될 때, {r}을 지불할 수 있다. 그렇게 하면, 액션 포인트 1을 얻는다.\n이것이 방어할 때마다, {r}을 지불할 수 있다. 그렇게 하면, 턴 종료 시까지 그 {d}이 1이 된다.\n환영의 발걸음이 {p} 6 이상인, 일루저니스트가 아닌 공격을 방어하고 있다면, 전투 체인이 종료될 때 이것을 파괴한다."
+  },
+  "6KwJ86P99FbcRKnbnRpnj": {
+    "_name_en": "Phantasmal Haze",
+    "name_ko": "환영의 아지랑이",
+    "text_ko": "팬텀\n환영의 아지랑이가 파괴되면, 스펙트럴 실드 토큰 1개를 생성한다."
+  },
+  "cQkdbRCNDrm6LmPNWPTHz": {
+    "_name_en": "Phantasmal Haze",
+    "name_ko": "환영의 아지랑이",
+    "text_ko": "팬텀\n환영의 아지랑이가 파괴되면, 스펙트럴 실드 토큰 1개를 생성한다."
+  },
+  "JqK88CP9ND6FCGjTGRMgj": {
+    "_name_en": "Phantasmal Haze",
+    "name_ko": "환영의 아지랑이",
+    "text_ko": "팬텀\n환영의 아지랑이가 파괴되면, 스펙트럴 실드 토큰 1개를 생성한다."
+  },
+  "MMzFRrNNFDjrbKDjtpNzL": {
+    "_name_en": "Phantasmal Symbiosis",
+    "name_ko": "환영의 공생",
+    "text_ko": "이 카드가 공격할 때, 카드 이름 1개를 지정한다. 턴 종료 시까지 그 이름을 가진 카드들은 일루저니스트가 된다.\n팬텀"
+  },
+  "jw6p7dcmQGwMF86LfJrbF": {
+    "_name_en": "Phantasmify",
+    "name_ko": "환영화하다",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 원래 클래스에 더해 일루저니스트가 되고, +5{p}과 팬텀을 얻는다.\n고 어게인"
+  },
+  "dPbDhHRWLfGK8tDtRNmHg": {
+    "_name_en": "Phantasmify",
+    "name_ko": "환영화하다",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 원래 클래스에 더해 일루저니스트가 되고, +4{p}과 팬텀을 얻는다.\n고 어게인"
+  },
+  "cFhn8KcQF7jhzkgPfCQRn": {
+    "_name_en": "Phantasmify",
+    "name_ko": "환영화하다",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 원래 클래스에 더해 일루저니스트가 되고, +3{p}과 팬텀을 얻는다.\n고 어게인"
+  },
+  "NBLbpCJJdNCtpKQndQ6nL": {
+    "_name_en": "Phantom Tidemaw",
+    "name_ko": "유령 조수턱",
+    "text_ko": "당신이 조종하는 일루저니스트 카드가 파괴될 때마다, 여기에 +1{p} 카운터를 놓는다.\n팬텀\n워드 1"
+  },
+  "TMj8cMnKjDbTPMnfTL8tL": {
+    "_name_en": "Phoenix Bannerman: Arms",
+    "name_ko": "불사조 기수: 팔",
+    "text_ko": "레전더리\n당신의 덱에서 피닉스 플레임을 찾아 공개하고 손에 놓은 뒤, 덱을 섞는다.\n마이트 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "7H7Q8F8wdjf6gJq6MGcz6": {
+    "_name_en": "Phoenix Bannerman: Chest",
+    "name_ko": "불사조 기수: 가슴",
+    "text_ko": "레전더리\n당신의 덱에서 피닉스 플레임을 찾아 공개하고 손에 놓은 뒤, 덱을 섞는다.\n비거 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "tFPLw7nPCjf7rqbGhCBTr": {
+    "_name_en": "Phoenix Bannerman: Head",
+    "name_ko": "불사조 기수: 머리",
+    "text_ko": "레전더리\n당신의 덱에서 피닉스 플레임을 찾아 공개하고 손에 놓은 뒤, 덱을 섞는다.\n폰더 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "pzRnkq7DmN7n6DhwpH7jL": {
+    "_name_en": "Phoenix Bannerman: Legs",
+    "name_ko": "불사조 기수: 다리",
+    "text_ko": "레전더리\n당신의 덱에서 피닉스 플레임을 찾아 공개하고 손에 놓은 뒤, 덱을 섞는다.\n어질리티 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "kCbPmp8tjpdK8BFq9z9wQ": {
+    "_name_en": "Phoenix Flame",
+    "name_ko": "피닉스 플레임",
+    "text_ko": "당신이 드라코닉 체인 링크를 2개 이상 조종하고 있다면, 이 카드가 +1{p}을 얻는다.\n고 어게인"
+  },
+  "8RGTWgzLGh69FcNbLCfJc": {
+    "_name_en": "Phoenix Form",
+    "name_ko": "불사조의 형상",
+    "text_ko": "당신이 피닉스 플레임을 1개 이상 조종하고 있다면, 불사조의 형상이 고 어게인을 가진다. 2개 이상이면, +2{p}을 가진다. 3개 이상이면, \"이 카드가 영웅을 명중하면, 카드 3장을 뽑는다\"를 가진다."
+  },
+  "tLLcFGDJBDDbRJpcrj6Hp": {
+    "_name_en": "Photon Rush",
+    "name_ko": "광자 쇄도",
+    "text_ko": "라이트닝 플로우 - 이번 턴에 번개 카드를 사용한 적이 있다면, 이 카드가 고 어게인을 얻는다"
+  },
+  "hmwDMcWw9jwmjmpk8rBjR": {
+    "_name_en": "Photon Rush",
+    "name_ko": "광자 쇄도",
+    "text_ko": "라이트닝 플로우 - 이번 턴에 번개 카드를 사용한 적이 있다면, 이 카드가 고 어게인을 얻는다"
+  },
+  "89wCCJfjJTCb8gqHftG8g": {
+    "_name_en": "Photon Splicing",
+    "name_ko": "광자 접합",
+    "text_ko": "아무 대상에게 비전 피해 4를 준다.\n순간 - 이것을 버린다: 앰프 1"
+  },
+  "jkHLWfcKGCHnmgFtjrJkr": {
+    "_name_en": "Photon Splicing",
+    "name_ko": "광자 접합",
+    "text_ko": "아무 대상에게 비전 피해 3을 준다.\n순간 - 이것을 버린다: 앰프 1"
+  },
+  "MBRmLcRzPPtFTJndD8FnQ": {
+    "_name_en": "Photon Splicing",
+    "name_ko": "광자 접합",
+    "text_ko": "아무 대상에게 비전 피해 2를 준다.\n순간 - 이것을 버린다: 앰프 1"
+  },
+  "bLmknjcbt6Bjn6RTmTBMF": {
+    "_name_en": "Pick a Card, Any Card",
+    "name_ko": "카드를 골라봐, 아무 카드나",
+    "text_ko": "대상 상대의 손을 확인한 뒤 카드 이름 1개를 지정한다.\n그의 손에서 무작위 카드 1장을 선택해 공개한다. 그것이 지정한 카드라면, 실버 토큰 1개를 생성한다. 이 과정을 세 번 반복한다.\n고 어게인"
+  },
+  "NqrpkQtGmHDTpHHdjWHHb": {
+    "_name_en": "Pick a Card, Any Card",
+    "name_ko": "카드를 골라봐, 아무 카드나",
+    "text_ko": "대상 상대의 손을 확인한 뒤 카드 이름 1개를 지정한다.\n그의 손에서 무작위 카드 1장을 선택해 공개한다. 그것이 지정한 카드라면, 실버 토큰 1개를 생성한다. 이 과정을 두 번 반복한다.\n고 어게인"
+  },
+  "7JCwqHtn96Wt7DnWcTb6B": {
+    "_name_en": "Pick a Card, Any Card",
+    "name_ko": "카드를 골라봐, 아무 카드나",
+    "text_ko": "대상 상대의 손을 확인한 뒤 카드 이름 1개를 지정한다.\n그의 손에서 무작위 카드 1장을 선택해 공개한다. 그것이 지정한 카드라면, 실버 토큰 1개를 생성한다. 이 과정을 한 번 반복한다.\n고 어게인"
+  },
+  "GNG6HwgpGmmGwf6nCftpt": {
+    "_name_en": "Pick to Pieces",
+    "name_ko": "갈기갈기 찢다",
+    "text_ko": "스텔스\n이번 체인 링크에 공격 반응을 사용하거나 활성화한 적이 있다면, 이 카드가 +1{p}과 \"이 카드가 줄 피해는 방지할 수 없다\"를 얻는다."
+  },
+  "TpbW7qkkHqMWdfT9FRn67": {
+    "_name_en": "Pick to Pieces",
+    "name_ko": "갈기갈기 찢다",
+    "text_ko": "스텔스\n이번 체인 링크에 공격 반응을 사용하거나 활성화한 적이 있다면, 이 카드가 +1{p}과 \"이 카드가 줄 피해는 방지할 수 없다\"를 얻는다."
+  },
+  "GTNPMFWmcDcDdcJP7WhNd": {
+    "_name_en": "Pick to Pieces",
+    "name_ko": "갈기갈기 찢다",
+    "text_ko": "스텔스\n이번 체인 링크에 공격 반응을 사용하거나 활성화한 적이 있다면, 이 카드가 +1{p}과 \"이 카드가 줄 피해는 방지할 수 없다\"를 얻는다."
+  },
+  "p9zgQpWmbgkWdmMFFTJHh": {
+    "_name_en": "Pick Up the Point",
+    "name_ko": "칼끝을 회수하다",
+    "text_ko": "이 카드가 공격할 때, 당신의 무덤에서 단검을 회수할 수 있다.\n고 어게인"
+  },
+  "z9CGRWDmLHHRjKfjfmbWL": {
+    "_name_en": "Pick Up the Point",
+    "name_ko": "칼끝을 회수하다",
+    "text_ko": "이 카드가 공격할 때, 당신의 무덤에서 단검을 회수할 수 있다.\n고 어게인"
+  },
+  "tT8mDTnn7nddCF7WNRLHt": {
+    "_name_en": "Pick Up the Point",
+    "name_ko": "칼끝을 회수하다",
+    "text_ko": "이 카드가 공격할 때, 당신의 무덤에서 단검을 회수할 수 있다.\n고 어게인"
+  },
+  "B9jHdDTw8qwQW7DnqdQPn": {
+    "_name_en": "Pick Yourself Up Off the Floor",
+    "name_ko": "바닥에서 일어나다",
+    "text_ko": "당신의 무덤에서 공격 액션 카드 1장을 덱 맨 위에 놓는다. 당신이 상대보다 {h}이 적다면, 대신 손에 놓는다."
+  },
+  "KCBQJK7dFkKt66K98gkPk": {
+    "_name_en": "Pierce Reality",
+    "name_ko": "현실을 꿰뚫다",
+    "text_ko": "각 턴 당신이 사용하는 첫 일루저니스트 공격 액션 카드가 +2{p}을 얻는다.\n스펙트라"
+  },
+  "GFFhw8QtwPpDJWNqJdwCb": {
+    "_name_en": "Piercing Shadow Vise",
+    "name_ko": "관통하는 그림자 죔쇠",
+    "text_ko": "당신의 추방 구역에서 관통하는 그림자 죔쇠를 사용할 수 있다.\n이번 턴에 상대 영웅에게 비전 피해를 준 적이 있다면, 관통하는 그림자 죔쇠가 +2{p}을 얻는다.\n블러드 뎃"
+  },
+  "LKfRzrpqKmjK8zD7CCTMH": {
+    "_name_en": "Piercing Shadow Vise",
+    "name_ko": "관통하는 그림자 죔쇠",
+    "text_ko": "당신의 추방 구역에서 관통하는 그림자 죔쇠를 사용할 수 있다.\n이번 턴에 상대 영웅에게 비전 피해를 준 적이 있다면, 관통하는 그림자 죔쇠가 +2{p}을 얻는다.\n블러드 뎃"
+  },
+  "nFJpHkbfmgjNBpC8CmKzK": {
+    "_name_en": "Piercing Shadow Vise",
+    "name_ko": "관통하는 그림자 죔쇠",
+    "text_ko": "당신의 추방 구역에서 관통하는 그림자 죔쇠를 사용할 수 있다.\n이번 턴에 상대 영웅에게 비전 피해를 준 적이 있다면, 관통하는 그림자 죔쇠가 +2{p}을 얻는다.\n블러드 뎃"
+  },
+  "WnNfc9fJMFnH9DGwFRC9F": {
+    "_name_en": "Pile Driver",
+    "name_ko": "파일 드라이버",
+    "text_ko": "베치 스페셜라이제이션\n액션 - {r}{r}{r}{r}, {t}: 공격\n이 카드가 공격할 때, 방어 영웅과 골드 토큰을 걸고 내기할 수 있다."
+  },
+  "pQjcMbpRPhTG8DkHftnK9": {
+    "_name_en": "Pilfer the Tomb",
+    "name_ko": "무덤을 약탈하다",
+    "text_ko": "하나 또는 둘 다 선택한다;\n\n상대 영웅의 무덤에서 대상 순간을 추방한다.\n상대 영웅의 무덤에서 대상 노란색 카드를 추방한다."
+  },
+  "pptHzNLNnz6wnCMFqBgG6": {
+    "_name_en": "Pilfer the Wreck",
+    "name_ko": "난파선을 약탈하다",
+    "text_ko": "이 카드가 영웅을 명중하면, 그의 무덤에 있는 카드 1장을 뒷면으로 뒤집을 수 있다. 그것이 노란색이면, 골드 토큰 1개를 생성한다."
+  },
+  "frFC8JrBBcmKCbDTjLbKc": {
+    "_name_en": "Pilfer the Wreck",
+    "name_ko": "난파선을 약탈하다",
+    "text_ko": "이 카드가 영웅을 명중하면, 그의 무덤에 있는 카드 1장을 뒷면으로 뒤집을 수 있다. 그것이 노란색이면, 골드 토큰 1개를 생성한다."
+  },
+  "qMGgBkKkjCT6cFgJjqnwQ": {
+    "_name_en": "Pilfer the Wreck",
+    "name_ko": "난파선을 약탈하다",
+    "text_ko": "이 카드가 영웅을 명중하면, 그의 무덤에 있는 카드 1장을 뒷면으로 뒤집을 수 있다. 그것이 노란색이면, 골드 토큰 1개를 생성한다."
+  },
+  "P9cr8mkGcJcfgQQQpNjTG": {
+    "_name_en": "Pillar of Unity",
+    "name_ko": "단결의 기둥",
+    "text_ko": "유니티 - 이것이 손의 카드와 함께 방어할 때, 턴 종료 시까지 이 카드가 +1{d}을 얻는다.\n템퍼"
+  },
+  "gQdQfNwNMgDLJfkcNWmhH": {
+    "_name_en": "Pinion Sentry",
+    "name_ko": "핀언 센트리",
+    "text_ko": "이 카드가 방어할 때, 당신이 조종하는 톱니바퀴를 {t}할 수 있다. 그렇게 하면, 골든 코그 토큰 1개를 생성한다."
+  },
+  "fq6Pbr7BmJdqbLFqdfdTW": {
+    "_name_en": "Pink Visor",
+    "name_ko": "핑크 바이저",
+    "text_ko": "루디 스페셜라이제이션\n턴당 1회 액션 - {r}: 이번 턴 당신이 다음에 공개하는 카드의 등급이 1 상승한다. 고 어게인"
+  },
+  "bRM9LLRrhJ8LLqBrGKCgb": {
+    "_name_en": "Pint of Strong and Stout",
+    "name_ko": "독하고 진한 한 잔",
+    "text_ko": "마이트 토큰과 비거 토큰을 생성한다.\n고 어게인"
+  },
+  "NDJfTHzHkWNMz77HPFkgD": {
+    "_name_en": "Pitfall Trap",
+    "name_ko": "함정 구덩이",
+    "text_ko": "함정 구덩이는 아스날에서만 사용할 수 있다.\n이 카드가 방어할 때, 공격하는 영웅이 {r}을 지불하지 않는 한 그에게 피해 2를 준다."
+  },
+  "GKWhbqnhnR6ztt9gCzmLw": {
+    "_name_en": "Plague Hive",
+    "name_ko": "역병의 벌집",
+    "text_ko": "레전더리\n역병의 벌집을 피치하면, 각 상대 영웅에 대해, 관성, 프레일티, 블러드로트 폭스 중 무작위로 하나를 선택하고 그의 조종 하에 그 토큰을 생성한다."
+  },
+  "bPKFtQtwzWcRjWkFwztdf": {
+    "_name_en": "Plan for the Worst",
+    "name_ko": "최악을 대비하다",
+    "text_ko": "대상 영웅의 손과 아스날을 확인한다. 그의 다음 종료 단계 시작 시, 그가 자신의 손에 있는 모든 카드를 버리고 자신의 아스날에 있는 모든 카드를 파괴한다.\n당신의 덱에서 함정 최대 3개를 찾아 공개하고 손에 놓은 뒤, 당신의 손에서 카드 2장을 덱에 섞는다."
+  },
+  "KPMtkfh8Dd6Dt9LJjGQLw": {
+    "_name_en": "Plasma Barrel Shot",
+    "name_ko": "플라즈마 배럴 샷",
+    "text_ko": "턴당 1회 액션 - 플라즈마 배럴 샷에서 스팀 카운터 1개를 제거한다: 공격\n액션 - {r}{r}: 플라즈마 배럴 샷에 스팀 카운터가 없다면, 여기에 스팀 카운터를 놓는다. 고 어게인\nX는 1에 이번 전투 체인에서 당신이 부스트한 횟수를 더한 값과 같다."
+  },
+  "fCmcQjBCJ9BRGBQDWk9Dw": {
+    "_name_en": "Plasma Mainline",
+    "name_ko": "플라즈마 본선",
+    "text_ko": "플라즈마 본선은 스팀 카운터 5개를 지닌 채 전장에 들어온다. 여기에 스팀 카운터가 없으면, 파괴한다.\n비용 2 이하인 메카놀로지스트 아이템이 당신의 조종 하에 전장에 들어올 때, 플라즈마 본선에서 그 아이템으로 스팀 카운터 1개를 옮길 수 있다."
+  },
+  "rmdHP7ttKz7NqLwwwGGKg": {
+    "_name_en": "Plasma Purifier",
+    "name_ko": "플라즈마 정화기",
+    "text_ko": "액션 - {r}: 플라즈마 정화기에 스팀 카운터가 없다면, 여기에 스팀 카운터를 놓는다. 고 어게인\n턴당 1회 액션 - 플라즈마 정화기에서 스팀 카운터 1개를 제거한다: 당신이 조종하는 대상 메카놀로지스트 권총이 턴 종료 시까지 +1{p}을 얻는다. 고 어게인"
+  },
+  "qRKjzf8nTgdBt8BMMgRPJ": {
+    "_name_en": "Plate of Tough Love",
+    "name_ko": "혹독한 사랑의 판금",
+    "text_ko": "당신이 컨피던스 토큰과 터프니스 토큰을 조종하고 있다면, 이 카드가 +2{d}을 얻는다.\n블레이드 브레이크"
+  },
+  "RKfqhH8h8jnhfC9fcDPmc": {
+    "_name_en": "Plating of Unity",
+    "name_ko": "단결의 판금",
+    "text_ko": "유니티 - 이것이 손의 카드와 함께 방어할 때, 턴 종료 시까지 이 카드가 +1{d}을 얻는다.\n템퍼"
+  },
+  "QmBfhgrGL6JDrhkn6ccg8": {
+    "_name_en": "Platinum Amulet",
+    "name_ko": "백금 부적",
+    "text_ko": "순간 - 이것을 파괴한다: 대상 방어 카드가 턴 종료 시까지 +1{d}을 얻는다.\n워터리 그레이브의 전설"
+  },
+  "LQDwqpNddrmqQQb8J9dht": {
+    "_name_en": "Pledge Fealty",
+    "name_ko": "충성을 맹세하다",
+    "text_ko": "충성 토큰 1개를 생성한다."
+  },
+  "DcwnhL66BkhqjFcfzwwfQ": {
+    "_name_en": "Pleiades",
+    "name_ko": "플레이아데스",
+    "text_ko": "순간 - {t}, 당신이 조종하는 오라에서 서스펜스 카운터 1개를 제거한다: 당신이 조종하는 서스펜스 오라에 서스펜스 카운터를 놓을 수 있다.\n관중이 당신에게 환호할 때마다, 컨피던스 토큰 1개를 생성한다."
+  },
+  "JhgRJb6nfctWkndbzrgnj": {
+    "_name_en": "Pleiades, Superstar",
+    "name_ko": "플레이아데스, 슈퍼스타",
+    "text_ko": "순간 - {t}, 당신이 조종하는 오라에서 서스펜스 카운터 1개를 제거한다: 당신이 조종하는 서스펜스 오라에 서스펜스 카운터를 놓을 수 있다.\n관중이 당신에게 환호할 때마다, 컨피던스 토큰 1개를 생성한다."
+  },
+  "T8TC8nQ6HCgPGGLKRhpwh": {
+    "_name_en": "Plow Through",
+    "name_ko": "밀어붙이다",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +3{p}과 \"이 무기가 공격 액션 카드로 방어되면, 턴 종료 시까지 +1{p}을 얻는다\"를 얻는다.\n고 어게인"
+  },
+  "WBhc98JmWNphkCtcBJbDn": {
+    "_name_en": "Plow Through",
+    "name_ko": "밀어붙이다",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +2{p}과 \"이 무기가 공격 액션 카드로 방어되면, 턴 종료 시까지 +1{p}을 얻는다\"를 얻는다.\n고 어게인"
+  },
+  "nkdkGCftLDqNPHKLJ8kDN": {
+    "_name_en": "Plow Through",
+    "name_ko": "밀어붙이다",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +1{p}과 \"이 무기가 공격 액션 카드로 방어되면, 턴 종료 시까지 +1{p}을 얻는다\"를 얻는다.\n고 어게인"
+  },
+  "n9NTHWCRGQq9gMFwfcg6C": {
+    "_name_en": "Plow Under",
+    "name_ko": "갈아엎다",
+    "text_ko": "당신의 추방 구역에 대지 카드가 4장 이상 있다면, 이 카드가 +4{p}을 얻는다.\n분해 - 이 카드가 공격할 때, 당신의 무덤에서 대지 카드 2장과 액션 카드 1장을 추방할 수 있다. 그렇게 하면, 각 영웅이 자신의 아스날에서 카드 1장을 덱 맨 아래에 놓는다."
+  },
+  "CRDtq9LpbDjKKbCkfcC7H": {
+    "_name_en": "Plume of Evergrowth",
+    "name_ko": "끝없이 자라는 깃털",
+    "text_ko": "순간 - {r}{r}{r}, 끝없이 자라는 깃털을 파괴한다: 당신의 무덤에서 대상 대지 액션 카드나 대지 순간 카드를 손으로 되돌린다."
+  },
+  "fwF67FGHHq7rCKdPRz77f": {
+    "_name_en": "Plunder Run",
+    "name_ko": "약탈 질주",
+    "text_ko": "이번 턴 당신이 조종하는 공격 액션 카드가 다음에 명중할 때, 카드 1장을 뽑는다.\n약탈 질주가 아스날에서 사용되면, 이번 턴 당신이 사용하는 다음 공격 액션 카드가 +3{p}을 얻는다.\n고 어게인"
+  },
+  "7MGt8wLQqdFk9F8LBQnD9": {
+    "_name_en": "Plunder Run",
+    "name_ko": "약탈 질주",
+    "text_ko": "이번 턴 당신이 조종하는 공격 액션 카드가 다음에 명중할 때, 카드 1장을 뽑는다.\n약탈 질주가 아스날에서 사용되면, 이번 턴 당신이 사용하는 다음 공격 액션 카드가 +2{p}을 얻는다.\n고 어게인"
+  },
+  "rpFFbrjQdDFGHgtwmjqKP": {
+    "_name_en": "Plunder Run",
+    "name_ko": "약탈 질주",
+    "text_ko": "이번 턴 당신이 조종하는 공격 액션 카드가 다음에 명중할 때, 카드 1장을 뽑는다.\n약탈 질주가 아스날에서 사용되면, 이번 턴 당신이 사용하는 다음 공격 액션 카드가 +1{p}을 얻는다.\n고 어게인"
+  },
+  "6QdjhDLqHJ9DB8GHD6fmf": {
+    "_name_en": "Plunder the Poor",
+    "name_ko": "빈민을 약탈하다",
+    "text_ko": "계약 - 당신은 비용 1 이하인 상대 카드를 추방하기로 계약한다. 이 계약을 완료할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다."
+  },
+  "NjJNnbrqJgdh7MW9wkMWP": {
+    "_name_en": "Plunder the Poor",
+    "name_ko": "빈민을 약탈하다",
+    "text_ko": "계약 - 당신은 비용 1 이하인 상대 카드를 추방하기로 계약한다. 이 계약을 완료할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다."
+  },
+  "LTtJknPgn6fpRWcgHkMJJ": {
+    "_name_en": "Plunder the Poor",
+    "name_ko": "빈민을 약탈하다",
+    "text_ko": "계약 - 당신은 비용 1 이하인 상대 카드를 추방하기로 계약한다. 이 계약을 완료할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다."
+  },
+  "JbKPW9kCnmkqTqpBMCMWW": {
+    "_name_en": "Plunge",
+    "name_ko": "돌진",
+    "text_ko": "이것이 명중하면, 이번 턴 당신의 다음 단검 공격이 +1{p}을 얻는다.\n고 어게인"
+  },
+  "g6BdLTWJMrQrbR77nnDrf": {
+    "_name_en": "Plunge",
+    "name_ko": "돌진",
+    "text_ko": "이것이 명중하면, 이번 턴 당신의 다음 단검 공격이 +1{p}을 얻는다.\n고 어게인"
+  },
+  "bzrT9j7m9tGmr8BbKKk9J": {
+    "_name_en": "Plunge",
+    "name_ko": "돌진",
+    "text_ko": "이것이 명중하면, 이번 턴 당신의 다음 단검 공격이 +1{p}을 얻는다.\n고 어게인"
+  },
+  "Tn8F8pBjHjqW7rfPLw9Wg": {
+    "_name_en": "Plunge the Prospect",
+    "name_ko": "먹잇감에게 뛰어들다",
+    "text_ko": "스텔스\n이것이 표식이 있는 영웅을 공격하고 있다면, +1{p}을 얻는다."
+  },
+  "r7GmThKTHQtDW6RcFbdPR": {
+    "_name_en": "Plunge the Prospect",
+    "name_ko": "먹잇감에게 뛰어들다",
+    "text_ko": "스텔스\n이것이 표식이 있는 영웅을 공격하고 있다면, +1{p}을 얻는다."
+  },
+  "nM9GmbLjcNCPLTjfBH7fk": {
+    "_name_en": "Plunge the Prospect",
+    "name_ko": "먹잇감에게 뛰어들다",
+    "text_ko": "스텔스\n이것이 표식이 있는 영웅을 공격하고 있다면, +1{p}을 얻는다."
+  },
+  "jJdBmPDP6DkFFwwDG6wNg": {
+    "_name_en": "Plutonic Starplate",
+    "name_ko": "명왕성의 별판금",
+    "text_ko": "각 상대의 턴마다 처음으로 번개 카드를 사용할 때, {r}을 얻는다.\n아케인 배리어 1"
+  },
+  "dbKgpPzLgwFdjfrhRmbgK": {
+    "_name_en": "Point of Engagement",
+    "name_ko": "교전 지점",
+    "text_ko": "이번 턴 당신의 다음 단검 공격이 +3{p}을 얻는다.\n턴 종료 시까지, 당신의 공격들은 표식이 있는 영웅을 공격하는 동안 +1{p}을 얻는다.\n고 어게인"
+  },
+  "cqpqWdPdBWCLfHzrR9rHt": {
+    "_name_en": "Point of Engagement",
+    "name_ko": "교전 지점",
+    "text_ko": "이번 턴 당신의 다음 단검 공격이 +2{p}을 얻는다.\n턴 종료 시까지, 당신의 공격들은 표식이 있는 영웅을 공격하는 동안 +1{p}을 얻는다.\n고 어게인"
+  },
+  "ThCWFGk7TfpwDbfPmKCT6": {
+    "_name_en": "Point of Engagement",
+    "name_ko": "교전 지점",
+    "text_ko": "이번 턴 당신의 다음 단검 공격이 +1{p}을 얻는다.\n턴 종료 시까지, 당신의 공격들은 표식이 있는 영웅을 공격하는 동안 +1{p}을 얻는다.\n고 어게인"
+  },
+  "tqJNQ68KhJHWdJN8mFrdq": {
+    "_name_en": "Point the Tip",
+    "name_ko": "끝을 겨누다",
+    "text_ko": "당신의 아스날에 앞면으로 있는 대상 화살이 턴 종료 시까지 +3{p}을 얻는다. 여기에 조준 카운터를 놓는다.\n고 어게인"
+  },
+  "RGprh7bBDNJBFGQDRtqzB": {
+    "_name_en": "Point the Tip",
+    "name_ko": "끝을 겨누다",
+    "text_ko": "당신의 아스날에 앞면으로 있는 대상 화살이 턴 종료 시까지 +2{p}을 얻는다. 여기에 조준 카운터를 놓는다.\n고 어게인"
+  },
+  "m8D6pkbQNGJqRRJTkGkCT": {
+    "_name_en": "Point the Tip",
+    "name_ko": "끝을 겨누다",
+    "text_ko": "당신의 아스날에 앞면으로 있는 대상 화살이 턴 종료 시까지 +1{p}을 얻는다. 여기에 조준 카운터를 놓는다.\n고 어게인"
+  },
+  "LpcMH9ftTRHRc9gw9j6hw": {
+    "_name_en": "Poison the Tips",
+    "name_ko": "화살촉에 독을 바르다",
+    "text_ko": "턴 종료 시까지, 당신이 조종하는 화살들이 \"이 카드가 영웅을 명중하면, 그가 카드 1장을 버린다\"를 얻는다.\n리로드\n고 어게인"
+  },
+  "BqMDcNR8b6m7L7QPtHgTB": {
+    "_name_en": "Poison the Well",
+    "name_ko": "우물에 독을 풀다",
+    "text_ko": "이번 턴 영웅이 다음에 {h}을 얻게 될 경우, 대신 그만큼 {h}을 잃는다."
+  },
+  "GQCmNFkh9NCHrf7FNDrg9": {
+    "_name_en": "Poisoned Blade",
+    "name_ko": "독 바른 칼날",
+    "text_ko": "이번 전투 체인에서 당신이 소유한 단검이 영웅을 명중할 때마다, 그가 1{h}을 잃는다.\n고 어게인"
+  },
+  "HK8KdHmNDkgcFgTPcdKbD": {
+    "_name_en": "Poisoned Blade",
+    "name_ko": "독 바른 칼날",
+    "text_ko": "이번 전투 체인에서 당신이 소유한 단검이 영웅을 명중할 때마다, 그가 1{h}을 잃는다.\n고 어게인"
+  },
+  "8cbhPbn7mwTQnwcpD78RH": {
+    "_name_en": "Poisoned Blade",
+    "name_ko": "독 바른 칼날",
+    "text_ko": "이번 전투 체인에서 당신이 소유한 단검이 영웅을 명중할 때마다, 그가 1{h}을 잃는다.\n고 어게인"
+  },
+  "ptW6MqBGczWDtTKnmrLFH": {
+    "_name_en": "Polar Blast",
+    "name_ko": "극지의 돌풍",
+    "text_ko": "대상 상대 영웅이 {r}{r}{r}을 지불할 수 있다. 지불하지 않으면 이번 턴 당신의 다음 공격이 도미네이트를 얻는다.\n극지의 돌풍이 아스날에서 사용되면, 카드 1장을 뽑는다.\n고 어게인"
+  },
+  "kqkwTjFqGH99hzDwWJN98": {
+    "_name_en": "Polar Blast",
+    "name_ko": "극지의 돌풍",
+    "text_ko": "대상 상대 영웅이 {r}{r}을 지불할 수 있다. 지불하지 않으면 이번 턴 당신의 다음 공격이 도미네이트를 얻는다.\n극지의 돌풍이 아스날에서 사용되면, 카드 1장을 뽑는다.\n고 어게인"
+  },
+  "pfR8W7qrNLmgF6G6wtTff": {
+    "_name_en": "Polar Blast",
+    "name_ko": "극지의 돌풍",
+    "text_ko": "대상 상대 영웅이 {r}을 지불할 수 있다. 지불하지 않으면 이번 턴 당신의 다음 공격이 도미네이트를 얻는다.\n극지의 돌풍이 아스날에서 사용되면, 카드 1장을 뽑는다.\n고 어게인"
+  },
+  "pdJnb8zmwpRcmqbcH7JTH": {
+    "_name_en": "Polar Cap",
+    "name_ko": "극지의 관",
+    "text_ko": "얼음 퓨전\n아무 대상에게 비전 피해 4를 준다. 극지의 관이 퓨전되어 영웅에게 피해를 주면, 그의 조종 하에 프로스트바이트 토큰 1개를 생성한다."
+  },
+  "rfqChPM7KDBRhh789TtDm": {
+    "_name_en": "Polar Cap",
+    "name_ko": "극지의 관",
+    "text_ko": "얼음 퓨전\n아무 대상에게 비전 피해 3을 준다. 극지의 관이 퓨전되어 영웅에게 피해를 주면, 그의 조종 하에 프로스트바이트 토큰 1개를 생성한다."
+  },
+  "L9QHgTrJMCPMd6DfgDCNr": {
+    "_name_en": "Polar Cap",
+    "name_ko": "극지의 관",
+    "text_ko": "얼음 퓨전\n아무 대상에게 비전 피해 2를 준다. 극지의 관이 퓨전되어 영웅에게 피해를 주면, 그의 조종 하에 프로스트바이트 토큰 1개를 생성한다."
+  },
+  "jfHbfHfWB7KPd8NTmqDd9": {
+    "_name_en": "Polarity Reversal Script",
+    "name_ko": "극성 반전 스크립트",
+    "text_ko": "크랭크\n이 카드는 스팀 카운터 1개를 지닌 채 전장에 들어온다. 당신의 턴 시작 시, 스팀 카운터 1개를 제거하지 않는 한 이것을 파괴한다.\n액션 카드는 당신의 메카놀로지스트 공격 액션 카드를 방어하는 동안 -1{d}을 얻는다."
+  },
+  "q7gj97HJJJD7Kkbk8PkBp": {
+    "_name_en": "Polarus Pulse Ray",
+    "name_ko": "폴라루스 펄스 광선",
+    "text_ko": "이것이 분열할 때마다, 방어 영웅에게 비전 피해 1을 준다.\n프래그먼트"
+  },
+  "cjgpLNMgcd7HBcnJnDJ6j": {
+    "_name_en": "Polarus Pulse Ray",
+    "name_ko": "폴라루스 펄스 광선",
+    "text_ko": "이것이 분열할 때마다, 방어 영웅에게 비전 피해 1을 준다.\n프래그먼트"
+  },
+  "Mh9bPkdPw6Hf7NCQhTqgp": {
+    "_name_en": "Polarus Pulse Ray",
+    "name_ko": "폴라루스 펄스 광선",
+    "text_ko": "이것이 분열할 때마다, 방어 영웅에게 비전 피해 1을 준다.\n프래그먼트"
+  },
+  "gggJzRrtDDmNMKht6Whk7": {
+    "_name_en": "Polished Blade",
+    "name_ko": "잘 다듬어진 검",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 활성 체인 링크에 있는 공격하는 검에서 +1{p} 카운터 1개 이상을 제거한다. 그 수에 1을 더한 만큼 모드를 선택한다:\n- 그 검의 공격이 고 어게인을 얻는다.\n- 이번 턴 그 검으로 추가로 한 번 더 공격할 수 있다.\n- 이번 턴 그 검으로 하는 당신의 다음 공격이 활성화하는 데 {r}이 덜 든다."
+  },
+  "WMTq8GLHDK9ztDckQNDDw": {
+    "_name_en": "Polly Cranka",
+    "name_ko": "폴리 크랭카",
+    "text_ko": "액션 - {t}, 이것을 추방한다: 이것을 소유자의 조종 하에, 장착되지 않은 채, 탭된 채, 스팀 카운터를 지닌 채 전장으로 되돌린다.\n크랭크\n퍼치드"
+  },
+  "HpWqFJW8ftTDdzCLK9RkD": {
+    "_name_en": "Ponder",
+    "name_ko": "폰더",
+    "text_ko": "당신의 종료 단계 시작 시, 폰더를 파괴하고 카드 1장을 뽑는다."
+  },
+  "QMpq7DpJhfwJKkBfr6JKF": {
+    "_name_en": "Pop the Bubble",
+    "name_ko": "거품을 터뜨리다",
+    "text_ko": "아무 대상에게 비전 피해 3을 준다.\n서지 - 이것이 영웅에게 3을 초과하는 피해를 주면, 그가 조종하는 오라 지속물 1개를 파괴한다."
+  },
+  "dTfFbRdN9zLPKfgWd8mmp": {
+    "_name_en": "Pop the Bubble",
+    "name_ko": "거품을 터뜨리다",
+    "text_ko": "아무 대상에게 비전 피해 2를 준다.\n서지 - 이것이 영웅에게 3을 초과하는 피해를 주면, 그가 조종하는 오라 지속물 1개를 파괴한다."
+  },
+  "Fwd6jCqPfPh696Kz7gLfW": {
+    "_name_en": "Pop the Bubble",
+    "name_ko": "거품을 터뜨리다",
+    "text_ko": "아무 대상에게 비전 피해 1을 준다.\n서지 - 이것이 영웅에게 3을 초과하는 피해를 주면, 그가 조종하는 오라 지속물 1개를 파괴한다."
+  },
+  "KLrGzkPn8QfB6cqNqcN8m": {
+    "_name_en": "Popped Collar Polo",
+    "name_ko": "칼라를 세운 폴로",
+    "text_ko": "액션 - 이것을 파괴한다: {r}을 얻는다. 고 어게인"
+  },
+  "PRkRJkPDTwbd7RLCKPkNt": {
+    "_name_en": "Portside Exchange",
+    "name_ko": "항구의 교환",
+    "text_ko": "카드 1장을 버린 뒤, 카드 1장을 뽑는다. 이렇게 노란색 카드가 버려지면, 골드 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "qLwNCBR9FCfnnPtPjkWNp": {
+    "_name_en": "Potion of Déjà Vu",
+    "name_ko": "데자뷔의 물약",
+    "text_ko": "순간 - 데자뷔의 물약을 파괴한다: 당신의 피치 존에 있는 모든 카드를 원하는 순서로 덱 맨 위에 놓는다."
+  },
+  "LRdKLkdKnTJ8CCczKmwzw": {
+    "_name_en": "Potion of Ironhide",
+    "name_ko": "강철가죽의 물약",
+    "text_ko": "순간 - 강철가죽의 물약을 파괴한다: 당신이 소유한 공격 액션 카드들이 이번 턴 +1{d}을 얻는다."
   }
 }
