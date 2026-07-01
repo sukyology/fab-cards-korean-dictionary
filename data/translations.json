@@ -4923,5 +4923,682 @@
     "_name_en": "Crankshaft",
     "name_ko": "크랭크축",
     "text_ko": "부스트\n이 카드가 부스트로 추방되면, 당신이 조종하는 하이퍼 드라이버 1개에 스팀 카운터를 올린다."
+  },
+  "jDPdqfjkbzLjMGk6nPPgn": {
+    "_name_en": "Crash and Bash",
+    "name_ko": "충돌과 강타",
+    "text_ko": "이 카드가 방어할 때, 당신의 손에서 크러시를 가진 카드 1장을 공개할 수 있다. 그렇게 하면, 지진 파동 토큰 1개를 생성한다."
+  },
+  "tCKk7THm9bNKJh8F6Dmzk": {
+    "_name_en": "Crash and Bash",
+    "name_ko": "충돌과 강타",
+    "text_ko": "이 카드가 방어할 때, 당신의 손에서 크러시를 가진 카드 1장을 공개할 수 있다. 그렇게 하면, 지진 파동 토큰 1개를 생성한다."
+  },
+  "8CtmRqKLjmGkqD8bgDjTd": {
+    "_name_en": "Crash and Bash",
+    "name_ko": "충돌과 강타",
+    "text_ko": "이 카드가 방어할 때, 당신의 손에서 크러시를 가진 카드 1장을 공개할 수 있다. 그렇게 하면, 지진 파동 토큰 1개를 생성한다."
+  },
+  "bzBJdKw6Brc9KmtcNrJKp": {
+    "_name_en": "Crash Down",
+    "name_ko": "낙하",
+    "text_ko": "당신의 턴 시작 시, 이것을 파괴한 뒤, 이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 +6{p}을 얻는다."
+  },
+  "TgrNMPfTmLkB9DtNtkccP": {
+    "_name_en": "Crash Down",
+    "name_ko": "낙하",
+    "text_ko": "당신의 턴 시작 시, 이것을 파괴한 뒤, 이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 +5{p}을 얻는다."
+  },
+  "78qm8bGbrcGwf7chnPrqj": {
+    "_name_en": "Crash Down the Gates",
+    "name_ko": "성문을 무너뜨리다",
+    "text_ko": "이 카드가 영웅을 공격할 때, 그 영웅은 자신의 덱 맨 위 카드를 공개한다. 이 카드의 {p}이 공개된 카드보다 높다면, 이 카드가 +2{p}을 얻는다.\n이 카드가 영웅을 명중하면, 그 영웅의 덱 맨 위 카드를 파괴한다."
+  },
+  "rkBTWR7wJGdbpzMDC8CfT": {
+    "_name_en": "Crash Down the Gates",
+    "name_ko": "성문을 무너뜨리다",
+    "text_ko": "이 카드가 영웅을 공격할 때, 그 영웅은 자신의 덱 맨 위 카드를 공개한다. 이 카드의 {p}이 공개된 카드보다 높다면, 이 카드가 +2{p}을 얻는다.\n이 카드가 영웅을 명중하면, 그 영웅의 덱 맨 위 카드를 파괴한다."
+  },
+  "6cNDdMzwq6KHcHjFdmmHT": {
+    "_name_en": "Crash Down the Gates",
+    "name_ko": "성문을 무너뜨리다",
+    "text_ko": "이 카드가 영웅을 공격할 때, 그 영웅은 자신의 덱 맨 위 카드를 공개한다. 이 카드의 {p}이 공개된 카드보다 높다면, 이 카드가 +2{p}을 얻는다.\n이 카드가 영웅을 명중하면, 그 영웅의 덱 맨 위 카드를 파괴한다."
+  },
+  "KbCmqdmczTM6BRmGhmnLn": {
+    "_name_en": "Crash Site Salvage",
+    "name_ko": "추락 현장 회수",
+    "text_ko": "스크랩\n이 카드가 공격할 때, 카드를 스크랩했다면, 고 어게인을 얻는다. 이렇게 톱니바퀴가 스크랩되면, 골드 토큰 1개를 생성한다."
+  },
+  "DbpdPtLqk9zqfp6bdQTP6": {
+    "_name_en": "Crater Fist",
+    "name_ko": "크레이터 주먹",
+    "text_ko": "액션 - {r}{r}{r}, 크레이터 주먹을 파괴한다: 이번 턴 크러시를 가진 당신의 공격들이 +2{p}을 얻는다. 고 어게인\n템퍼"
+  },
+  "8LDQbNHPK7NC9Lg8phzrk": {
+    "_name_en": "Craterhoof",
+    "name_ko": "크레이터후프",
+    "text_ko": "액션 - {r}{r}{r}, 이것을 파괴한다: 이번 턴 당신이 아스날에서 사용하는 다음 가디언 공격 액션 카드가 도미네이트를 얻는다. 고 어게인\n배틀원"
+  },
+  "zHBTDcDtMLgTrqfnmTB9q": {
+    "_name_en": "Crazy Brew",
+    "name_ko": "미친 양조주",
+    "text_ko": "액션 - 이것을 파괴한다: 6면체 주사위를 굴린다.\n\n1 또는 2 - 2{h}을 잃는다. 고 어게인\n3 또는 4 - 2{h}을 얻는다. 고 어게인\n5 또는 6 - {r}{r}을 얻고, 행동권 2를 얻으며, 이번 턴 당신의 다음 공격이 +2{p}을 얻는다."
+  },
+  "77dWGRQb88WqJDbh6dtcd": {
+    "_name_en": "Creep",
+    "name_ko": "포복",
+    "text_ko": "스텔스\n이 카드가 공격할 때, 이번 전투 체인에 당신이 사용하는 다음 스텔스 공격이 고 어게인을 얻는다."
+  },
+  "JdRffqrPCN9BQRd8gq9BW": {
+    "_name_en": "Cries of Encore",
+    "name_ko": "앙코르의 함성",
+    "text_ko": "이 카드가 영웅을 공격할 때, 당신이 그 영웅보다 {h}가 적다면, 관중이 당신에게 환호한다.\n이번 턴에 환호를 받았다면, 이 카드가 \"이 카드가 영웅을 명중하면, 이번 턴에 당신의 무덤에서 서스펜스를 가진 오라를 계획할 수 있다\"를 얻는다."
+  },
+  "j8jjnw6NmpTpf9cWThfgg": {
+    "_name_en": "Crippling Crush",
+    "name_ko": "무력화 크러시",
+    "text_ko": "브라보 스페셜라이제이션\n크러시 - 무력화 크러시가 영웅에게 4 이상의 피해를 주면, 그 영웅은 무작위 카드 2장을 버린다."
+  },
+  "QHhGzKbHqzz6fgGBhWcKR": {
+    "_name_en": "Critical Strike",
+    "name_ko": "치명타"
+  },
+  "kn9MM8LWgKN9WdmCWJjWG": {
+    "_name_en": "Critical Strike",
+    "name_ko": "치명타"
+  },
+  "RqL9CKpGPF6dMmDBhHDfT": {
+    "_name_en": "Critical Strike",
+    "name_ko": "치명타"
+  },
+  "hnnpkTnnFPR76kw7qg7mr": {
+    "_name_en": "Cromai",
+    "name_ko": "크로마이",
+    "text_ko": "턴당 1회, 크로마이가 공격하거나 전장을 떠날 때, 행동권 1을 얻는다."
+  },
+  "WqzwfQcDmgmMBKpwbKzwq": {
+    "_name_en": "Cross the Line",
+    "name_ko": "선을 넘다",
+    "text_ko": "선을 넘다를 사용하기 위한 추가 비용으로, 당신 영웅의 소울을 충전할 수 있다."
+  },
+  "7qbjh9PzfHGJBFpmNJNHD": {
+    "_name_en": "Cross the Line",
+    "name_ko": "선을 넘다",
+    "text_ko": "선을 넘다를 사용하기 위한 추가 비용으로, 당신 영웅의 소울을 충전할 수 있다."
+  },
+  "CfHfrPNdfKGhM7qJjtzQt": {
+    "_name_en": "Cross the Line",
+    "name_ko": "선을 넘다",
+    "text_ko": "선을 넘다를 사용하기 위한 추가 비용으로, 당신 영웅의 소울을 충전할 수 있다."
+  },
+  "fw9LtHDQTMHgTrdcK9gP6": {
+    "_name_en": "Crouching Tiger",
+    "name_ko": "크라우칭 타이거",
+    "text_ko": "이페머럴\n고 어게인"
+  },
+  "QqNbkbMnDhQrdrBj77Qpr": {
+    "_name_en": "Crow's Nest",
+    "name_ko": "망루",
+    "text_ko": "아잘레아 스페셜라이제이션\n당신의 덱에서 화살이 앞면으로 아스날에 놓일 때마다, {r}을 지불할 수 있다. 그렇게 하면, 그것에 조준 카운터를 올린다."
+  },
+  "DfkBWGW6Wqk8P6NdGjtrz": {
+    "_name_en": "Crowd Control",
+    "name_ko": "군중 제압",
+    "text_ko": "이 카드가 방어할 때, {r}{r}{r}을 지불할 수 있다. 그렇게 하면, 각 상대 영웅마다 +1{d}을 얻는다."
+  },
+  "9MMPg6FzLBnGmNtjnFtCQ": {
+    "_name_en": "Crowd Control",
+    "name_ko": "군중 제압",
+    "text_ko": "이 카드가 방어할 때, {r}{r}{r}을 지불할 수 있다. 그렇게 하면, 각 상대 영웅마다 +1{d}을 얻는다."
+  },
+  "WDTM8c7DNBzkphfGWtBkN": {
+    "_name_en": "Crowd Control",
+    "name_ko": "군중 제압",
+    "text_ko": "이 카드가 방어할 때, {r}{r}{r}을 지불할 수 있다. 그렇게 하면, 각 상대 영웅마다 +1{d}을 얻는다."
+  },
+  "HF9r7w6kkD9C7Qddqn8kR": {
+    "_name_en": "Crowd Goes Wild",
+    "name_ko": "관중이 열광하다",
+    "text_ko": "이번 턴에 환호를 받았다면, 이 카드는 {r}{r}{r} 적은 비용으로 사용된다."
+  },
+  "Fj6DCwFDczkFfd7dtnd9J": {
+    "_name_en": "Crowd Roars Fight!",
+    "name_ko": "관중이 싸움을 외치다!",
+    "text_ko": "이번 턴 당신의 다음 공격이 +1{p}을 얻고 임의의 상대 영웅을 공격할 수 있다."
+  },
+  "CQLdjjNmHTMfDnqzW6TLg": {
+    "_name_en": "Crown of Dichotomy",
+    "name_ko": "이분법의 왕관",
+    "text_ko": "액션 - {r}, 이분법의 왕관을 파괴한다: 당신의 무덤에서 대상 룬블레이드 공격 액션 카드와 대상 룬블레이드 '비-공격' 액션 카드를 원하는 순서로 덱 맨 위에 놓는다.\n아케인 배리어 1"
+  },
+  "QbRRGgm9QNjFGchhLkbtF": {
+    "_name_en": "Crown of Dominion",
+    "name_ko": "지배의 왕관",
+    "text_ko": "당신의 영웅은 로열이다.\n당신이 지배의 왕관을 장착할 때, 골드 토큰 1개를 생성한다."
+  },
+  "trMzKPpJWJGpqnpDTMzbp": {
+    "_name_en": "Crown of Everbloom",
+    "name_ko": "영원한 개화의 왕관",
+    "text_ko": "순간 - 이것을 파괴한다: 당신의 아스날에서 카드 1장을 덱 맨 아래에 놓는다. 그렇게 하면, 카드 1장을 뽑고 스펠베인 이지스 토큰 1개를 생성한다.\n아케인 배리어 2"
+  },
+  "8cCPkCrpTtbtL7hw7F8jG": {
+    "_name_en": "Crown of Frozen Thoughts",
+    "name_ko": "얼어붙은 생각의 왕관",
+    "text_ko": "이 카드가 방어할 때, 공격하는 영웅을 다음 턴 시작 시까지 얼린다.\n블레이드 브레이크"
+  },
+  "NRHdp6LTtCDKbJngJPCmN": {
+    "_name_en": "Crown of Providence",
+    "name_ko": "섭리의 왕관",
+    "text_ko": "당신이 섭리의 왕관으로 방어할 때, 당신의 손이나 아스날에서 카드 1장을 덱 맨 아래에 놓을 수 있다. 그렇게 하면, 카드 1장을 뽑는다.\n블레이드 브레이크"
+  },
+  "MkjQ7zw7Bpc8BMJDnJ9fC": {
+    "_name_en": "Crown of Reflection",
+    "name_ko": "반영의 왕관",
+    "text_ko": "순간 - 반영의 왕관을 파괴한다: 당신이 조종하는 대상 일루저니스트 오라를 파괴한다. 그렇게 하면, 당신의 손에서 이렇게 파괴된 오라 이하의 비용을 가진 일루저니스트 오라 카드 1장을 전장에 놓을 수 있다. 반영의 왕관은 당신의 행동 단계에만 활성화한다.\n아케인 배리어 1"
+  },
+  "Lbp8pFhph9wMqMHDw8JWq": {
+    "_name_en": "Crown of Seeds",
+    "name_ko": "씨앗의 왕관",
+    "text_ko": "턴당 1회 순간 - {r}, 당신의 아스날에서 뒷면 카드 1장을 덱 맨 아래에 놓는다: 카드 1장을 뽑고 이번 턴 당신의 영웅에게 가해질 다음 피해 1을 방지한다."
+  },
+  "nzDWrNMqGWgmJfgJhChNb": {
+    "_name_en": "Crucible of Aetherweave",
+    "name_ko": "에테르위브의 도가니",
+    "text_ko": "턴당 1회 순간 - {r}: 이번 턴 당신이 사용하는 다음 카드가 비전 피해를 주는 효과를 가졌다면, 대신 그만큼의 비전 피해에 1을 더해 준다."
+  },
+  "fJjNtpB6PRFbDhM9Brndh": {
+    "_name_en": "Cruel Ambition",
+    "name_ko": "잔혹한 야망",
+    "text_ko": "마이트 토큰 3개를 생성한다.\n고 어게인"
+  },
+  "mnKzqjmdQbtKgBLT6bFBj": {
+    "_name_en": "Crumble to Eternity",
+    "name_ko": "영원으로 무너지다",
+    "text_ko": "야를 스페셜라이제이션\n이 카드가 전장에 들어올 때, 장비 1개에 -1{d} 카운터를 올릴 수 있다.\n당신의 행동 단계 시작 시, 이것을 파괴한 뒤, 이번 턴 당신의 다음 공격이 도미네이트를 얻는다."
+  },
+  "gNMFmq7hhbDCRHHzhRKRK": {
+    "_name_en": "Crush Confidence",
+    "name_ko": "자신감 파괴",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅은 다음 턴 종료 시까지 모든 영웅 카드 능력을 잃는다."
+  },
+  "cdtTLJQBTcPbpc8GWmFKN": {
+    "_name_en": "Crush Confidence",
+    "name_ko": "자신감 파괴",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅은 다음 턴 종료 시까지 모든 영웅 카드 능력을 잃는다."
+  },
+  "Nj6B7WzpjfdJCbjq6Mwrp": {
+    "_name_en": "Crush Confidence",
+    "name_ko": "자신감 파괴",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅은 다음 턴 종료 시까지 모든 영웅 카드 능력을 잃는다."
+  },
+  "qh8pckPwPHDHtPFj7tztn": {
+    "_name_en": "Crush the Weak",
+    "name_ko": "약자를 짓밟다",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅은 다음 행동 단계 동안 기본 {p}이 3 이하인 공격 액션 카드를 사용할 수 없다."
+  },
+  "M8JWqJCWzWJWnbKQ7BjG6": {
+    "_name_en": "Crush the Weak",
+    "name_ko": "약자를 짓밟다",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅은 다음 행동 단계 동안 기본 {p}이 3 이하인 공격 액션 카드를 사용할 수 없다."
+  },
+  "m76gcHbBbBpjQnJgHpbQq": {
+    "_name_en": "Crush the Weak",
+    "name_ko": "약자를 짓밟다",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅은 다음 행동 단계 동안 기본 {p}이 3 이하인 공격 액션 카드를 사용할 수 없다."
+  },
+  "9qQTtRm6phFRbknPqHqM6": {
+    "_name_en": "Crushing Impact",
+    "name_ko": "분쇄의 충격",
+    "text_ko": "이번 턴 당신이 다음에 4 미만의 피해를 주게 될 경우, 대신 피해 4를 준다."
+  },
+  "JfndQHGQ9CTQ8FPcFC6RH": {
+    "_name_en": "Cryptic Crossing",
+    "name_ko": "수수께끼의 횡단",
+    "text_ko": "수수께끼의 횡단을 사용하기 위해 공격 액션 카드와 '비-공격' 액션 카드가 피치되었다면, \"이 카드가 방어 영웅에게 처음으로 피해를 줄 때, 그 영웅은 카드 1장을 버리고 당신은 카드 1장을 뽑는다\"를 가진다."
+  },
+  "7RhQ7rthWCfHkgfdHFFJm": {
+    "_name_en": "Cull",
+    "name_ko": "숙청",
+    "text_ko": "당신의 추방 구역에서 이 카드를 사용할 수 있다.\n이번 턴에 영웅이 {h}을 잃은 적이 있다면, 이 카드를 순간 카드인 것처럼 사용할 수 있다.\n각 영웅은 자신의 손에서 카드 1장을 추방한다.\n블러드 뎃"
+  },
+  "bN7nrfGCGqKNJMWzDNBb9": {
+    "_name_en": "Current Funnel",
+    "name_ko": "전류 깔때기",
+    "text_ko": "이 카드가 공격할 때, 이번 턴에 당신이 마지막으로 사용한 액션 카드가 번개였다면, 이 카드와 이번 턴 당신이 사용하는 다음 액션 카드가 고 어게인을 얻는다."
+  },
+  "mhdJ9hGfrqrKPzgf687RG": {
+    "_name_en": "Cut a Long Story Short",
+    "name_ko": "간단히 말하자면",
+    "text_ko": "이 카드의 {p}이 기본보다 높으면, +1{p}을 얻는다.\n타워 - 이 카드가 {p} 13 이상이면, \"이 카드가 영웅을 명중하면, 그 영웅은 자신의 손을 버린다\"를 얻는다."
+  },
+  "BBTGgCjCWLBN79phhMwrj": {
+    "_name_en": "Cut Deep",
+    "name_ko": "깊게 베다",
+    "text_ko": "이번 턴 당신의 다음 단검 공격이 +4{p}을 얻는다.\n고 어게인"
+  },
+  "BJqqRDKg9w8pDbbb7Wmpj": {
+    "_name_en": "Cut Deep",
+    "name_ko": "깊게 베다",
+    "text_ko": "이번 턴 당신의 다음 단검 공격이 +3{p}을 얻는다.\n고 어게인"
+  },
+  "Kn7f7Dn6KnfF7JW8TMnLz": {
+    "_name_en": "Cut Deep",
+    "name_ko": "깊게 베다",
+    "text_ko": "이번 턴 당신의 다음 단검 공격이 +2{p}을 얻는다.\n고 어게인"
+  },
+  "wb9JwfqjqdfgtdKBDmtbw": {
+    "_name_en": "Cut Down to Size",
+    "name_ko": "규모를 줄이다",
+    "text_ko": "이 카드가 영웅을 명중하면, 그 영웅의 손에 카드가 4장 이상이면, 그 영웅은 카드 1장을 버린다."
+  },
+  "gGnD9FWMjp89q8PGwThGr": {
+    "_name_en": "Cut Down to Size",
+    "name_ko": "규모를 줄이다",
+    "text_ko": "이 카드가 영웅을 명중하면, 그 영웅의 손에 카드가 4장 이상이면, 그 영웅은 카드 1장을 버린다."
+  },
+  "wDqGGmznKnwnMBQT6thmt": {
+    "_name_en": "Cut Down to Size",
+    "name_ko": "규모를 줄이다",
+    "text_ko": "이 카드가 영웅을 명중하면, 그 영웅의 손에 카드가 4장 이상이면, 그 영웅은 카드 1장을 버린다."
+  },
+  "D6JbcW8RH7kTQqrp9CLwb": {
+    "_name_en": "Cut from the Same Cloth",
+    "name_ko": "한통속",
+    "text_ko": "대상 상대 영웅은 자신의 손을 공개한다. 이렇게 공격 반응 카드가 공개되면, 그 영웅을 표식한다.\n이번 턴 당신의 다음 단검 공격이 +4{p}을 얻는다.\n고 어게인"
+  },
+  "FpRhRwNmrPWrT7chpRJDj": {
+    "_name_en": "Cut from the Same Cloth",
+    "name_ko": "한통속",
+    "text_ko": "대상 상대 영웅은 자신의 손을 공개한다. 이렇게 공격 반응 카드가 공개되면, 그 영웅을 표식한다.\n이번 턴 당신의 다음 단검 공격이 +3{p}을 얻는다.\n고 어게인"
+  },
+  "8tnJpPbzJqbBBdPBpc8Wt": {
+    "_name_en": "Cut from the Same Cloth",
+    "name_ko": "한통속",
+    "text_ko": "대상 상대 영웅은 자신의 손을 공개한다. 이렇게 공격 반응 카드가 공개되면, 그 영웅을 표식한다.\n이번 턴 당신의 다음 단검 공격이 +2{p}을 얻는다.\n고 어게인"
+  },
+  "cNbCGczPqzHpKLzTrMMMc": {
+    "_name_en": "Cut n' Carve",
+    "name_ko": "자르고 조각하다",
+    "text_ko": "당신이 조종하는 대상 검을 연마한다.\n그것이 +1{p} 카운터를 1개 이상 가졌다면, 이번 턴 그것의 다음 공격이 도미네이트를 얻는다.\n고 어게인"
+  },
+  "CWQPkrNcF7CH6BwDCdtDf": {
+    "_name_en": "Cut n' Carve",
+    "name_ko": "자르고 조각하다",
+    "text_ko": "당신이 조종하는 대상 검을 연마한다.\n그것이 +1{p} 카운터를 2개 이상 가졌다면, 이번 턴 그것의 다음 공격이 도미네이트를 얻는다.\n고 어게인"
+  },
+  "7JjdjGjGkbQzQPfTnkFPD": {
+    "_name_en": "Cut n' Carve",
+    "name_ko": "자르고 조각하다",
+    "text_ko": "당신이 조종하는 대상 검을 연마한다.\n그것이 +1{p} 카운터를 3개 이상 가졌다면, 이번 턴 그것의 다음 공격이 도미네이트를 얻는다.\n고 어게인"
+  },
+  "Krn6kqpHkw6JkTwzMqTNk": {
+    "_name_en": "Cut Off at the Knees",
+    "name_ko": "무릎을 끊다",
+    "text_ko": "이 카드의 {p}이 기본보다 높으면, +1{p}을 얻는다.\n타워 - 이 카드가 {p} 13 이상이면, \"이 카드가 영웅을 명중하면, 그 영웅의 덱 맨 위 3장을 파괴한다\"를 얻는다."
+  },
+  "6jHQz9TfCjcddBGqKkWgJ": {
+    "_name_en": "Cut the Deck",
+    "name_ko": "패를 자르다",
+    "text_ko": "대상 전사 공격이 +3{p}을 얻는다. 그것이 공격 액션 카드로 방어되면, 카드 1장을 뽑은 뒤, 당신의 손이나 아스날에서 카드 1장을 덱 맨 아래에 놓는다."
+  },
+  "NWz7896QdrKM7p9nzfCcP": {
+    "_name_en": "Cut the Deck",
+    "name_ko": "패를 자르다",
+    "text_ko": "대상 전사 공격이 +2{p}을 얻는다. 그것이 공격 액션 카드로 방어되면, 카드 1장을 뽑은 뒤, 당신의 손이나 아스날에서 카드 1장을 덱 맨 아래에 놓는다."
+  },
+  "knbbJdFrQgDbdzh8r8hTd": {
+    "_name_en": "Cut the Deck",
+    "name_ko": "패를 자르다",
+    "text_ko": "대상 전사 공격이 +1{p}을 얻는다. 그것이 공격 액션 카드로 방어되면, 카드 1장을 뽑은 뒤, 당신의 손이나 아스날에서 카드 1장을 덱 맨 아래에 놓는다."
+  },
+  "D77NtkfPpRhpwjGbPJd8n": {
+    "_name_en": "Cut the Small Talk",
+    "name_ko": "잡담은 그만",
+    "text_ko": "이 카드의 {p}이 기본보다 높으면, +1{p}을 얻는다.\n타워 - 이 카드가 {p} 13 이상이면, \"이 카드가 영웅을 명중하면, 그 영웅이 조종하는 모든 오라를 파괴한다\"를 얻는다."
+  },
+  "qwHFTzdTJW6mjr8hmtnWp": {
+    "_name_en": "Cut Through",
+    "name_ko": "관통하다",
+    "text_ko": "이번 전투 체인에 당신이 단검으로 명중한 적이 있다면, 이 카드가 +1{p}과 고 어게인을 얻는다."
+  },
+  "cDBkbnjNDfkWKjqtWL7qq": {
+    "_name_en": "Cut Through",
+    "name_ko": "관통하다",
+    "text_ko": "이번 전투 체인에 당신이 단검으로 명중한 적이 있다면, 이 카드가 +1{p}과 고 어게인을 얻는다."
+  },
+  "wd7RGtzFkH9Ftj6qTbBpN": {
+    "_name_en": "Cut Through",
+    "name_ko": "관통하다",
+    "text_ko": "이번 전투 체인에 당신이 단검으로 명중한 적이 있다면, 이 카드가 +1{p}과 고 어게인을 얻는다."
+  },
+  "fPzhqRh86kP9zhkBKdCjq": {
+    "_name_en": "Cut Through the Facade",
+    "name_ko": "가면을 꿰뚫다",
+    "text_ko": "이 카드는 오라로 방어될 수 없다.\n이 카드가 영웅을 명중하면, 그 영웅이 조종하는 오라 1개를 파괴할 수 있다."
+  },
+  "N8LcRHMmCMTbwRNRm9P7q": {
+    "_name_en": "Cut to the Chase",
+    "name_ko": "본론으로 들어가다",
+    "text_ko": "컨트랙트를 가진 대상 어쌔신 공격 액션 카드가 +3{p}을 얻는다.\n방어 영웅의 덱 맨 위 카드를 확인한다. 맨 아래에 놓을 수 있다."
+  },
+  "fbcKWGrbfkm7tKJkrtgjK": {
+    "_name_en": "Cut to the Chase",
+    "name_ko": "본론으로 들어가다",
+    "text_ko": "컨트랙트를 가진 대상 어쌔신 공격 액션 카드가 +2{p}을 얻는다.\n방어 영웅의 덱 맨 위 카드를 확인한다. 맨 아래에 놓을 수 있다."
+  },
+  "MMpKrnJcBQRmBP9thgWG6": {
+    "_name_en": "Cut to the Chase",
+    "name_ko": "본론으로 들어가다",
+    "text_ko": "컨트랙트를 가진 대상 어쌔신 공격 액션 카드가 +1{p}을 얻는다.\n방어 영웅의 덱 맨 위 카드를 확인한다. 맨 아래에 놓을 수 있다."
+  },
+  "rfTDjNMz8cqGFTkBQPmHQ": {
+    "_name_en": "Cutting Couriers",
+    "name_ko": "베어내는 배달자",
+    "text_ko": "당신의 검 공격이 명중하면, 이것을 파괴할 수 있다. 그렇게 하면, 그 공격이 고 어게인을 얻는다."
+  },
+  "8mP7k9zMRB7P6bnKCbKmr": {
+    "_name_en": "Cutting Retort",
+    "name_ko": "베는 반박",
+    "text_ko": "이 카드가 영웅을 공격할 때, 최대 {r}{r}{r}을 지불할 수 있다. 그 영웅이 조종하는, 서로 다른 이름의 오라 토큰을 그만큼 파괴한다. 그렇게 하면, 이렇게 파괴된 오라마다 이 카드가 +1{p}을 얻는다."
+  },
+  "zFb8FTK6fL7wtcRdcR8gj": {
+    "_name_en": "Cutty Shark, Quick Clip",
+    "name_ko": "커티 샤크, 빠른 자르기",
+    "text_ko": "액션 - {r}, {t}: 공격\n턴당 1회 액션 - {r}: 이번 턴 당신의 다음 아군 공격이 +1{p}을 얻는다. 고 어게인\n워터리 그레이브"
+  },
+  "fMTdMtzzft7bLzG9DpjNc": {
+    "_name_en": "Cyclone Roundhouse",
+    "name_ko": "사이클론 라운드하우스",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 스피닝 휠 킥이었다면, 이 카드는 \"반응 단계 시작 시, 각 체인 링크에서 무작위 방어 카드 1장을 추방한다\"를 가진다."
+  },
+  "Ddqz6QF9FNMT8qJjjr8Q9": {
+    "_name_en": "Dabble in Darkness",
+    "name_ko": "어둠에 손을 대다",
+    "text_ko": "이 카드가 공격할 때, 당신의 덱 맨 위 카드를 추방한다. 이 카드는 -X{p}을 얻는다. X는 이렇게 추방된 카드의 피치값이다.\n블러드 뎃"
+  },
+  "wKRRTFLrpKDJRLQTnb7Ld": {
+    "_name_en": "Daily Grind",
+    "name_ko": "일상의 고역",
+    "text_ko": "당신이 조종하는 공격 액션 카드들이 \"이 카드가 방어할 때, 공격하는 영웅과 격돌한다. 승자는 상대 영웅의 덱 맨 위 카드를 파괴한다\"를 얻는다.\n당신의 턴 시작 시, 이것을 파괴한다."
+  },
+  "rzGrbqkdk7nptwNhTJKCb": {
+    "_name_en": "Dampen",
+    "name_ko": "완화",
+    "text_ko": "아무 대상에게 비전 피해 4를 준다.\n이번 턴 당신의 영웅에게 가해질 다음 비전 피해 X를 방지한다. X는 완화가 준 피해량이다."
+  },
+  "hnrFMm8w7tLpTtbMjHHK9": {
+    "_name_en": "Dampen",
+    "name_ko": "완화",
+    "text_ko": "아무 대상에게 비전 피해 3을 준다.\n이번 턴 당신의 영웅에게 가해질 다음 비전 피해 X를 방지한다. X는 완화가 준 피해량이다."
+  },
+  "jR6fBL9G8hzwjFpmbLdwW": {
+    "_name_en": "Dampen",
+    "name_ko": "완화",
+    "text_ko": "아무 대상에게 비전 피해 2를 준다.\n이번 턴 당신의 영웅에게 가해질 다음 비전 피해 X를 방지한다. X는 완화가 준 피해량이다."
+  },
+  "HjgMJg6DrhJqR6fMnp6fc": {
+    "_name_en": "Dance of Darkness",
+    "name_ko": "어둠의 춤",
+    "text_ko": "당신의 영웅이 피해를 받게 될 경우, 이것을 추방해 그 피해 중 2를 방지할 수 있다.\n블러드 뎃"
+  },
+  "kDCzjqmjjMT9hdnJTfRJb": {
+    "_name_en": "Danger Digits",
+    "name_ko": "위험한 손가락",
+    "text_ko": "공격 반응 - 이것을 파괴한다: 활성 체인 링크에 없는, 당신이 조종하는 대상 단검이 방어 영웅에게 피해 1을 준다. 이렇게 피해를 주면, 그 단검은 명중한 것이다. 그 단검을 파괴한다."
+  },
+  "rFpG8LW6fRmGgJ6dpWj8Q": {
+    "_name_en": "Darling of the Crowd",
+    "name_ko": "군중의 사랑",
+    "text_ko": "이 카드가 방어하는 동안, 이번 턴에 환호를 받았다면, +1{d}을 얻는다."
+  },
+  "kftPnNkrBLJ7rPmFGgQCm": {
+    "_name_en": "Dash",
+    "name_ko": "대시",
+    "text_ko": "당신은 비용 2 이하의 메카놀로지스트 아이템 1개를 전장에 둔 채 게임을 시작할 수 있다."
+  },
+  "LkqQpr7QL8KpnqMh7dHpR": {
+    "_name_en": "Dash I/O",
+    "name_ko": "대시 I/O",
+    "text_ko": "당신은 언제든지 자신의 덱 맨 위 카드를 확인할 수 있다.\n턴당 1회, 당신의 덱 맨 위에서 비용 0 또는 1인 메카놀로지스트 아이템을 순간 카드인 것처럼 사용할 수 있다. 이 카드는 추가로 {r}을 지불해야 사용할 수 있다."
+  },
+  "N6TDqDNWfKfrz6G6jNrQQ": {
+    "_name_en": "Dash, Database",
+    "name_ko": "대시, 데이터베이스",
+    "text_ko": "당신은 언제든지 자신의 덱 맨 위 카드를 확인할 수 있다.\n턴당 1회, 당신의 덱 맨 위에서 비용 0 또는 1인 메카놀로지스트 아이템을 순간 카드인 것처럼 사용할 수 있다. 이 카드는 추가로 {r}을 지불해야 사용할 수 있다."
+  },
+  "6CcjWGnThrTmTQFQ9zHMN": {
+    "_name_en": "Dash, Inventor Extraordinaire",
+    "name_ko": "대시, 비범한 발명가",
+    "text_ko": "당신은 비용 2 이하의 메카놀로지스트 아이템 1개를 전장에 둔 채 게임을 시작할 수 있다."
+  },
+  "8m9Tr996zccnJhHcQKhFr": {
+    "_name_en": "Dashing Flashfoot",
+    "name_ko": "질주하는 플래시풋",
+    "text_ko": "퀵스트라이크 - 이 카드가 고 어게인을 가졌다면, +1{p}과 \"이 카드가 영웅을 공격할 때, 그 영웅에게 비전 피해 1을 준다\"를 얻는다.\n이 카드가 영웅에게 처음으로 피해를 줄 때, 번개의 화신 토큰 1개를 생성한다."
+  },
+  "kbdzm8R7MHCpWC79RdTGH": {
+    "_name_en": "Data Doll MKII",
+    "name_ko": "데이터 돌 MK2",
+    "text_ko": "당신의 덱에서 비용 2 이하의 메카놀로지스트 아이템이 추방 구역에 놓일 때마다, 그것을 전장에 놓는다."
+  },
+  "9FjqMc6RW8nJFCnG8cqMm": {
+    "_name_en": "Data Link",
+    "name_ko": "데이터 링크",
+    "text_ko": "부스트\n이 카드가 명중하면, 옵트 1."
+  },
+  "KjfkLJHHPhbFqpqjPhHMt": {
+    "_name_en": "Data Link",
+    "name_ko": "데이터 링크",
+    "text_ko": "부스트\n이 카드가 명중하면, 옵트 1."
+  },
+  "qfgqjM7QnmJKDnPkmgHTw": {
+    "_name_en": "Data Link",
+    "name_ko": "데이터 링크",
+    "text_ko": "부스트\n이 카드가 명중하면, 옵트 1."
+  },
+  "wNjKmtGB97kW7GWKRgjDt": {
+    "_name_en": "Dauntless",
+    "name_ko": "대담무쌍",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +3{p}을 얻는다.\n이번 턴 방어 영웅이 사용하는 다음 방어 반응 카드는 사용하는 데 추가로 {r}이 든다.\n고 어게인"
+  },
+  "Gntgf7CggCQKtzDBJLWLm": {
+    "_name_en": "Dauntless",
+    "name_ko": "대담무쌍",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +2{p}을 얻는다.\n이번 턴 방어 영웅이 사용하는 다음 방어 반응 카드는 사용하는 데 추가로 {r}이 든다.\n고 어게인"
+  },
+  "qLMgQQ8rj8fBDQQLjLMDJ": {
+    "_name_en": "Dauntless",
+    "name_ko": "대담무쌍",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +1{p}을 얻는다.\n이번 턴 방어 영웅이 사용하는 다음 방어 반응 카드는 사용하는 데 추가로 {r}이 든다.\n고 어게인"
+  },
+  "NDjHqNJrckK6pjK7LwfMW": {
+    "_name_en": "Dawnblade",
+    "name_ko": "던블레이드",
+    "text_ko": "턴당 1회 액션 - {r}: 공격\n각 턴 이 카드가 두 번째로 명중할 때, 이것에 +1{p} 카운터를 올린다.\n당신의 종료 단계 시작 시, 이번 턴에 이것이 명중하지 않았다면, 이것에서 모든 +1{p} 카운터를 제거한다."
+  },
+  "kTzjGBrWbwncJCt7wLTrH": {
+    "_name_en": "Dawnblade, Resplendent",
+    "name_ko": "던블레이드, 찬란한",
+    "text_ko": "턴당 1회 액션 - {r}: 공격\n각 턴 당신이 이것으로 두 번째로 공격할 때, 턴 종료 시까지 이것이 +1{p}을 얻는다."
+  },
+  "WMdnjW6tJT9wKMnjgbHW9": {
+    "_name_en": "Dazzling Crescendo",
+    "name_ko": "눈부신 크레셴도",
+    "text_ko": "번개 퓨전\n눈부신 크레셴도가 퓨전되었다면, 고 어게인을 얻는다."
+  },
+  "KPftqbndp9fTd67GqNhzM": {
+    "_name_en": "Dazzling Crescendo",
+    "name_ko": "눈부신 크레셴도",
+    "text_ko": "번개 퓨전\n눈부신 크레셴도가 퓨전되었다면, 고 어게인을 얻는다."
+  },
+  "bJLJDHhK8dfCb8HKp6DmK": {
+    "_name_en": "Dazzling Crescendo",
+    "name_ko": "눈부신 크레셴도",
+    "text_ko": "번개 퓨전\n눈부신 크레셴도가 퓨전되었다면, 고 어게인을 얻는다."
+  },
+  "Lwdrb8J6bDcNKp67DzWWp": {
+    "_name_en": "Dead Eye",
+    "name_ko": "데드 아이",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +3{p}을 얻는다.\n그것이 조준 카운터를 가졌다면, \"이 카드가 영웅을 명중하면, 그 영웅의 손을 보고 카드 1장을 선택한다. 그 영웅은 그것을 버린다\"를 얻는다.\n고 어게인"
+  },
+  "nQLzhKtPNctwzTqMNf7LJ": {
+    "_name_en": "Dead Threads",
+    "name_ko": "죽은 실",
+    "text_ko": "순간 - {t}: {r}을 얻는다. 이번 턴에 아군이 당신의 무덤에 놓였을 때만 이것을 활성화한다.\n블레이드 브레이크"
+  },
+  "TjbQ8B7bPdngTrkpGD8bG": {
+    "_name_en": "Deadly Display",
+    "name_ko": "치명적인 전시",
+    "text_ko": "대상 무기 공격이 +3{p}을 얻는다. 그 무기가 이번 턴에 연마되었다면, 그 공격이 \"이 카드가 영웅을 명중하면, 플러리 토큰 1개를 생성한다\"를 얻는다."
+  },
+  "FpzTKHqqhbqgK7zQkJtTk": {
+    "_name_en": "Deadly Display",
+    "name_ko": "치명적인 전시",
+    "text_ko": "대상 무기 공격이 +1{p}을 얻는다. 그 무기가 이번 턴에 연마되었다면, 그 공격이 \"이 카드가 영웅을 명중하면, 플러리 토큰 1개를 생성한다\"를 얻는다."
+  },
+  "Nnr9kcRcQfLQW7pTHkMG8": {
+    "_name_en": "Deadly Duo",
+    "name_ko": "치명적인 콤비",
+    "text_ko": "이 카드가 명중하면, 이번 전투 체인에 당신이 사용하는, 기본 {p}이 2 이하인 다음 공격 액션 카드가 +2{p}을 얻는다.\n고 어게인"
+  },
+  "q6DTC9d8krW76gpTCpfmg": {
+    "_name_en": "Deadly Duo",
+    "name_ko": "치명적인 콤비",
+    "text_ko": "이 카드가 명중하면, 이번 전투 체인에 당신이 사용하는, 기본 {p}이 2 이하인 다음 공격 액션 카드가 +2{p}을 얻는다.\n고 어게인"
+  },
+  "cqtpwmnhMR8bGtcc8qHwB": {
+    "_name_en": "Deadly Duo",
+    "name_ko": "치명적인 콤비",
+    "text_ko": "이 카드가 명중하면, 이번 전투 체인에 당신이 사용하는, 기본 {p}이 2 이하인 다음 공격 액션 카드가 +2{p}을 얻는다.\n고 어게인"
+  },
+  "r7fBPzjnf99MPwFc6F8b6": {
+    "_name_en": "Deadwood Dirge",
+    "name_ko": "고사목의 만가",
+    "text_ko": "당신이 조종하는 오라 1개를 파괴한다. 그렇게 하면, 룬챈트 토큰 3개를 생성한다.\n고 어게인"
+  },
+  "N9QrfGfPbL9NHPcRT6Nd7": {
+    "_name_en": "Deadwood Dirge",
+    "name_ko": "고사목의 만가",
+    "text_ko": "당신이 조종하는 오라 1개를 파괴한다. 그렇게 하면, 룬챈트 토큰 2개를 생성한다.\n고 어게인"
+  },
+  "jMq8ttGz9DCqPMjQRRmdF": {
+    "_name_en": "Deadwood Dirge",
+    "name_ko": "고사목의 만가",
+    "text_ko": "당신이 조종하는 오라 1개를 파괴한다. 그렇게 하면, 룬챈트 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "RLgW7JWBFfhtLQddmChnh": {
+    "_name_en": "Deadwood Rumbler",
+    "name_ko": "고사목의 웅성거림",
+    "text_ko": "카드 1장을 뽑은 뒤 무작위 카드 1장을 버린다. 이렇게 {p}이 6 이상인 카드가 버려지면, 무덤에서 카드 1장을 추방한다.\n블러드 뎃"
+  },
+  "dkLNjP9DcLhPbQTpdBffW": {
+    "_name_en": "Deadwood Rumbler",
+    "name_ko": "고사목의 웅성거림",
+    "text_ko": "카드 1장을 뽑은 뒤 무작위 카드 1장을 버린다. 이렇게 {p}이 6 이상인 카드가 버려지면, 무덤에서 카드 1장을 추방한다.\n블러드 뎃"
+  },
+  "LJGBBqfmC7pzLNMWH7wdW": {
+    "_name_en": "Deadwood Rumbler",
+    "name_ko": "고사목의 웅성거림",
+    "text_ko": "카드 1장을 뽑은 뒤 무작위 카드 1장을 버린다. 이렇게 {p}이 6 이상인 카드가 버려지면, 무덤에서 카드 1장을 추방한다.\n블러드 뎃"
+  },
+  "Nnmtz6GrR6MWMcptb6wD7": {
+    "_name_en": "Death Dealer",
+    "name_ko": "죽음의 상인",
+    "text_ko": "턴당 1회 액션 - {r}: 당신의 아스날에 카드가 없다면, 당신의 손에서 화살 카드 1장을 앞면으로 아스날에 놓을 수 있다. 그렇게 하면, 카드 1장을 뽑는다. 고 어게인"
+  },
+  "TRjmqFgtPrwmJf9grJR6K": {
+    "_name_en": "Death Touch",
+    "name_ko": "데스 터치",
+    "text_ko": "데스 터치는 손에서 사용할 수 없다.\n이 카드가 영웅을 명중하면, 그 영웅의 조종 하에 쇠약함, 관성, 혈농창 토큰 중 1개를 생성한다."
+  },
+  "tcFhTrPwdbbKHnPL6rGzp": {
+    "_name_en": "Death Touch",
+    "name_ko": "데스 터치",
+    "text_ko": "데스 터치는 손에서 사용할 수 없다.\n이 카드가 영웅을 명중하면, 그 영웅의 조종 하에 쇠약함, 관성, 혈농창 토큰 중 1개를 생성한다."
+  },
+  "tHhztGzBGFRrLKTWCtg7f": {
+    "_name_en": "Death Touch",
+    "name_ko": "데스 터치",
+    "text_ko": "데스 터치는 손에서 사용할 수 없다.\n이 카드가 영웅을 명중하면, 그 영웅의 조종 하에 쇠약함, 관성, 혈농창 토큰 중 1개를 생성한다."
+  },
+  "gj6QqhDFKF6MtNncFMhmK": {
+    "_name_en": "Deathly Delight",
+    "name_ko": "죽음의 환희",
+    "text_ko": "룬 게이트\n전투 체인이 종료되면, 이번 턴에 {h}을 잃은 영웅의 수만큼 {h}을 얻는다.\n블러드 뎃"
+  },
+  "DTPnFNqr9N8NcWNpDDC8B": {
+    "_name_en": "Deathly Delight",
+    "name_ko": "죽음의 환희",
+    "text_ko": "룬 게이트\n전투 체인이 종료되면, 이번 턴에 {h}을 잃은 영웅의 수만큼 {h}을 얻는다.\n블러드 뎃"
+  },
+  "pkqN7kDrFhHhDrBmb7bhr": {
+    "_name_en": "Deathly Delight",
+    "name_ko": "죽음의 환희",
+    "text_ko": "룬 게이트\n전투 체인이 종료되면, 이번 턴에 {h}을 잃은 영웅의 수만큼 {h}을 얻는다.\n블러드 뎃"
+  },
+  "DnJrdtdRJmT7G97h6Qqcb": {
+    "_name_en": "Deathly Duet",
+    "name_ko": "죽음의 이중주",
+    "text_ko": "죽음의 이중주가 공격할 때, 이 카드를 사용하기 위해 공격 액션 카드가 피치되었다면, +2{p}을 얻는다. '비-공격' 액션 카드가 피치되었다면, 룬챈트 토큰 2개를 생성한다."
+  },
+  "NG9nKh7TTkLt6qtCJzGjB": {
+    "_name_en": "Deathly Duet",
+    "name_ko": "죽음의 이중주",
+    "text_ko": "죽음의 이중주가 공격할 때, 이 카드를 사용하기 위해 공격 액션 카드가 피치되었다면, +2{p}을 얻는다. '비-공격' 액션 카드가 피치되었다면, 룬챈트 토큰 2개를 생성한다."
+  },
+  "jFM7t8H8pfwFdTJc7qb8b": {
+    "_name_en": "Deathly Duet",
+    "name_ko": "죽음의 이중주",
+    "text_ko": "죽음의 이중주가 공격할 때, 이 카드를 사용하기 위해 공격 액션 카드가 피치되었다면, +2{p}을 얻는다. '비-공격' 액션 카드가 피치되었다면, 룬챈트 토큰 2개를 생성한다."
+  },
+  "LmkDGKnkq8qHfdQ9jh9nD": {
+    "_name_en": "Deathly Wail",
+    "name_ko": "죽음의 통곡",
+    "text_ko": "룬 게이트\n전투 체인이 종료되면, 이번 턴에 {h}을 잃은 영웅의 수만큼 룬챈트 토큰을 생성한다.\n블러드 뎃"
+  },
+  "PgnDgtR8PgKfMLKHDph8k": {
+    "_name_en": "Deathly Wail",
+    "name_ko": "죽음의 통곡",
+    "text_ko": "룬 게이트\n전투 체인이 종료되면, 이번 턴에 {h}을 잃은 영웅의 수만큼 룬챈트 토큰을 생성한다.\n블러드 뎃"
+  },
+  "Fn8bTWKkJC77cqjfPmkjC": {
+    "_name_en": "Deathly Wail",
+    "name_ko": "죽음의 통곡",
+    "text_ko": "룬 게이트\n전투 체인이 종료되면, 이번 턴에 {h}을 잃은 영웅의 수만큼 룬챈트 토큰을 생성한다.\n블러드 뎃"
+  },
+  "F78CPMJgBqhTfNMLM7TH6": {
+    "_name_en": "Deathmatch Arena",
+    "name_ko": "데스매치 아레나",
+    "text_ko": "레전더리\n고 어게인\n영웅들은 임의의 상대 영웅을 공격할 수 있다.\n영웅이 다른 영웅에게 치명적인 피해를 주면, 이번 게임을 시작한 영웅 수만큼 골드 토큰을 생성한다."
+  },
+  "QLGJkQKtpmGkqwpTtHqzG": {
+    "_name_en": "Debilitate",
+    "name_ko": "쇠약하게 하다",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅의 다음 턴 첫 공격이 -2{p}을 얻는다."
+  },
+  "pb9kwPfCFccrmCDgGq7bJ": {
+    "_name_en": "Debilitate",
+    "name_ko": "쇠약하게 하다",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅의 다음 턴 첫 공격이 -2{p}을 얻는다."
+  },
+  "z6t6dcr7F7fWjwKwtqdRd": {
+    "_name_en": "Debilitate",
+    "name_ko": "쇠약하게 하다",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅의 다음 턴 첫 공격이 -2{p}을 얻는다."
+  },
+  "8h7fn6dk7PfNnckbW668r": {
+    "_name_en": "Decimator Great Axe",
+    "name_ko": "학살자 대형 도끼",
+    "text_ko": "턴당 1회 액션 - {r}{r}{r}: 공격\n각 턴 이 카드가 비-장비 카드로 처음 방어되면, 턴 종료 시까지 대상 방어 카드의 기본 {d}을 절반(올림)으로 줄인다."
+  },
+  "wKhBB6Nb9RPQJ8zPFnpgJ": {
+    "_name_en": "Deep Blue",
+    "name_ko": "짙은 파랑",
+    "text_ko": "액션 - 당신의 손에서 카드 1장을 덱 맨 아래에 놓는다, 짙은 파랑을 파괴한다: {r}{r}{r}을 얻는다. 고 어게인"
+  },
+  "rkfqjFKJHdtqRLKJwgQNG": {
+    "_name_en": "Deep Blue Sea",
+    "name_ko": "깊고 푸른 바다",
+    "text_ko": "이번 턴에 당신이 피치한 파란색 카드마다 이 카드가 +1{p}을 얻는다."
   }
 }
