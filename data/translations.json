@@ -15000,5 +15000,611 @@
     "_name_en": "Potion of Ironhide",
     "name_ko": "강철가죽의 물약",
     "text_ko": "순간 - 강철가죽의 물약을 파괴한다: 당신이 소유한 공격 액션 카드들이 이번 턴 +1{d}을 얻는다."
+  },
+  "K6NjFFzbnPdFpFCDRLMrK": {
+    "_name_en": "Potion of Luck",
+    "name_ko": "행운의 물약",
+    "text_ko": "순간 - 행운의 물약을 파괴한다: 당신의 손과 아스날을 덱에 섞은 뒤, 그만큼 카드를 뽑는다."
+  },
+  "HkNT7zKrjgzBDp6Mq76Nm": {
+    "_name_en": "Potion of Seeing",
+    "name_ko": "천리안의 물약",
+    "text_ko": "순간 - 천리안의 물약을 파괴한다: 대상 영웅의 손을 확인한다."
+  },
+  "fNMMHHpLGMCjHh8KQG8nW": {
+    "_name_en": "Potion of Strength",
+    "name_ko": "힘의 물약",
+    "text_ko": "액션 - 이것을 파괴한다: 이번 턴 당신의 다음 공격이 +2{p}을 얻는다. 고 어게인"
+  },
+  "cGJkkqNfjfkwKDkcqwMBk": {
+    "_name_en": "Pounamu Amulet",
+    "name_ko": "포우나무 부적",
+    "text_ko": "액션 - 이것을 파괴한다: 2{h}을 얻는다. 고 어게인\n워터리 그레이브의 전설"
+  },
+  "HjFKhRGTDGJDk8NGmdFjB": {
+    "_name_en": "Pouncing Paws",
+    "name_ko": "덮치는 발톱",
+    "text_ko": "순간 - 이것을 파괴한다: 당신의 추방 구역에 크라우칭 타이거를 생성한다. 이번 턴 그것을 사용할 수 있다.\n배틀원"
+  },
+  "jDjbmKWW9RHJwwncKDDfK": {
+    "_name_en": "Pouncing Qi",
+    "name_ko": "덮치는 기",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 크라우칭 타이거였다면, 이 카드가 +1{p}과 고 어게인을 얻는다."
+  },
+  "KGCccRcdK768czQhpzLPq": {
+    "_name_en": "Pouncing Qi",
+    "name_ko": "덮치는 기",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 크라우칭 타이거였다면, 이 카드가 +1{p}과 고 어게인을 얻는다."
+  },
+  "qmQ6tmqFznzMnf9dcDRcF": {
+    "_name_en": "Pouncing Qi",
+    "name_ko": "덮치는 기",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 크라우칭 타이거였다면, 이 카드가 +1{p}과 고 어게인을 얻는다."
+  },
+  "kHtKHFpcQzRfhtQ8WGBzF": {
+    "_name_en": "Pound for Pound",
+    "name_ko": "체급 대비",
+    "text_ko": "당신이 체급 대비를 사용할 때, 당신이 상대 영웅보다 {h}이 적다면, 도미네이트를 얻는다."
+  },
+  "WGdTdNctcb6FPKwfCfpHB": {
+    "_name_en": "Pound for Pound",
+    "name_ko": "체급 대비",
+    "text_ko": "당신이 체급 대비를 사용할 때, 당신이 상대 영웅보다 {h}이 적다면, 도미네이트를 얻는다."
+  },
+  "HGLJL8mtz7JNN9djNW68Q": {
+    "_name_en": "Pound for Pound",
+    "name_ko": "체급 대비",
+    "text_ko": "당신이 체급 대비를 사용할 때, 당신이 상대 영웅보다 {h}이 적다면, 도미네이트를 얻는다."
+  },
+  "hRnmhw6LKLJCh9MqM8RPq": {
+    "_name_en": "Pound of Flesh",
+    "name_ko": "살점의 대가",
+    "text_ko": "각 영웅이 자신의 손에서 카드 1장을 추방한다. 이렇게 {p} 6 이상인 카드를 추방하지 못한 각 영웅이 1{h}을 잃는다.\n고 어게인"
+  },
+  "jkPdKzd9rfgc7W87rjr6r": {
+    "_name_en": "Pound Town",
+    "name_ko": "파운드 타운",
+    "text_ko": "가슴 두드리기\n이 카드가 공격할 때, 이번 턴에 가슴을 두드린 적이 있다면, 마이트 토큰 1개를 생성한다."
+  },
+  "hBNjTCpMptr8QmFbPHjN8": {
+    "_name_en": "Pound Town",
+    "name_ko": "파운드 타운",
+    "text_ko": "가슴 두드리기\n이 카드가 공격할 때, 이번 턴에 가슴을 두드린 적이 있다면, 마이트 토큰 1개를 생성한다."
+  },
+  "rKcfc9TTdwWgLrqtWJ67N": {
+    "_name_en": "Pound Town",
+    "name_ko": "파운드 타운",
+    "text_ko": "가슴 두드리기\n이 카드가 공격할 때, 이번 턴에 가슴을 두드린 적이 있다면, 마이트 토큰 1개를 생성한다."
+  },
+  "QBBDQjBmrCk9CR7BG8wmH": {
+    "_name_en": "Pounding Gale",
+    "name_ko": "몰아치는 돌풍",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 중심을 열다였다면, 몰아치는 돌풍이 \"몰아치는 돌풍이 영웅에게 피해를 주게 될 경우, 대신 그 두 배의 피해를 준다\"를 얻는다"
+  },
+  "MhtpFzdKHmtPPrnLwWhnq": {
+    "_name_en": "Pour the Mold",
+    "name_ko": "거푸집을 붓다",
+    "text_ko": "당신의 손에서 비용 2 이하인 메카놀로지스트 아이템을 전장에 놓는다.\n이번 턴에 부스트한 적이 있다면, 여기에 스팀 카운터를 놓는다.\n고 어게인"
+  },
+  "r8TWKrQFMwGwD976H6LN6": {
+    "_name_en": "Pour the Mold",
+    "name_ko": "거푸집을 붓다",
+    "text_ko": "당신의 손에서 비용 1 이하인 메카놀로지스트 아이템을 전장에 놓는다.\n이번 턴에 부스트한 적이 있다면, 여기에 스팀 카운터를 놓는다.\n고 어게인"
+  },
+  "Nd8DdbchbdmFPFgNLRPDD": {
+    "_name_en": "Pour the Mold",
+    "name_ko": "거푸집을 붓다",
+    "text_ko": "당신의 손에서 비용 0인 메카놀로지스트 아이템을 전장에 놓는다.\n이번 턴에 부스트한 적이 있다면, 여기에 스팀 카운터를 놓는다.\n고 어게인"
+  },
+  "dkT9ghbNpFJ9qCfrPQq88": {
+    "_name_en": "Powder Keg",
+    "name_ko": "화약통",
+    "text_ko": "당신이 조종하는 메카놀로지스트 총이 명중할 때마다, 화약통과 방어하는 장비 1개를 파괴할 수 있다."
+  },
+  "cKBWfJd9ttcpKtGrbCJTG": {
+    "_name_en": "Power of Make Believe",
+    "name_ko": "믿음이 만드는 힘",
+    "text_ko": "이 카드를 방어하는, {p} 6 이상인 카드 1장당 +1{p}을 얻는다.\n미라지"
+  },
+  "zrz9QBLtdGfJWhDqtQrCB": {
+    "_name_en": "Power of Make Believe",
+    "name_ko": "믿음이 만드는 힘",
+    "text_ko": "이 카드를 방어하는, {p} 6 이상인 카드 1장당 +1{p}을 얻는다.\n미라지"
+  },
+  "NCCwNW9fwRKHbGqnDTjK6": {
+    "_name_en": "Power of Make Believe",
+    "name_ko": "믿음이 만드는 힘",
+    "text_ko": "이 카드를 방어하는, {p} 6 이상인 카드 1장당 +1{p}을 얻는다.\n미라지"
+  },
+  "tWPTFLgzJcgw7nkn8rT7F": {
+    "_name_en": "Power Play",
+    "name_ko": "파워 플레이",
+    "text_ko": "이것이 아스날에서 사용되었다면, +5{p}을 얻는다."
+  },
+  "r7J9m7TcMRndwCLRTKBjN": {
+    "_name_en": "Power Play",
+    "name_ko": "파워 플레이",
+    "text_ko": "이것이 아스날에서 사용되었다면, +5{p}을 얻는다."
+  },
+  "g99FP9tt8L7dtmfqwDnH8": {
+    "_name_en": "Power Play",
+    "name_ko": "파워 플레이",
+    "text_ko": "이것이 아스날에서 사용되었다면, +5{p}을 얻는다."
+  },
+  "qFzrQChhnbgNcnQ7d9tKW": {
+    "_name_en": "Power Stance",
+    "name_ko": "파워 스탠스",
+    "text_ko": "고 어게인\n당신의 턴 시작 시, 이것을 파괴한 뒤, 이번 턴 당신의 단검 공격들이 +1{p}을 얻는다."
+  },
+  "RznwHPTkhd7rfzzJc9dp8": {
+    "_name_en": "Prayer of Bellona",
+    "name_ko": "벨로나의 기도",
+    "text_ko": "이번 턴 당신의 다음 공격이 +2{p}을 얻는다.\n당신 덱 맨 위 카드를 공개한다. 그것이 노란색이면, 손에 놓은 뒤, 당신 영웅의 소울을 충전한다.\n고 어게인"
+  },
+  "PzGjPPLt9cWDqTWCQnzTC": {
+    "_name_en": "Preach Modesty",
+    "name_ko": "겸손을 설파하다",
+    "text_ko": "이 카드는 균형 카운터 1개를 지닌 채 전장에 들어온다. 당신의 액션 단계 시작 시, 균형 카운터 1개를 제거하지 않는 한 이것을 파괴한다.\n영웅 능력은 카드를 생성할 수 없다."
+  },
+  "bGHDTHMbhKnnkgWBpNzFJ": {
+    "_name_en": "Precision Press",
+    "name_ko": "정밀 압박",
+    "text_ko": "이번 턴 당신의 다음 검 또는 단검 공격이 고 어게인과 피어싱 3을 가진다.\n고 어게인"
+  },
+  "rKzqQTTkzfqRBzdPmdpcg": {
+    "_name_en": "Precision Press",
+    "name_ko": "정밀 압박",
+    "text_ko": "이번 턴 당신의 다음 검 또는 단검 공격이 고 어게인과 피어싱 2를 가진다.\n고 어게인"
+  },
+  "RWDphL6CBKRwDcqCHKfTG": {
+    "_name_en": "Precision Press",
+    "name_ko": "정밀 압박",
+    "text_ko": "이번 턴 당신의 다음 검 또는 단검 공격이 고 어게인과 피어싱 1을 가진다.\n고 어게인"
+  },
+  "8zzHWnJ8WdM8HtWn7FFCF": {
+    "_name_en": "Predatory Assault",
+    "name_ko": "포식자의 습격",
+    "text_ko": "이번 턴에 {p} 6 이상인 카드를 버린 적이 있다면, 포식자의 습격이 도미네이트를 얻는다."
+  },
+  "dzkNcddzgqbwg8k6KmD8c": {
+    "_name_en": "Predatory Assault",
+    "name_ko": "포식자의 습격",
+    "text_ko": "이번 턴에 {p} 6 이상인 카드를 버린 적이 있다면, 포식자의 습격이 도미네이트를 얻는다."
+  },
+  "WRkGPfTHMdgBnGtNpBhnp": {
+    "_name_en": "Predatory Assault",
+    "name_ko": "포식자의 습격",
+    "text_ko": "이번 턴에 {p} 6 이상인 카드를 버린 적이 있다면, 포식자의 습격이 도미네이트를 얻는다."
+  },
+  "JRcHqqHkwdJML7wfMRhM7": {
+    "_name_en": "Predatory Plating",
+    "name_ko": "포식자의 판금",
+    "text_ko": "순간 - 이것을 파괴한다: {r}을 얻는다. 당신이 {p} 6 이상인 카드를 조종하고 있을 때만 이것을 활성화한다.\n가드웰"
+  },
+  "r9GQj9McpQbr8Jf9jhkch": {
+    "_name_en": "Predatory Streak",
+    "name_ko": "포식자의 질주",
+    "text_ko": "당신의 추방 구역에 크라우칭 타이거 3개를 생성한다. 이번 턴 그것들을 사용할 수 있다.\n고 어게인"
+  },
+  "fgtKgMrhTRwMmQqMfg9FH": {
+    "_name_en": "Predatory Streak",
+    "name_ko": "포식자의 질주",
+    "text_ko": "당신의 추방 구역에 크라우칭 타이거 2개를 생성한다. 이번 턴 그것들을 사용할 수 있다.\n고 어게인"
+  },
+  "fdfdpDhwBKNpbGPntGkKd": {
+    "_name_en": "Predatory Streak",
+    "name_ko": "포식자의 질주",
+    "text_ko": "당신의 추방 구역에 크라우칭 타이거 1개를 생성한다. 이번 턴 그것을 사용할 수 있다.\n고 어게인"
+  },
+  "fMgQnGBfTgfGdLFMDjDWJ": {
+    "_name_en": "Premeditate",
+    "name_ko": "미리 계획하다",
+    "text_ko": "이번 턴 공격 액션 카드가 다음에 영웅을 명중할 때, 폰더 토큰 1개를 생성한다.\n이번 턴 당신이 아스날에서 사용하는 다음 공격 액션 카드가 +3{p}을 얻는다.\n고 어게인"
+  },
+  "jpWjmrzckFnCzG8tFMppt": {
+    "_name_en": "Preserve Tradition",
+    "name_ko": "전통을 지키다",
+    "text_ko": "레전더리\n당신의 무덤에서 대상 액션 카드를 덱 맨 아래에 놓는다.\n이번 턴에 다른 파란색 카드를 사용한 적이 있다면, 초월한다."
+  },
+  "9Rc87J7TGt8DWffqnKjCf": {
+    "_name_en": "Prey Spotters",
+    "name_ko": "먹잇감 감시자",
+    "text_ko": "공격 반응 - 이것을 파괴한다: 대상 상대 영웅에게 표식을 남긴다.\n배틀원"
+  },
+  "qR8DkwWmrqGqzd9BbCDbH": {
+    "_name_en": "Prime the Crowd",
+    "name_ko": "관중을 달구다",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 +4{p}을 얻는다.\n관중이 각 리비어드 영웅에게 환호한다.\n관중이 각 리바일드 영웅에게 야유한다.\n고 어게인"
+  },
+  "DnWNQrGqLW69pqRdTDhmT": {
+    "_name_en": "Prime the Crowd",
+    "name_ko": "관중을 달구다",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 +3{p}을 얻는다.\n관중이 각 리비어드 영웅에게 환호한다.\n관중이 각 리바일드 영웅에게 야유한다.\n고 어게인"
+  },
+  "8N7gGzcDDNK7d8jFGPrR6": {
+    "_name_en": "Prime the Crowd",
+    "name_ko": "관중을 달구다",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 +2{p}을 얻는다.\n관중이 각 리비어드 영웅에게 환호한다.\n관중이 각 리바일드 영웅에게 야유한다.\n고 어게인"
+  },
+  "DTNR6KNnBDCBqkczc9PnT": {
+    "_name_en": "Primed to Fight",
+    "name_ko": "싸울 준비 완료",
+    "text_ko": "이번 턴에 당신이 비거 토큰을 조종한 적이 있다면, 이 카드는 사용하는 데 {r}이 덜 든다.\n이번 턴에 당신이 마이트 토큰을 조종한 적이 있다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "HFHk96nMLCb7djccbnWpR": {
+    "_name_en": "Primeval Bellow",
+    "name_ko": "태고의 포효",
+    "text_ko": "태고의 포효를 사용하기 위한 추가 비용으로, 무작위 카드 1장을 버린다.\n이번 턴 당신의 다음 브루트 공격이 +5{p}을 얻는다.\n고 어게인"
+  },
+  "wG8dQmKcfwwGMwdRzjpwn": {
+    "_name_en": "Primeval Bellow",
+    "name_ko": "태고의 포효",
+    "text_ko": "태고의 포효를 사용하기 위한 추가 비용으로, 무작위 카드 1장을 버린다.\n이번 턴 당신의 다음 브루트 공격이 +4{p}을 얻는다.\n고 어게인"
+  },
+  "qw9LBP66tDQBHwRcgTTjg": {
+    "_name_en": "Primeval Bellow",
+    "name_ko": "태고의 포효",
+    "text_ko": "태고의 포효를 사용하기 위한 추가 비용으로, 무작위 카드 1장을 버린다.\n이번 턴 당신의 다음 브루트 공격이 +3{p}을 얻는다.\n고 어게인"
+  },
+  "NGkHQHjzkFqfmGLKmRCpj": {
+    "_name_en": "Prism",
+    "name_ko": "프리즘",
+    "text_ko": "턴당 1회 순간 - {r}{r}, 프리즘의 소울에서 카드 1장을 추방한다: 스펙트럴 실드 토큰 1개를 생성한다."
+  },
+  "dhbhdcr8CB6ngRrf9GTgm": {
+    "_name_en": "Prism, Advent of Thrones",
+    "name_ko": "프리즘, 왕좌의 도래",
+    "text_ko": "액션 단계 동안 이름에 헤럴드가 들어간 카드가 프리즘의 소울에 놓일 때마다, 당신의 덱에서 피그먼트를 찾아 전장에 놓은 뒤, 덱을 섞을 수 있다.\n턴당 1회 순간 - {r}{r}, 프리즘의 소울에서 카드 1장을 추방한다: 당신이 조종하는 대상 피그먼트를 각성시킨다."
+  },
+  "jrQcdHwPDPTt8PWTdNLqk": {
+    "_name_en": "Prism, Awakener of Sol",
+    "name_ko": "프리즘, 솔의 각성자",
+    "text_ko": "액션 단계 동안 이름에 헤럴드가 들어간 카드가 프리즘의 소울에 놓일 때마다, 당신의 덱에서 피그먼트를 찾아 전장에 놓은 뒤, 덱을 섞을 수 있다.\n턴당 1회 순간 - {r}{r}, 프리즘의 소울에서 카드 1장을 추방한다: 당신이 조종하는 대상 피그먼트를 각성시킨다."
+  },
+  "F7rQpTDjHFWPgQhcGg7RT": {
+    "_name_en": "Prism, Sculptor of Arc Light",
+    "name_ko": "프리즘, 호광의 조각가",
+    "text_ko": "턴당 1회 순간 - {r}{r}, 프리즘의 소울에서 카드 1장을 추방한다: 스펙트럴 실드 토큰 1개를 생성한다."
+  },
+  "WtGmJPqkJc7nWGRBCFwww": {
+    "_name_en": "Prismatic Lens",
+    "name_ko": "프리즘 렌즈",
+    "text_ko": "크랭크\n이 카드는 스팀 카운터 1개를 지닌 채 전장에 들어온다. 당신의 턴 시작 시, 스팀 카운터 1개를 제거하지 않는 한 이것을 파괴한다.\n턴당 1회 순간 - 0: 당신 덱 맨 위 카드를 공개한다. 당신의 추방 구역에서 같은 색상의 메카놀로지스트 아이템을 덱 맨 위에 놓는다."
+  },
+  "9f8NPBQcRJWdqLqBhQfpB": {
+    "_name_en": "Prismatic Leyline",
+    "name_ko": "무지갯빛 지맥",
+    "text_ko": "이번 턴 당신의 다음 빨간색 공격이 +1{p}을, 다음 노란색 공격이 +2{p}을, 다음 파란색 공격이 +3{p}을 얻는다.\n고 어게인"
+  },
+  "KHwWtFzhjTgbrJJrkGjFc": {
+    "_name_en": "Prismatic Shield",
+    "name_ko": "무지갯빛 방패",
+    "text_ko": "스펙트럴 실드 토큰 3개를 생성한다."
+  },
+  "GwNppkqrrrfrMgRWhT9rr": {
+    "_name_en": "Prismatic Shield",
+    "name_ko": "무지갯빛 방패",
+    "text_ko": "스펙트럴 실드 토큰 2개를 생성한다."
+  },
+  "bFjnrzdmFLkwdBbWHnGfR": {
+    "_name_en": "Prismatic Shield",
+    "name_ko": "무지갯빛 방패",
+    "text_ko": "스펙트럴 실드 토큰 1개를 생성한다."
+  },
+  "mRCfW6wBLjzRzjnNrKqQn": {
+    "_name_en": "Prized Galea",
+    "name_ko": "귀중한 투구",
+    "text_ko": "올림피아 스페셜라이제이션\n공격 반응 - {r}, 이것을 파괴한다: 당신이 조종하는 대상 무기 공격이 방어 영웅과 골드 토큰을 걸고 내기한다.\n템퍼"
+  },
+  "G7WBwbd7TnnMMp8R9tkMw": {
+    "_name_en": "Proclaim Vengeance",
+    "name_ko": "복수를 선포하다",
+    "text_ko": "대상 상대 영웅에게 표식을 남긴다. 그 영웅이 아라크니라면, {r}을 얻는다."
+  },
+  "wQcpct8M6ddWK6BkKMMgC": {
+    "_name_en": "Proclamation of Abundance",
+    "name_ko": "풍요의 선언",
+    "text_ko": "액션 - {r}{r}{r}, 이것을 파괴한다: 각 영웅이 자신의 {i}만큼 카드를 뽑는다."
+  },
+  "LwtRft6CKgLFgbDKrwTJn": {
+    "_name_en": "Proclamation of Combat",
+    "name_ko": "전투의 선언",
+    "text_ko": "액션 - 이것을 파괴한다: 당신의 다음 턴 시작 시까지, 영웅들이 사용하거나 활성화할 수 있는 유일한 액션은 무기와 공격 액션이다."
+  },
+  "7tzgdpf9qnJbqRp6PTNj7": {
+    "_name_en": "Proclamation of Production",
+    "name_ko": "생산의 선언",
+    "text_ko": "액션 - 이것을 파괴한다: 각 영웅은 자신의 덱에서 비용 0 또는 1인 아이템을 찾아 전장에 놓은 뒤, 덱을 섞을 수 있다. 이렇게 아이템을 전장에 놓지 않은 각 영웅이 카드 1장을 버린다."
+  },
+  "nPNcp7BDrghp6dLPfHnNp": {
+    "_name_en": "Proclamation of Requisition",
+    "name_ko": "징발의 선언",
+    "text_ko": "액션 - 빨간색 카드 1장을 버린다, 징발의 선언을 파괴한다: 각 상대가 자신이 조종하는 아이템이나 랜드마크 1개를 선택한다. 이렇게 선택된 지속물들의 조종권을 얻는다."
+  },
+  "BLCMLHnwnbRKbdhPJ9DQp": {
+    "_name_en": "Professor Teklovossen",
+    "name_ko": "테클로보센 교수",
+    "text_ko": "각 상대 영웅마다 에보는 사용하는 데 {r}이 덜 든다.\n당신의 추방 구역에서 에보를 사용할 수 있다."
+  },
+  "8WTJfBChbRBpfPLzbJkB9": {
+    "_name_en": "Prognosticate",
+    "name_ko": "예지하다",
+    "text_ko": "대상 영웅에게 비전 피해 3을 준다.\n서지 - 이것이 3을 초과하는 피해를 주면, 옵트 1."
+  },
+  "ctHW6nkg8WJKJcmqRtTpH": {
+    "_name_en": "Prognosticate",
+    "name_ko": "예지하다",
+    "text_ko": "대상 영웅에게 비전 피해 2를 준다.\n서지 - 이것이 2를 초과하는 피해를 주면, 옵트 1."
+  },
+  "6nPhzmrgb6bf6Km6gDBFG": {
+    "_name_en": "Prognosticate",
+    "name_ko": "예지하다",
+    "text_ko": "대상 영웅에게 비전 피해 1을 준다.\n서지 - 이것이 1을 초과하는 피해를 주면, 옵트 1."
+  },
+  "WDDHGnJfg7HGgWcnRGrN7": {
+    "_name_en": "Promise of Plenty",
+    "name_ko": "풍요의 약속",
+    "text_ko": "풍요의 약속이 명중하면, 자신의 아스날에 카드가 없는 각 영웅이 자신의 덱 맨 위 카드를 뒷면으로 아스날에 놓는다.\n풍요의 약속이 아스날에서 사용되면, 고 어게인을 얻는다."
+  },
+  "GTLKqwK6pfzjdmCgRgd9W": {
+    "_name_en": "Promise of Plenty",
+    "name_ko": "풍요의 약속",
+    "text_ko": "풍요의 약속이 명중하면, 자신의 아스날에 카드가 없는 각 영웅이 자신의 덱 맨 위 카드를 뒷면으로 아스날에 놓는다.\n풍요의 약속이 아스날에서 사용되면, 고 어게인을 얻는다."
+  },
+  "g9LhkTgkgNBCtwmcPCgdP": {
+    "_name_en": "Promise of Plenty",
+    "name_ko": "풍요의 약속",
+    "text_ko": "풍요의 약속이 명중하면, 자신의 아스날에 카드가 없는 각 영웅이 자신의 덱 맨 위 카드를 뒷면으로 아스날에 놓는다.\n풍요의 약속이 아스날에서 사용되면, 고 어게인을 얻는다."
+  },
+  "jFpwffNmqGB8nTHt7mzp9": {
+    "_name_en": "Promising Terrain",
+    "name_ko": "유망한 지형",
+    "text_ko": "고 어게인\n당신이 지진 파동 토큰을 1개 이상 생성하게 될 경우, 대신 그만큼에 1을 더해 생성한다.\n당신의 액션 단계 시작 시, 이것을 파괴한 뒤, 당신이 지진 파동 토큰을 3개 이상 조종하고 있다면, 카드 1장을 뽑고 1{h}을 얻는다."
+  },
+  "bRKLFbq7gKkdTQnqBmWgC": {
+    "_name_en": "Prophetic Quickstep",
+    "name_ko": "예언적인 신속한 발걸음",
+    "text_ko": "퀵스트라이크 - 이 카드가 고 어게인을 가지고 있다면, +1{p}과 \"이 카드가 영웅을 공격할 때, 그에게 비전 피해 1을 준다\"를 얻는다.\n이것이 영웅에게 처음 피해를 줄 때, 폰더 토큰 1개를 생성한다."
+  },
+  "kWMK7khntdgCmPBhqmkJ9": {
+    "_name_en": "Proto Base Arms",
+    "name_ko": "프로토 베이스 암즈"
+  },
+  "cNNm9qpcDKNGdmMgr9htd": {
+    "_name_en": "Proto Base Chest",
+    "name_ko": "프로토 베이스 체스트"
+  },
+  "MfJzLNc8CpcPLnpqfQGtN": {
+    "_name_en": "Proto Base Head",
+    "name_ko": "프로토 베이스 헤드"
+  },
+  "nggPgQmcj9hBWttfDrKtn": {
+    "_name_en": "Proto Base Legs",
+    "name_ko": "프로토 베이스 레그즈"
+  },
+  "8W97NwL96dwBpfqDCWKrz": {
+    "_name_en": "Provoke",
+    "name_ko": "도발",
+    "text_ko": "이번 체인 링크에서 무기로 공격하고 있다면, 방어 영웅이 자신의 손에서 카드 1장을 공개한다. 그것이 액션 카드라면, 이번 체인 링크에 방어 카드로 추가하고, 그렇지 않으면 그가 버린다."
+  },
+  "D9BrCpJrGhbWC8BwDbkjW": {
+    "_name_en": "Prowess of Agility",
+    "name_ko": "어질리티의 기량",
+    "text_ko": "턴 중 네 번째로 공격할 때, 이것을 파괴할 수 있다. 그렇게 하면, 카드 1장을 뽑는다.\n당신의 종료 단계 시작 시, 이번 턴에 3회 미만으로 공격했다면, 이것을 파괴한다."
+  },
+  "zcrKbBF8hrk9bfG7cWWfF": {
+    "_name_en": "Prowl",
+    "name_ko": "배회",
+    "text_ko": "스텔스\n이번 전투 체인에서 당신이 사용하는 다음 스텔스를 가진 공격이 +1{p}을 얻는다."
+  },
+  "LCwpKJ8PMK8HqGKPH7RM6": {
+    "_name_en": "Prowl",
+    "name_ko": "배회",
+    "text_ko": "스텔스\n이번 전투 체인에서 당신이 사용하는 다음 스텔스를 가진 공격이 +1{p}을 얻는다."
+  },
+  "wTwdrMPDDFkHJhhhMCJ9b": {
+    "_name_en": "Prowl",
+    "name_ko": "배회",
+    "text_ko": "스텔스\n이번 전투 체인에서 당신이 사용하는 다음 스텔스를 가진 공격이 +1{p}을 얻는다."
+  },
+  "6FGKKGj7QbWJ6tJfh9Qmn": {
+    "_name_en": "Pry",
+    "name_ko": "캐묻다",
+    "text_ko": "대상 영웅이 자신의 손에서 카드 3장을 공개한다. 상대의 턴에 캐묻다가 사용되면, 대신 그가 자신의 손에 있는 모든 카드를 공개한다.\n이렇게 공개된 카드 1장을 선택할 수 있다. 그렇게 하면, 그 영웅이 그것을 덱 맨 아래에 놓은 뒤 카드 1장을 뽑는다."
+  },
+  "wrf8qfHNtcKLG9WrKDWL9": {
+    "_name_en": "Pry",
+    "name_ko": "캐묻다",
+    "text_ko": "대상 영웅이 자신의 손에서 카드 2장을 공개한다. 상대의 턴에 캐묻다가 사용되면, 대신 그가 자신의 손에 있는 모든 카드를 공개한다.\n이렇게 공개된 카드 1장을 선택할 수 있다. 그렇게 하면, 그 영웅이 그것을 덱 맨 아래에 놓은 뒤 카드 1장을 뽑는다."
+  },
+  "cBbDbtL7FMKjqwNQpkWQ6": {
+    "_name_en": "Pry",
+    "name_ko": "캐묻다",
+    "text_ko": "대상 영웅이 자신의 손에서 카드 1장을 공개한다. 상대의 턴에 캐묻다가 사용되면, 대신 그가 자신의 손에 있는 모든 카드를 공개한다.\n이렇게 공개된 카드 1장을 선택할 수 있다. 그렇게 하면, 그 영웅이 그것을 덱 맨 아래에 놓은 뒤 카드 1장을 뽑는다."
+  },
+  "tBg8fnqMkfmjJgNFPmKKf": {
+    "_name_en": "Public Bounty",
+    "name_ko": "공개 현상금",
+    "text_ko": "대상 상대 영웅에게 표식을 남긴다.\n이번 턴 당신이 다음에 표식이 있는 영웅을 공격할 때, 그 공격이 +3{p}을 얻는다.\n고 어게인"
+  },
+  "jPmQzcTkTDjMfbGHpdnr9": {
+    "_name_en": "Public Bounty",
+    "name_ko": "공개 현상금",
+    "text_ko": "대상 상대 영웅에게 표식을 남긴다.\n이번 턴 당신이 다음에 표식이 있는 영웅을 공격할 때, 그 공격이 +2{p}을 얻는다.\n고 어게인"
+  },
+  "jfMpJKPFjR6kCpQnFJQdJ": {
+    "_name_en": "Public Bounty",
+    "name_ko": "공개 현상금",
+    "text_ko": "대상 상대 영웅에게 표식을 남긴다.\n이번 턴 당신이 다음에 표식이 있는 영웅을 공격할 때, 그 공격이 +1{p}을 얻는다.\n고 어게인"
+  },
+  "fJTDNGKmzzzmwzrpCdgbT": {
+    "_name_en": "Puffer Jacket",
+    "name_ko": "패딩 재킷",
+    "text_ko": "당신이 조종하는, 토큰이 아닌 하이퍼 드라이버들은 스팀 카운터 1개를 추가로 지닌 채 전장에 들어온다.\n템퍼"
+  },
+  "m8MzjMMWBw88jJj9gt9Qj": {
+    "_name_en": "Puffin",
+    "name_ko": "퍼핀",
+    "text_ko": "액션 - {t}, 당신이 조종하는 골드 1개를 파괴한다: 골든 코그 토큰 1개를 생성한다.\n각 턴 두 번째로 크랭크할 때, 카드 1장을 뽑는다."
+  },
+  "DghbPmFhwLkT9whJJjL9f": {
+    "_name_en": "Puffin, Hightail",
+    "name_ko": "퍼핀, 하이테일",
+    "text_ko": "액션 - {t}, 당신이 조종하는 골드 1개를 파괴한다: 골든 코그 토큰 1개를 생성한다.\n각 턴 두 번째로 크랭크할 때, 카드 1장을 뽑는다."
+  },
+  "Hpdjj6RbkDfKMmNqQmwTR": {
+    "_name_en": "Pulping",
+    "name_ko": "짓이기기",
+    "text_ko": "이 카드가 공격할 때, 카드 1장을 뽑은 뒤 무작위 카드 1장을 버린다. 이렇게 {p} 6 이상인 카드가 버려지면, 이 카드가 도미네이트를 얻는다.\n이 카드가 비-장비 카드 2장 미만으로 방어되면, 고 어게인을 얻는다."
+  },
+  "KpDFLFJMK7zK8PC7gr6nJ": {
+    "_name_en": "Pulping",
+    "name_ko": "짓이기기",
+    "text_ko": "이 카드가 공격할 때, 카드 1장을 뽑은 뒤 무작위 카드 1장을 버린다. 이렇게 {p} 6 이상인 카드가 버려지면, 이 카드가 도미네이트를 얻는다.\n이 카드가 비-장비 카드 2장 미만으로 방어되면, 고 어게인을 얻는다."
+  },
+  "qmgKfChbmD6w66dbDz7K6": {
+    "_name_en": "Pulping",
+    "name_ko": "짓이기기",
+    "text_ko": "이 카드가 공격할 때, 카드 1장을 뽑은 뒤 무작위 카드 1장을 버린다. 이렇게 {p} 6 이상인 카드가 버려지면, 이 카드가 도미네이트를 얻는다.\n이 카드가 비-장비 카드 2장 미만으로 방어되면, 고 어게인을 얻는다."
+  },
+  "LChfNqqwjw9Njbdntwcz7": {
+    "_name_en": "Pulse of Candlehold",
+    "name_ko": "캔들홀드의 맥동",
+    "text_ko": "레전더리\n당신의 무덤에서 대상 대지, 번개, 그리고/또는 엘리멘탈 액션 카드 최대 2장을 덱 맨 위에 놓는다. 캔들홀드의 맥동을 추방한다.\n고 어게인"
+  },
+  "rDLHG8PWgWpbJ87hRd6fD": {
+    "_name_en": "Pulse of Isenloft",
+    "name_ko": "이센로프트의 맥동",
+    "text_ko": "레전더리\n대지, 얼음, 엘리멘탈 액션 카드는 이번 턴 방어하는 동안 +1{d}을 가진다."
+  },
+  "k6WKFM77fCwDqKTTBBDmK": {
+    "_name_en": "Pulse of Volthaven",
+    "name_ko": "볼트헤이븐의 맥동",
+    "text_ko": "레전더리\n이번 턴 당신의 다음 얼음, 번개, 또는 엘리멘탈 공격이 +4{p}을 얻는다."
+  },
+  "RhmtDg8Qcz8wtFLFQLh98": {
+    "_name_en": "Pulsewave Harpoon",
+    "name_ko": "펄스웨이브 작살",
+    "text_ko": "이 카드가 영웅을 공격할 때, 그가 자신의 손에서 카드 X장을 공개한다. X는 이번 전투 체인에서 당신이 부스트한 횟수이다. {d}이 X 이하인 액션 카드 1장을 선택한 뒤, 이번 체인 링크에 방어 카드로 추가한다.\n부스트"
+  },
+  "Nqr9cJGNPNKtQqKKrC7Fc": {
+    "_name_en": "Pulsewave Protocol",
+    "name_ko": "펄스웨이브 프로토콜",
+    "text_ko": "에보 업그레이드 - 이 카드가 영웅을 공격할 때, 그가 자신의 손에서 카드 X장을 공개한다. X는 당신이 장착한 에보의 수이다. {d}이 X 미만인 액션 카드 1장을 선택한 뒤, 이번 체인 링크에 방어 카드로 추가한다."
+  },
+  "MndFg9bzntzzrFkHNgzfz": {
+    "_name_en": "Pulsing Aether // Life",
+    "name_ko": "고동치는 에테르 // 생명",
+    "text_ko": "멜드\n아무 대상에게 비전 피해 4를 준다.\n//\n1{h}을 얻는다"
+  },
+  "nm7BLnWdtjqGqfJ868NbW": {
+    "_name_en": "Pulsing Cardia",
+    "name_ko": "고동치는 카르디아",
+    "text_ko": "이것이 분열할 때마다, {r}을 얻는다.\n프래그먼트"
+  },
+  "FJNBWQGCMNzBKLc6qPC9q": {
+    "_name_en": "Pulsing Cardia",
+    "name_ko": "고동치는 카르디아",
+    "text_ko": "이것이 분열할 때마다, {r}을 얻는다.\n프래그먼트"
+  },
+  "nmc9fgdkRkcdJN6QwMTnT": {
+    "_name_en": "Pulsing Cardia",
+    "name_ko": "고동치는 카르디아",
+    "text_ko": "이것이 분열할 때마다, {r}을 얻는다.\n프래그먼트"
+  },
+  "FkNKF7G8Tn79TtGrgKNpn": {
+    "_name_en": "Pulverize",
+    "name_ko": "분쇄하다",
+    "text_ko": "헤이브 3\n분쇄하다가 영웅을 명중하면, 그의 다음 턴 첫 공격이 -4{p}을 가진다."
+  },
+  "nfWLDhWBqKhGMtQMKFjdm": {
+    "_name_en": "Punch Above Your Weight",
+    "name_ko": "체급을 뛰어넘다",
+    "text_ko": "이 카드가 공격할 때, {r}{r}{r}을 지불할 수 있다. 그렇게 하면, 이 카드가 +5{p}을 얻는다."
+  },
+  "9g6wWCRkpgW7brDgFb7Bg": {
+    "_name_en": "Punch Above Your Weight",
+    "name_ko": "체급을 뛰어넘다",
+    "text_ko": "이 카드가 공격할 때, {r}{r}{r}을 지불할 수 있다. 그렇게 하면, 이 카드가 +4{p}을 얻는다."
+  },
+  "NQQdqRGPQtMnf6LGdBJn6": {
+    "_name_en": "Punch Above Your Weight",
+    "name_ko": "체급을 뛰어넘다",
+    "text_ko": "이 카드가 공격할 때, {r}{r}{r}을 지불할 수 있다. 그렇게 하면, 이 카드가 +3{p}을 얻는다."
+  },
+  "BJrdzPnKR6zFhPhpWkLqr": {
+    "_name_en": "Punching Gloves",
+    "name_ko": "권투 장갑",
+    "text_ko": "액션 - {r}{r}, 이것을 파괴한다: 이번 턴 당신이 사용하는 다음 공격 카드가 +2{p}을 얻는다. 고 어게인"
+  },
+  "jtk8JgcJHLBK9kqdNf7FG": {
+    "_name_en": "Puncture",
+    "name_ko": "천공",
+    "text_ko": "대상 검 또는 단검 공격이 +3{p}과 피어싱 1을 얻는다."
+  },
+  "Q9wCKDmjFwjdjdL6rkcLJ": {
+    "_name_en": "Puncture",
+    "name_ko": "천공",
+    "text_ko": "대상 검 또는 단검 공격이 +2{p}과 피어싱 1을 얻는다."
+  },
+  "CLw8wRQNbjMTbFLR6bQQf": {
+    "_name_en": "Puncture",
+    "name_ko": "천공",
+    "text_ko": "대상 검 또는 단검 공격이 +1{p}과 피어싱 1을 얻는다."
+  },
+  "W6dTQMgChGpqBdDnrp6g8": {
+    "_name_en": "Pursue to the Edge of Oblivion",
+    "name_ko": "망각의 끝까지 쫓다",
+    "text_ko": "이 카드가 영웅을 명중하면, 그에게 표식을 남긴다."
+  },
+  "w7prWHb7LbrPMChNMdHzq": {
+    "_name_en": "Pursue to the Pits of Despair",
+    "name_ko": "절망의 구렁텅이까지 쫓다",
+    "text_ko": "이 카드가 영웅을 명중하면, 그에게 표식을 남긴다."
+  },
+  "PFbQN9BfpLzzgrmGMrBzb": {
+    "_name_en": "Pursuit of Knowledge",
+    "name_ko": "지식의 추구",
+    "text_ko": "이것이 명중하면, 당신의 영웅이 턴 종료 시까지 +1{i}을 얻는다."
+  },
+  "gNckqNrr8FBqDgGh877wQ": {
+    "_name_en": "Push Forward",
+    "name_ko": "앞으로 밀어붙이다",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +3{p}을 얻는다.\n이번 턴에 무기로 공격한 적이 있다면, 이번 턴 당신의 다음 공격이 도미네이트를 얻는다.\n고 어게인"
+  },
+  "pQfGDbkf79Rm8tnt6hLgR": {
+    "_name_en": "Push Forward",
+    "name_ko": "앞으로 밀어붙이다",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +2{p}을 얻는다.\n이번 턴에 무기로 공격한 적이 있다면, 이번 턴 당신의 다음 공격이 도미네이트를 얻는다.\n고 어게인"
+  },
+  "zwNPbN7wMRmNPhzmBhGLD": {
+    "_name_en": "Push Forward",
+    "name_ko": "앞으로 밀어붙이다",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +1{p}을 얻는다.\n이번 턴에 무기로 공격한 적이 있다면, 이번 턴 당신의 다음 공격이 도미네이트를 얻는다.\n고 어게인"
+  },
+  "JgbBkhwf8bRTnJCB6HLrD": {
+    "_name_en": "Push the Point",
+    "name_ko": "요점을 밀어붙이다",
+    "text_ko": "이번 전투 체인에서 마지막 공격이 명중했다면, 요점을 밀어붙이다가 +2{p}을 얻는다."
+  },
+  "fqF87f9FWqhtqnNDkKcBB": {
+    "_name_en": "Push the Point",
+    "name_ko": "요점을 밀어붙이다",
+    "text_ko": "이번 전투 체인에서 마지막 공격이 명중했다면, 요점을 밀어붙이다가 +2{p}을 얻는다."
+  },
+  "MCf7PDzNkfQQrkwJmL9mp": {
+    "_name_en": "Push the Point",
+    "name_ko": "요점을 밀어붙이다",
+    "text_ko": "이번 전투 체인에서 마지막 공격이 명중했다면, 요점을 밀어붙이다가 +2{p}을 얻는다."
+  },
+  "FB87tWPkwcRzmzjLcDfMD": {
+    "_name_en": "Put 'Em In Their Place",
+    "name_ko": "제자리를 알게 하다",
+    "text_ko": "발다 스페셜라이제이션\n크러쉬 - 이 카드가 영웅에게 피해 4 이상을 줄 때, 그가 자신의 손을 버린 뒤, 그만큼 카드를 뽑는다."
+  },
+  "MwtKH7HkBhbtFWTBCbDCm": {
+    "_name_en": "Put in Context",
+    "name_ko": "관점 조정",
+    "text_ko": "이 카드는 기본 {p} 3 이하인 공격만 방어할 수 있다."
   }
 }
