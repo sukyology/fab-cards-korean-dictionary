@@ -2981,5 +2981,662 @@
     "_name_en": "Brainstorm",
     "name_ko": "브레인스톰",
     "text_ko": "턴 종료 시까지, 당신의 영웅은 \"이번 행동 단계에 당신이 카드를 뽑을 때마다, 아무 대상에게 비전 피해 1을 준다\"를 얻는다."
+  },
+  "DfBdWpFwfWFWcPLMwjG68": {
+    "_name_en": "Bramble Spark",
+    "name_ko": "가시덤불 불꽃",
+    "text_ko": "대지 퓨전\n이번 턴 당신이 사용하는 다음 공격 액션 카드가 \"이 카드로 공격할 때, 대상 영웅에게 비전 피해 1을 준다\"를 얻는다.\n가시덤불 불꽃이 퓨전되었다면, 이번 턴 당신이 사용하는 다음 공격 액션 카드가 +3{p}을 얻는다.\n고 어게인"
+  },
+  "zgdPgqpCdGFqgFwjm6JW8": {
+    "_name_en": "Bramble Spark",
+    "name_ko": "가시덤불 불꽃",
+    "text_ko": "대지 퓨전\n이번 턴 당신이 사용하는 다음 공격 액션 카드가 \"이 카드로 공격할 때, 대상 영웅에게 비전 피해 1을 준다\"를 얻는다.\n가시덤불 불꽃이 퓨전되었다면, 이번 턴 당신이 사용하는 다음 공격 액션 카드가 +2{p}을 얻는다.\n고 어게인"
+  },
+  "DJr7kwTDTm8MrPrBWn69D": {
+    "_name_en": "Bramble Spark",
+    "name_ko": "가시덤불 불꽃",
+    "text_ko": "대지 퓨전\n이번 턴 당신이 사용하는 다음 공격 액션 카드가 \"이 카드로 공격할 때, 대상 영웅에게 비전 피해 1을 준다\"를 얻는다.\n가시덤불 불꽃이 퓨전되었다면, 이번 턴 당신이 사용하는 다음 공격 액션 카드가 +1{p}을 얻는다.\n고 어게인"
+  },
+  "fGcBKBjTG9KFzbCmwNLhW": {
+    "_name_en": "Brand with Cinderclaw",
+    "name_ko": "잉걸발톱으로 낙인찍다",
+    "text_ko": "이번 전투 체인에서 당신의 다음 공격은 다른 카드 유형에 더해 드라코닉이 된다.\n고 어게인"
+  },
+  "FPphz9BckqMrmkrpLTN79": {
+    "_name_en": "Brand with Cinderclaw",
+    "name_ko": "잉걸발톱으로 낙인찍다",
+    "text_ko": "이번 전투 체인에서 당신의 다음 공격은 다른 카드 유형에 더해 드라코닉이 된다.\n고 어게인"
+  },
+  "KpmrMGn8pRtQnBbdCznbf": {
+    "_name_en": "Brand with Cinderclaw",
+    "name_ko": "잉걸발톱으로 낙인찍다",
+    "text_ko": "이번 전투 체인에서 당신의 다음 공격은 다른 카드 유형에 더해 드라코닉이 된다.\n고 어게인"
+  },
+  "CDLTkCC8RTrwFgLqPjWHc": {
+    "_name_en": "Brandish",
+    "name_ko": "휘두르다",
+    "text_ko": "브랜디쉬가 명중하면, 이번 턴 당신의 다음 무기 공격이 +1{p}을 얻는다.\n고 어게인"
+  },
+  "QjLfPrBc8Rn76HhBcNbhj": {
+    "_name_en": "Brandish",
+    "name_ko": "휘두르다",
+    "text_ko": "브랜디쉬가 명중하면, 이번 턴 당신의 다음 무기 공격이 +1{p}을 얻는다.\n고 어게인"
+  },
+  "nkzJhG8dqtwdMBBMFM8Mt": {
+    "_name_en": "Brandish",
+    "name_ko": "휘두르다",
+    "text_ko": "브랜디쉬가 명중하면, 이번 턴 당신의 다음 무기 공격이 +1{p}을 얻는다.\n고 어게인"
+  },
+  "GJBb8BW9zTQ8CkGbzFqmN": {
+    "_name_en": "Braveforge Bracers",
+    "name_ko": "용맹의 대장간 팔찌",
+    "text_ko": "턴당 1회 액션 - {r}: 이번 턴 당신의 다음 무기 공격이 +1{p}을 얻는다. 이번 턴에 당신이 조종하는 무기가 명중한 적이 있을 때만 이 능력을 활성화한다. 고 어게인\n배틀원"
+  },
+  "tzTbzLkLhDzmW9QMJr9KF": {
+    "_name_en": "Bravo",
+    "name_ko": "브라보",
+    "text_ko": "액션 - {r}{r}: 턴 종료 시까지, 당신의 비용 3 이상인 공격 액션 카드들이 도미네이트를 얻는다. 고 어게인"
+  },
+  "DbqGjQMfWLNCfd7qGqGht": {
+    "_name_en": "Bravo, Flattering Showman",
+    "name_ko": "브라보, 아첨하는 쇼맨",
+    "text_ko": "액션 - {r}{r}, {t}: 당신의 아스날에서 뒷면 카드 1장을 앞면으로 뒤집는다. 그것이 크러시를 가졌다면, 이번 턴 +2{p}과 도미네이트를 얻는다. 고 어게인"
+  },
+  "NtLDgPBR7HqDqhDzJMHmk": {
+    "_name_en": "Bravo, Showstopper",
+    "name_ko": "브라보, 쇼스토퍼",
+    "text_ko": "액션 - {r}{r}: 턴 종료 시까지, 당신의 비용 3 이상인 공격 액션 카드들이 도미네이트를 얻는다. 고 어게인"
+  },
+  "PFJnMWQNfr6jMMzJhjB9H": {
+    "_name_en": "Bravo, Star of the Show",
+    "name_ko": "브라보, 쇼의 스타",
+    "text_ko": "대지, 얼음, 번개의 정수\n당신의 턴 시작 시, 당신의 손에서 대지, 얼음, 번개 카드 1장씩 공개할 수 있다. 그렇게 하면, 이번 턴 당신이 사용하는 비용 3 이상인 다음 공격 액션 카드가 +2{p}, 도미네이트, 고 어게인을 얻는다."
+  },
+  "GgpnHWbh8m96MdHdCRmnW": {
+    "_name_en": "Break Ground",
+    "name_ko": "땅을 가르다",
+    "text_ko": "땅을 가르다로 공격할 때, 당신의 아스날에서 카드 1장을 덱 맨 아래에 놓을 수 있다. 그렇게 하면, 카드 1장을 뽑는다."
+  },
+  "bmLJpC7grdNJm9cdfhTTc": {
+    "_name_en": "Break Ground",
+    "name_ko": "땅을 가르다",
+    "text_ko": "땅을 가르다로 공격할 때, 당신의 아스날에서 카드 1장을 덱 맨 아래에 놓을 수 있다. 그렇게 하면, 카드 1장을 뽑는다."
+  },
+  "FTnCF8qDgpz9T9LDbpbf8": {
+    "_name_en": "Break Ground",
+    "name_ko": "땅을 가르다",
+    "text_ko": "땅을 가르다로 공격할 때, 당신의 아스날에서 카드 1장을 덱 맨 아래에 놓을 수 있다. 그렇게 하면, 카드 1장을 뽑는다."
+  },
+  "jWrgGqDQrJcHQ8PF7htmc": {
+    "_name_en": "Break of Dawn",
+    "name_ko": "여명",
+    "text_ko": "이번 턴 섀도우 원천이 다음에 피해를 주게 될 경우, 그 피해 중 4를 방지한다."
+  },
+  "L9ckNFnGCDh9tQtCg8rm6": {
+    "_name_en": "Break of Dawn",
+    "name_ko": "여명",
+    "text_ko": "이번 턴 섀도우 원천이 다음에 피해를 주게 될 경우, 그 피해 중 3을 방지한다."
+  },
+  "GGH7Jb9gBH68rFcMCWWcd": {
+    "_name_en": "Break of Dawn",
+    "name_ko": "여명",
+    "text_ko": "이번 턴 섀도우 원천이 다음에 피해를 주게 될 경우, 그 피해 중 2를 방지한다."
+  },
+  "jwWWMBhk9KQdTDBgCLKKj": {
+    "_name_en": "Break Open the Chests!",
+    "name_ko": "궤짝을 열어라!",
+    "text_ko": "모든 아스날에 있는 모든 카드를 앞면으로 뒤집는다. 그 뒤 임의의 아스날에 앞면 노란색 카드가 있다면, 골드 토큰 2개를 생성한다.\n고 어게인"
+  },
+  "GLqfqt8qLhgfwrM6rWckN": {
+    "_name_en": "Break Stature",
+    "name_ko": "위상 파괴",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅이 조종하는 오라 토큰 1개를 파괴한다. 그 영웅은 다음 턴 종료 시까지 그 토큰의 이름을 가진 오라를 생성할 수 없다."
+  },
+  "wgLPnnJb8QW7WH6zRFbNr": {
+    "_name_en": "Break Tide",
+    "name_ko": "파도를 부수다",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 러싱 리버 또는 플러드 오브 포스였다면, 파도를 부수다가 +3{p}, 도미네이트, \"파도를 부수다가 명중하면, 당신의 덱 맨 위 카드를 추방한다. 당신의 다음 턴 종료 시까지, 그것을 사용할 수 있다\"를 얻는다."
+  },
+  "MHDhBfch9wDpjrhrR6R7d": {
+    "_name_en": "Breaker Helm Protos",
+    "name_ko": "브레이커 헬름 프로토스",
+    "text_ko": "이 카드가 방어할 때, 하이퍼 드라이버 1개를 버릴 수 있다. 그렇게 하면, 카드 1장을 뽑고 턴 종료 시까지 이 카드가 +1{d}을 얻는다.\n템퍼"
+  },
+  "qT78mFRmt9KQfQdGwfnJD": {
+    "_name_en": "Breaking Point",
+    "name_ko": "한계점",
+    "text_ko": "럽처 - 한계점이 체인 링크 4 이상으로 사용되면, \"이 카드가 영웅을 명중하면, 그 영웅의 아스날에 있는 모든 카드를 파괴한다\"를 가진다."
+  },
+  "6dMC789mNcrmnMPWGMdhb": {
+    "_name_en": "Breaking Scales",
+    "name_ko": "부서지는 비늘",
+    "text_ko": "공격 반응 - 부서지는 비늘을 파괴한다: 콤보를 가진 대상 공격 액션 카드가 +1{p}을 얻는다.\n배틀원"
+  },
+  "h9W6rrHqhh8p7bzH7tKmH": {
+    "_name_en": "Breakneck Battery",
+    "name_ko": "질주하는 포화",
+    "text_ko": "질주하는 포화를 사용하기 위한 추가 비용으로, 무작위 카드 1장을 버린다.\n버려진 카드의 {p}이 6 이상이면, 질주하는 포화가 고 어게인을 얻는다."
+  },
+  "jk9DMwtQDGFNpG7CBghpw": {
+    "_name_en": "Breakneck Battery",
+    "name_ko": "질주하는 포화",
+    "text_ko": "질주하는 포화를 사용하기 위한 추가 비용으로, 무작위 카드 1장을 버린다.\n버려진 카드의 {p}이 6 이상이면, 질주하는 포화가 고 어게인을 얻는다."
+  },
+  "NDtf9QNdnRFLkjncQDRgM": {
+    "_name_en": "Breakneck Battery",
+    "name_ko": "질주하는 포화",
+    "text_ko": "질주하는 포화를 사용하기 위한 추가 비용으로, 무작위 카드 1장을 버린다.\n버려진 카드의 {p}이 6 이상이면, 질주하는 포화가 고 어게인을 얻는다."
+  },
+  "J8LhcKQG9z8mnTm6bMnFp": {
+    "_name_en": "Breakwater Undertow",
+    "name_ko": "방파제의 역류",
+    "text_ko": "공격 반응 - 이것을 파괴한다: 대상 해적 아군 공격이 고 어게인을 얻는다. 전투 체인이 종료되면, 그 아군을 파괴한다.\n블레이드 브레이크"
+  },
+  "H6WLbh6cgMkhmdqLhQWrJ": {
+    "_name_en": "Breed Anger",
+    "name_ko": "분노를 키우다",
+    "text_ko": "콤보 - 이 카드가 공격할 때, 이번 전투 체인에서 마지막 공격이 크라우칭 타이거였다면, 이 카드는 고 어게인을 얻고 당신의 추방 구역에 크라우칭 타이거를 생성한다. 이번 턴에 그것을 사용할 수 있다."
+  },
+  "Bhzf7NDc9qBcP86RzJjmK": {
+    "_name_en": "Breed Anger",
+    "name_ko": "분노를 키우다",
+    "text_ko": "콤보 - 이 카드가 공격할 때, 이번 전투 체인에서 마지막 공격이 크라우칭 타이거였다면, 이 카드는 고 어게인을 얻고 당신의 추방 구역에 크라우칭 타이거를 생성한다. 이번 턴에 그것을 사용할 수 있다."
+  },
+  "mbtPRkBfzdTWWGGDFGmPB": {
+    "_name_en": "Breed Anger",
+    "name_ko": "분노를 키우다",
+    "text_ko": "콤보 - 이 카드가 공격할 때, 이번 전투 체인에서 마지막 공격이 크라우칭 타이거였다면, 이 카드는 고 어게인을 얻고 당신의 추방 구역에 크라우칭 타이거를 생성한다. 이번 턴에 그것을 사용할 수 있다."
+  },
+  "LQFQqtHDnRNhPQ6GP8z9j": {
+    "_name_en": "Breeze Rider Boots",
+    "name_ko": "산들바람을 타는 부츠",
+    "text_ko": "당신이 조종하는 닌자 공격 액션 카드가 명중하면, 산들바람을 타는 부츠를 파괴할 수 있다. 그렇게 하면, 이번 턴 콤보를 가진 공격 액션 카드들이 고 어게인을 얻는다.\n배틀원"
+  },
+  "jBtHRMcRntDhhGzKtzKFB": {
+    "_name_en": "Brevant, Civic Protector",
+    "name_ko": "브레반트, 시민의 수호자",
+    "text_ko": "당신은 덱에 원하는 수의 '기사도(Chivalry)'를 넣을 수 있다.\n당신이 다른 영웅을 보호할 때마다, 마이트 토큰 1개를 생성한다."
+  },
+  "7TjkgnbJ8tghfrkMRnTfW": {
+    "_name_en": "Briar",
+    "name_ko": "브라이어",
+    "text_ko": "대지와 번개의 정수\n당신이 조종하는 공격 액션 카드가 상대 영웅에게 처음으로 피해를 줄 때, 대지의 화신 토큰 1개를 생성한다.\n각 턴 당신이 두 번째 '비-공격' 액션 카드를 사용할 때마다, 번개의 화신 토큰 1개를 생성한다."
+  },
+  "cjDzkKdjNrGqL9tnDc7zd": {
+    "_name_en": "Briar, Warden of Thorns",
+    "name_ko": "브라이어, 가시의 파수꾼",
+    "text_ko": "대지와 번개의 정수\n당신이 조종하는 공격 액션 카드가 상대 영웅에게 처음으로 피해를 줄 때, 대지의 화신 토큰 1개를 생성한다.\n각 턴 당신이 두 번째 '비-공격' 액션 카드를 사용할 때마다, 번개의 화신 토큰 1개를 생성한다."
+  },
+  "BJKkfCPh7LmMrT9bDn6wz": {
+    "_name_en": "Brimming Blade",
+    "name_ko": "넘치는 칼날",
+    "text_ko": "당신이 조종하는 대상 검을 두 번 연마한다.\n고 어게인"
+  },
+  "nhf89Hr9rJkp9qDjDCCpt": {
+    "_name_en": "Brothers in Arms",
+    "name_ko": "전우들",
+    "text_ko": "이 카드가 방어할 때, {r}을 지불할 수 있다. 그렇게 하면, +2{d}을 얻는다."
+  },
+  "B7BNkF6nJChrRQ6kpWKPw": {
+    "_name_en": "Brothers in Arms",
+    "name_ko": "전우들",
+    "text_ko": "이 카드가 방어할 때, {r}을 지불할 수 있다. 그렇게 하면, +2{d}을 얻는다."
+  },
+  "TtJpTpjBbDpPhFb7bzLwD": {
+    "_name_en": "Brothers in Arms",
+    "name_ko": "전우들",
+    "text_ko": "이 카드가 방어할 때, {r}을 지불할 수 있다. 그렇게 하면, +2{d}을 얻는다."
+  },
+  "tkHRmr67MT8GCPJBHMwBH": {
+    "_name_en": "Brothers of Flame",
+    "name_ko": "불꽃의 형제들",
+    "text_ko": "당신이 드라코닉 체인 링크를 2개 이상 조종하고 있을 때만 이 카드를 사용한다.\n대상 단검 공격이 +4{p}을 얻는다."
+  },
+  "RffddJzMgBmzDwQd6JCnf": {
+    "_name_en": "Browbeat",
+    "name_ko": "위협하다",
+    "text_ko": "당신의 손에 있는 카드마다 이 카드가 +1{p}을 얻는다."
+  },
+  "wkBCfWK6wNKKNjWQwkGzj": {
+    "_name_en": "Bruised Leather",
+    "name_ko": "멍든 가죽",
+    "text_ko": "순간 - 이것을 파괴한다: 이번 턴 당신에게 가해질 다음 피해 1을 방지한다. 이번 턴에 피해를 받은 적이 있을 때만 이것을 활성화한다."
+  },
+  "DFPwWqL9PCzLTKJjDzJzJ": {
+    "_name_en": "Brush of Heavenly Rites",
+    "name_ko": "천상의 의식용 붓",
+    "text_ko": "턴당 1회 액션 - {r}{r}: 당신의 인벤토리에서 이름에 '선포(Proclamation)'가 들어간 반대손 장비를 장착한다. 고 어게인"
+  },
+  "6fHc7b8L8fhK8GCqJTzrc": {
+    "_name_en": "Brush Off",
+    "name_ko": "털어내기",
+    "text_ko": "이번 턴 당신이 다음에 3 이하의 피해를 받게 될 경우, 방지한다."
+  },
+  "H6HqHg669zTz9nb6qGdcg": {
+    "_name_en": "Brush Off",
+    "name_ko": "털어내기",
+    "text_ko": "이번 턴 당신이 다음에 2 이하의 피해를 받게 될 경우, 방지한다."
+  },
+  "6QFJz9JnJhnLBFrtJWh7t": {
+    "_name_en": "Brush Off",
+    "name_ko": "털어내기",
+    "text_ko": "이번 턴 당신이 다음에 1의 피해를 받게 될 경우, 방지한다."
+  },
+  "JCprRtPfKncrRpBJDBJDF": {
+    "_name_en": "Brutal Assault",
+    "name_ko": "잔혹한 습격"
+  },
+  "JdRbp7cnCzB8PLFTQ8rLM": {
+    "_name_en": "Brutal Assault",
+    "name_ko": "잔혹한 습격"
+  },
+  "qhPfDmWPHpHT8gpFmNkkr": {
+    "_name_en": "Brutal Assault",
+    "name_ko": "잔혹한 습격"
+  },
+  "Dh8tPtFJwkqg8jbGTjNWQ": {
+    "_name_en": "Brutus, Summa Rudis",
+    "name_ko": "브루투스, 최고 심판관",
+    "text_ko": "당신은 덱에 클래스나 재능에 상관없이 격돌을 가진 카드를 넣을 수 있다.\n격돌에서 모든 영웅이 승리하지 못하게 될 경우, 대신 어느 영웅이 격돌에서 이길지 선택한다."
+  },
+  "QNjHwWjJFcDtq8KqpHRjP": {
+    "_name_en": "Bubba-Lubba, Run Aground",
+    "name_ko": "버바-루바, 좌초하다",
+    "text_ko": "이 카드는 +1{p} 카운터 1개를 지닌 채 전장에 들어온다.\n액션 - {r}, {t}: 공격\n액션 - 당신이 조종하는 아군에서 +1{p} 카운터 1개를 제거한다: 오라 토큰 1개를 파괴한다. 고 어게인\n워터리 그레이브"
+  },
+  "CGLDFnpbfg9LbF7z7GndP": {
+    "_name_en": "Bubble to the Surface",
+    "name_ko": "표면으로 떠오르다",
+    "text_ko": "이 카드는 당신이 조종하는 드라코닉 체인 링크 1개당 {r} 적은 비용으로 사용된다.\n빨간색 카드를 공개할 때까지 당신의 덱 맨 위에서 카드를 공개한다. 그것을 추방한다. 이번 턴에 그것을 사용할 수 있다. 덱을 섞는다."
+  },
+  "KL6rbKJcpRFhNFLwbkbbg": {
+    "_name_en": "Buccaneer's Bounty",
+    "name_ko": "해적의 포상금",
+    "text_ko": "액션 - 이것을 파괴한다: {r}을 얻는다. 고 어게인\n블레이드 브레이크"
+  },
+  "TctkW8gCmpjnHwQ6dfdMg": {
+    "_name_en": "Buckle",
+    "name_ko": "대비하다",
+    "text_ko": "이번 턴 당신의 다음 가디언 공격이 +1{p}, 도미네이트, \"이 카드가 영웅을 명중하면, 그 영웅이 조종하는, -1{d} 카운터를 가진 장비 1개를 파괴한다\"를 얻는다.\n고 어게인"
+  },
+  "hK7djfn8zbWwdnmhzhJBh": {
+    "_name_en": "Buckling Blow",
+    "name_ko": "휘청거리는 일격",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅이 조종하는 장비 1개에 -1{d} 카운터를 올린다."
+  },
+  "HDPdWgLqnPCTqDDMKFfM9": {
+    "_name_en": "Buckling Blow",
+    "name_ko": "휘청거리는 일격",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅이 조종하는 장비 1개에 -1{d} 카운터를 올린다."
+  },
+  "CgDzPBKW6pnLgwkgP9DFw": {
+    "_name_en": "Buckling Blow",
+    "name_ko": "휘청거리는 일격",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅이 조종하는 장비 1개에 -1{d} 카운터를 올린다."
+  },
+  "qPtfkpzfNL8qGRFBWQN7D": {
+    "_name_en": "Buckwild",
+    "name_ko": "야생 그대로",
+    "text_ko": "당신의 피치 존에 {p}이 6 이상인 카드가 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "tCkMg9kPCkhTDTbJkdHjB": {
+    "_name_en": "Buckwild",
+    "name_ko": "야생 그대로",
+    "text_ko": "당신의 피치 존에 {p}이 6 이상인 카드가 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "LPTBztggNdkw8KqdKCwTJ": {
+    "_name_en": "Buckwild",
+    "name_ko": "야생 그대로",
+    "text_ko": "당신의 피치 존에 {p}이 6 이상인 카드가 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "6CRmnh6wbcGBJLpzwPf6M": {
+    "_name_en": "Bull Bar",
+    "name_ko": "황소 범퍼",
+    "text_ko": "부스트\n당신이 하이퍼 드라이버를 조종하고 있다면, 이 카드가 오버파워를 얻는다."
+  },
+  "bGjz8pF88jjCfGqbh8FRq": {
+    "_name_en": "Bull Bar",
+    "name_ko": "황소 범퍼",
+    "text_ko": "부스트\n당신이 하이퍼 드라이버를 조종하고 있다면, 이 카드가 오버파워를 얻는다."
+  },
+  "69rMfrhmMBTgKkhmqHn6W": {
+    "_name_en": "Bull Bar",
+    "name_ko": "황소 범퍼",
+    "text_ko": "부스트\n당신이 하이퍼 드라이버를 조종하고 있다면, 이 카드가 오버파워를 얻는다."
+  },
+  "FLfrm7mBczWhFLBTKmBgJ": {
+    "_name_en": "Bull's Eye Bracers",
+    "name_ko": "정조준 팔찌",
+    "text_ko": "액션 - 정조준 팔찌를 파괴한다: 당신의 아스날에 카드가 없다면, 당신의 손에서 화살 카드 1장을 앞면으로 아스날에 놓을 수 있다. 그것은 턴 종료 시까지 +1{p}을 얻는다. 고 어게인\n아케인 배리어 1"
+  },
+  "tk7rTRCHCTKrRtffjFQGC": {
+    "_name_en": "Bully Tactics",
+    "name_ko": "괴롭히기 전술",
+    "text_ko": "이 카드가 영웅을 공격할 때, 최대 {r}{r}{r}을 지불할 수 있다. 그만큼 그 영웅을 인티미데이트한다."
+  },
+  "qdzb6znQFtcJHcPNnkFF7": {
+    "_name_en": "Bunker Beard",
+    "name_ko": "벙커 수염",
+    "text_ko": "방어 반응 - 이것을 파괴한다: 당신의 아스날에서 액션 카드 1장을 방어 카드로 활성 체인 링크에 추가할 수 있다."
+  },
+  "bCr7BCMzbRDWdBCJfTdTM": {
+    "_name_en": "Burdens of the Past",
+    "name_ko": "과거의 짐",
+    "text_ko": "턴 종료 시까지, 대상 영웅은 자신의 무덤에 있는 카드와 같은 이름의 방어 반응 카드를 사용할 수 없다.\n그 영웅의 무덤에 방어 반응 카드가 10장 이상이면, 카드 1장을 뽑는다.\n고 어게인"
+  },
+  "HFHTwwNzfP98TwzjLdFjK": {
+    "_name_en": "Burgeoning",
+    "name_ko": "무성함",
+    "text_ko": "이 카드가 아스날에서 사용되었다면, +1{p}을 얻는다."
+  },
+  "THkdFmjJffhRHdNTPcKmF": {
+    "_name_en": "Burgeoning",
+    "name_ko": "무성함",
+    "text_ko": "이 카드가 아스날에서 사용되었다면, +1{p}을 얻는다."
+  },
+  "CrcJtRzFPTCwQ8wQtzpmN": {
+    "_name_en": "Burgeoning",
+    "name_ko": "무성함",
+    "text_ko": "이 카드가 아스날에서 사용되었다면, +1{p}을 얻는다."
+  },
+  "BdPrJgdgHTBcQ6gd7RTGc": {
+    "_name_en": "Burly Bones",
+    "name_ko": "건장한 해골",
+    "text_ko": "이 카드가 공격할 때, 카드 1장을 버리거나 당신의 덱 맨 위 카드를 파괴할 수 있다. 그 카드가 워터리 그레이브를 가졌다면, 이 카드가 오버파워를 얻는다."
+  },
+  "rBJ7nHKTc9W6d6P8hK7BQ": {
+    "_name_en": "Burly Bones",
+    "name_ko": "건장한 해골",
+    "text_ko": "이 카드가 공격할 때, 카드 1장을 버리거나 당신의 덱 맨 위 카드를 파괴할 수 있다. 그 카드가 워터리 그레이브를 가졌다면, 이 카드가 오버파워를 얻는다."
+  },
+  "hCT6MJC6bWrdHTmCjJfF6": {
+    "_name_en": "Burly Bones",
+    "name_ko": "건장한 해골",
+    "text_ko": "이 카드가 공격할 때, 카드 1장을 버리거나 당신의 덱 맨 위 카드를 파괴할 수 있다. 그 카드가 워터리 그레이브를 가졌다면, 이 카드가 오버파워를 얻는다."
+  },
+  "kDgcBghDT7wRQwQWmpWRb": {
+    "_name_en": "Burn Away",
+    "name_ko": "불태워 없애다",
+    "text_ko": "불태워 없애다를 사용하기 위한 추가 비용으로, 당신의 무덤에서 피닉스 플레임 1장을 추방할 수 있다. 그렇게 하면, 불태워 없애다가 +2{p}과 고 어게인을 얻는다."
+  },
+  "FRftJtrB9LzbkMfcJKCmb": {
+    "_name_en": "Burn Bare",
+    "name_ko": "맨몸으로 불태우다",
+    "text_ko": "아무 대상에게 비전 피해 6을 준다.\n순간 - 이 카드를 버린다: 당신을 공격 중인, 팬텀을 가진 대상 카드를 파괴한다."
+  },
+  "jbpNpCbdRQh9bFqg9Mjh6": {
+    "_name_en": "Burn Rubber",
+    "name_ko": "타이어를 태우다",
+    "text_ko": "이번 턴에 2회 이상 부스트했다면, 이 카드가 +2{p}을 얻고 장비로 방어될 수 없다."
+  },
+  "TKBfNBhjRmp7qF9rMQ9bK": {
+    "_name_en": "Burn Them All",
+    "name_ko": "모두 불태워라",
+    "text_ko": "고 어게인\n턴당 1회, 당신이 조종하는 드래곤이 공격할 때, 각 상대 영웅에게 비전 피해 1을 준다.\n당신의 종료 단계 시작 시, 모두 불태워라에 소각 카운터를 올린 뒤, 그것에 있는 소각 카운터마다 당신의 무덤에서 빨간색 카드를 추방하지 않는 한 파괴한다."
+  },
+  "RmwkmHccFCW9T8HNbmBFq": {
+    "_name_en": "Burn Up // Shock",
+    "name_ko": "불타오르다 // 충격",
+    "text_ko": "멜드\n이번 턴 당신이 조종하는 공격이 다음에 영웅을 명중할 때, 그 영웅에게 비전 피해 4를 준다.\n고 어게인\n//\n아무 대상에게 비전 피해 1을 준다."
+  },
+  "GgH7CLN7mwL6HtRcjBjqR": {
+    "_name_en": "Burning Blade Dance",
+    "name_ko": "불타는 칼날 춤",
+    "text_ko": "당신이 드라코닉 체인 링크를 2개 이상 조종하고 있다면, 이 카드는 고 어게인과 \"이 카드가 영웅을 명중하면, 당신이 조종하는 대상 단검이 그 영웅에게 피해 1을 주게 할 수 있다. 이렇게 피해를 주면, 그 단검은 명중한 것이다. 그 단검을 파괴한다\"를 얻는다."
+  },
+  "C6zqr6WKMwc8MqGjnqRLK": {
+    "_name_en": "Burnished Bunkerplate",
+    "name_ko": "윤이 나는 벙커판금",
+    "text_ko": "방어 반응 - 이것을 파괴한다: 당신의 아스날에서 액션 카드 1장을 방어 카드로 활성 체인 링크에 추가할 수 있다."
+  },
+  "kMKLhqckbrTHBk7HbNLpJ": {
+    "_name_en": "Buzz Bolt",
+    "name_ko": "버즈 볼트",
+    "text_ko": "번개 퓨전\n버즈 볼트가 퓨전되었다면, 이번 턴에 공격이 영웅을 명중할 때마다, 그 영웅에게 피해 1을 준다."
+  },
+  "tMGQrpkw6rBLHRfLtQwgK": {
+    "_name_en": "Buzz Bolt",
+    "name_ko": "버즈 볼트",
+    "text_ko": "번개 퓨전\n버즈 볼트가 퓨전되었다면, 이번 턴에 공격이 영웅을 명중할 때마다, 그 영웅에게 피해 1을 준다."
+  },
+  "dDCQHQ9NwDjzrMFDq9wHg": {
+    "_name_en": "Buzz Bolt",
+    "name_ko": "버즈 볼트",
+    "text_ko": "번개 퓨전\n버즈 볼트가 퓨전되었다면, 이번 턴에 공격이 영웅을 명중할 때마다, 그 영웅에게 피해 1을 준다."
+  },
+  "Kw9PPtD6DbnRWtNctNrbD": {
+    "_name_en": "Buzzard Helm",
+    "name_ko": "버저드 투구",
+    "text_ko": "이 카드가 방어할 때, 카드 1장을 뽑은 뒤 무작위 카드 1장을 버린다. 이렇게 {p}이 6 이상인 카드가 버려지면, 이번 턴 이 카드가 +1{d}을 얻는다.\n템퍼"
+  },
+  "chkQDQ6HN77r7hg8pmkKt": {
+    "_name_en": "Buzzsaw Trap",
+    "name_ko": "전기톱 함정",
+    "text_ko": "레전더리 립타이드 스페셜라이제이션\n이 카드가 {p}이 기본보다 높은 공격을 방어하면, 이번 턴 그 공격은 {p}을 얻을 수 없다."
+  },
+  "zQMJwgRd9B7zbF6fqb7Hk": {
+    "_name_en": "By the Book",
+    "name_ko": "규정대로",
+    "text_ko": "당신이 다른 모든 영웅보다 {h}가 적다면, 이 카드를 순간 카드인 것처럼 사용할 수 있다.\n영웅들은 행동 단계 동안 카드를 뽑을 수 없다.\n당신의 행동 단계 시작 시, 이것을 파괴한다."
+  },
+  "9N8KCpFCwjdCgn8CBMQfg": {
+    "_name_en": "Cadaverous Contraband",
+    "name_ko": "시체의 밀수품",
+    "text_ko": "시체의 밀수품이 명중하면, 당신의 무덤에서 '비-공격' 액션 카드 1장을 덱 맨 위에 놓을 수 있다."
+  },
+  "RKW7z89gLBwpKqrWPfgHH": {
+    "_name_en": "Cadaverous Contraband",
+    "name_ko": "시체의 밀수품",
+    "text_ko": "시체의 밀수품이 명중하면, 당신의 무덤에서 '비-공격' 액션 카드 1장을 덱 맨 위에 놓을 수 있다."
+  },
+  "wzF9jpgGN8tPLtfrtrHfm": {
+    "_name_en": "Cadaverous Contraband",
+    "name_ko": "시체의 밀수품",
+    "text_ko": "시체의 밀수품이 명중하면, 당신의 무덤에서 '비-공격' 액션 카드 1장을 덱 맨 위에 놓을 수 있다."
+  },
+  "WMFB7HjQfN9L7hp7dLqhN": {
+    "_name_en": "Cadaverous Tilling",
+    "name_ko": "시체 경작",
+    "text_ko": "분해 - 이 카드가 공격할 때, 당신의 무덤에서 대지 카드 2장과 액션 카드 1장을 추방할 수 있다. 그렇게 하면, 이 카드가 +2{p}을 얻는다."
+  },
+  "pWrWWhfjfTWPKMbdTWQHT": {
+    "_name_en": "Cadaverous Tilling",
+    "name_ko": "시체 경작",
+    "text_ko": "분해 - 이 카드가 공격할 때, 당신의 무덤에서 대지 카드 2장과 액션 카드 1장을 추방할 수 있다. 그렇게 하면, 이 카드가 +2{p}을 얻는다."
+  },
+  "zqbcPKK9npDdLNNLNhdnN": {
+    "_name_en": "Cadaverous Tilling",
+    "name_ko": "시체 경작",
+    "text_ko": "분해 - 이 카드가 공격할 때, 당신의 무덤에서 대지 카드 2장과 액션 카드 1장을 추방할 수 있다. 그렇게 하면, 이 카드가 +2{p}을 얻는다."
+  },
+  "8jWbpb8RHQWpKwDdnt9rw": {
+    "_name_en": "Call Down the Lightning",
+    "name_ko": "번개를 불러내리다",
+    "text_ko": "렉시 스페셜라이제이션\n이번 턴 당신의 공격들이 \"방어 영웅이 손에서 방어 카드를 1장 이상 이 체인 링크에 추가할 때마다, 이 카드가 그 영웅에게 피해 1을 준다\"를 얻는다. 고 어게인\n유니티 - 이것이 손의 카드와 함께 방어할 때, 원하는 수의 영웅의 조종 하에 번개의 화신 토큰을 생성한다."
+  },
+  "JCcpbgdrTMnnLdhGJcDGD": {
+    "_name_en": "Call for Backup",
+    "name_ko": "지원 요청",
+    "text_ko": "이 카드가 방어할 때, 당신의 무덤에서 서로 다른 이름의 공격 액션 카드 2장을 선택한다. 상대가 그중 1장을 선택한다. 그 카드를 추방하고 나머지 카드를 덱 맨 위에 놓는다."
+  },
+  "7c9KRd7Rh7hbGJ8kRCrFr": {
+    "_name_en": "Call in the Big Guns",
+    "name_ko": "화력을 소집하다",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +3{p}을 얻는다.\n당신의 손에서 화살 1장을 앞면으로 아스날에 놓을 수 있다.\n고 어게인"
+  },
+  "L6GQFG6PbmFHrGw8fhwMn": {
+    "_name_en": "Call in the Big Guns",
+    "name_ko": "화력을 소집하다",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +2{p}을 얻는다.\n당신의 손에서 화살 1장을 앞면으로 아스날에 놓을 수 있다.\n고 어게인"
+  },
+  "QLDR6B8G7KPBBTF8C9JKJ": {
+    "_name_en": "Call in the Big Guns",
+    "name_ko": "화력을 소집하다",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +1{p}을 얻는다.\n당신의 손에서 화살 1장을 앞면으로 아스날에 놓을 수 있다.\n고 어게인"
+  },
+  "gDhFGHDrPKRwCP6qRF6zd": {
+    "_name_en": "Call to the Grave",
+    "name_ko": "무덤으로의 부름",
+    "text_ko": "당신의 덱에서 카드 1장을 찾아 무덤에 놓은 뒤, 덱을 섞는다.\n고 어게인"
+  },
+  "kmP89HM9Rq9WdwgCbCC7q": {
+    "_name_en": "Calming Breeze",
+    "name_ko": "진정시키는 산들바람",
+    "text_ko": "이번 턴 당신이 다음에 3번 피해를 받게 될 경우, 그 피해 중 각각 1을 방지한다."
+  },
+  "T68MkCWcwQhqChRPKNR6C": {
+    "_name_en": "Calming Cloak",
+    "name_ko": "진정의 망토",
+    "text_ko": "순간 - {r}: 이것을 파괴한다: 이번 턴 당신이 사용하는 다음 오라가 {r}{r} 적은 비용으로 사용된다.\n아케인 배리어 1"
+  },
+  "nDkh8FDGwNNpLghj6grmK": {
+    "_name_en": "Calming Gesture",
+    "name_ko": "진정의 몸짓",
+    "text_ko": "순간 - {r}, 이것을 파괴한다: 스펙트럴 실드 토큰 1개를 생성한다.\n아케인 배리어 1"
+  },
+  "HcTHkbNfWbQNCbNdmnhBB": {
+    "_name_en": "Calmveil of Volthaven",
+    "name_ko": "볼트헤이븐의 진정막",
+    "text_ko": "이번 턴 당신에게 가해질 다음 피해 3을 방지한다. 이렇게 처음으로 피해를 방지할 때, 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "Mk8R6DRrqThcpqmPFKnCk": {
+    "_name_en": "Calmveil of Volthaven",
+    "name_ko": "볼트헤이븐의 진정막",
+    "text_ko": "이번 턴 당신에게 가해질 다음 피해 2를 방지한다. 이렇게 처음으로 피해를 방지할 때, 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "W7JrMn9grP86gDnB9Fhng": {
+    "_name_en": "Calmveil of Volthaven",
+    "name_ko": "볼트헤이븐의 진정막",
+    "text_ko": "이번 턴 당신에게 가해질 다음 피해 1을 방지한다. 이렇게 처음으로 피해를 방지할 때, 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "N6FgtcT8gMP7PMj7hCkgP": {
+    "_name_en": "Canopy Shelter",
+    "name_ko": "나무 그늘 은신처",
+    "text_ko": "이 카드가 방어할 때, 마이트 토큰 1개를 생성한다."
+  },
+  "GkcwtGfWGcDBmQ7BbFNRt": {
+    "_name_en": "Cap of Quick Thinking",
+    "name_ko": "재빠른 사고의 모자",
+    "text_ko": "순간 - 이것을 파괴한다: 이번 턴에 상대가 조종하는 원천에게 피해를 받게 될 경우, 순간 카드 1장을 버려 그 피해 중 1을 방지하고 카드 1장을 뽑을 수 있다."
+  },
+  "HpFndzDqQGcQWpzcKjJLc": {
+    "_name_en": "Captain of the Guard",
+    "name_ko": "경비대장",
+    "text_ko": "이 카드가 방어 중인 동안, 자신이 방어하는 공격보다 {p}이 높은 카드들은 +1{d}을 얻는다."
+  },
+  "b7NNmKqCcHRLdbGHBdNj8": {
+    "_name_en": "Captain's Call",
+    "name_ko": "선장의 부름",
+    "text_ko": "다음 중 1개 선택;\n이번 턴 당신이 사용하는 비용 2 이하의 다음 공격 액션 카드가 +2{p}을 얻는다.\n이번 턴 당신이 사용하는 비용 2 이하의 다음 공격 액션 카드가 고 어게인을 얻는다.\n고 어게인"
+  },
+  "7MrtQj7pkfbNpNGjLk8GP": {
+    "_name_en": "Captain's Call",
+    "name_ko": "선장의 부름",
+    "text_ko": "다음 중 1개 선택;\n이번 턴 당신이 사용하는 비용 1 이하의 다음 공격 액션 카드가 +2{p}을 얻는다.\n이번 턴 당신이 사용하는 비용 1 이하의 다음 공격 액션 카드가 고 어게인을 얻는다.\n고 어게인"
+  },
+  "cBJGmpJFKmg9RLDnrtzNJ": {
+    "_name_en": "Captain's Call",
+    "name_ko": "선장의 부름",
+    "text_ko": "다음 중 1개 선택;\n이번 턴 당신이 사용하는 비용 0인 다음 공격 액션 카드가 +2{p}을 얻는다.\n이번 턴 당신이 사용하는 비용 0인 다음 공격 액션 카드가 고 어게인을 얻는다.\n고 어게인"
+  },
+  "hmr8mCTP6dhctND9KcFjp": {
+    "_name_en": "Captain's Coat",
+    "name_ko": "선장의 외투",
+    "text_ko": "액션 - 이것을 파괴한다: {r}을 얻는다. 이번 턴에 카드를 뽑았을 때만 이것을 활성화한다. 고 어게인"
+  },
+  "ChBRBzBFFFMhqj9tp8mBd": {
+    "_name_en": "Caress of the Reaper",
+    "name_ko": "사신의 애무",
+    "text_ko": "이 카드가 영웅에게 피해를 줄 때마다, 그 영웅이 조종하는 대상 오라를 파괴한다."
+  },
+  "pFgDCjG98QkNLjGpgB7PH": {
+    "_name_en": "Carrion Crown",
+    "name_ko": "썩은 왕관",
+    "text_ko": "액션 - 아군 1개를 버린다, 이것을 파괴한다: 카드 1장을 뽑는다. 고 어게인\n블레이드 브레이크"
+  },
+  "KLtwtTdQqjdTJNhcQHJhd": {
+    "_name_en": "Carrion Husk",
+    "name_ko": "썩은 껍질",
+    "text_ko": "당신이 썩은 껍질로 방어하면, 전투 체인이 종료될 때 그것을 추방한다.\n당신의 턴 시작 시, 당신의 {h}가 13 이하이면, 썩은 껍질을 추방한다.\n블러드 뎃"
+  },
+  "h7zPMnmnnHgbHRhncLJm8": {
+    "_name_en": "Cartilage Crush",
+    "name_ko": "연골 분쇄",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅의 다음 턴 첫 액션은 사용하거나 활성화하는 데 추가로 {r}이 든다."
+  },
+  "qRCfPWjnmP9kMwczzqBcC": {
+    "_name_en": "Cartilage Crush",
+    "name_ko": "연골 분쇄",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅의 다음 턴 첫 액션은 사용하거나 활성화하는 데 추가로 {r}이 든다."
+  },
+  "tcjTRLGRtwRW7Khb6HfKB": {
+    "_name_en": "Cartilage Crush",
+    "name_ko": "연골 분쇄",
+    "text_ko": "크러시 - 이 카드가 영웅에게 4 이상의 피해를 주면, 그 영웅의 다음 턴 첫 액션은 사용하거나 활성화하는 데 추가로 {r}이 든다."
+  },
+  "Ld6twwNTNGTcWFw9rRWfh": {
+    "_name_en": "Cash In",
+    "name_ko": "현금화",
+    "text_ko": "현금화의 {r} 비용을 지불하는 대신, 당신이 조종하는 코퍼 4개, 실버 2개, 또는 골드 1개를 파괴할 수 있다.\n카드 2장을 뽑는다.\n고 어게인"
+  },
+  "tWjDdc6FFdnDNk7dLgzt7": {
+    "_name_en": "Cash Out",
+    "name_ko": "현금 인출",
+    "text_ko": "현금 인출을 사용하기 위한 추가 비용으로, 당신이 조종하는 원하는 수의 무기, 장비, 그리고/또는 비-토큰 아이템을 파괴할 수 있다.\n이렇게 파괴된 지속물마다 실버 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "6KQdhWqcGdhFgmRzwBrnh": {
+    "_name_en": "Cast Bones",
+    "name_ko": "주사위를 던지다",
+    "text_ko": "당신의 덱 맨 위 6장을 공개한다. 이렇게 공개된 {p}이 6 이상인 카드마다 마이트 토큰 1개를 생성한다. 공개된 카드들을 무작위 순서로 덱 맨 위에 놓는다.\n당신이 마이트 토큰을 6개 이상 조종하고 있다면, 어질리티 토큰 1개를 생성한다."
+  },
+  "fwLrdwk7MMpphzHTLPCNK": {
+    "_name_en": "Catch of the Day",
+    "name_ko": "오늘의 어획",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +2{p}을 얻는다.\n이번 턴에 낚시 효과가 발동하게 될 경우, 대신 두 번 발동한다.\n고 어게인"
+  },
+  "RLBLjtFb8gPjJLmTPL9j9": {
+    "_name_en": "Celestial Cataclysm",
+    "name_ko": "천상의 대격변",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 당신의 소울에서 카드 3장을 추방한다.\n고 어게인"
+  },
+  "BJtgTRQQmrbDwrGQMmqm6": {
+    "_name_en": "Celestial Kimono",
+    "name_ko": "천상의 기모노",
+    "text_ko": "턴당 1회, 천상의 기모노나 워드를 가진, 당신이 조종하는 비-토큰 지속물이 파괴되면, {r}을 얻는다.\n워드 1"
+  },
+  "6RMJpmJnGGNQdHFMnJKcD": {
+    "_name_en": "Celestial Reprimand",
+    "name_ko": "천상의 견책",
+    "text_ko": "이름에 '헤럴드(Herald)'가 들어간 공격을 방어하는 대상 카드가 이번 전투 체인에서 -3{p}을 얻는다."
+  },
+  "HNGR7BRBnbGMpLd69QG68": {
+    "_name_en": "Celestial Reprimand",
+    "name_ko": "천상의 견책",
+    "text_ko": "이름에 '헤럴드(Herald)'가 들어간 공격을 방어하는 대상 카드가 이번 전투 체인에서 -2{p}을 얻는다."
+  },
+  "CKwppWjqB6NhjDKqcgPjM": {
+    "_name_en": "Celestial Reprimand",
+    "name_ko": "천상의 견책",
+    "text_ko": "이름에 '헤럴드(Herald)'가 들어간 공격을 방어하는 대상 카드가 이번 전투 체인에서 -1{p}을 얻는다."
+  },
+  "JMgPdnR9tCMwwHnMbFDkk": {
+    "_name_en": "Celestial Resolve",
+    "name_ko": "천상의 결의",
+    "text_ko": "이름에 '헤럴드(Herald)'가 들어간 대상 공격 액션 카드가 +5{d}을 얻는다."
+  },
+  "nC6bfnQB8FMqmR7njpDkh": {
+    "_name_en": "Celestial Resolve",
+    "name_ko": "천상의 결의",
+    "text_ko": "이름에 '헤럴드(Herald)'가 들어간 대상 공격 액션 카드가 +4{d}을 얻는다."
+  },
+  "mPqMgTrrpbgkWPFBDwwzQ": {
+    "_name_en": "Celestial Resolve",
+    "name_ko": "천상의 결의",
+    "text_ko": "이름에 '헤럴드(Herald)'가 들어간 대상 공격 액션 카드가 +3{d}을 얻는다."
+  },
+  "gNqK8KBP7kPKcnpWrmq8p": {
+    "_name_en": "Censor",
+    "name_ko": "검열",
+    "text_ko": "이 카드가 영웅을 명중하면, 카드 이름 1개를 지정한다. 그 영웅은 다음 턴 종료 시까지 지정된 카드를 사용할 수 없다."
   }
 }
