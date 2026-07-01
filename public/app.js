@@ -269,7 +269,14 @@ async function init() {
     minMatchCharLength: 2,
   });
 
-  render("");
+  // URL의 ?q= 로 들어오면 해당 검색어로 바로 검색(공유·검색엔진 딥링크 지원)
+  const q = new URLSearchParams(location.search).get("q");
+  if (q) {
+    $("#search").value = q;
+    render(q.trim());
+  } else {
+    render("");
+  }
 }
 
 init();

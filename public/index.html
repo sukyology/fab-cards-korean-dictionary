@@ -3,25 +3,83 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>FAB 한글 카드 사전 · Flesh and Blood</title>
+
+    <title>플레시 앤 블러드 한글 카드 사전 | FAB 카드 검색·번역 (플블)</title>
     <meta
       name="description"
-      content="플레시 앤 블러드(Flesh and Blood) 카드를 한글로 빠르게 찾아보는 카드 사전. 카드 이름이나 효과로 검색하세요."
+      content="플레시 앤 블러드(Flesh and Blood, 플블·FAB) 카드를 한글로 검색하고 번역을 확인하세요. 카드 이름과 효과를 한국어로 찾아주는 무료 한글 카드 사전입니다."
     />
+    <meta
+      name="keywords"
+      content="플레시앤블러드, 플레시 앤 블러드, 플블, Flesh and Blood, FAB, FAB TCG, 카드 한글, 카드 번역, 카드 검색, 한글 카드 사전, 트레이딩 카드 게임"
+    />
+    <meta name="author" content="fab.dol-dari.com" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://sukyology.github.io/fab-cards-korean-dictionary/" />
+
+    <!-- Open Graph (카카오톡·페이스북 등 공유 미리보기) -->
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="ko_KR" />
+    <meta property="og:site_name" content="FAB 한글 카드 사전" />
+    <meta property="og:title" content="플레시 앤 블러드 한글 카드 사전 · FAB 카드 검색·번역" />
+    <meta
+      property="og:description"
+      content="플레시 앤 블러드(FAB·플블) 카드를 한글로 검색하고 번역을 확인하세요. 카드 이름·효과를 한국어로."
+    />
+    <meta property="og:url" content="https://sukyology.github.io/fab-cards-korean-dictionary/" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="플레시 앤 블러드 한글 카드 사전 · FAB 카드 검색" />
+    <meta
+      name="twitter:description"
+      content="플레시 앤 블러드(FAB·플블) 카드를 한글로 검색·번역."
+    />
+
     <link rel="preconnect" href="https://storage.googleapis.com" />
     <link
       rel="icon"
       href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚔️</text></svg>"
     />
     <link rel="stylesheet" href="./style.css" />
+
+    <!-- 구조화 데이터: 사이트 + 사이트 내 검색(사이트링크 검색창) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "플레시 앤 블러드 한글 카드 사전",
+        "alternateName": ["FAB 한글 카드 사전", "플블 한글 카드 사전"],
+        "url": "https://sukyology.github.io/fab-cards-korean-dictionary/",
+        "inLanguage": "ko",
+        "description": "플레시 앤 블러드(Flesh and Blood, FAB) 카드를 한글로 검색하고 번역을 확인하는 무료 카드 사전.",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://sukyology.github.io/fab-cards-korean-dictionary/?q={search_term_string}"
+          },
+          "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
   </head>
   <body>
     <header class="site-header">
       <div class="wrap">
-        <h1>FAB 한글 카드 사전</h1>
-        <p class="tagline">Flesh and Blood 카드를 한글로 빠르게 찾아보세요</p>
+        <h1>플레시 앤 블러드 한글 카드 사전</h1>
+        <p class="tagline">
+          Flesh and Blood(FAB·플블) 카드를 한글로 검색하고 번역을 확인하세요
+        </p>
       </div>
     </header>
+
+    <!-- 싱글 카드 주문 홍보 -->
+    <div class="promo">
+      <div class="wrap">
+        🛒 싱글 카드 주문은
+        <a href="https://fab.dol-dari.com" target="_blank" rel="noopener">fab.dol-dari.com</a>
+      </div>
+    </div>
 
     <main class="wrap">
       <div class="search-bar">

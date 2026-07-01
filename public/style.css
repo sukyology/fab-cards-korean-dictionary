@@ -58,6 +58,24 @@ body {
   font-size: 0.95rem;
 }
 
+/* 싱글 주문 홍보 바 */
+.promo {
+  background: rgba(212, 175, 55, 0.1);
+  border-bottom: 1px solid rgba(212, 175, 55, 0.25);
+  padding: 9px 0;
+  font-size: 0.9rem;
+  color: var(--text);
+  text-align: center;
+}
+.promo a {
+  color: var(--accent);
+  font-weight: 600;
+  text-decoration: none;
+}
+.promo a:hover {
+  text-decoration: underline;
+}
+
 /* 검색 */
 .search-bar {
   margin: 24px 0 14px;

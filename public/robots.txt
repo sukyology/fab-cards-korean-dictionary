@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sukyology.github.io/fab-cards-korean-dictionary/sitemap.xml
