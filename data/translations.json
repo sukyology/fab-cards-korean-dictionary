@@ -10668,5 +10668,664 @@
     "_name_en": "Hungering Demigon",
     "name_ko": "굶주린 데미곤",
     "text_ko": "상대 영웅의 소울에 카드가 1장 이상 있다면, 당신의 추방 구역에서 이 카드를 사용할 수 있다.\n이 카드가 영웅을 명중하면, 그의 소울에서 카드 1장을 추방한다.\n블러드 뎃"
+  },
+  "NPGdfQqhRB8krzLLHpzDC": {
+    "_name_en": "Hungering Slaughterbeast",
+    "name_ko": "굶주린 살육짐승",
+    "text_ko": "굶주린 살육짐승을 사용하기 위한 추가 비용으로, 당신의 무덤에서 무작위 카드 3장을 추방한다.\n블러드 뎃"
+  },
+  "zTFWnGk7cdjrPfHGW8C8w": {
+    "_name_en": "Hungering Slaughterbeast",
+    "name_ko": "굶주린 살육짐승",
+    "text_ko": "굶주린 살육짐승을 사용하기 위한 추가 비용으로, 당신의 무덤에서 무작위 카드 3장을 추방한다.\n블러드 뎃"
+  },
+  "mhddn6pK9fJTpdqWP67tL": {
+    "_name_en": "Hungering Slaughterbeast",
+    "name_ko": "굶주린 살육짐승",
+    "text_ko": "굶주린 살육짐승을 사용하기 위한 추가 비용으로, 당신의 무덤에서 무작위 카드 3장을 추방한다.\n블러드 뎃"
+  },
+  "6pmddtzdHzQ77rjGrM6mw": {
+    "_name_en": "Hungry for More",
+    "name_ko": "더 갈망하다",
+    "text_ko": "서스펜스\n이것이 전장을 떠날 때, 3{h}을 얻는다."
+  },
+  "MqqQjwqcHRj7WnG96DPMH": {
+    "_name_en": "Hunt a Killer",
+    "name_ko": "살인자를 사냥하다",
+    "text_ko": "이번 턴 당신의 다음 단검 공격이 +4{p}과 \"이 카드가 영웅을 명중하면, 그에게 표식을 남긴다\"를 얻는다.\n고 어게인"
+  },
+  "8gG7kjNqwhwftdGHjCQnq": {
+    "_name_en": "Hunt a Killer",
+    "name_ko": "살인자를 사냥하다",
+    "text_ko": "이번 턴 당신의 다음 단검 공격이 +3{p}과 \"이 카드가 영웅을 명중하면, 그에게 표식을 남긴다\"를 얻는다.\n고 어게인"
+  },
+  "GjDhhCcNjbQcc7Tt9rJkC": {
+    "_name_en": "Hunt a Killer",
+    "name_ko": "살인자를 사냥하다",
+    "text_ko": "이번 턴 당신의 다음 단검 공격이 +2{p}과 \"이 카드가 영웅을 명중하면, 그에게 표식을 남긴다\"를 얻는다.\n고 어게인"
+  },
+  "kD7jpPzWkNtFz6LTkk8HQ": {
+    "_name_en": "Hunt the Hunter",
+    "name_ko": "사냥꾼을 사냥하다",
+    "text_ko": "이 카드가 영웅을 공격할 때, 이번 턴에 다른 빨간색 카드를 사용한 적이 있다면, 그에게 표식을 남긴다."
+  },
+  "zTPFF6jKhBgqGLpjtFrGG": {
+    "_name_en": "Hunt to the Ends of Rathe",
+    "name_ko": "레이스의 끝까지 사냥하다",
+    "text_ko": "이 카드가 아라크니를 공격할 때, 그에게 표식을 남긴다.\n이것이 표식이 있는 영웅을 공격하고 있다면, +2{p}을 얻는다.\n고 어게인"
+  },
+  "dnK9JddMWTf6RgcBWGjn6": {
+    "_name_en": "Hunt's End",
+    "name_ko": "사냥의 끝",
+    "text_ko": "당신이 충성 토큰을 3개 이상 조종하고 있을 때만 이 카드를 사용한다.\n대상 단검 공격이 +4{p}을 얻는다."
+  },
+  "ckmHzhDHLgzTzzDgKfWgH": {
+    "_name_en": "Hunted or Hunter",
+    "name_ko": "사냥당하는 자 혹은 사냥하는 자",
+    "text_ko": "이 카드가 방어하고 공격하는 영웅이 이번 체인 링크에 공격 반응을 사용하거나 활성화한 적이 있다면, 그가 1{h}을 잃는다."
+  },
+  "9ktNWqbdPNrBJPNnCQCgb": {
+    "_name_en": "Hunter or Hunted?",
+    "name_ko": "사냥꾼인가 사냥당하는 자인가?",
+    "text_ko": "이 카드가 방어할 때, 카드 이름 1개를 지정한다. 공격하는 영웅이 자신의 덱 맨 위 카드를 공개한다. 그것이 지정한 카드라면, 그것을 추방하고 그의 손, 덱, 아스날에서 그 이름을 가진 카드를 최대 3장까지 찾아 추방한 뒤, 그가 덱을 섞는다.\n계약 - 이 카드가 방어하는 동안, 당신은 선택한 이름의 상대 카드를 추방하기로 계약한다. 이 계약을 완료할 때마다, 실버 토큰 1개를 생성한다."
+  },
+  "QTkWJ8jqCgbMCTcNpmMmC": {
+    "_name_en": "Hunter's Klaive",
+    "name_ko": "사냥꾼의 클레이브",
+    "text_ko": "턴당 1회 액션 - {r}{r}: 공격. 고 어게인\n이 카드가 영웅을 명중하면, 그에게 표식을 남긴다.\n피어싱 1"
+  },
+  "D9hnm7hf7fWbFWtqKbKFb": {
+    "_name_en": "Hurl",
+    "name_ko": "투척",
+    "text_ko": "투척을 사용하기 위한 추가 비용으로, {r}을 지불할 수 있다. 그렇게 하면, \"이 카드가 공격할 때, 당신이 조종하는 대상 단검이 대상 영웅에게 피해 1을 준다. 이렇게 피해를 주면, 그 단검이 명중한 것으로 취급한다. 그 단검을 파괴한다\"를 얻는다.\n고 어게인"
+  },
+  "RdwgJFC9Lq8rmrgG8fjKf": {
+    "_name_en": "Hurl",
+    "name_ko": "투척",
+    "text_ko": "투척을 사용하기 위한 추가 비용으로, {r}을 지불할 수 있다. 그렇게 하면, \"이 카드가 공격할 때, 당신이 조종하는 대상 단검이 대상 영웅에게 피해 1을 준다. 이렇게 피해를 주면, 그 단검이 명중한 것으로 취급한다. 그 단검을 파괴한다\"를 얻는다.\n고 어게인"
+  },
+  "KJT8g9znGjfbKW9BhHrNc": {
+    "_name_en": "Hurl",
+    "name_ko": "투척",
+    "text_ko": "투척을 사용하기 위한 추가 비용으로, {r}을 지불할 수 있다. 그렇게 하면, \"이 카드가 공격할 때, 당신이 조종하는 대상 단검이 대상 영웅에게 피해 1을 준다. 이렇게 피해를 주면, 그 단검이 명중한 것으로 취급한다. 그 단검을 파괴한다\"를 얻는다.\n고 어게인"
+  },
+  "BRbggWh7bBGWNgDPP7Rrg": {
+    "_name_en": "Hurricane Technique",
+    "name_ko": "허리케인 기법",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 라이징 니 스러스트였다면, 허리케인 기법이 +1{p}, 고 어게인, 그리고 \"허리케인 기법이 명중하면, 당신의 손에 놓는다\"를 얻는다."
+  },
+  "WrQKgDFnmpLc7KmTWRmHj": {
+    "_name_en": "Hydraulic Press",
+    "name_ko": "유압 프레스",
+    "text_ko": "스크랩\n이 카드가 공격할 때, 카드 1장을 스크랩했다면, 이 카드가 오버파워를 얻는다."
+  },
+  "fqCqGRGmQ6QDRJGjrFDbg": {
+    "_name_en": "Hydraulic Press",
+    "name_ko": "유압 프레스",
+    "text_ko": "스크랩\n이 카드가 공격할 때, 카드 1장을 스크랩했다면, 이 카드가 오버파워를 얻는다."
+  },
+  "HCR9pfkgzwfMgnwHdt8TP": {
+    "_name_en": "Hydraulic Press",
+    "name_ko": "유압 프레스",
+    "text_ko": "스크랩\n이 카드가 공격할 때, 카드 1장을 스크랩했다면, 이 카드가 오버파워를 얻는다."
+  },
+  "kRRdnfWFfdCmmKTnjmzNk": {
+    "_name_en": "Hyper Driver",
+    "name_ko": "하이퍼 드라이버",
+    "text_ko": "이 카드는 스팀 카운터 3개를 지닌 채 전장에 들어온다. 카운터가 없으면, 파괴한다.\n턴당 한 번, 당신이 카드를 부스트할 때, 이것에서 스팀 카운터 1개를 제거하고 {r}을 얻는다."
+  },
+  "zPjKJbcG7q8qD8QdKjtnG": {
+    "_name_en": "Hyper Driver",
+    "name_ko": "하이퍼 드라이버",
+    "text_ko": "이 카드는 스팀 카운터 2개를 지닌 채 전장에 들어온다. 여기에 스팀 카운터가 없으면, 파괴한다.\n턴당 한 번, 당신이 카드를 부스트할 때, 이것에서 스팀 카운터 1개를 제거하고 {r}을 얻는다."
+  },
+  "chD7n8jHMM6brNhDGJtfG": {
+    "_name_en": "Hyper Driver",
+    "name_ko": "하이퍼 드라이버",
+    "text_ko": "이 카드는 스팀 카운터를 지닌 채 전장에 들어온다. 여기에 스팀 카운터가 없으면, 파괴한다.\n턴당 한 번, 당신이 카드를 부스트할 때, 이것에서 스팀 카운터 1개를 제거하고 {r}을 얻는다."
+  },
+  "FwwCqJKcNDNMjJn9mTCgg": {
+    "_name_en": "Hyper Driver",
+    "name_ko": "하이퍼 드라이버",
+    "text_ko": "이것에 스팀 카운터가 없으면, 파괴한다.\n턴당 한 번, 당신이 카드를 부스트할 때, 이것에서 스팀 카운터 1개를 제거하고 {r}을 얻는다."
+  },
+  "wFqQ8FbrPHqHWjBkQCm8R": {
+    "_name_en": "Hyper Inflation",
+    "name_ko": "하이퍼 인플레이션",
+    "text_ko": "이 카드가 공격할 때, 이번 턴 카드들은 사용하는 데 {r}이 더 든다.\n고 어게인"
+  },
+  "6RmpNRmdhQFNjJTqtRwbK": {
+    "_name_en": "Hyper Inflation",
+    "name_ko": "하이퍼 인플레이션",
+    "text_ko": "이 카드가 공격할 때, 이번 턴 카드들은 사용하는 데 {r}이 더 든다.\n고 어게인"
+  },
+  "BKJbdNkwdHcnC987TRDwg": {
+    "_name_en": "Hyper Inflation",
+    "name_ko": "하이퍼 인플레이션",
+    "text_ko": "이 카드가 공격할 때, 이번 턴 카드들은 사용하는 데 {r}이 더 든다.\n고 어게인"
+  },
+  "mC76qgRmwnBBqMkgTTfJ8": {
+    "_name_en": "Hyper Scrapper",
+    "name_ko": "하이퍼 스크래퍼",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 당신의 무덤에서 아이템 X개를 추방한다.\n이 카드가 공격할 때 +X{p}을 얻는다. 이 카드를 사용하기 위해 하이퍼 드라이버 3개 이상이 추방되었다면, {r}{r}{r} {r}{r}{r}을 얻고 이 카드가 고 어게인을 얻는다."
+  },
+  "WkJPkznH7gWGLmhtcmrrR": {
+    "_name_en": "Hyper-X3",
+    "name_ko": "하이퍼-X3",
+    "text_ko": "당신이 부스트로 하이퍼 드라이버를 추방할 때마다, 그것을 이것 아래에 놓는다.\n턴당 한 번, 하이퍼 드라이버가 이것 아래에 놓일 때, 이것 아래에 하이퍼 드라이버가 3개 이상 있다면, 카드 1장을 뽑는다.\n배틀원"
+  },
+  "HFwjczQFRKCgTFHdbjdzW": {
+    "_name_en": "Hypothermia",
+    "name_ko": "저체온증",
+    "text_ko": "당신이 조종하는 공격들은 고 어게인을 얻을 수 없다.\n당신의 종료 단계 시작 시, 저체온증을 파괴한다."
+  },
+  "rfCmCzDDJzWK7PqbR8NTK": {
+    "_name_en": "Ice Bolt",
+    "name_ko": "얼음 화살",
+    "text_ko": "아무 대상에게 비전 피해 5를 준다."
+  },
+  "MTLmmmcPGLhQ9p8z6HbDF": {
+    "_name_en": "Ice Bolt",
+    "name_ko": "얼음 화살",
+    "text_ko": "아무 대상에게 비전 피해 4를 준다."
+  },
+  "fb7rNjThhmgFtrjmGcc6k": {
+    "_name_en": "Ice Bolt",
+    "name_ko": "얼음 화살",
+    "text_ko": "아무 대상에게 비전 피해 3을 준다."
+  },
+  "zBQGRp777Mj9QPL7zTb9d": {
+    "_name_en": "Ice Eternal",
+    "name_ko": "영원한 얼음",
+    "text_ko": "이슬랜더 스페셜라이제이션\n얼음 퓨전\n대상 영웅의 조종 하에 프로스트바이트 토큰 X개를 생성한다. 그런 다음, 영원한 얼음이 퓨전되었다면, 그 영웅이 조종하는 프로스트바이트 수만큼 그에게 비전 피해를 준다."
+  },
+  "dMw97RJqc6PgTctzgWWK9": {
+    "_name_en": "Ice Quake",
+    "name_ko": "빙하 지진",
+    "text_ko": "이번 턴 당신의 다음 공격이 +3{p}을 얻는다.\n이번 턴에 공격이 영웅을 명중할 때마다, 그의 조종 하에 프로스트바이트 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "kTNdJ7FzJFNzgLpBWgTPM": {
+    "_name_en": "Ice Quake",
+    "name_ko": "빙하 지진",
+    "text_ko": "이번 턴 당신의 다음 공격이 +2{p}을 얻는다.\n이번 턴에 공격이 영웅을 명중할 때마다, 그의 조종 하에 프로스트바이트 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "hKkwwcJqJn9gdfRzgbmcF": {
+    "_name_en": "Ice Quake",
+    "name_ko": "빙하 지진",
+    "text_ko": "이번 턴 당신의 다음 공격이 +1{p}을 얻는다.\n이번 턴에 공격이 영웅을 명중할 때마다, 그의 조종 하에 프로스트바이트 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "8f6PJ8ztqJhcQRFDLR9nG": {
+    "_name_en": "Ice Storm",
+    "name_ko": "얼음 폭풍",
+    "text_ko": "얼음 그리고 번개 퓨전\n이번 턴 당신의 다음 화살 공격이 +3{p}을 얻는다.\n얼음 폭풍이 퓨전되었다면, 이번 턴 당신의 다음 화살 공격이 \"이것이 영웅을 명중하면, 그에게 피해 1을 준다\"와 \"이 공격이 영웅에게 피해를 줄 때마다, 그의 조종 하에 그만큼 프로스트바이트 토큰을 생성한다\"를 얻는다.\n고 어게인"
+  },
+  "6wknmpgBbdgQBjD7LR6rb": {
+    "_name_en": "Icebind",
+    "name_ko": "얼음 속박",
+    "text_ko": "얼음 퓨전\n아무 대상에게 비전 피해 3을 준다. 얼음 속박이 퓨전되어 영웅에게 피해를 주면, 당신의 다음 턴 시작 시까지 그의 아스날에 있는 카드 1장을 얼린다."
+  },
+  "hHQTDb7NM76rqHD7gGMzz": {
+    "_name_en": "Icebind",
+    "name_ko": "얼음 속박",
+    "text_ko": "얼음 퓨전\n아무 대상에게 비전 피해 2를 준다. 얼음 속박이 퓨전되어 영웅에게 피해를 주면, 당신의 다음 턴 시작 시까지 그의 아스날에 있는 카드 1장을 얼린다."
+  },
+  "cRRgFHmDFNtkNj8RBffWL": {
+    "_name_en": "Icebind",
+    "name_ko": "얼음 속박",
+    "text_ko": "얼음 퓨전\n아무 대상에게 비전 피해 1을 준다. 얼음 속박이 퓨전되어 영웅에게 피해를 주면, 당신의 다음 턴 시작 시까지 그의 아스날에 있는 카드 1장을 얼린다."
+  },
+  "pNjR9CjBG6nHqJ9kdMQmJ": {
+    "_name_en": "Icy Encounter",
+    "name_ko": "차가운 조우",
+    "text_ko": "차가운 조우가 영웅을 명중하면, 그의 조종 하에 프로스트바이트 토큰 1개를 생성한다."
+  },
+  "hnJmqBJqmdmw886QMF6n6": {
+    "_name_en": "Icy Encounter",
+    "name_ko": "차가운 조우",
+    "text_ko": "차가운 조우가 영웅을 명중하면, 그의 조종 하에 프로스트바이트 토큰 1개를 생성한다."
+  },
+  "nCkGmQKJwMhgGgKWNWbGH": {
+    "_name_en": "Icy Encounter",
+    "name_ko": "차가운 조우",
+    "text_ko": "차가운 조우가 영웅을 명중하면, 그의 조종 하에 프로스트바이트 토큰 1개를 생성한다."
+  },
+  "8CbBPCmzNRmddJKTgCFmj": {
+    "_name_en": "Ignite",
+    "name_ko": "점화",
+    "text_ko": "이 카드가 공격할 때, 이번 전투 체인에서 당신이 다음에 사용하거나 활성화하는 드라코닉 카드가 사용하거나 활성화하는 데 {r}이 덜 든다.\n고 어게인"
+  },
+  "m68hqbdgQGTzgFzJhBgTt": {
+    "_name_en": "Illuminate",
+    "name_ko": "밝히다",
+    "text_ko": "밝히다가 명중하면, 당신 영웅의 소울에 놓는다."
+  },
+  "mqMmPJg9kbn7gBJfzkwqH": {
+    "_name_en": "Illuminate",
+    "name_ko": "밝히다",
+    "text_ko": "밝히다가 명중하면, 당신 영웅의 소울에 놓는다."
+  },
+  "qq9JDbPD9HrD7wG7CWbKj": {
+    "_name_en": "Illuminate",
+    "name_ko": "밝히다",
+    "text_ko": "밝히다가 명중하면, 당신 영웅의 소울에 놓는다."
+  },
+  "JwFbJDJCkQdfFGLCjQz6P": {
+    "_name_en": "Immobilizing Shot",
+    "name_ko": "무력화 사격",
+    "text_ko": "무력화 사격에 조준 카운터가 있다면, \"이 카드가 영웅을 명중하면, 그는 다음 액션 단계 동안 공격 액션 카드 1장과 '비공격' 액션 카드 1장을 초과해 사용할 수 없다\"를 가진다."
+  },
+  "nBFJ7C89G7d8kd7NgNGkG": {
+    "_name_en": "Impenetrable Belief",
+    "name_ko": "불굴의 신념",
+    "text_ko": "이번 턴에 상대 영웅의 추방 구역에 카드가 3장 이상 놓인 적이 있다면, 불굴의 신념이 방어하는 동안 +2{d}을 얻는다."
+  },
+  "8z879fjfzMj9zWQWbzdLW": {
+    "_name_en": "Impenetrable Belief",
+    "name_ko": "불굴의 신념",
+    "text_ko": "이번 턴에 상대 영웅의 추방 구역에 카드가 3장 이상 놓인 적이 있다면, 불굴의 신념이 방어하는 동안 +2{d}을 얻는다."
+  },
+  "PTDpbrCQt8NJfgq9fB8cF": {
+    "_name_en": "Impenetrable Belief",
+    "name_ko": "불굴의 신념",
+    "text_ko": "이번 턴에 상대 영웅의 추방 구역에 카드가 3장 이상 놓인 적이 있다면, 불굴의 신념이 방어하는 동안 +2{d}을 얻는다."
+  },
+  "rFBm6FppdwTJDPRbrgqcg": {
+    "_name_en": "Imperial Edict",
+    "name_ko": "황제의 칙령",
+    "text_ko": "레전더리\n액션 - 황제의 칙령을 파괴한다: 카드 이름 1개를 지정한다. 지정된 카드는 당신의 다음 턴 시작 시까지 사용할 수 없다. 당신이 로열이라면, 대신 각 상대가 자신의 손을 공개한 뒤, 카드 이름 1개를 지정한다. 고 어게인"
+  },
+  "9jMhDp7f8QpfCNk9fMmzD": {
+    "_name_en": "Imperial Intent",
+    "name_ko": "황제의 의도",
+    "text_ko": "당신이 조종하는 드라코닉 체인 링크 1개당 이 카드가 사용하는 데 {r}이 덜 든다.\n대상 단검 공격이 +2{p}을 얻는다."
+  },
+  "BNbrWmM6dzGqMfrLHtbQh": {
+    "_name_en": "Imperial Ledger",
+    "name_ko": "황제의 장부",
+    "text_ko": "레전더리\n액션 - 황제의 장부를 소유자의 덱에 섞는다: 카퍼 토큰 1개를 생성한다. 당신이 로열이라면, 대신 골드 토큰 1개를 생성한다."
+  },
+  "RHB7WdBLKPhLTzJHTWJQq": {
+    "_name_en": "Imperial Seal of Command",
+    "name_ko": "황제의 명령 인장",
+    "text_ko": "레전더리\n액션 - 이것을 파괴한다: 이번 턴 방어 반응 카드를 사용할 수 없다. 당신이 로열이라면, 이번 턴 당신이 다음에 영웅을 명중시킬 때, 그의 아스날에 있는 모든 카드를 파괴한다. 고 어게인"
+  },
+  "6CkGNJTJPDRwwqrWKJKzn": {
+    "_name_en": "Imperial Warhorn",
+    "name_ko": "황제의 전투 나팔",
+    "text_ko": "레전더리\n액션 - {r}, 황제의 전투 나팔을 파괴한다: 원하는 수의 영웅을 선택한다. 각 영웅은 자신이 조종하는 아군, 오라, 아이템, 랜드마크 지속물 중 하나를 선택한다. 이렇게 선택된 각 지속물을 파괴한다. 당신이 로열이라면, 대신 당신이 지속물들을 선택한다."
+  },
+  "nkMztM7pPg8mQGhMzKqtj": {
+    "_name_en": "Imposing Visage",
+    "name_ko": "위압적인 형상",
+    "text_ko": "당신의 덱에서 비용 X 이하인 오라 카드를 찾아 전장에 놓은 뒤, 덱을 섞는다.\n고 어게인"
+  },
+  "68HKwDLNHwFdPpdpFMJBg": {
+    "_name_en": "Impulsive Desire",
+    "name_ko": "충동적 갈망",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다.\n이것이 반응 또는 순간 카드를 추방할 때마다, 1{h}을 얻는다."
+  },
+  "99gF9qJ67mCbKjkjHCFfR": {
+    "_name_en": "Impulsive Desire",
+    "name_ko": "충동적 갈망",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다.\n이것이 반응 또는 순간 카드를 추방할 때마다, 1{h}을 얻는다."
+  },
+  "9Lht6BjkgdNDtQzkGbqrn": {
+    "_name_en": "Impulsive Desire",
+    "name_ko": "충동적 갈망",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다.\n이것이 반응 또는 순간 카드를 추방할 때마다, 1{h}을 얻는다."
+  },
+  "qqDbjmjjfHK9d8KJ8PcGm": {
+    "_name_en": "In the Palm of Your Hand",
+    "name_ko": "당신의 손바닥 안에",
+    "text_ko": "서스펜스\n이것이 전장에 들어오거나 떠날 때, 카드 1장을 뽑는다."
+  },
+  "tFcNdRJcpB69qcCBpTL7c": {
+    "_name_en": "In the Swing",
+    "name_ko": "여세를 몰아",
+    "text_ko": "이번 턴에 무기로 2회 이상 공격한 적이 있을 때만 이 카드를 사용한다.\n대상 무기 공격이 +3{p}을 얻는다."
+  },
+  "kGTBzfhL8Kr67NPjMWwK8": {
+    "_name_en": "In the Swing",
+    "name_ko": "여세를 몰아",
+    "text_ko": "이번 턴에 무기로 2회 이상 공격한 적이 있을 때만 이 카드를 사용한다.\n대상 무기 공격이 +2{p}을 얻는다."
+  },
+  "jjbWn8gPgq9nzqTHpNr8h": {
+    "_name_en": "In the Swing",
+    "name_ko": "여세를 몰아",
+    "text_ko": "이번 턴에 무기로 2회 이상 공격한 적이 있을 때만 이 카드를 사용한다.\n대상 무기 공격이 +1{p}을 얻는다."
+  },
+  "qh69zwgzjzDtjgTLN8c7P": {
+    "_name_en": "Incision",
+    "name_ko": "절개",
+    "text_ko": "대상 단검 공격이 +3{p}을 얻는다."
+  },
+  "pLrkq7WBQfk9LjdzLHNBw": {
+    "_name_en": "Incision",
+    "name_ko": "절개",
+    "text_ko": "대상 단검 공격이 +2{p}을 얻는다."
+  },
+  "RNrdzq87MmgFMG6WPHhhz": {
+    "_name_en": "Incision",
+    "name_ko": "절개",
+    "text_ko": "대상 단검 공격이 +1{p}을 얻는다."
+  },
+  "fgdcRDCnkGRWgNzJCwchR": {
+    "_name_en": "Increase the Tension",
+    "name_ko": "긴장을 고조시키다",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +3{p}과 \"이번 체인 링크에서 방어 반응은 손에서 사용할 수 없다\"를 얻는다.\n고 어게인"
+  },
+  "8NWLmJqtTMGp7rgLjjbwJ": {
+    "_name_en": "Increase the Tension",
+    "name_ko": "긴장을 고조시키다",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +2{p}과 \"이번 체인 링크에서 방어 반응은 손에서 사용할 수 없다\"를 얻는다.\n고 어게인"
+  },
+  "nnJzbrqgGRnJ8bbLjQPtN": {
+    "_name_en": "Increase the Tension",
+    "name_ko": "긴장을 고조시키다",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +1{p}과 \"이번 체인 링크에서 방어 반응은 손에서 사용할 수 없다\"를 얻는다.\n고 어게인"
+  },
+  "NnJrnKHWM6F8hLqrD6QW9": {
+    "_name_en": "Indefensibly Honed",
+    "name_ko": "무방비하게 연마된",
+    "text_ko": "당신이 조종하는 대상 검을 연마한다.\n그것에 +1{p} 카운터가 3개 이상 있다면, 이번 턴 그것으로 하는 당신의 다음 공격이 \"이 카드가 카드 1장 이상으로 방어되면, 방어 영웅에게 피해 1을 준다\"를 얻는다. 고 어게인"
+  },
+  "zbnJCMqgMPNLrgCpGkgrq": {
+    "_name_en": "Index",
+    "name_ko": "인덱스",
+    "text_ko": "당신 덱 맨 위 5장을 확인한다. 그중 1장을 덱 맨 위에 놓고, 나머지는 원하는 순서로 덱 맨 아래에 놓는다."
+  },
+  "g7hJCTWLMLLjNGWM89PzC": {
+    "_name_en": "Index",
+    "name_ko": "인덱스",
+    "text_ko": "당신 덱 맨 위 4장을 확인한다. 그중 1장을 덱 맨 위에 놓고, 나머지는 원하는 순서로 덱 맨 아래에 놓는다."
+  },
+  "KTzNfrpRnQ7cfgKnwgwFt": {
+    "_name_en": "Index",
+    "name_ko": "인덱스",
+    "text_ko": "당신 덱 맨 위 3장을 확인한다. 그중 1장을 덱 맨 위에 놓고, 나머지는 원하는 순서로 덱 맨 아래에 놓는다."
+  },
+  "JQtbmKdrD67q9w6pr8rFD": {
+    "_name_en": "Induce Panic",
+    "name_ko": "공포를 유발하다",
+    "text_ko": "이 카드가 방어할 때, 색상 1개를 선택한다. 각 영웅이 자신의 손에서 무작위 카드 1장을 공개한다. 그것이 선택한 색상이면, 버린다."
+  },
+  "MNwTgMKtfwcbBTGTLCbzt": {
+    "_name_en": "Induction Chamber",
+    "name_ko": "유도 챔버",
+    "text_ko": "액션 - {r}: 유도 챔버에 스팀 카운터가 없다면, 여기에 스팀 카운터를 놓는다. 고 어게인\n턴당 1회 공격 반응 - 유도 챔버에서 스팀 카운터 1개를 제거한다: 대상 메카놀로지스트 권총 공격이 고 어게인을 얻는다."
+  },
+  "G6kbCqnBzwjhrb88Q6K7w": {
+    "_name_en": "Inertia",
+    "name_ko": "관성",
+    "text_ko": "당신의 종료 단계 시작 시, 관성을 파괴한 뒤, 당신의 손과 아스날에 있는 모든 카드를 덱 맨 아래에 놓는다."
+  },
+  "Jb6MjpJPRLbM99RJC8qKR": {
+    "_name_en": "Inertia Trap",
+    "name_ko": "관성의 함정",
+    "text_ko": "이 카드가 기본값을 초과하는 {p}을 가진 공격을 방어할 때, 공격하는 영웅의 조종 하에 관성 토큰 1개를 생성한다."
+  },
+  "NDFjzQLjMLL7LzGQNBtGd": {
+    "_name_en": "Infect",
+    "name_ko": "감염",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 그의 조종 하에 블러드로트 폭스 토큰 1개를 생성한다."
+  },
+  "LpcdHznLWndg78zmc6RHJ": {
+    "_name_en": "Infect",
+    "name_ko": "감염",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 그의 조종 하에 블러드로트 폭스 토큰 1개를 생성한다."
+  },
+  "Q8zWBnk8WGTkgwzHG8pcp": {
+    "_name_en": "Infect",
+    "name_ko": "감염",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 그의 조종 하에 블러드로트 폭스 토큰 1개를 생성한다."
+  },
+  "8fFPCT68cgF9gbWKppDgQ": {
+    "_name_en": "Infecting Shot",
+    "name_ko": "감염 사격",
+    "text_ko": "감염 사격에 조준 카운터가 있다면, +1{p}을 가진다.\n이 카드가 영웅을 명중하면, 그의 조종 하에 블러드로트 폭스 토큰 1개를 생성한다."
+  },
+  "Nct7799R68FjJmTPdkLwc": {
+    "_name_en": "Infecting Shot",
+    "name_ko": "감염 사격",
+    "text_ko": "감염 사격에 조준 카운터가 있다면, +1{p}을 가진다.\n이 카드가 영웅을 명중하면, 그의 조종 하에 블러드로트 폭스 토큰 1개를 생성한다."
+  },
+  "FTnGpQhbkrRGWFLwb9TGt": {
+    "_name_en": "Infecting Shot",
+    "name_ko": "감염 사격",
+    "text_ko": "감염 사격에 조준 카운터가 있다면, +1{p}을 가진다.\n이 카드가 영웅을 명중하면, 그의 조종 하에 블러드로트 폭스 토큰 1개를 생성한다."
+  },
+  "dpwPgBFGQpTFjPWNTDdDt": {
+    "_name_en": "Infectious Host",
+    "name_ko": "감염된 숙주",
+    "text_ko": "이 카드가 영웅을 공격할 때, 당신이 프레일티 토큰을 조종하고 있다면, 그의 조종 하에 프레일티 토큰 1개를 생성한 뒤, 관성과 블러드로트 폭스에 대해서도 반복한다."
+  },
+  "9hQDRdBpQpb8B8kJ9Lq8J": {
+    "_name_en": "Infectious Host",
+    "name_ko": "감염된 숙주",
+    "text_ko": "이 카드가 영웅을 공격할 때, 당신이 프레일티 토큰을 조종하고 있다면, 그의 조종 하에 프레일티 토큰 1개를 생성한 뒤, 관성과 블러드로트 폭스에 대해서도 반복한다."
+  },
+  "LpmdRdBC8QLhFPbPwPg6h": {
+    "_name_en": "Infectious Host",
+    "name_ko": "감염된 숙주",
+    "text_ko": "이 카드가 영웅을 공격할 때, 당신이 프레일티 토큰을 조종하고 있다면, 그의 조종 하에 프레일티 토큰 1개를 생성한 뒤, 관성과 블러드로트 폭스에 대해서도 반복한다."
+  },
+  "86gQBcFRPDjmJwnLd8dpL": {
+    "_name_en": "Infiltrate",
+    "name_ko": "침투",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다. 당신의 다음 턴 종료 시까지 그것을 사용할 수 있다."
+  },
+  "pq96Kr6wpqctKgCCQRL9z": {
+    "_name_en": "Inflame",
+    "name_ko": "격화",
+    "text_ko": "격화로 공격할 때, 이번 턴에 다른 빨간색 카드를 사용한 적이 있다면, 당신의 무덤에서 피닉스 플레임을 손으로 되돌릴 수 있다.\n고 어게인"
+  },
+  "gGFjwC7rpLfpdBWDdQwgn": {
+    "_name_en": "Infuse Alloy",
+    "name_ko": "합금 주입",
+    "text_ko": "갤버나이즈 - 이 카드가 방어할 때, 당신이 조종하는 아이템 1개를 파괴할 수 있다. 그렇게 하면, 이 카드가 +2{d}을 얻는다."
+  },
+  "BdmMDknJzHtkq6dHDpMFk": {
+    "_name_en": "Infuse Alloy",
+    "name_ko": "합금 주입",
+    "text_ko": "갤버나이즈 - 이 카드가 방어할 때, 당신이 조종하는 아이템 1개를 파괴할 수 있다. 그렇게 하면, 이 카드가 +2{d}을 얻는다."
+  },
+  "fJdjjcFWMpqfCNKpJbNLr": {
+    "_name_en": "Infuse Alloy",
+    "name_ko": "합금 주입",
+    "text_ko": "갤버나이즈 - 이 카드가 방어할 때, 당신이 조종하는 아이템 1개를 파괴할 수 있다. 그렇게 하면, 이 카드가 +2{d}을 얻는다."
+  },
+  "PnfMD9zp7JgTwTmJTQkwz": {
+    "_name_en": "Infuse Titanium",
+    "name_ko": "티타늄 주입",
+    "text_ko": "갤버나이즈 - 이 카드가 방어할 때, 당신이 조종하는 아이템 1개를 파괴할 수 있다. 그렇게 하면, 이 카드가 +2{d}을 얻는다."
+  },
+  "qQbcdmqJw9tPqqDBnDpH9": {
+    "_name_en": "Infuse Titanium",
+    "name_ko": "티타늄 주입",
+    "text_ko": "갤버나이즈 - 이 카드가 방어할 때, 당신이 조종하는 아이템 1개를 파괴할 수 있다. 그렇게 하면, 이 카드가 +2{d}을 얻는다."
+  },
+  "JhJWJjwBffmkgq69rfrgC": {
+    "_name_en": "Infuse Titanium",
+    "name_ko": "티타늄 주입",
+    "text_ko": "갤버나이즈 - 이 카드가 방어할 때, 당신이 조종하는 아이템 1개를 파괴할 수 있다. 그렇게 하면, 이 카드가 +2{d}을 얻는다."
+  },
+  "TPQdbDWdpDjBznGcwfF7g": {
+    "_name_en": "Ink-lined Cloak",
+    "name_ko": "잉크빛 망토",
+    "text_ko": "순간 - 이것을 파괴한다: {r}을 얻는다. 당신이 이름에 시길이 들어간 오라 지속물을 조종하고 있을 때만 이것을 활성화한다."
+  },
+  "FRTnBzBCRC7TbNhdKLWqW": {
+    "_name_en": "Inner Chi",
+    "name_ko": "내면의 치"
+  },
+  "gfrwTGTGJhqjTPKbcd96P": {
+    "_name_en": "Insidious Chill",
+    "name_ko": "은밀한 한기",
+    "text_ko": "은밀한 한기는 서리 카운터 3개를 지닌 채 전장에 들어온다. 여기에 서리 카운터가 없으면, 파괴한다.\n당신이 얼음 퓨전할 때마다, 은밀한 한기에서 서리 카운터 1개를 제거한다. 그렇게 하면, 대상 영웅이 {r}{r}을 지불하지 않는 한 카드 1장을 버린다."
+  },
+  "GWf9TFdgmh8qT7JmWNG8c": {
+    "_name_en": "Inspire Lightning",
+    "name_ko": "번개를 고무하다",
+    "text_ko": "번개 퓨전\n번개를 고무하다가 퓨전되었다면, 대상 영웅에게 비전 피해 3을 준다."
+  },
+  "cNWLjfmWMbJHbRQkbWDJN": {
+    "_name_en": "Inspire Lightning",
+    "name_ko": "번개를 고무하다",
+    "text_ko": "번개 퓨전\n번개를 고무하다가 퓨전되었다면, 대상 영웅에게 비전 피해 2를 준다."
+  },
+  "W8hhkFmqt8rDrBnTfCCPw": {
+    "_name_en": "Inspire Lightning",
+    "name_ko": "번개를 고무하다",
+    "text_ko": "번개 퓨전\n번개를 고무하다가 퓨전되었다면, 대상 영웅에게 비전 피해 1을 준다."
+  },
+  "J6mDdKqWNHBGLWFW9PQqf": {
+    "_name_en": "Instill Fear",
+    "name_ko": "공포를 심다",
+    "text_ko": "이 카드가 영웅을 공격할 때, 그를 인티미데이트한다."
+  },
+  "6rkDBBFc9rN7rpqqNbnrD": {
+    "_name_en": "Instill Fear",
+    "name_ko": "공포를 심다",
+    "text_ko": "이 카드가 영웅을 공격할 때, 그를 인티미데이트한다."
+  },
+  "ChWC6JfLg9hcmHd9JcMBk": {
+    "_name_en": "Instill Fear",
+    "name_ko": "공포를 심다",
+    "text_ko": "이 카드가 영웅을 공격할 때, 그를 인티미데이트한다."
+  },
+  "TthpPbn8nP88GGghn9wDr": {
+    "_name_en": "Insult to Injury",
+    "name_ko": "엎친 데 덮친 격",
+    "text_ko": "이 카드가 영웅을 공격할 때, 당신이 그보다 {h}이 많다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "DjtKnjrGd6BTjD9LTkqqf": {
+    "_name_en": "Insult to Injury",
+    "name_ko": "엎친 데 덮친 격",
+    "text_ko": "이 카드가 영웅을 공격할 때, 당신이 그보다 {h}이 많다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "z6MTBD8qkFPNzGtNrtprL": {
+    "_name_en": "Insult to Injury",
+    "name_ko": "엎친 데 덮친 격",
+    "text_ko": "이 카드가 영웅을 공격할 때, 당신이 그보다 {h}이 많다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "QGjhRDwJdHr68gtkNqCWm": {
+    "_name_en": "Intellect Penalty",
+    "name_ko": "지능 페널티",
+    "text_ko": "당신의 영웅은 -1{i}을 가진다.\n카운터가 X개인 지능 페널티를 생성하게 될 경우, 대신 이것에 턴 카운터 X개를 놓는다.\n당신 영웅의 지능만큼 종료 단계 절차로 카드를 뽑게 될 경우, 대신 그만큼 카드를 뽑고, 이것에서 턴 카운터 1개를 제거한 뒤, 여기에 턴 카운터가 없으면 게임에서 제거한다."
+  },
+  "cRRDRFWcfMpkDcWtTphFT": {
+    "_name_en": "Interlude",
+    "name_ko": "간주곡",
+    "text_ko": "영웅 1명을 선택한다. 이번 턴 그가 다음에 피해를 받게 될 경우, 그 피해 3을 방지한다. 이렇게 다른 영웅에게 가해질 피해를 방지하면, 카퍼 토큰 1개를 생성한다."
+  },
+  "hkmQgBRgHRJJh6jmzGW8G": {
+    "_name_en": "Interlude",
+    "name_ko": "간주곡",
+    "text_ko": "영웅 1명을 선택한다. 이번 턴 그가 다음에 피해를 받게 될 경우, 그 피해 2를 방지한다. 이렇게 다른 영웅에게 가해질 피해를 방지하면, 카퍼 토큰 1개를 생성한다."
+  },
+  "WLwb8QhpFqc69mcwQGg9n": {
+    "_name_en": "Interlude",
+    "name_ko": "간주곡",
+    "text_ko": "영웅 1명을 선택한다. 이번 턴 그가 다음에 피해를 받게 될 경우, 그 피해 1을 방지한다. 이렇게 다른 영웅에게 가해질 피해를 방지하면, 카퍼 토큰 1개를 생성한다."
+  },
+  "fn6R8HkftTRfr6dD8Gfgh": {
+    "_name_en": "Intimate Inducement",
+    "name_ko": "은밀한 유혹",
+    "text_ko": "대상 어쌔신 또는 미스틱 공격 액션 카드가 +1{p}을 얻는다.\n방어 영웅의 덱 맨 위 4장을 확인하고 카드 1장을 선택한다. 그것이 파란색이면, 기본 {d}이 0이다. 선택한 카드를 활성 체인 링크에 방어 카드로 놓고 나머지는 원하는 순서로 맨 위에 놓는다."
+  },
+  "jrBknpNwPbrNbzmfKMnKw": {
+    "_name_en": "Intimate Inducement",
+    "name_ko": "은밀한 유혹",
+    "text_ko": "대상 어쌔신 또는 미스틱 공격 액션 카드가 +1{p}을 얻는다.\n방어 영웅의 덱 맨 위 3장을 확인하고 카드 1장을 선택한다. 그것이 파란색이면, 기본 {d}이 0이다. 선택한 카드를 활성 체인 링크에 방어 카드로 놓고 나머지는 원하는 순서로 맨 위에 놓는다."
+  },
+  "b8WGTGmWNGDdGwCWP7r66": {
+    "_name_en": "Intimate Inducement",
+    "name_ko": "은밀한 유혹",
+    "text_ko": "대상 어쌔신 또는 미스틱 공격 액션 카드가 +1{p}을 얻는다.\n방어 영웅의 덱 맨 위 2장을 확인하고 카드 1장을 선택한다. 그것이 파란색이면, 기본 {d}이 0이다. 선택한 카드를 활성 체인 링크에 방어 카드로 놓고 나머지는 원하는 순서로 맨 위에 놓는다."
+  },
+  "BzRzJh9PcztPDn7fhNLF9": {
+    "_name_en": "Intoxicating Shot",
+    "name_ko": "취하게 하는 사격",
+    "text_ko": "립타이드 스페셜라이제이션\n이 카드가 영웅을 명중하면, 그가 용기 토큰과 퀵큰 토큰을 생성한다."
+  },
+  "8qkczmhLhHzTCTpbgwJbD": {
+    "_name_en": "Invert Existence",
+    "name_ko": "존재의 역전",
+    "text_ko": "당신의 추방 구역에서 존재의 역전을 사용할 수 있다.\n상대 영웅의 무덤에서 카드 최대 2장을 추방한다. 이렇게 공격 액션 카드와 '비공격' 액션 카드가 추방되면, 그 영웅에게 비전 피해 2를 준다.\n블러드 뎃"
+  },
+  "gMWcDdjLpcdzMFDTBNpmM": {
+    "_name_en": "Inverter's Nightcowl",
+    "name_ko": "인버터의 밤부엉이 옷",
+    "text_ko": "액션 - 이것을 파괴한다: 턴 종료 시까지, 당신이 스텔스를 가진 공격 액션 카드를 사용할 때마다, {r}을 얻는다. 고 어게인\n배틀원"
+  },
+  "T8JWb9PmhhbtHkRwdPdMQ": {
+    "_name_en": "Invigorate",
+    "name_ko": "활기를 불어넣다",
+    "text_ko": "이번 턴 당신이 다음에 퓨전하는 공격이 +4{p}을 얻는다.\n고 어게인"
+  },
+  "LT8HTjjcDkHbFqk6JNq7p": {
+    "_name_en": "Invigorate",
+    "name_ko": "활기를 불어넣다",
+    "text_ko": "이번 턴 당신이 다음에 퓨전하는 공격이 +3{p}을 얻는다.\n고 어게인"
+  },
+  "jDKTTwddjQzNWmHkTwDQb": {
+    "_name_en": "Invigorate",
+    "name_ko": "활기를 불어넣다",
+    "text_ko": "이번 턴 당신이 다음에 퓨전하는 공격이 +2{p}을 얻는다.\n고 어게인"
+  },
+  "thwwGHwJCmkHF698TC8Wn": {
+    "_name_en": "Invigorating Light",
+    "name_ko": "활력을 주는 빛",
+    "text_ko": "당신이 활력을 주는 빛을 사용할 때, 당신 영웅의 소울에 카드가 없다면, 전투 체인이 종료될 때 그것을 당신 영웅의 소울에 놓는다."
+  },
+  "qdjcJLJKQBCRLnkpfrPPb": {
+    "_name_en": "Invigorating Light",
+    "name_ko": "활력을 주는 빛",
+    "text_ko": "당신이 활력을 주는 빛을 사용할 때, 당신 영웅의 소울에 카드가 없다면, 전투 체인이 종료될 때 그것을 당신 영웅의 소울에 놓는다."
+  },
+  "BjJDkrf7WQzCdfTwJrgtf": {
+    "_name_en": "Invigorating Light",
+    "name_ko": "활력을 주는 빛",
+    "text_ko": "당신이 활력을 주는 빛을 사용할 때, 당신 영웅의 소울에 카드가 없다면, 전투 체인이 종료될 때 그것을 당신 영웅의 소울에 놓는다."
+  },
+  "QJKrt7FrgBJqNBhfjbmCP": {
+    "_name_en": "Invoke Azvolai",
+    "name_ko": "아즈볼라이 소환",
+    "text_ko": "당신이 조종하는 대상 애쉬를 아즈볼라이로 변신시킨다. 고 어게인"
+  },
+  "zRfhznJbJjhPqrtCqNMPT": {
+    "_name_en": "Invoke Cromai",
+    "name_ko": "크로마이 소환",
+    "text_ko": "당신이 조종하는 대상 애쉬를 크로마이로 변신시킨다. 고 어게인"
+  },
+  "wjwFgpKPTgkKNGgr8Q7JK": {
+    "_name_en": "Invoke Dominia",
+    "name_ko": "도미니아 소환",
+    "text_ko": "레전더리\n당신이 조종하는 대상 애쉬를 도미니아로 변신시킨다. 고 어게인"
+  },
+  "BPPzktrTM7CqMKmbmmkDH": {
+    "_name_en": "Invoke Dracona Optimai",
+    "name_ko": "드라코나 옵티마이 소환",
+    "text_ko": "레전더리\n당신이 조종하는 대상 애쉬를 드라코나 옵티마이로 변신시킨다. 고 어게인"
+  },
+  "qRbQCrnwpWm7mtbfpcFn7": {
+    "_name_en": "Invoke Kyloria",
+    "name_ko": "카일로리아 소환",
+    "text_ko": "당신이 조종하는 대상 애쉬를 카일로리아로 변신시킨다. 고 어게인"
+  },
+  "QLFBGCzhjCqFKrPBn7GFN": {
+    "_name_en": "Invoke Miragai",
+    "name_ko": "미라가이 소환",
+    "text_ko": "당신이 조종하는 대상 애쉬를 미라가이로 변신시킨다. 고 어게인"
+  },
+  "QjT7Pt8nTWqtfT6GbrQnJ": {
+    "_name_en": "Invoke Nekria",
+    "name_ko": "네크리아 소환",
+    "text_ko": "당신이 조종하는 대상 애쉬를 네크리아로 변신시킨다. 고 어게인"
+  },
+  "PWGBRjB7mhQJNkq896RNz": {
+    "_name_en": "Invoke Ouvia",
+    "name_ko": "오우비아 소환",
+    "text_ko": "당신이 조종하는 대상 애쉬를 오우비아로 변신시킨다. 고 어게인"
   }
 }
