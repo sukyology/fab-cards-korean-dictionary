@@ -19,13 +19,14 @@ const statusEl = $("#status");
 const resultsEl = $("#results");
 const moreEl = $("#more");
 
-// FAB 카드 텍스트의 토큰을 한글 라벨로 치환
+// FAB 카드 텍스트의 토큰을 아이콘(또는 한글 라벨)으로 치환
 const TOKENS = {
-  "{p}": ['tok-p', '공격력'],
-  "{d}": ['tok-d', '방어력'],
-  "{h}": ['tok-h', '생명력'],
-  "{r}": ['tok-r', '자원'],
-  "{i}": ['tok-i', '지력'],
+  "{p}": { cls: "tok-p", label: "공격력", icon: "power.webp" },
+  "{d}": { cls: "tok-d", label: "방어력", icon: "defense.webp" },
+  "{h}": { cls: "tok-h", label: "생명력", icon: "health.webp" },
+  "{r}": { cls: "tok-r", label: "자원", icon: "resource.webp" },
+  "{i}": { cls: "tok-i", label: "지능", icon: "intellect.png" },
+  "{c}": { cls: "tok-c", label: "치(Chi)", icon: "chi.webp" },
 };
 
 function escapeHtml(s) {
@@ -38,8 +39,11 @@ function escapeHtml(s) {
 function renderText(text) {
   if (!text) return "";
   let html = escapeHtml(text);
-  for (const [token, [cls, label]] of Object.entries(TOKENS)) {
-    html = html.split(token).join(`<span class="tok ${cls}">${label}</span>`);
+  for (const [token, t] of Object.entries(TOKENS)) {
+    const replacement = t.icon
+      ? `<img class="tok-icon ${t.cls}" src="./asset/${t.icon}" alt="${t.label}" title="${t.label}" />`
+      : `<span class="tok ${t.cls}">${t.label}</span>`;
+    html = html.split(token).join(replacement);
   }
   return html;
 }
@@ -195,8 +199,8 @@ function openModal(card) {
   const kws = matchedKeywords(card);
   const kwHtml = kws.length
     ? `<div class="keywords"><h4 style="color:var(--text-dim);font-size:.8rem;text-transform:uppercase;letter-spacing:.04em;margin:0 0 8px">키워드 설명</h4>${kws
-        .map(([kw, info]) => `<div class="kw"><b>${escapeHtml(kw)}</b> (${escapeHtml(info.ko)}) — ${escapeHtml(info.desc)}</div>`)
-        .join("")}</div>`
+      .map(([kw, info]) => `<div class="kw"><b>${escapeHtml(kw)}</b> (${escapeHtml(info.ko)}) — ${escapeHtml(info.desc)}</div>`)
+      .join("")}</div>`
     : "";
 
   // 한글 타입 번역이 있고 영어와 다를 때만 "한글 · 영어"로 표시(미번역이면 영어만)

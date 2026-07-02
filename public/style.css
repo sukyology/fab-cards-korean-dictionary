@@ -273,10 +273,13 @@ body {
   color: var(--text);
   white-space: nowrap;
 }
-.tok-p { color: #ff9a8a; }
-.tok-d { color: #8ab4ff; }
-.tok-h { color: #8aef9a; }
-.tok-r { color: #ffd27a; }
+.tok-icon {
+  display: inline-block;
+  width: 1.15em;
+  height: 1.15em;
+  vertical-align: -0.22em;
+  margin: 0 1px;
+}
 
 /* 모달 */
 .modal[hidden] {
