@@ -18882,5 +18882,642 @@
     "_name_en": "Silverdrop Downpour",
     "name_ko": "은빛 소나기",
     "text_ko": "대상 무기 공격이 +4{p}을 얻는다.\n이번 턴에 그 무기가 연마된 적이 있다면, 이 카드는 사용하는 데 {r}이 덜 든다."
+  },
+  "NmgpFhWdc8zCKPKMBmttP": {
+    "_name_en": "Silversheen Needle",
+    "name_ko": "은빛섬광 바늘",
+    "text_ko": "이름에 패브릭이 들어간, 당신의 컨스트럭트가 고 어게인을 얻는다."
+  },
+  "qLHCbFDHBQbzKGTTBq8PW": {
+    "_name_en": "Silverstride Dodgers",
+    "name_ko": "은빛질주 부츠",
+    "text_ko": "당신이 플러리 토큰을 조종하고 있다면, 이 카드가 +1{d}을 얻는다.\n템퍼"
+  },
+  "JthBWKRDhpngQP6FcKtRR": {
+    "_name_en": "Silverwind Shuriken",
+    "name_ko": "은빛바람 표창",
+    "text_ko": "공격 반응 - 은빛바람 표창을 파괴한다: 콤보를 가진 대상 공격 액션 카드가 +1{p}을 얻는다."
+  },
+  "WQPHQL8cWbfCc68dHrkLK": {
+    "_name_en": "Singe",
+    "name_ko": "그을리다",
+    "text_ko": "대상 영웅과 그가 조종하는 대상 아군 최대 3개에게 비전 피해 1을 준다."
+  },
+  "h7MzmDDJRnbDwtMjqfcm6": {
+    "_name_en": "Singe",
+    "name_ko": "그을리다",
+    "text_ko": "대상 영웅과 그가 조종하는 대상 아군 최대 2개에게 비전 피해 1을 준다."
+  },
+  "qNjkhDfW8htQBMqmCbW8M": {
+    "_name_en": "Singe",
+    "name_ko": "그을리다",
+    "text_ko": "대상 영웅과 그가 조종하는 대상 아군 최대 1개에게 비전 피해 1을 준다."
+  },
+  "Mzq9qrLQtHKjNTgkDqtwB": {
+    "_name_en": "Singeing Flowstride",
+    "name_ko": "그을리는 흐름걸음",
+    "text_ko": "퀵스트라이크 - 이 카드가 고 어게인을 가지고 있다면, \"이 카드가 영웅을 공격할 때, 그에게 비전 피해 1을 준다\"를 얻는다.\n이것이 영웅에게 처음 피해를 줄 때, 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "NCPg8kRTF8gMFfrpkc8p8": {
+    "_name_en": "Singeing Flowstride",
+    "name_ko": "그을리는 흐름걸음",
+    "text_ko": "퀵스트라이크 - 이 카드가 고 어게인을 가지고 있다면, \"이 카드가 영웅을 공격할 때, 그에게 비전 피해 1을 준다\"를 얻는다.\n이것이 영웅에게 처음 피해를 줄 때, 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "wJLdrWjMqLQL8r7wMc8Rg": {
+    "_name_en": "Singeing Flowstride",
+    "name_ko": "그을리는 흐름걸음",
+    "text_ko": "퀵스트라이크 - 이 카드가 고 어게인을 가지고 있다면, \"이 카드가 영웅을 공격할 때, 그에게 비전 피해 1을 준다\"를 얻는다.\n이것이 영웅에게 처음 피해를 줄 때, 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "K8LjGFFcwN6bTgGrm7cC6": {
+    "_name_en": "Singeing Steelblade",
+    "name_ko": "그을리는 강철검",
+    "text_ko": "당신이 그을리는 강철검으로 공격할 때, 대상 영웅에게 비전 피해 1을 준다."
+  },
+  "HQkFFfDPwngtdD6LwK7gC": {
+    "_name_en": "Singeing Steelblade",
+    "name_ko": "그을리는 강철검",
+    "text_ko": "당신이 그을리는 강철검으로 공격할 때, 대상 영웅에게 비전 피해 1을 준다."
+  },
+  "fbWKm6G9jpPrnL7t7TqDg": {
+    "_name_en": "Singeing Steelblade",
+    "name_ko": "그을리는 강철검",
+    "text_ko": "당신이 그을리는 강철검으로 공격할 때, 대상 영웅에게 비전 피해 1을 준다."
+  },
+  "Crtn9djMPnRdwjKnhWRpk": {
+    "_name_en": "Singing Steelblade",
+    "name_ko": "노래하는 강철검",
+    "text_ko": "도린테아 스페셜라이제이션\n대상 무기 공격이 +1{p}을 얻는다.\n리프라이즈 - 방어 영웅이 이번 체인 링크에서 손의 카드로 방어했다면, 당신의 덱에서 공격 반응 카드를 찾아 앞면으로 추방한 뒤, 덱을 섞는다. 이번 체인 링크에서 그것을 사용할 수 있다."
+  },
+  "C8jqfdnRnWRfnnnFrMwFq": {
+    "_name_en": "Single Minded Determination",
+    "name_ko": "한결같은 결의",
+    "text_ko": "이것이 전장에 들어올 때, 당신이 다른 일루저니스트 오라를 조종하고 있지 않다면, 여기에 +1{p} 카운터 3개를 놓는다.\n워드 2"
+  },
+  "7n6JMpGRwqrWnFrTb88c9": {
+    "_name_en": "Single Minded Determination",
+    "name_ko": "한결같은 결의",
+    "text_ko": "이것이 전장에 들어올 때, 당신이 다른 일루저니스트 오라를 조종하고 있지 않다면, 여기에 +1{p} 카운터 2개를 놓는다.\n워드 2"
+  },
+  "7t9Wg9qBgKrQ7WdMqFbdJ": {
+    "_name_en": "Single Minded Determination",
+    "name_ko": "한결같은 결의",
+    "text_ko": "이것이 전장에 들어올 때, 당신이 다른 일루저니스트 오라를 조종하고 있지 않다면, 여기에 +1{p} 카운터 1개를 놓는다.\n워드 2"
+  },
+  "67zdgKFWD7qzcPppbRHNB": {
+    "_name_en": "Singularity",
+    "name_ko": "특이점",
+    "text_ko": "레전더리 테클로보센 스페셜라이제이션\n당신의 영웅, 무기, 그리고 당신이 장착한 에보 4개를 기계전능자 테클로보센으로 변신시킨다. 이것은 변신 전 영웅의 {h}을 가진 채 전장에 들어온다."
+  },
+  "z8hRmWFtTQPPC8pDR9jTw": {
+    "_name_en": "Sinker",
+    "name_ko": "싱커",
+    "text_ko": "당신 덱 맨 위 카드를 확인한다. 그것이 화살이라면, 앞면으로 아스날에 놓을 수 있다. 그렇게 하면, 이번 턴 오버파워를 얻는다.\n고 어게인"
+  },
+  "bczQzLRqRKQpkCBHmTCHf": {
+    "_name_en": "Siren's Call",
+    "name_ko": "세이렌의 부름",
+    "text_ko": "방어 영웅의 손을 확인하고 파란색 카드 1장을 선택한다. 이번 체인 링크에 방어 카드로 추가한다. 그렇게 하면, 카드 1장을 뽑는다."
+  },
+  "WMwJ8b97zqNWbjdHqRNRK": {
+    "_name_en": "Sirens of Safe Harbor",
+    "name_ko": "안전한 항구의 세이렌",
+    "text_ko": "이것이 어디에서든 당신의 무덤에 놓이면, 1{h}을 얻는다."
+  },
+  "zrRwzwz7n6KgqcDMnjjDw": {
+    "_name_en": "Sirens of Safe Harbor",
+    "name_ko": "안전한 항구의 세이렌",
+    "text_ko": "이것이 어디에서든 당신의 무덤에 놓이면, 1{h}을 얻는다."
+  },
+  "PqpzLCTzp6Q6JkwqtDPhf": {
+    "_name_en": "Sirens of Safe Harbor",
+    "name_ko": "안전한 항구의 세이렌",
+    "text_ko": "이것이 어디에서든 당신의 무덤에 놓이면, 1{h}을 얻는다."
+  },
+  "Hbpw6FWPgCtwPKCnW8jMQ": {
+    "_name_en": "Sisters of Fire",
+    "name_ko": "불의 자매들",
+    "text_ko": "당신이 드라코닉 체인 링크를 2개 이상 조종하고 있을 때만 이 카드를 사용한다.\n대상 단검 공격이 +3{p}을 얻는다."
+  },
+  "QFPqG8Wtc6WdDKhn7fzBk": {
+    "_name_en": "Sit!",
+    "name_ko": "앉아!",
+    "text_ko": "이 카드가 브루트 공격을 방어할 때, +3{d}을 얻는다."
+  },
+  "jkbMCtNCWghQGKqkDtGQr": {
+    "_name_en": "Sizzle",
+    "name_ko": "지글지글",
+    "text_ko": "이번 턴 당신의 다음 번개 또는 엘리멘탈 공격이 +3{p}을 얻는다.\n고 어게인"
+  },
+  "m9KtRPwMhWCwt8Gfp86cn": {
+    "_name_en": "Sizzle",
+    "name_ko": "지글지글",
+    "text_ko": "이번 턴 당신의 다음 번개 또는 엘리멘탈 공격이 +2{p}을 얻는다.\n고 어게인"
+  },
+  "DPh9t9CPG8qjfbPNPbfBK": {
+    "_name_en": "Sizzling Steel",
+    "name_ko": "지글거리는 강철",
+    "text_ko": "대상 단검 공격이 +3{p}을 얻는다. 당신이 드라코닉 체인 링크를 2개 이상 조종하고 있다면, 대신 +4{p}을 얻는다."
+  },
+  "LB6wBhCKpBWCJqd9tFR8B": {
+    "_name_en": "Skera Strapping",
+    "name_ko": "스케라 결속대",
+    "text_ko": "이번 턴에 {p} 6 이상인 카드를 피치한 적이 있다면, 이 카드가 스펠보이드 3을 얻는다."
+  },
+  "cjk6KqfdDWCF6pLdpQFdj": {
+    "_name_en": "Skittering Sands",
+    "name_ko": "질주하는 모래",
+    "text_ko": "당신이 조종하는 대상 애쉬를 에테르 날개로 변신시킨다. 그것이 턴 종료 시까지 +3{p}을 얻는다.\n고 어게인"
+  },
+  "RDkP9CqzbwDGJmTg7hrp7": {
+    "_name_en": "Skittering Sands",
+    "name_ko": "질주하는 모래",
+    "text_ko": "당신이 조종하는 대상 애쉬를 에테르 날개로 변신시킨다. 그것이 턴 종료 시까지 +2{p}을 얻는다.\n고 어게인"
+  },
+  "Q7JLckkNhtBmRQBKRqnJM": {
+    "_name_en": "Skittering Sands",
+    "name_ko": "질주하는 모래",
+    "text_ko": "당신이 조종하는 대상 애쉬를 에테르 날개로 변신시킨다. 그것이 턴 종료 시까지 +1{p}을 얻는다.\n고 어게인"
+  },
+  "MKtrcnkhWbjBdPDLbBDMJ": {
+    "_name_en": "Skull Crack",
+    "name_ko": "두개골 균열",
+    "text_ko": "두개골 균열이 무작위로 버려지면, {r}을 얻는다."
+  },
+  "KccqWCmJhTfHpcNQJfdMQ": {
+    "_name_en": "Skull Crushers",
+    "name_ko": "두개골 분쇄기",
+    "text_ko": "당신이 주사위에서 5나 6을 굴릴 때마다, 이번 턴 당신의 브루트 공격들이 +1{p}을 얻는다.\n당신이 주사위에서 1을 굴릴 때마다, 두개골 분쇄기를 파괴한다.\n배틀원"
+  },
+  "pLT6mqkb86GG9jHh8kFRp": {
+    "_name_en": "Skullbone Crosswrap",
+    "name_ko": "두개골뼈 십자감개",
+    "text_ko": "턴당 1회 액션 - 당신의 아스날에 뒷면으로 있는 카드 1장을 앞면으로 뒤집는다: 옵트 1. 고 어게인\n아케인 배리어 1\n블레이드 브레이크"
+  },
+  "dQB8pPfdFTDkKJwz9LQbD": {
+    "_name_en": "Skullhorn",
+    "name_ko": "해골뿔",
+    "text_ko": "액션 - 해골뿔을 파괴한다: 카드 1장을 뽑은 뒤 무작위 카드 1장을 버린다. 고 어게인\n아케인 배리어 2"
+  },
+  "NW7CdmT8JMcMtQdRkpjg6": {
+    "_name_en": "Sky Fire Lanterns",
+    "name_ko": "하늘불꽃 등불",
+    "text_ko": "당신 덱 맨 위 카드를 공개한다. 그것이 빨간색이면, 룬챈트 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "tH6dnJR9CTdw7mmzGJckd": {
+    "_name_en": "Sky Fire Lanterns",
+    "name_ko": "하늘불꽃 등불",
+    "text_ko": "당신 덱 맨 위 카드를 공개한다. 그것이 노란색이면, 룬챈트 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "LhNtnmRzpc7mfbcgDcJk8": {
+    "_name_en": "Sky Fire Lanterns",
+    "name_ko": "하늘불꽃 등불",
+    "text_ko": "당신 덱 맨 위 카드를 공개한다. 그것이 파란색이면, 룬챈트 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "MjtP6GFTmC7j96tmLrJ97": {
+    "_name_en": "Sky Skimmer",
+    "name_ko": "스카이 스키머",
+    "text_ko": "턴당 1회 순간 - 당신이 조종하는 톱니바퀴를 {t}한다: 이 카드가 +1{p} 또는 고 어게인을 얻는다."
+  },
+  "fWMNJw87bKTw7PFwcDgGc": {
+    "_name_en": "Sky Skimmer",
+    "name_ko": "스카이 스키머",
+    "text_ko": "턴당 1회 순간 - 당신이 조종하는 톱니바퀴를 {t}한다: 이 카드가 +1{p} 또는 고 어게인을 얻는다."
+  },
+  "h6kzb7mjjwrhQDDTnnJqF": {
+    "_name_en": "Sky Skimmer",
+    "name_ko": "스카이 스키머",
+    "text_ko": "턴당 1회 순간 - 당신이 조종하는 톱니바퀴를 {t}한다: 이 카드가 +1{p} 또는 고 어게인을 얻는다."
+  },
+  "rLzdPNHmqwPfmRFLhWM8R": {
+    "_name_en": "Skybody Keikoi",
+    "name_ko": "스카이바디 케이코이",
+    "text_ko": "클로크\n순간 - 이것을 파괴한다: 이번 턴 당신에게 가해질 다음 피해 1을 방지한다. 이것이 뒷면으로 있는 동안에만 이 능력을 활성화한다."
+  },
+  "QtbWQ6Lr8QmMRJHnpkB9L": {
+    "_name_en": "Skybound Shot",
+    "name_ko": "하늘가르기 사격",
+    "text_ko": "하늘가르기 사격에 조준 카운터가 있다면, +1{p}을 가진다."
+  },
+  "kwFthgt77zLzFDmBw7k6W": {
+    "_name_en": "Skybound Shot",
+    "name_ko": "하늘가르기 사격",
+    "text_ko": "하늘가르기 사격에 조준 카운터가 있다면, +1{p}을 가진다."
+  },
+  "kDkpNHC97jqcRDTr9CcCj": {
+    "_name_en": "Skybound Shot",
+    "name_ko": "하늘가르기 사격",
+    "text_ko": "하늘가르기 사격에 조준 카운터가 있다면, +1{p}을 가진다."
+  },
+  "pfbmHDDCBzPj7kPKLHtJj": {
+    "_name_en": "Skycrest Keikoi",
+    "name_ko": "스카이크레스트 케이코이",
+    "text_ko": "클로크\n순간 - 이것을 파괴한다: 이번 턴 당신에게 가해질 다음 피해 1을 방지한다. 이것이 뒷면으로 있는 동안에만 이 능력을 활성화한다."
+  },
+  "LhPHmJ9Wmq6R6RDjDGtwC": {
+    "_name_en": "Skyhold Keikoi",
+    "name_ko": "스카이홀드 케이코이",
+    "text_ko": "클로크\n순간 - 이것을 파괴한다: 이번 턴 당신에게 가해질 다음 피해 1을 방지한다. 이것이 뒷면으로 있는 동안에만 이 능력을 활성화한다."
+  },
+  "Rn7bzNz8BdmwrcTBkMHM6": {
+    "_name_en": "Skywalker Keikoi",
+    "name_ko": "스카이워커 케이코이",
+    "text_ko": "클로크\n순간 - 이것을 파괴한다: 이번 턴 당신에게 가해질 다음 피해 1을 방지한다. 이것이 뒷면으로 있는 동안에만 이 능력을 활성화한다."
+  },
+  "g8tjHjKCPpR6tDpqnhrN9": {
+    "_name_en": "Skyward Serenade",
+    "name_ko": "하늘의 세레나데",
+    "text_ko": "2개를 선택한다;\n- 번개의 화신 토큰 1개를 생성한다.\n- 당신의 덱에서 스카이지크를 찾아 추방한 뒤, 덱을 섞는다. 이번 턴 그것을 사용할 수 있다.\n- 이번 턴 당신의 다음 공격이 +1{p}을 얻는다.\n고 어게인"
+  },
+  "fpnNtrfNGgkh6jbnGzjkt": {
+    "_name_en": "Skywarden no.161803",
+    "name_ko": "스카이워든 no.161803",
+    "text_ko": "갤버나이즈 - 이 카드가 방어할 때, 당신이 조종하는 아이템 1개를 파괴할 수 있다. 그렇게 하면, 이 카드가 +1{d}을 얻는다. 이렇게 골든 코그가 파괴되면, 골드 토큰 1개를 생성한다."
+  },
+  "HHt6w8PmCTDJkCtGdKjbm": {
+    "_name_en": "Skyzyk",
+    "name_ko": "스카이지크",
+    "text_ko": "이 카드가 고 어게인을 가지고 있다면, +1{p}을 얻는다."
+  },
+  "6JWDWhqwDrdDPnGfqMQQR": {
+    "_name_en": "Slap-Happy",
+    "name_ko": "만족스러운 손맛",
+    "text_ko": "이번 턴 당신이 다음에 피해를 받게 될 경우, 그 피해 2를 방지한다. 그렇게 하면, 비거 토큰 1개를 생성한다."
+  },
+  "cdMqrK6rMMDTjHCwBMcqn": {
+    "_name_en": "Slay",
+    "name_ko": "살육",
+    "text_ko": "대상 엔젤 아군을 파괴한다."
+  },
+  "cM7zthPFbLMJ6KQQmB6P9": {
+    "_name_en": "Slay the Scholars",
+    "name_ko": "학자를 처단하다",
+    "text_ko": "계약 - 당신은 상대의 '비공격' 액션 카드를 추방하기로 계약한다. 이 계약을 완료할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다."
+  },
+  "wWFFDrGrc8wD6whwWzdDF": {
+    "_name_en": "Slay the Scholars",
+    "name_ko": "학자를 처단하다",
+    "text_ko": "계약 - 당신은 상대의 '비공격' 액션 카드를 추방하기로 계약한다. 이 계약을 완료할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다."
+  },
+  "Tp786HHGgNbgmp8NJDtRQ": {
+    "_name_en": "Slay the Scholars",
+    "name_ko": "학자를 처단하다",
+    "text_ko": "계약 - 당신은 상대의 '비공격' 액션 카드를 추방하기로 계약한다. 이 계약을 완료할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다."
+  },
+  "TGJ8mNQ6DnfnLqzH7WMFg": {
+    "_name_en": "Sledge of Anvilheim",
+    "name_ko": "앤빌하임의 대형망치",
+    "text_ko": "액션 - {r}{r}{r}{r}: 공격"
+  },
+  "PzqrHpPGhk7qzw6Nq9DG6": {
+    "_name_en": "Sleep Dart",
+    "name_ko": "수면 화살",
+    "text_ko": "수면 화살이 영웅을 명중하면, 그는 자신의 다음 턴 종료 시까지 모든 영웅 카드 효과와 활성화 능력을 잃는다."
+  },
+  "wJ9r77rRnPFfdMmLWzHH7": {
+    "_name_en": "Sleep Dart",
+    "name_ko": "수면 화살",
+    "text_ko": "수면 화살이 영웅을 명중하면, 그는 자신의 다음 턴 종료 시까지 모든 영웅 카드 효과와 활성화 능력을 잃는다."
+  },
+  "R9kfhcPCFtLGfRWnBnqKT": {
+    "_name_en": "Sleep Dart",
+    "name_ko": "수면 화살",
+    "text_ko": "수면 화살이 영웅을 명중하면, 그는 자신의 다음 턴 종료 시까지 모든 영웅 카드 효과와 활성화 능력을 잃는다."
+  },
+  "zLTNLtQTdkQqKtnWL6fQj": {
+    "_name_en": "Slice and Dice",
+    "name_ko": "썰고 다지기",
+    "text_ko": "이번 턴 당신이 검이나 단검으로 공격할 때마다;\n\n이번 턴 당신의 첫 무기 공격이라면, +1{p}을 얻는다.\n이번 턴 당신의 두 번째 무기 공격이라면, +3{p}을 얻는다.\n\n고 어게인"
+  },
+  "N9gqKRghrpWNHBqnCHt9m": {
+    "_name_en": "Slice and Dice",
+    "name_ko": "썰고 다지기",
+    "text_ko": "이번 턴 당신이 검이나 단검으로 공격할 때마다;\n\n이번 턴 당신의 첫 무기 공격이라면, +1{p}을 얻는다.\n이번 턴 당신의 두 번째 무기 공격이라면, +2{p}을 얻는다.\n\n고 어게인"
+  },
+  "bJcbjBkHkqdKmzkBDcWqp": {
+    "_name_en": "Slice and Dice",
+    "name_ko": "썰고 다지기",
+    "text_ko": "이번 턴 당신이 검이나 단검으로 공격할 때마다;\n\n이번 턴 당신의 첫 무기 공격이라면, +1{p}을 얻는다.\n이번 턴 당신의 두 번째 무기 공격이라면, +1{p}을 얻는다.\n\n고 어게인"
+  },
+  "zBDwTqgQTKrNRwjQmMr9g": {
+    "_name_en": "Slither",
+    "name_ko": "슬리더",
+    "text_ko": "이페머럴\n대상 공격 액션 카드가 고 어게인을 얻는다."
+  },
+  "qB6nBWTRKkJWQrmNRNN8t": {
+    "_name_en": "Slithering Shadowpede",
+    "name_ko": "꿈틀거리는 그림자지네",
+    "text_ko": "이번 턴에 당신의 손에서 추방되었다면, 당신의 추방 구역에서 이것을 사용할 수 있다.\n블러드 뎃"
+  },
+  "kgTjdTtWrFMCqpHh9mn8C": {
+    "_name_en": "Sloggism",
+    "name_ko": "슬로기즘",
+    "text_ko": "이번 턴 당신이 사용하는, 비용 2 이상인 다음 공격 액션 카드가 +6{p}을 얻는다.\n고 어게인"
+  },
+  "b9jb87Hf88HzTMTFBRtwB": {
+    "_name_en": "Sloggism",
+    "name_ko": "슬로기즘",
+    "text_ko": "이번 턴 당신이 사용하는, 비용 2 이상인 다음 공격 액션 카드가 +5{p}을 얻는다.\n고 어게인"
+  },
+  "PhTkFwKHqwmWW8NjCbKHG": {
+    "_name_en": "Sloggism",
+    "name_ko": "슬로기즘",
+    "text_ko": "이번 턴 당신이 사용하는, 비용 2 이상인 다음 공격 액션 카드가 +4{p}을 얻는다.\n고 어게인"
+  },
+  "bbLpjmWJ6cpDGhhgmCBTR": {
+    "_name_en": "Smack of Reality",
+    "name_ko": "현실의 일격",
+    "text_ko": "타워 - 이 카드가 {p} 13 이상이면, \"이 카드가 영웅을 명중하면, 그가 조종하는 모든 오라 토큰을 파괴한다\"를 얻는다."
+  },
+  "mqR8pjFLG8mK6km6KBTFh": {
+    "_name_en": "Small Problem",
+    "name_ko": "작은 문제",
+    "text_ko": "이 카드가 기본값을 초과하는 {p}을 가지고 있다면, +1{p}을 얻는다.\n크러쉬 - 이 카드가 영웅에게 피해 4 이상을 줄 때, 그가 조종하는 오라 1개를 파괴한다."
+  },
+  "jrRgGDGgCCbTG8gkfgJjb": {
+    "_name_en": "Smash and Grab",
+    "name_ko": "때려부수고 훔치다",
+    "text_ko": "이번 턴에 2회 이상 부스트한 적이 있다면, 이 카드가 +2{p}과 \"이 카드가 영웅을 명중하면, 그가 조종하는 아이템 1개의 조종권을 얻는다\"를 얻는다."
+  },
+  "WNp6DbGwLqPchCNDmGq66": {
+    "_name_en": "Smash Instinct",
+    "name_ko": "분쇄 본능",
+    "text_ko": "이 카드가 공격할 때, 인티미데이트한다."
+  },
+  "GH9kGJN7nDbcD9GRbwPNH": {
+    "_name_en": "Smash Instinct",
+    "name_ko": "분쇄 본능",
+    "text_ko": "이 카드가 공격할 때, 인티미데이트한다."
+  },
+  "BDBWNGBLdhNLcKLQ6dcdw": {
+    "_name_en": "Smash Instinct",
+    "name_ko": "분쇄 본능",
+    "text_ko": "이 카드가 공격할 때, 인티미데이트한다."
+  },
+  "zJLgzP7LfbWB9qcgcRpRk": {
+    "_name_en": "Smash Up",
+    "name_ko": "박살내다",
+    "text_ko": "이 카드가 영웅을 명중하면, 그의 아스날에 있는 카드 1장을 앞면으로 뒤집은 뒤, 그의 아스날에서 공격 액션 카드 1장을 추방한다."
+  },
+  "CmrzJNdGDLzk9RdzkDT8H": {
+    "_name_en": "Smash with Big Rock",
+    "name_ko": "큰 바위로 강타하다",
+    "text_ko": "이 카드를 방어하는 카드들은 {d}을 얻을 수 없다."
+  },
+  "8qztqjgD9PcLm6kqFTngM": {
+    "_name_en": "Smash with Big Tree",
+    "name_ko": "큰 나무로 강타하다"
+  },
+  "nTrqQhGFhgg6HJGBWgjmq": {
+    "_name_en": "Smash with Big Tree",
+    "name_ko": "큰 나무로 강타하다"
+  },
+  "7hdNz98BfjDQmrckcQzLh": {
+    "_name_en": "Smash with Big Tree",
+    "name_ko": "큰 나무로 강타하다"
+  },
+  "87pqdhz7F6GRCGzpD7cjj": {
+    "_name_en": "Smashback Alehorn",
+    "name_ko": "박살내기 에일뿔잔",
+    "text_ko": "어질리티 토큰과 마이트 토큰을 생성한다.\n고 어게인"
+  },
+  "cF9RB7PrtgKHQ7FRmcdM9": {
+    "_name_en": "Smashing Good Time",
+    "name_ko": "신나는 파괴의 시간",
+    "text_ko": "이번 턴 공격 액션 카드가 다음에 영웅을 명중할 때, 그가 조종하는, 비용 2 이하인 아이템 1개를 파괴할 수 있다.\n신나는 파괴의 시간이 아스날에서 사용되면, 이번 턴 당신이 사용하는 다음 공격 액션 카드가 +3{p}을 얻는다.\n고 어게인"
+  },
+  "Rzb9nrQp9GHCt7QwTKK6K": {
+    "_name_en": "Smashing Good Time",
+    "name_ko": "신나는 파괴의 시간",
+    "text_ko": "이번 턴 공격 액션 카드가 다음에 영웅을 명중할 때, 그가 조종하는, 비용 2 이하인 아이템 1개를 파괴할 수 있다.\n신나는 파괴의 시간이 아스날에서 사용되면, 이번 턴 당신이 사용하는 다음 공격 액션 카드가 +2{p}을 얻는다.\n고 어게인"
+  },
+  "qKcPMkLrbMpqn9Nck97WL": {
+    "_name_en": "Smashing Good Time",
+    "name_ko": "신나는 파괴의 시간",
+    "text_ko": "이번 턴 공격 액션 카드가 다음에 영웅을 명중할 때, 그가 조종하는, 비용 2 이하인 아이템 1개를 파괴할 수 있다.\n신나는 파괴의 시간이 아스날에서 사용되면, 이번 턴 당신이 사용하는 다음 공격 액션 카드가 +1{p}을 얻는다.\n고 어게인"
+  },
+  "pB7j8qpB8jcJ98N9MWz8Q": {
+    "_name_en": "Smashing Ground",
+    "name_ko": "짓밟는 대지",
+    "text_ko": "이 카드가 {p} 6 이상이면, \"이 카드가 영웅을 명중하면, 그의 아스날에 있는 카드 1장을 파괴한다\"를 얻는다."
+  },
+  "cHd8RnCfp9h8MNkQnL9Md": {
+    "_name_en": "Smashing Performance",
+    "name_ko": "박살내는 공연",
+    "text_ko": "이 카드가 공격할 때 카드 1장을 뽑은 뒤, 무작위 카드 1장을 버린다. 이렇게 {p} 6 이상인 카드가 버려지면, 전장에 있는 무작위 아이템 1개를 파괴한다."
+  },
+  "gWHWkrDqc9mKhHGRGrp6p": {
+    "_name_en": "Smell Fear",
+    "name_ko": "공포의 냄새",
+    "text_ko": "가슴 두드리기\n이번 턴에 가슴을 두드린 적이 있다면, 인티미데이트한다.\n이번 턴 당신의 다음 브루트 공격이 \"이번 턴에 2회 이상 인티미데이트한 적이 있다면, 이 카드가 +3{p}을 얻는다\"를 얻는다.\n고 어게인"
+  },
+  "QwkRmndddLgfWPBLLMKMB": {
+    "_name_en": "Smell Fear",
+    "name_ko": "공포의 냄새",
+    "text_ko": "가슴 두드리기\n이번 턴에 가슴을 두드린 적이 있다면, 인티미데이트한다.\n이번 턴 당신의 다음 브루트 공격이 \"이번 턴에 2회 이상 인티미데이트한 적이 있다면, 이 카드가 +2{p}을 얻는다\"를 얻는다.\n고 어게인"
+  },
+  "6q8j8bjLPkBrkJCBPGbKb": {
+    "_name_en": "Smelting of the Old Ones",
+    "name_ko": "옛것들의 제련",
+    "text_ko": "크러쉬 - 이 카드가 가디언 영웅에게 피해 4 이상을 줄 때, 그가 조종하는, -1{d} 카운터가 있는 모든 장비를 파괴한다.\n헤이브 2"
+  },
+  "kt98RmWMpHzwR8R6Hrccq": {
+    "_name_en": "Smoke Out",
+    "name_ko": "연기로 사라지다",
+    "text_ko": "이 카드가 빨간색 카드를 방어할 때, 공격하는 영웅에게 표식을 남긴다."
+  },
+  "mKGPnwbkjcGbmPn7JJNBF": {
+    "_name_en": "Smoldering Scales",
+    "name_ko": "타오르는 비늘",
+    "text_ko": "당신의 조종 하에 프로스트바이트 토큰이 1개 이상 생성되게 될 경우, 대신 이것을 파괴할 수 있다.\n가드웰"
+  },
+  "fnwmJgw6ktTLBrnD7QHFN": {
+    "_name_en": "Smoldering Steel",
+    "name_ko": "타오르는 강철",
+    "text_ko": "대상 단검 공격이 +1{p}과 \"이 카드가 영웅을 명중하면, 그에게 피해 1을 준다\"를 얻는다.\n이것이 당신의 무덤에 있는 동안, 당신의 조종 하에 프로스트바이트 토큰이 1개 이상 생성되게 될 경우, 대신 이것을 추방할 수 있다."
+  },
+  "rGc7TPKW7CDRmPRCLg6Jd": {
+    "_name_en": "Snag",
+    "name_ko": "스낵",
+    "text_ko": "이번 턴 공격 액션 카드는 자신의 효과나 공격 반응 카드의 효과로 {p}을 얻을 수 없다."
+  },
+  "9t6zhmKcwhjTK8RRGCnTz": {
+    "_name_en": "Snap Fingers",
+    "name_ko": "손가락을 튕기다",
+    "text_ko": "순간 - {r}, 이것을 파괴한다: 활성 체인 링크에 있는, 당신이 조종하는 대상 번개 공격 액션 카드가 방어 영웅에게 비전 피해 1을 준다."
+  },
+  "rqcn9Q6JDG6FRCrpt9tb7": {
+    "_name_en": "Snap Shot",
+    "name_ko": "스냅 샷",
+    "text_ko": "번개 퓨전\n스냅 샷이 퓨전되었다면, 이번 턴 당신이 조종하는 활에 추가로 한 번 더, 순간 카드인 것처럼 능력을 활성화할 수 있다."
+  },
+  "HfNNH6tjw9PgJ8KHpkpBL": {
+    "_name_en": "Snap Shot",
+    "name_ko": "스냅 샷",
+    "text_ko": "번개 퓨전\n스냅 샷이 퓨전되었다면, 이번 턴 당신이 조종하는 활에 추가로 한 번 더, 순간 카드인 것처럼 능력을 활성화할 수 있다."
+  },
+  "zrJRtGh66Ggpgr87nnzFn": {
+    "_name_en": "Snap Shot",
+    "name_ko": "스냅 샷",
+    "text_ko": "번개 퓨전\n스냅 샷이 퓨전되었다면, 이번 턴 당신이 조종하는 활에 추가로 한 번 더, 순간 카드인 것처럼 능력을 활성화할 수 있다."
+  },
+  "FfHKcc6HWkdkbC76BwgqQ": {
+    "_name_en": "Snapback",
+    "name_ko": "스냅백",
+    "text_ko": "대상 영웅에게 비전 피해 3을 준다.\n이번 턴에 다른 위저드 '비공격' 액션 카드를 사용한 적이 있다면, 스냅백을 순간 카드인 것처럼 사용할 수 있다."
+  },
+  "Tb8rJqp6nH9FhDQgNMgpH": {
+    "_name_en": "Snapback",
+    "name_ko": "스냅백",
+    "text_ko": "대상 영웅에게 비전 피해 2를 준다.\n이번 턴에 다른 위저드 '비공격' 액션 카드를 사용한 적이 있다면, 스냅백을 순간 카드인 것처럼 사용할 수 있다."
+  },
+  "pBLw878jHjmLBLBbtpk6W": {
+    "_name_en": "Snapback",
+    "name_ko": "스냅백",
+    "text_ko": "대상 영웅에게 비전 피해 1을 준다.\n이번 턴에 다른 위저드 '비공격' 액션 카드를 사용한 적이 있다면, 스냅백을 순간 카드인 것처럼 사용할 수 있다."
+  },
+  "gGmbgrQrzhKpFdtcRTF9h": {
+    "_name_en": "Snapdragon Scalers",
+    "name_ko": "스냅드래곤 각반",
+    "text_ko": "공격 반응 - 이것을 파괴한다: 비용 1 이하인 대상 공격 액션 카드가 고 어게인을 얻는다."
+  },
+  "rLCRmrjNR6HMnG8pFkNCB": {
+    "_name_en": "Snarky Prick",
+    "name_ko": "심술궂은 놈",
+    "text_ko": "이 카드가 영웅을 공격할 때, 그의 덱 맨 위 카드를 확인한다. 그것이 빨간색이면, 파괴할 수 있다. 그렇게 하면, 이 카드가 +4{p}을 얻는다."
+  },
+  "RJgjqhgWBPnfhC76CRLjt": {
+    "_name_en": "Sneak Attack",
+    "name_ko": "기습 공격",
+    "text_ko": "이번 체인 링크에 공격 반응을 사용하거나 활성화한 적이 있다면, 기습 공격이 +4{p}을 가진다."
+  },
+  "7TPWrWF6KhgNLGbJT7CHb": {
+    "_name_en": "Sneak Attack",
+    "name_ko": "기습 공격",
+    "text_ko": "이번 체인 링크에 공격 반응을 사용하거나 활성화한 적이 있다면, 기습 공격이 +4{p}을 가진다."
+  },
+  "BKhhmbmLm67kWdNdBpDPM": {
+    "_name_en": "Sneak Attack",
+    "name_ko": "기습 공격",
+    "text_ko": "이번 체인 링크에 공격 반응을 사용하거나 활성화한 적이 있다면, 기습 공격이 +4{p}을 가진다."
+  },
+  "q8rqGffz6jP9D7w8DbkcL": {
+    "_name_en": "Snow Under",
+    "name_ko": "눈에 파묻히다",
+    "text_ko": "얼음 퓨전\n눈에 파묻히다가 퓨전되었다면, \"이것이 영웅을 명중하면, 그의 조종 하에 프로스트바이트 토큰 1개를 생성한다\"를 얻는다."
+  },
+  "MLkbJDtPDkLWPNpfwfTDJ": {
+    "_name_en": "Snow Under",
+    "name_ko": "눈에 파묻히다",
+    "text_ko": "얼음 퓨전\n눈에 파묻히다가 퓨전되었다면, \"이것이 영웅을 명중하면, 그의 조종 하에 프로스트바이트 토큰 1개를 생성한다\"를 얻는다."
+  },
+  "NzNjkqqJgrbPbJpWQ8RWp": {
+    "_name_en": "Snow Under",
+    "name_ko": "눈에 파묻히다",
+    "text_ko": "얼음 퓨전\n눈에 파묻히다가 퓨전되었다면, \"이것이 영웅을 명중하면, 그의 조종 하에 프로스트바이트 토큰 1개를 생성한다\"를 얻는다."
+  },
+  "8HT69P8zhwhtmb6gbtLDd": {
+    "_name_en": "Snuff Out",
+    "name_ko": "꺼뜨리다",
+    "text_ko": "이 카드가 영웅을 명중하면, 당신이 조종하는 오라 1개를 파괴할 수 있다. 그렇게 하면, 그가 카드 1장을 버린다."
+  },
+  "6pkDBRPmCgD7GmJ9FTrQR": {
+    "_name_en": "Soaring Strike",
+    "name_ko": "치솟는 일격",
+    "text_ko": "치솟는 일격이 명중하면, 당신의 손에서 비용이 당신이 조종하는 드라코닉 체인 링크 수보다 낮은 공격 액션 카드 1장을 추방할 수 있다. 그렇게 하면, 그것이 고 어게인을 얻고 이번 턴 그것을 사용할 수 있다.\n고 어게인"
+  },
+  "HmBDfkp8QpWhqNjHfwpPT": {
+    "_name_en": "Soaring Strike",
+    "name_ko": "치솟는 일격",
+    "text_ko": "치솟는 일격이 명중하면, 당신의 손에서 비용이 당신이 조종하는 드라코닉 체인 링크 수보다 낮은 공격 액션 카드 1장을 추방할 수 있다. 그렇게 하면, 그것이 고 어게인을 얻고 이번 턴 그것을 사용할 수 있다.\n고 어게인"
+  },
+  "LmmNMBnCBtgG6RfWz9rQQ": {
+    "_name_en": "Soaring Strike",
+    "name_ko": "치솟는 일격",
+    "text_ko": "치솟는 일격이 명중하면, 당신의 손에서 비용이 당신이 조종하는 드라코닉 체인 링크 수보다 낮은 공격 액션 카드 1장을 추방할 수 있다. 그렇게 하면, 그것이 고 어게인을 얻고 이번 턴 그것을 사용할 수 있다.\n고 어게인"
+  },
+  "GJbRTN6kqNnDtGWzTkdPT": {
+    "_name_en": "Solar Plexus",
+    "name_ko": "명치",
+    "text_ko": "순간 - 이것을 파괴한다, 당신의 소울에서 카드 1장을 추방한다: 이번 턴 노란색 카드들은 사용하는 데 {r}이 덜 든다."
+  },
+  "BnN6JDzQwHnC8NTGPnrJB": {
+    "_name_en": "Solforge Gauntlet",
+    "name_ko": "솔포지 건틀릿",
+    "text_ko": "전투 체인이 종료되면, 이것이 방어했다면, 소울에 놓는다.\n아케인 배리어 1"
+  },
+  "PPhTHwN7HKT6Hj9JNbDmt": {
+    "_name_en": "Solid Ground",
+    "name_ko": "단단한 땅",
+    "text_ko": "당신이 조종하는 지진 파동 1개당 이 카드는 사용하는 데 {r}이 덜 든다."
+  },
+  "NwK66fmnJNBBbTBprQkFG": {
+    "_name_en": "Solitary Companion",
+    "name_ko": "고독한 동반자",
+    "text_ko": "이것이 전장에 들어올 때, 당신이 다른 일루저니스트 오라를 조종하고 있지 않다면, 스펙트럴 실드 토큰 1개를 생성한다.\n워드 1"
+  },
+  "qRcQbB7TW7kzt66g7cKMM": {
+    "_name_en": "Solitary Companion",
+    "name_ko": "고독한 동반자",
+    "text_ko": "이것이 전장에 들어올 때, 당신이 다른 일루저니스트 오라를 조종하고 있지 않다면, 스펙트럴 실드 토큰 1개를 생성한다.\n워드 1"
+  },
+  "WpfnDkqH9NqLMtWCfCgnh": {
+    "_name_en": "Solitary Companion",
+    "name_ko": "고독한 동반자",
+    "text_ko": "이것이 전장에 들어올 때, 당신이 다른 일루저니스트 오라를 조종하고 있지 않다면, 스펙트럴 실드 토큰 1개를 생성한다.\n워드 1"
+  },
+  "8PCQKGK7CgNzbdJfhrftK": {
+    "_name_en": "Solray Plating",
+    "name_ko": "솔레이 판금",
+    "text_ko": "당신이 피해를 받게 될 경우, 당신의 소울에서 카드 1장을 추방하여 그 피해 1을 방지할 수 있다. 그렇게 하면, 종료 단계 시작 시 이것을 파괴한다.\n블레이드 브레이크"
+  },
+  "LwghKjpd8Gch7JHrGLMwP": {
+    "_name_en": "Sonata Arcanix",
+    "name_ko": "비전의 소나타",
+    "text_ko": "당신 덱 맨 위 X+3장을 공개한다.\n이렇게 공개된 비공격 액션 카드 1장당, 이렇게 공개된 공격 액션 카드 1장을 손에 놓는다. 그런 다음 이렇게 손에 놓인 카드 수만큼 대상 영웅에게 비전 피해를 준다. 덱을 섞은 뒤, 이것을 추방한다.\n고 어게인"
+  },
+  "LQ8bccmDBnnTLLzJRBb8k": {
+    "_name_en": "Sonata Fantasmia",
+    "name_ko": "환상의 소나타",
+    "text_ko": "비세라이 스페셜라이제이션\n룬챈트 토큰 X개를 생성한다.\nX가 6 이상이면, 대상 영웅이 무작위 카드 3장을 버린다."
+  },
+  "PbJPpjMq7L7zQDGnfhm8G": {
+    "_name_en": "Sonata Galaxia",
+    "name_ko": "은하의 소나타",
+    "text_ko": "당신이 조종하는 룬챈트 1개당 이 카드는 사용하는 데 {r}이 덜 든다.\n당신의 덱에서 비용 X 이하인 룬블레이드 오라를 찾아 전장에 놓은 뒤, 덱을 섞는다.\nX가 2 이상이면, 이 카드가 고 어게인을 얻는다."
+  },
+  "PCLwwwtFMQmLLpj6TD7hj": {
+    "_name_en": "Song of Jack-be-Quick",
+    "name_ko": "재빠른 잭의 노래",
+    "text_ko": "다른 각 영웅의 조종 하에 퀵큰 토큰 1개를 생성한다."
+  },
+  "mpzgL9GqgdGMPdGMnDKrw": {
+    "_name_en": "Song of Larinkmorth White",
+    "name_ko": "하얀 라린크모스의 노래",
+    "text_ko": "다른 각 영웅의 조종 하에 프로스트바이트 토큰 1개를 생성한다."
+  },
+  "gG6NLRhhPKLPh6Q7nJHBT": {
+    "_name_en": "Song of Sinew",
+    "name_ko": "근육의 노래",
+    "text_ko": "당신 덱 맨 위 4장을 공개한다. 이번 턴 당신의 다음 공격이 +X{p}을 얻는다. X는 이렇게 공개된, {p} 6 이상인 카드 수이다. 원하는 순서로 다시 놓는다.\n고 어게인"
+  },
+  "GRqLrz7CNrwQB8RKfqKnM": {
+    "_name_en": "Song of Sweet Nectar",
+    "name_ko": "달콤한 꿀의 노래",
+    "text_ko": "다른 각 영웅이 1{h}을 얻는다."
+  },
+  "jRGGnkWgcLPMMQ6D7bdnk": {
+    "_name_en": "Song of the Rosen Matador",
+    "name_ko": "장미의 투우사 노래",
+    "text_ko": "다른 각 영웅의 조종 하에 비거 토큰 1개를 생성한다."
+  },
+  "NqkBRhGqcjNCjBhMq8qpF": {
+    "_name_en": "Song of the Shining Knight",
+    "name_ko": "빛나는 기사의 노래",
+    "text_ko": "다른 각 영웅의 조종 하에 마이트 토큰 1개를 생성한다."
+  },
+  "mdMHPhNzNwbQnHLrgLccp": {
+    "_name_en": "Song of the Wandering Mind",
+    "name_ko": "방황하는 마음의 노래",
+    "text_ko": "다른 각 영웅이 카드 1장을 뽑는다."
   }
 }
