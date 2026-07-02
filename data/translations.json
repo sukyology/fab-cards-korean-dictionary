@@ -18272,5 +18272,615 @@
     "_name_en": "Shadowrealm Horror",
     "name_ko": "그림자 세계의 공포",
     "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 당신의 무덤에서 무작위 카드 3장을 추방한다.\n이렇게 {p} 6 이상인 카드가 1장 이상 추방되면, 이 카드가 +1{p}을 얻는다. 2장 이상이면, 고 어게인을 얻는다. 3장 이상이면, 이번 턴 이렇게 추방된 카드 1장을 사용할 수 있다.\n블러드 뎃"
+  },
+  "DMH8PRWDTmMm6mWtQqttn": {
+    "_name_en": "Shake Down",
+    "name_ko": "쥐어짜다",
+    "text_ko": "우주리 스페셜라이제이션\n이번 체인 링크에 공격 반응을 사용하거나 활성화한 적이 있다면, 쥐어짜다가 \"이 카드가 영웅을 명중하면, 빨강, 노랑, 파랑 중 하나를 선택한다. 그가 자신의 손을 공개한다. 선택한 색상의 카드 1장을 추방한다\"를 가진다."
+  },
+  "LktKqzw6D9wQtcctzwKbF": {
+    "_name_en": "Shallow Water Shark Harpoon",
+    "name_ko": "얕은 물 상어 작살",
+    "text_ko": "이번 턴에 대포를 활성화한 적이 있다면, 이 카드가 \"이 카드가 영웅을 명중하면, 그의 아스날에 있는 카드 1장을 파괴한다. 그렇게 하면, 골드 토큰 1개를 생성한다\"를 얻는다."
+  },
+  "bMdwPwTh7FJBpzbqTctKB": {
+    "_name_en": "Shamanic Shinbones",
+    "name_ko": "주술사의 정강이뼈",
+    "text_ko": "아케인 배리어 1"
+  },
+  "bQPW8LTTB7jJdTjprpGtm": {
+    "_name_en": "Shapeless Form",
+    "name_ko": "형태 없는 형상",
+    "text_ko": "당신이 이페머럴을 가진 공격 액션 카드를 사용할 때마다, 이름 1개를 지정한다. 그것이 지정한 이름을 얻는다.\n고 어게인"
+  },
+  "6dhcGczKkMnrNJg9gDWdw": {
+    "_name_en": "Sharp Incline",
+    "name_ko": "가파른 오르막",
+    "text_ko": "당신이 조종하는 대상 검을 연마한다.\n그것에 +1{p} 카운터가 1개 이상 있다면, 이번 턴 그것으로 하는 당신의 다음 공격은 활성화하는 데 {r}이 덜 든다.\n고 어게인"
+  },
+  "qqhLtH6j9JNr7g6NHzCHR": {
+    "_name_en": "Sharp Incline",
+    "name_ko": "가파른 오르막",
+    "text_ko": "당신이 조종하는 대상 검을 연마한다.\n그것에 +1{p} 카운터가 2개 이상 있다면, 이번 턴 그것으로 하는 당신의 다음 공격은 활성화하는 데 {r}이 덜 든다.\n고 어게인"
+  },
+  "dbWtMTc6H6qKnbwKnLfRc": {
+    "_name_en": "Sharp Shooters",
+    "name_ko": "명사수",
+    "text_ko": "액션 - 이것을 파괴한다: 당신의 손에서 화살을 조준 카운터와 함께 앞면으로 아스날에 놓는다. 고 어게인\n배틀원"
+  },
+  "8TDBF99tdbMc9nQkwhJzc": {
+    "_name_en": "Sharpen Steel",
+    "name_ko": "강철을 벼리다",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +3{p}을 얻는다.\n고 어게인"
+  },
+  "fTRKMfB788NTF7nK7mrR8": {
+    "_name_en": "Sharpen Steel",
+    "name_ko": "강철을 벼리다",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +2{p}을 얻는다.\n고 어게인"
+  },
+  "zKdWmn8NjhRbPNKFRBgmz": {
+    "_name_en": "Sharpen Steel",
+    "name_ko": "강철을 벼리다",
+    "text_ko": "이번 턴 당신의 다음 무기 공격이 +1{p}을 얻는다.\n고 어게인"
+  },
+  "RD7rFNprgNp9HBwwTTk88": {
+    "_name_en": "Sharpened Senses",
+    "name_ko": "날카로워진 감각",
+    "text_ko": "고 어게인\n당신의 무기 공격들이 +1{p}을 얻는다. 그 공격의 {p}이 기본값의 2배를 초과하면, 고 어게인을 얻는다.\n당신의 종료 단계 시작 시, 이것을 파괴한다."
+  },
+  "HRKwRGWdmgQrf7BGPnzK7": {
+    "_name_en": "Sharpening Sparks",
+    "name_ko": "벼리는 불꽃",
+    "text_ko": "대상 검 공격이 +2{p}과 \"이것이 명중하면, 이 검을 연마한다\"를 얻는다."
+  },
+  "RJNjgKCzrKtWJfdqRPMhg": {
+    "_name_en": "Shatter",
+    "name_ko": "산산조각",
+    "text_ko": "턴 종료 시까지, 대상 양손 무기가 \"이것이 {p} 피해를 주게 될 경우, 대신 이렇게 줄 피해보다 {d}이 낮은 대상 방어 장비를 파괴할 수 있다\"를 얻는다."
+  },
+  "KCRhRBTqwf9mRfjmGnQL6": {
+    "_name_en": "Shatter Sorcery",
+    "name_ko": "마법을 부수다",
+    "text_ko": "하나 또는 둘 다 선택한다;\n\n이름에 시길이 들어간 대상 오라 지속물을 파괴한다.\n이번 턴 대상 영웅에게 가해질 다음 비전 피해 1을 방지한다."
+  },
+  "88NcRgnJqWDBCpWHcJJtJ": {
+    "_name_en": "Shattering Flowtide",
+    "name_ko": "부서지는 조류",
+    "text_ko": "이것이 분열할 때마다, 라이트닝 플로우 토큰 1개를 생성한다.\n프래그먼트"
+  },
+  "fHzPHtqP68CcwPG6JGGMJ": {
+    "_name_en": "Shattering Flowtide",
+    "name_ko": "부서지는 조류",
+    "text_ko": "이것이 분열할 때마다, 라이트닝 플로우 토큰 1개를 생성한다.\n프래그먼트"
+  },
+  "Rhwctgbpc8DkRWbfPbpKg": {
+    "_name_en": "Shattering Flowtide",
+    "name_ko": "부서지는 조류",
+    "text_ko": "이것이 분열할 때마다, 라이트닝 플로우 토큰 1개를 생성한다.\n프래그먼트"
+  },
+  "DrfFF7FFQTbwwcbDckGH9": {
+    "_name_en": "Shattering Grasp",
+    "name_ko": "산산조각내는 손아귀",
+    "text_ko": "액션 - 이것을 파괴한다: 대상 얼어붙은 아군을 파괴한다. 고 어게인\n배틀원"
+  },
+  "f8JQwHjkfMqRtMcFgPCj9": {
+    "_name_en": "Shattering Stardust",
+    "name_ko": "부서지는 별먼지",
+    "text_ko": "이것이 분열할 때마다, 앰프 1.\n이 카드가 영웅을 명중하면, 홀로 카운터가 없는, 당신이 조종하는 번개 오라 지속물을 추방한 뒤, 홀로 카운터와 함께 전장으로 되돌릴 수 있다.\n프래그먼트"
+  },
+  "rc7mWBhpMFfgWcfhmTJCN": {
+    "_name_en": "Shelly, Hardened Traveler",
+    "name_ko": "쉘리, 굳세어진 여행자",
+    "text_ko": "액션 - {r}{r}{r}, {t}: 공격\n순간 - {t}: 이번 턴 당신이 사용하는 다음 공격 액션 카드가 +1{d}을 얻는다.\n워터리 그레이브"
+  },
+  "BgPLgpRRpkb7bgRMfcL9N": {
+    "_name_en": "Shelter from the Storm",
+    "name_ko": "폭풍으로부터의 피난처",
+    "text_ko": "순간 - 이것을 버린다: 이번 턴 당신이 다음에 피해를 받게 될 3번의 경우, 그 피해 1을 방지한다."
+  },
+  "PfLGWkcf8RngRHztHDfFT": {
+    "_name_en": "Sheltered Cove",
+    "name_ko": "보호받는 후미",
+    "text_ko": "순간 - {r}{r}{r}, 이것을 파괴한다: 이번 턴 당신이 다음에 피해를 받게 될 경우, 그 피해 2를 방지한다"
+  },
+  "cJPFBnkLWpF7cKKwzRNTq": {
+    "_name_en": "Shield Bash",
+    "name_ko": "방패 강타",
+    "text_ko": "이번 체인 링크에 {d} 1 이상인 가디언 보조 무기가 방어하고 있다면, 공격하는 영웅이 카드 1장을 버리지 않는 한 그에게 피해 1을 준다."
+  },
+  "jBnLmTGRRPcCF9hpccHHT": {
+    "_name_en": "Shield Bash",
+    "name_ko": "방패 강타",
+    "text_ko": "이번 체인 링크에 {d} 1 이상인 가디언 보조 무기가 방어하고 있다면, 공격하는 영웅이 카드 1장을 버리지 않는 한 그에게 피해 1을 준다."
+  },
+  "T6GTpNNkdNMhBWqfPfK8P": {
+    "_name_en": "Shield Bash",
+    "name_ko": "방패 강타",
+    "text_ko": "이번 체인 링크에 {d} 1 이상인 가디언 보조 무기가 방어하고 있다면, 공격하는 영웅이 카드 1장을 버리지 않는 한 그에게 피해 1을 준다."
+  },
+  "t86nFWmmtDFMPJr9R9jwN": {
+    "_name_en": "Shield Beater",
+    "name_ko": "방패 파쇄자",
+    "text_ko": "액션 - {r}{r}{r}{r}, {t}: 공격\n당신이 소유한, 이름에 '앤빌하임 방문'이 들어간 카드들이 고 어게인을 얻는다."
+  },
+  "NFHTRRNdJcMLmdKn6nCKK": {
+    "_name_en": "Shield Wall",
+    "name_ko": "방패의 벽",
+    "text_ko": "당신이 가디언 보조 무기를 조종하고 있다면, 방패의 벽이 +4{d}을 가진다."
+  },
+  "DTLGtkQ8zNdPQPPfDpg6n": {
+    "_name_en": "Shield Wall",
+    "name_ko": "방패의 벽",
+    "text_ko": "당신이 가디언 보조 무기를 조종하고 있다면, 방패의 벽이 +4{d}을 가진다."
+  },
+  "qD7tKdD8zMjjRBmhhRmGm": {
+    "_name_en": "Shield Wall",
+    "name_ko": "방패의 벽",
+    "text_ko": "당신이 가디언 보조 무기를 조종하고 있다면, 방패의 벽이 +4{d}을 가진다."
+  },
+  "tpMDpBjtFznFdgjFtnqQf": {
+    "_name_en": "Shift the Tide of Battle",
+    "name_ko": "전세를 바꾸다",
+    "text_ko": "{p}이 기본값을 초과하는 대상 워리어 공격이 고 어게인을 얻는다.\n이번 턴 상대 영웅이 다음에 피해를 받을 때, 어질리티 토큰 1개를 생성한다."
+  },
+  "R7Q6MhPq9nCBT6DhbQMDL": {
+    "_name_en": "Shifting Tides",
+    "name_ko": "변화하는 조류",
+    "text_ko": "고 어게인\n당신의 턴 시작 시, 당신 덱 맨 위 카드를 피치한다. 그것이 파란색이면, 이것을 소유자의 덱 맨 아래에 놓고, 그렇지 않으면 이것을 파괴한다."
+  },
+  "WznLQmk7B6QQKMmT6TJJC": {
+    "_name_en": "Shifting Winds of the Mystic Beast",
+    "name_ko": "신비한 짐승의 변화하는 바람",
+    "text_ko": "이번 턴에 당신이 크라우칭 타이거를 사용할 때마다, 카드 이름 1개를 지정한다. 그것이 그 이름을 얻는다.\n이 카드를 사용하기 위해 치 카드가 피치되었다면, 당신의 손에 크라우칭 타이거 2개를 생성한다.\n고 어게인"
+  },
+  "RmJNprW8pD7hPmcMJ6Q7N": {
+    "_name_en": "Shimmering Mirage",
+    "name_ko": "일렁이는 신기루",
+    "text_ko": "이 카드가 방어하는 동안, 이번 체인 링크가 해결될 때, 이것을 추방한다. 이번 전투 체인에서 그것을 사용할 수 있다.\n미라지"
+  },
+  "WJbQRdLL9gPWJnjGTtFcT": {
+    "_name_en": "Shimmering Specter",
+    "name_ko": "일렁이는 망령",
+    "text_ko": "이 카드가 공격하거나 방어하는 동안, 이것이 전장을 떠날 때, 스펙트럴 실드 토큰 1개를 생성한다.\n미라지"
+  },
+  "7QWnhpb7MCBcwrNj6Tw7z": {
+    "_name_en": "Shimmering Specter",
+    "name_ko": "일렁이는 망령",
+    "text_ko": "이 카드가 공격하거나 방어하는 동안, 이것이 전장을 떠날 때, 스펙트럴 실드 토큰 1개를 생성한다.\n미라지"
+  },
+  "BRnbp6GzfhcMNCJjq7GNP": {
+    "_name_en": "Shimmering Specter",
+    "name_ko": "일렁이는 망령",
+    "text_ko": "이 카드가 공격하거나 방어하는 동안, 이것이 전장을 떠날 때, 스펙트럴 실드 토큰 1개를 생성한다.\n미라지"
+  },
+  "bjggdCWtfTmLNBzq8Jt9L": {
+    "_name_en": "Shimmers of Silver",
+    "name_ko": "은빛 아지랑이",
+    "text_ko": "턴당 한 번, 당신이 일루저니스트 오라 무기로 공격할 때, 여기에 +1{p} 카운터를 놓는다.\n스펙트라"
+  },
+  "FngCwjRtgtcHbcNJnPmJM": {
+    "_name_en": "Shining Courage",
+    "name_ko": "빛나는 용기",
+    "text_ko": "대상 방어 액션 카드 1개(있다면)가 이번 턴 +3{d}을 얻는다.\n관중이 당신에게 환호한다."
+  },
+  "WDJgQgDCwjbKRTJ8BTz8C": {
+    "_name_en": "Shitty Xmas Present",
+    "name_ko": "형편없는 크리스마스 선물",
+    "text_ko": "게임 밖에서 금간 장신구를 대상 영웅의 덱 맨 위에 놓는다."
+  },
+  "8GDdMNbcnhmwGmTgqnJJK": {
+    "_name_en": "Shiver",
+    "name_ko": "전율",
+    "text_ko": "턴당 1회 순간 - {r}: 당신의 손에서 화살 카드를 당신이 조종하는 빈 아스날 구역에 앞면으로 놓을 수 있다. 그렇게 하면, 하나를 선택한다;\n\n턴 종료 시까지 +1{p}을 얻는다.\n턴 종료 시까지 도미네이트를 얻는다."
+  },
+  "n9r77QwMzdWJmnfhPLN9J": {
+    "_name_en": "Shiyana, Diamond Gemini",
+    "name_ko": "시야나, 다이아몬드 쌍둥이",
+    "text_ko": "당신은 어느 영웅의 스페셜라이제이션 카드든 덱에 넣을 수 있다.\n당신의 액션 단계 시작 시, 시야나가 당신의 다음 턴 시작 시까지 대상 영웅의 사본이 되며, \"당신이 소유한 카드들은 원래 클래스에 더해 당신 영웅의 클래스가 된다\"를 얻는다."
+  },
+  "JkPgFzHTpzdNfzJCwQCmt": {
+    "_name_en": "Shock Charmers",
+    "name_ko": "충격의 매혹자",
+    "text_ko": "순간 - {r}{r}: 이번 턴 당신이 조종하는 공격 액션 카드가 다음에 영웅을 명중할 때, 그에게 피해 1을 준다.\n스펠보이드 2"
+  },
+  "wwCjCpWgjmHMPNGhtQBwT": {
+    "_name_en": "Shock Frock",
+    "name_ko": "충격의 옷",
+    "text_ko": "액션 - 이것을 파괴한다: {r}을 얻는다. 이번 턴에 번개 카드를 사용한 적이 있을 때만 이것을 활성화한다. 고 어게인\n배틀원"
+  },
+  "zrmt6g9QChNNTDw7Gm68D": {
+    "_name_en": "Shock Striker",
+    "name_ko": "충격 타격자",
+    "text_ko": "턴당 1회 순간 - {r}{r}: 충격 타격자가 \"충격 타격자가 영웅을 명중하면, 그에게 피해 1을 준다\"를 얻는다."
+  },
+  "THjm6N9TQgQdbdkpqJnmR": {
+    "_name_en": "Shock Striker",
+    "name_ko": "충격 타격자",
+    "text_ko": "턴당 1회 순간 - {r}{r}: 충격 타격자가 \"충격 타격자가 영웅을 명중하면, 그에게 피해 1을 준다\"를 얻는다."
+  },
+  "qhkDp7nLqrh6PDNW7QtMq": {
+    "_name_en": "Shock Striker",
+    "name_ko": "충격 타격자",
+    "text_ko": "턴당 1회 순간 - {r}{r}: 충격 타격자가 \"충격 타격자가 영웅을 명중하면, 그에게 피해 1을 준다\"를 얻는다."
+  },
+  "JbKQF8GNNBgDNQzBwkM6J": {
+    "_name_en": "Shoot Your Mouth Off",
+    "name_ko": "허풍을 떨다",
+    "text_ko": "전투 체인이 종료되면, 이것이 명중하지 않았다면, 방어 영웅이 컨피던스 토큰 1개를 생성한다."
+  },
+  "JhCTzpKz8JCrQGBLBMwnM": {
+    "_name_en": "Shoot Your Mouth Off",
+    "name_ko": "허풍을 떨다",
+    "text_ko": "전투 체인이 종료되면, 이것이 명중하지 않았다면, 방어 영웅이 컨피던스 토큰 1개를 생성한다."
+  },
+  "wGK7jP9wGLhMzDTr8HWzR": {
+    "_name_en": "Shoot Your Mouth Off",
+    "name_ko": "허풍을 떨다",
+    "text_ko": "전투 체인이 종료되면, 이것이 명중하지 않았다면, 방어 영웅이 컨피던스 토큰 1개를 생성한다."
+  },
+  "w9HnkqMCpr6WNFKF8wpH6": {
+    "_name_en": "Short and Sharp",
+    "name_ko": "짧고 날카롭게",
+    "text_ko": "하나를 선택한다;\n- 대상 단검 공격이 +3{p}을 얻는다.\n- 기본 {p} 2 이하인 대상 공격 액션 카드가 +3{p}을 얻는다."
+  },
+  "Jft78nTNLMwm6KCjzwP8Q": {
+    "_name_en": "Short and Sharp",
+    "name_ko": "짧고 날카롭게",
+    "text_ko": "하나를 선택한다;\n- 대상 단검 공격이 +2{p}을 얻는다.\n- 기본 {p} 2 이하인 대상 공격 액션 카드가 +2{p}을 얻는다."
+  },
+  "9JpPtMLzwkcGrbt9K8tBW": {
+    "_name_en": "Short and Sharp",
+    "name_ko": "짧고 날카롭게",
+    "text_ko": "하나를 선택한다;\n- 대상 단검 공격이 +1{p}을 얻는다.\n- 기본 {p} 2 이하인 대상 공격 액션 카드가 +1{p}을 얻는다."
+  },
+  "NLqGrKTD8WmMfrFcrwRhc": {
+    "_name_en": "Short Shrift",
+    "name_ko": "가벼운 처벌",
+    "text_ko": "이 카드가 기본값을 초과하는 {p}을 가지고 있다면, +1{p}을 얻는다.\n크러쉬 - 이 카드가 영웅에게 피해 4 이상을 줄 때, 그가 카드 1장을 버린다."
+  },
+  "Fkndk7fpqjJMjK7MWgwqk": {
+    "_name_en": "Shove Off",
+    "name_ko": "밀쳐내다",
+    "text_ko": "당신이 조종하는 검 공격을 방어하는 비-장비 카드 1개를 선택한다. 그것을 소유자의 손으로 되돌린다."
+  },
+  "qDc8bfW6zw8HrDpgdJcJz": {
+    "_name_en": "Show No Mercy",
+    "name_ko": "자비를 베풀지 않는다",
+    "text_ko": "리나르 스페셜라이제이션\n이 카드가 영웅을 공격할 때, 그를 인티미데이트한다.\n방어 영웅의 손에 카드가 없다면, 이 카드가 +3{p}을 얻는다."
+  },
+  "Jdn7kNmFnCNPDRjp7mg9m": {
+    "_name_en": "Show of Strength",
+    "name_ko": "힘의 과시",
+    "text_ko": "이 카드를 방어하는, {p} 6 이상인 카드 1장당 이 카드가 -1{p}을 얻는다."
+  },
+  "hMQTg6qwCLqnHBdGbP6wH": {
+    "_name_en": "Show Time!",
+    "name_ko": "쇼 타임!",
+    "text_ko": "브라보 스페셜라이제이션\n쇼 타임!이 전장에 들어올 때, 당신의 덱에서 가디언 공격 액션 카드를 찾아 공개하고 손에 놓은 뒤, 덱을 섞는다.\n당신의 액션 단계 시작 시, 쇼 타임!을 파괴한 뒤 카드 1장을 뽑는다."
+  },
+  "88L7NzD77t8wk8QdnrwKR": {
+    "_name_en": "Shred",
+    "name_ko": "갈기갈기",
+    "text_ko": "어쌔신 공격을 방어하는 대상 카드가 이번 전투 체인에서 -4{d}을 얻는다."
+  },
+  "FjJztPpCMmTDPMrjDCNCg": {
+    "_name_en": "Shred",
+    "name_ko": "갈기갈기",
+    "text_ko": "어쌔신 공격을 방어하는 대상 카드가 이번 전투 체인에서 -3{d}을 얻는다."
+  },
+  "d6j8cGLBGPRRGnhqdRwB8": {
+    "_name_en": "Shred",
+    "name_ko": "갈기갈기",
+    "text_ko": "어쌔신 공격을 방어하는 대상 카드가 이번 전투 체인에서 -2{d}을 얻는다."
+  },
+  "DjWkHNPRFf8JgdpzGd96L": {
+    "_name_en": "Shriek Razors",
+    "name_ko": "비명의 면도날",
+    "text_ko": "이것이 당신의 무덤에 있는 동안, 당신의 턴 시작 시, 당신이 조종하는 실버 2개를 파괴할 수 있다. 그렇게 하면, 이것을 장착한다.\n공격 반응 - {r}{r}, 이것을 파괴한다: 어쌔신 공격을 방어하는 대상 공격 액션 카드가 -1{d}을 얻는다.\n배틀원"
+  },
+  "hBpbr8Rkc89bfNLHhwMR8": {
+    "_name_en": "Shrill of Skullform",
+    "name_ko": "해골형상의 비명",
+    "text_ko": "이번 턴에 오라를 사용하거나 생성한 적이 있다면, 해골형상의 비명이 +3{p}을 얻는다."
+  },
+  "gB89PHQzGDwTkP8wM7nwz": {
+    "_name_en": "Shrill of Skullform",
+    "name_ko": "해골형상의 비명",
+    "text_ko": "이번 턴에 오라를 사용하거나 생성한 적이 있다면, 해골형상의 비명이 +3{p}을 얻는다."
+  },
+  "pNQrNGQ9HK6jDRJLDrgqj": {
+    "_name_en": "Shrill of Skullform",
+    "name_ko": "해골형상의 비명",
+    "text_ko": "이번 턴에 오라를 사용하거나 생성한 적이 있다면, 해골형상의 비명이 +3{p}을 얻는다."
+  },
+  "Lzr8Htn8MrNnMggczHwGd": {
+    "_name_en": "Shroud of Darkness",
+    "name_ko": "어둠의 장막",
+    "text_ko": "당신의 영웅이 피해를 받게 될 경우, 이것을 추방하여 그 피해 2를 방지할 수 있다.\n블러드 뎃"
+  },
+  "dBmtb8rdJtFtKh7Lqjw6r": {
+    "_name_en": "Shroud of the Fate Watcher",
+    "name_ko": "운명 감시자의 장막",
+    "text_ko": "이것이 전장을 떠날 때, 운명의 표식 토큰 1개를 생성한다.\n블레이드 브레이크"
+  },
+  "Rq8CK88DfJfrn9F8BjcLH": {
+    "_name_en": "Shuck",
+    "name_ko": "우쭐대다",
+    "text_ko": "플러리 토큰 1개를 생성한다."
+  },
+  "TrRC6WMrRhbCtKzpRQLPM": {
+    "_name_en": "Sic 'Em Shot",
+    "name_ko": "물어라 사격",
+    "text_ko": "고 어게인"
+  },
+  "TMBGhtBJMzbWMLPzNJCW9": {
+    "_name_en": "Sic 'Em Shot",
+    "name_ko": "물어라 사격",
+    "text_ko": "고 어게인"
+  },
+  "FHfhK9rLHDcNCdQJQ79Wh": {
+    "_name_en": "Sic 'Em Shot",
+    "name_ko": "물어라 사격",
+    "text_ko": "고 어게인"
+  },
+  "rFQzCPdqFTwbhn7jMKkjg": {
+    "_name_en": "Sift",
+    "name_ko": "고르다",
+    "text_ko": "당신의 손에서 카드 최대 4장을 덱 맨 아래에 놓은 뒤, 그만큼 카드를 뽑는다.\n고 어게인"
+  },
+  "BgJNbkhqDGJpGGBDCGCdF": {
+    "_name_en": "Sift",
+    "name_ko": "고르다",
+    "text_ko": "당신의 손에서 카드 최대 3장을 덱 맨 아래에 놓은 뒤, 그만큼 카드를 뽑는다.\n고 어게인"
+  },
+  "zw7fzkRzkWmgjm9dJjdHd": {
+    "_name_en": "Sift",
+    "name_ko": "고르다",
+    "text_ko": "당신의 손에서 카드 최대 2장을 덱 맨 아래에 놓은 뒤, 그만큼 카드를 뽑는다.\n고 어게인"
+  },
+  "zRCmqmDrDLdDwnc9Td6j7": {
+    "_name_en": "Sigil of Aether",
+    "name_ko": "에테르의 시길",
+    "text_ko": "당신의 액션 단계 시작 시, 이것을 파괴한다.\n이것이 전장을 떠날 때, 아무 대상에게 비전 피해 1을 준다. 이렇게 피해를 주면, 앰프 1."
+  },
+  "c9Nb8bbqQGP7QhnCg76mQ": {
+    "_name_en": "Sigil of Astral Flow",
+    "name_ko": "천상 조류의 시길",
+    "text_ko": "당신의 액션 단계 시작 시, 이것을 파괴한다.\n이것이 전장을 떠날 때, 라이트닝 플로우 토큰 1개를 생성한다."
+  },
+  "HnMKfF8fQMj9KJfhGBkdG": {
+    "_name_en": "Sigil of Brilliance",
+    "name_ko": "찬란함의 시길",
+    "text_ko": "오실리오 스페셜라이제이션\n당신의 액션 단계 시작 시, 이것을 파괴한다.\n이것이 전장을 떠날 때, 카드 1장을 뽑는다."
+  },
+  "cJDgKwKhP89PKhhhcqrgg": {
+    "_name_en": "Sigil of Conductivity",
+    "name_ko": "전도성의 시길",
+    "text_ko": "아케인 쉘터 1\n이것이 전장을 떠날 때, 번개의 화신 토큰 1개를 생성한다."
+  },
+  "rcFTPCqNgzqcTfnknBmRq": {
+    "_name_en": "Sigil of Cycles",
+    "name_ko": "순환의 시길",
+    "text_ko": "고 어게인\n당신의 액션 단계 시작 시, 이것을 파괴한다.\n이것이 전장을 떠날 때, 카드 1장을 버린 뒤 카드 1장을 뽑는다."
+  },
+  "fkJz8TmrMw8zMngz6qQDm": {
+    "_name_en": "Sigil of Deadwood",
+    "name_ko": "고사목의 시길",
+    "text_ko": "고 어게인\n당신의 액션 단계 시작 시, 이것을 파괴한다.\n이것이 전장을 떠날 때, 룬챈트 토큰 1개를 생성한다."
+  },
+  "tHjRjBqDhJFRwbPwgwdzj": {
+    "_name_en": "Sigil of Earth",
+    "name_ko": "대지의 시길",
+    "text_ko": "고 어게인\n당신의 액션 단계 시작 시, 이것을 파괴한다.\n이것이 전장을 떠날 때, 대지의 화신 토큰 1개를 생성한다."
+  },
+  "qBqzbKjQwMKKnBtM7GJGH": {
+    "_name_en": "Sigil of Fate",
+    "name_ko": "운명의 시길",
+    "text_ko": "이것이 전장을 떠날 때, 옵트 1.\n당신의 액션 단계 시작 시, 이것을 파괴한다."
+  },
+  "rcHhthcM7zrmd8nFWQtLz": {
+    "_name_en": "Sigil of Forethought",
+    "name_ko": "선견의 시길",
+    "text_ko": "당신의 액션 단계 시작 시, 이것을 파괴한다.\n이것이 전장을 떠날 때, 폰더 토큰 1개를 생성한다."
+  },
+  "bgHQJbkCNNBDT9kKdCW8w": {
+    "_name_en": "Sigil of Fyendal",
+    "name_ko": "피엔달의 시길",
+    "text_ko": "고 어게인\n당신의 액션 단계 시작 시, 이것을 파괴한다.\n이것이 전장을 떠날 때, 1{h}을 얻는다."
+  },
+  "DKNrgnhnpbKFJLHhKKRRm": {
+    "_name_en": "Sigil of Gravespawning",
+    "name_ko": "무덤소환의 시길",
+    "text_ko": "고 어게인\n오라가 당신의 무덤을 떠날 때마다, 대상 영웅에게 비전 피해 1을 준다.\n당신의 액션 단계 시작 시, 이것을 파괴한다."
+  },
+  "gzzft6DHbbNJGGCfCJrz7": {
+    "_name_en": "Sigil of Lightning",
+    "name_ko": "번개의 시길",
+    "text_ko": "당신의 액션 단계 시작 시, 이것을 파괴한다.\n이것이 전장을 떠날 때, 번개의 화신 토큰 1개를 생성한다."
+  },
+  "9gWCknpqtcLqfrkm6BBrK": {
+    "_name_en": "Sigil of Parapets",
+    "name_ko": "흉벽의 시길",
+    "text_ko": "흉벽의 시길이 방어하는 동안, 당신이 위저드 카드를 사용할 때마다, 흉벽의 시길이 +2{d}을 얻는다."
+  },
+  "NHCQbrdqqK7FbcWgKnwWn": {
+    "_name_en": "Sigil of Permafrost",
+    "name_ko": "영구동토의 시길",
+    "text_ko": "얼음 퓨전\n영구동토의 시길이 퓨전되었다면, 이번 턴 당신이 다음에 영웅에게 비전 피해를 줄 때, 그의 조종 하에 그만큼 프로스트바이트 토큰을 생성한다."
+  },
+  "ng9bzdmgC7KjJKR87Qn8B": {
+    "_name_en": "Sigil of Permafrost",
+    "name_ko": "영구동토의 시길",
+    "text_ko": "얼음 퓨전\n영구동토의 시길이 퓨전되었다면, 이번 턴 당신이 다음에 영웅에게 비전 피해를 줄 때, 그의 조종 하에 그만큼 프로스트바이트 토큰을 생성한다."
+  },
+  "7ffzcpNTNGrMwzNHkqWKH": {
+    "_name_en": "Sigil of Permafrost",
+    "name_ko": "영구동토의 시길",
+    "text_ko": "얼음 퓨전\n영구동토의 시길이 퓨전되었다면, 이번 턴 당신이 다음에 영웅에게 비전 피해를 줄 때, 그의 조종 하에 그만큼 프로스트바이트 토큰을 생성한다."
+  },
+  "QC96CLBjnjN8qPJz7PGBT": {
+    "_name_en": "Sigil of Protection",
+    "name_ko": "보호의 시길",
+    "text_ko": "워드 4\n당신의 액션 단계 시작 시, 보호의 시길을 파괴한다."
+  },
+  "G9cDhnLB8kWQRgkFcpM8T": {
+    "_name_en": "Sigil of Protection",
+    "name_ko": "보호의 시길",
+    "text_ko": "워드 3\n당신의 액션 단계 시작 시, 보호의 시길을 파괴한다."
+  },
+  "nncFJBw6FFnMfkfrFnWwR": {
+    "_name_en": "Sigil of Protection",
+    "name_ko": "보호의 시길",
+    "text_ko": "워드 2\n당신의 액션 단계 시작 시, 보호의 시길을 파괴한다."
+  },
+  "pW9RcR7zcbrJDfgGFdrgR": {
+    "_name_en": "Sigil of Sanctuary",
+    "name_ko": "성역의 시길",
+    "text_ko": "아케인 쉘터 1\n이것이 전장을 떠날 때, 대지의 화신 토큰 1개를 생성한다."
+  },
+  "NrTrgtDHQTLpnHWD9CLp6": {
+    "_name_en": "Sigil of Shelter",
+    "name_ko": "피난의 시길",
+    "text_ko": "이번 턴 당신이 다음에 피해를 받게 될 경우, 그 피해 2를 방지한다."
+  },
+  "JphcWMNPh7tjPkTgKDwfR": {
+    "_name_en": "Sigil of Shelter",
+    "name_ko": "피난의 시길",
+    "text_ko": "이번 턴 당신이 다음에 피해를 받게 될 경우, 그 피해 1을 방지한다."
+  },
+  "rND7FTTmHRmpR6DbR8PBQ": {
+    "_name_en": "Sigil of Silphidae",
+    "name_ko": "실피대의 시길",
+    "text_ko": "고 어게인\n이것이 전장에 들어오거나 떠날 때, 당신의 무덤에서 다른 오라를 추방할 수 있다. 그렇게 하면, 대상 영웅에게 비전 피해 1을 준다.\n당신의 액션 단계 시작 시, 이것을 파괴한다."
+  },
+  "JH89Ctbgtj6bFhjNKr9BL": {
+    "_name_en": "Sigil of Solitude",
+    "name_ko": "고독의 시길",
+    "text_ko": "당신의 턴 시작 시, 당신이 다른 일루저니스트 오라를 조종하고 있다면, 이것을 파괴한다.\n워드 4"
+  },
+  "nDRLcpRzFHdnFKTfqz6z7": {
+    "_name_en": "Sigil of Solitude",
+    "name_ko": "고독의 시길",
+    "text_ko": "당신의 턴 시작 시, 당신이 다른 일루저니스트 오라를 조종하고 있다면, 이것을 파괴한다.\n워드 3"
+  },
+  "7kLtC7NJPccD6nD9MRBkw": {
+    "_name_en": "Sigil of Solitude",
+    "name_ko": "고독의 시길",
+    "text_ko": "당신의 턴 시작 시, 당신이 다른 일루저니스트 오라를 조종하고 있다면, 이것을 파괴한다.\n워드 2"
+  },
+  "7MQcG9F7KTH7wBznwbDGc": {
+    "_name_en": "Sigil of Suffering",
+    "name_ko": "고통의 시길",
+    "text_ko": "공격하는 영웅에게 비전 피해 1을 준다.\n이번 턴에 비전 피해를 준 적이 있다면, 고통의 시길이 +1{d}을 얻는다."
+  },
+  "tBgHdcmzR967HGMWRNNzz": {
+    "_name_en": "Sigil of Suffering",
+    "name_ko": "고통의 시길",
+    "text_ko": "공격하는 영웅에게 비전 피해 1을 준다.\n이번 턴에 비전 피해를 준 적이 있다면, 고통의 시길이 +1{d}을 얻는다."
+  },
+  "kbKrbhCMmgKghWMMpWMh7": {
+    "_name_en": "Sigil of Suffering",
+    "name_ko": "고통의 시길",
+    "text_ko": "공격하는 영웅에게 비전 피해 1을 준다.\n이번 턴에 비전 피해를 준 적이 있다면, 고통의 시길이 +1{d}을 얻는다."
+  },
+  "HcFDpBjqzK8KBzjF6Tbnp": {
+    "_name_en": "Sigil of Temporal Manipulation",
+    "name_ko": "시간 조작의 시길",
+    "text_ko": "당신의 액션 단계 시작 시, 이것을 파괴한다.\n이것이 전장을 떠날 때, 당신 덱 맨 위 카드를 추방한다. 그것이 비공격 액션 카드라면, 이번 턴 그것을 순간 카드인 것처럼 사용할 수 있다."
+  },
+  "wWD8D9JqHhnzctrrTrBDW": {
+    "_name_en": "Sigil of the Arknight",
+    "name_ko": "아크나이트의 시길",
+    "text_ko": "고 어게인\n당신의 액션 단계 시작 시, 이것을 파괴한다.\n이것이 전장을 떠날 때, 당신 덱 맨 위 카드를 공개한다. 그것이 공격 액션 카드라면, 손에 놓는다."
+  },
+  "QCQmJTff79gRj7bChFTM7": {
+    "_name_en": "Sigil of Voltaris",
+    "name_ko": "볼타리스의 시길",
+    "text_ko": "이것이 전장에 들어오거나 떠날 때, 대상 영웅에게 비전 피해 1을 준다.\n당신의 액션 단계 시작 시, 이것을 파괴한다."
+  },
+  "bqTcgLnMrzmpGJHFznhG6": {
+    "_name_en": "Signal Jammer",
+    "name_ko": "신호 방해기",
+    "text_ko": "신호 방해기는 스팀 카운터를 지닌 채 전장에 들어온다.\n당신의 액션 단계 시작 시, 여기에서 스팀 카운터를 제거하지 않는 한 신호 방해기를 파괴한다.\n각 영웅은 각 턴 '비공격' 액션 카드를 1장 초과해 사용할 수 없다."
+  },
+  "mtJLcqGChkjz6FTmL9pKT": {
+    "_name_en": "Silent Stilettos",
+    "name_ko": "은밀한 스틸레토",
+    "text_ko": "당신이 조종하는 공격하는 아군이 죽거나 당신이 조종하는 공격 액션 카드가 팬텀으로 파괴될 때마다, {r}{r}{r}을 지불할 수 있다. 그렇게 하면, 은밀한 스틸레토를 파괴하고 액션 포인트 1을 얻는다.\n아케인 배리어 1"
+  },
+  "DgTbtnmDPchPRckcHTjpz": {
+    "_name_en": "Silken Form",
+    "name_ko": "비단 형상",
+    "text_ko": "순간 - 비단 형상을 파괴한다: 당신이 조종하는 대상 애쉬를 에테르 날개로 변신시킨다.\n쿠엘 1"
+  },
+  "PpF7WhbMCTMBrK9cLtPmR": {
+    "_name_en": "Silken Gi",
+    "name_ko": "비단 도복",
+    "text_ko": "순간 - 비단 도복을 파괴한다: 이번 턴 당신이 사용하는 다음 공격 액션 카드가 -1{p}을 가지고 사용하는 데 {r}이 덜 든다."
+  },
+  "kLbJBc8mpCQPMf8bmKchp": {
+    "_name_en": "Silken Shawl",
+    "name_ko": "비단 숄",
+    "text_ko": "이것이 파괴되면, 비거 토큰 1개를 생성한다.\n워드 1"
+  },
+  "cBrmgjgrfDdgTW7g9djcF": {
+    "_name_en": "Silken Shroud",
+    "name_ko": "비단 수의",
+    "text_ko": "이것이 파괴되면, 폰더 토큰 1개를 생성한다.\n워드 1"
+  },
+  "hMcDLGCLj6b8dLHmbmjtq": {
+    "_name_en": "Silken Slippers",
+    "name_ko": "비단 슬리퍼",
+    "text_ko": "이것이 파괴되면, 어질리티 토큰 1개를 생성한다.\n워드 1"
+  },
+  "rf6WpqLLPHDgGbF89b6jD": {
+    "_name_en": "Silken Symphony",
+    "name_ko": "비단 교향곡",
+    "text_ko": "이것이 파괴되면, 마이트 토큰 1개를 생성한다.\n워드 1"
+  },
+  "TNJz9fCgqmhhLz9rP9tkt": {
+    "_name_en": "Silver",
+    "name_ko": "실버",
+    "text_ko": "액션 - {r}{r}{r}, 실버를 파괴한다: 카드 1장을 뽑는다. 고 어게인"
+  },
+  "gCgcRpmr76G6zmFgpprRw": {
+    "_name_en": "Silver Palms",
+    "name_ko": "은빛 손바닥",
+    "text_ko": "각 다른 영웅의 턴 시작 시, 그가 당신보다 {h}이 적다면, 카드 1장을 뽑을 수 있다. 그렇게 하면, 당신이 실버 토큰 1개를 생성한다.\n블레이드 브레이크"
+  },
+  "QBdRfJk6kfmbcf6RLDrPJ": {
+    "_name_en": "Silver Talons",
+    "name_ko": "은빛 발톱",
+    "text_ko": "이 카드가 영웅을 공격할 때, 그것이 드라코닉이라면, 당신이 조종하는 대상 단검이 그에게 피해 1을 줄 수 있다. 이렇게 피해를 주면, 그 단검이 명중한 것으로 취급한다. 그 단검을 파괴한다."
+  },
+  "jJQ8KwFgn6cPHpLjfgRjr": {
+    "_name_en": "Silver Talons",
+    "name_ko": "은빛 발톱",
+    "text_ko": "이 카드가 영웅을 공격할 때, 그것이 드라코닉이라면, 당신이 조종하는 대상 단검이 그에게 피해 1을 줄 수 있다. 이렇게 피해를 주면, 그 단검이 명중한 것으로 취급한다. 그 단검을 파괴한다."
+  },
+  "zhP7z88wWHj68BTGFKpFw": {
+    "_name_en": "Silver Talons",
+    "name_ko": "은빛 발톱",
+    "text_ko": "이 카드가 영웅을 공격할 때, 그것이 드라코닉이라면, 당신이 조종하는 대상 단검이 그에게 피해 1을 줄 수 있다. 이렇게 피해를 주면, 그 단검이 명중한 것으로 취급한다. 그 단검을 파괴한다."
+  },
+  "jc7QRqTTh6cccdTjFmBf9": {
+    "_name_en": "Silver the Tip",
+    "name_ko": "실버 더 팁",
+    "text_ko": "당신의 아스날에 카드가 없다면, 당신 덱 맨 위 4장을 확인한다. 그중 화살 카드 1장을 앞면으로 아스날에 놓을 수 있다. 그런 다음 나머지를 원하는 순서로 덱 맨 아래에 놓는다.\n고 어게인"
+  },
+  "JbCKcTKNzdcWKMfQwbrdr": {
+    "_name_en": "Silver the Tip",
+    "name_ko": "실버 더 팁",
+    "text_ko": "당신의 아스날에 카드가 없다면, 당신 덱 맨 위 3장을 확인한다. 그중 화살 카드 1장을 앞면으로 아스날에 놓을 수 있다. 그런 다음 나머지를 원하는 순서로 덱 맨 아래에 놓는다.\n고 어게인"
+  },
+  "HDmnNfBFfmgphJMhDCt7T": {
+    "_name_en": "Silver the Tip",
+    "name_ko": "실버 더 팁",
+    "text_ko": "당신의 아스날에 카드가 없다면, 당신 덱 맨 위 2장을 확인한다. 그중 화살 카드 1장을 앞면으로 아스날에 놓을 수 있다. 그런 다음 나머지를 원하는 순서로 덱 맨 아래에 놓는다.\n고 어게인"
+  },
+  "wqhjGpqqjbh6DfTLR7DGg": {
+    "_name_en": "Silverdrop Downpour",
+    "name_ko": "은빛 소나기",
+    "text_ko": "대상 무기 공격이 +4{p}을 얻는다.\n이번 턴에 그 무기가 연마된 적이 있다면, 이 카드는 사용하는 데 {r}이 덜 든다."
   }
 }
