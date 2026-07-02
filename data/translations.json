@@ -17627,5 +17627,650 @@
     "_name_en": "Save the Thought",
     "name_ko": "생각을 저장하다",
     "text_ko": "당신의 무덤에서 비공격 액션 카드 최대 1장을 덱에 섞는다.\n폰더 토큰 1개를 생성한다."
+  },
+  "WKb8wmGL6MRRzwLnzqLBj": {
+    "_name_en": "Saving Grace",
+    "name_ko": "구원의 은총",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 당신 영웅의 소울을 충전할 수 있다.\n이번 턴에 충전한 적이 있다면, 대상 공격이 -2{p}을 얻는다."
+  },
+  "nmc8wLKtTmPhJFb7FH8BG": {
+    "_name_en": "Savor Bloodshed",
+    "name_ko": "유혈을 만끽하다",
+    "text_ko": "이번 턴 당신의 다음 단검 공격이 +4{p}을 얻는다.\n이번 턴 당신이 단검으로 다음에 표식이 있는 영웅을 명중시킬 때, 카드 1장을 뽑는다.\n고 어게인"
+  },
+  "Q8R69DNJCThNGkddBPW6k": {
+    "_name_en": "Sawbones, Dock Hand",
+    "name_ko": "쏘본즈, 부두 일꾼",
+    "text_ko": "액션 - {r}, {t}: 공격\n순간 - {t}: 이번 턴 당신이나 당신이 조종하는 해적이 다음에 피해를 받게 될 경우, 그 피해 1을 방지한다.\n워터리 그레이브"
+  },
+  "nkCCKCB8ftPdMCHHWHWtk": {
+    "_name_en": "Scabskin Leathers",
+    "name_ko": "딱지가죽 가죽옷",
+    "text_ko": "턴당 1회 액션 - 0: 6면체 주사위를 굴린다. 굴린 숫자의 절반만큼(내림) 액션 포인트를 얻는다.\n배틀원"
+  },
+  "C8wdh6HkkQBqknGwzmnDw": {
+    "_name_en": "Scalding Iron",
+    "name_ko": "지지는 쇠",
+    "text_ko": "대상 단검 공격이 +X{p}을 얻는다. X는 당신이 조종하는 드라코닉 체인 링크 수이다."
+  },
+  "jRwfcNHdwMF8wPwzGFdFd": {
+    "_name_en": "Scalding Rain",
+    "name_ko": "타오르는 비",
+    "text_ko": "대상 영웅에게 비전 피해 4를 준다."
+  },
+  "B6mRfRqMMNH7QC8CmFFmf": {
+    "_name_en": "Scalding Rain",
+    "name_ko": "타오르는 비",
+    "text_ko": "대상 영웅에게 비전 피해 3을 준다."
+  },
+  "cMf8rkwkBpMPzWz8NMBKj": {
+    "_name_en": "Scalding Rain",
+    "name_ko": "타오르는 비",
+    "text_ko": "대상 영웅에게 비전 피해 2를 준다."
+  },
+  "rFTttdrTGWGwd8dbpfN6M": {
+    "_name_en": "Scale Peeler",
+    "name_ko": "비늘 벗기기",
+    "text_ko": "턴당 1회 액션 - {r}{r}: 공격. 고 어게인\n피어싱 1\n이 카드가 영웅을 명중하면, 이번 턴 그가 다음에 장비 1개 이상으로 방어할 때, 그 장비들은 방어하는 동안 -1{d}을 가진다."
+  },
+  "t6JCJM8LbB8DcqTwHj7Mk": {
+    "_name_en": "Scar Tissue",
+    "name_ko": "흉터 조직",
+    "text_ko": "대상 단검 공격이 +3{p}과 \"이 카드가 영웅을 명중하면, 그에게 표식을 남긴다\"를 얻는다."
+  },
+  "GHfNcPpwFnQttfmWMDq86": {
+    "_name_en": "Scar Tissue",
+    "name_ko": "흉터 조직",
+    "text_ko": "대상 단검 공격이 +2{p}과 \"이 카드가 영웅을 명중하면, 그에게 표식을 남긴다\"를 얻는다."
+  },
+  "KjLnGJk9WwJKDbRtpBRKG": {
+    "_name_en": "Scar Tissue",
+    "name_ko": "흉터 조직",
+    "text_ko": "대상 단검 공격이 +1{p}과 \"이 카드가 영웅을 명중하면, 그에게 표식을 남긴다\"를 얻는다."
+  },
+  "HQpCLnmftkcKMJrjjczGK": {
+    "_name_en": "Scarf for a Scarf",
+    "name_ko": "목도리와 목도리를 교환하다",
+    "text_ko": "이 카드가 영웅을 공격할 때, 그와 머리 장비 지속물을 교환한다. 그렇게 하면, 이 카드가 고 어게인을 얻는다."
+  },
+  "DDNkGQ7L9kNzzFthTtTKH": {
+    "_name_en": "Scattering Conflux",
+    "name_ko": "흩어지는 융합체",
+    "text_ko": "이것이 분열할 때마다, 번개의 화신 토큰 1개를 생성한다.\n프래그먼트"
+  },
+  "jktJDQ97DD6rnkQjhNdD8": {
+    "_name_en": "Scepter of Pain",
+    "name_ko": "고통의 지팡이",
+    "text_ko": "턴당 1회 액션 - {r}{r}: 아무 상대 대상에게 비전 피해 1을 준다.\n이렇게 준 피해 1점당 룬챈트 토큰 1개를 생성한다."
+  },
+  "G7MWPzRtWqBpdW7K8MQDd": {
+    "_name_en": "Schism of Chaos",
+    "name_ko": "혼돈의 균열",
+    "text_ko": "레전더리\n이것이 피치되면, 각 영웅이 덱을 섞은 뒤, 자신의 덱 맨 위 카드를 뒷면으로 아스날에 놓는다."
+  },
+  "9PJ9CMqcgnDMFTR7WW8wq": {
+    "_name_en": "Scooba, Salty Sea Dog",
+    "name_ko": "스쿠바, 짠내 나는 뱃사람",
+    "text_ko": "액션 - {r}{r}{r}, {t}: 공격\n이 카드가 공격할 때, 무덤에서 노란색 카드 1장을 소유자의 덱 맨 아래에 놓을 수 있다. 그렇게 하면, 골드 토큰 1개를 생성한다.\n워터리 그레이브"
+  },
+  "cGDjfwq76gpNQpWDMtLt9": {
+    "_name_en": "Scorpio, Comet Tail",
+    "name_ko": "스콜피오, 혜성의 꼬리",
+    "text_ko": "액션 - {t}: 공격. 당신이 번개 공격을 조종하고 있을 때만 이것을 활성화한다.\n이 카드가 영웅을 명중하면, 그에게 비전 피해 1을 준다."
+  },
+  "9hDNGJWktKbqR8bFFzmMf": {
+    "_name_en": "Scour",
+    "name_ko": "정화",
+    "text_ko": "대상 영웅이 조종하는, 비용 0인 오라 토큰 그리고/또는 오라 X개를 파괴한다. 그런 다음 그 영웅에게 이렇게 파괴된 오라 수만큼 비전 피해를 준다."
+  },
+  "rhGfKbpkJHqwTK6rJDcwK": {
+    "_name_en": "Scour the Battlescape",
+    "name_ko": "전장을 훑다",
+    "text_ko": "당신의 손에서 카드 1장을 덱 맨 아래에 놓을 수 있다. 그렇게 하면, 카드 1장을 뽑는다.\n전장을 훑다가 아스날에서 사용되면, 고 어게인을 얻는다."
+  },
+  "KNC7HLkhjBqq6jMLBJ6fG": {
+    "_name_en": "Scour the Battlescape",
+    "name_ko": "전장을 훑다",
+    "text_ko": "당신의 손에서 카드 1장을 덱 맨 아래에 놓을 수 있다. 그렇게 하면, 카드 1장을 뽑는다.\n전장을 훑다가 아스날에서 사용되면, 고 어게인을 얻는다."
+  },
+  "CBWFq7pbJbWfwGPNFRwpN": {
+    "_name_en": "Scour the Battlescape",
+    "name_ko": "전장을 훑다",
+    "text_ko": "당신의 손에서 카드 1장을 덱 맨 아래에 놓을 수 있다. 그렇게 하면, 카드 1장을 뽑는다.\n전장을 훑다가 아스날에서 사용되면, 고 어게인을 얻는다."
+  },
+  "kH9PnLPwkjrBjBPWR7FBq": {
+    "_name_en": "Scout the Periphery",
+    "name_ko": "주변을 정찰하다",
+    "text_ko": "대상 영웅의 덱 맨 위 카드를 확인한다.\n이번 턴 당신이 아스날에서 사용하는 다음 공격 액션 카드가 +3{p}을 얻는다.\n고 어게인"
+  },
+  "7WFnnN9jPJ8cpCzrKkwcG": {
+    "_name_en": "Scout the Periphery",
+    "name_ko": "주변을 정찰하다",
+    "text_ko": "대상 영웅의 덱 맨 위 카드를 확인한다.\n이번 턴 당신이 아스날에서 사용하는 다음 공격 액션 카드가 +2{p}을 얻는다.\n고 어게인"
+  },
+  "rfzK67PqGLCLKL6w8GhLp": {
+    "_name_en": "Scout the Periphery",
+    "name_ko": "주변을 정찰하다",
+    "text_ko": "대상 영웅의 덱 맨 위 카드를 확인한다.\n이번 턴 당신이 아스날에서 사용하는 다음 공격 액션 카드가 +1{p}을 얻는다.\n고 어게인"
+  },
+  "mTbrkkQFPRjRGNJMPtF7Q": {
+    "_name_en": "Scouting Shot",
+    "name_ko": "정찰 사격",
+    "text_ko": "이것이 앞면으로 당신의 아스날에 놓이면, 당신 덱 맨 위 카드를 확인할 수 있다."
+  },
+  "czpGHfkkmgF6kFCQjfcC8": {
+    "_name_en": "Scowling Flesh Bag",
+    "name_ko": "찡그린 살가죽 가면",
+    "text_ko": "이 카드가 방어할 때, 인티미데이트한다.\n블레이드 브레이크"
+  },
+  "PBhph96BBWgk6khphzBJM": {
+    "_name_en": "Scramble Pulse",
+    "name_ko": "스크램블 펄스",
+    "text_ko": "이번 전투 체인에서 장비들은 방어하는 동안 -1{d}을 가진다.\n부스트"
+  },
+  "Bqj7zQj6nRg69nWJpqhdG": {
+    "_name_en": "Scramble Pulse",
+    "name_ko": "스크램블 펄스",
+    "text_ko": "이번 전투 체인에서 장비들은 방어하는 동안 -1{d}을 가진다.\n부스트"
+  },
+  "z6fwbc9tNttQCzDHGtCFP": {
+    "_name_en": "Scramble Pulse",
+    "name_ko": "스크램블 펄스",
+    "text_ko": "이번 전투 체인에서 장비들은 방어하는 동안 -1{d}을 가진다.\n부스트"
+  },
+  "bRdLNzkL7pJQrQJMDgNqk": {
+    "_name_en": "Scrap Compactor",
+    "name_ko": "고철 압축기",
+    "text_ko": "스크랩\n이 카드가 공격할 때, 카드 1장을 스크랩했다면, 이번 턴 당신의 다음 에보를 순간 카드인 것처럼 사용할 수 있다."
+  },
+  "zrDknmgJBBdDgbnf7HqzG": {
+    "_name_en": "Scrap Compactor",
+    "name_ko": "고철 압축기",
+    "text_ko": "스크랩\n이 카드가 공격할 때, 카드 1장을 스크랩했다면, 이번 턴 당신의 다음 에보를 순간 카드인 것처럼 사용할 수 있다."
+  },
+  "KQpFGWBFTN6kKBFwGCwqK": {
+    "_name_en": "Scrap Compactor",
+    "name_ko": "고철 압축기",
+    "text_ko": "스크랩\n이 카드가 공격할 때, 카드 1장을 스크랩했다면, 이번 턴 당신의 다음 에보를 순간 카드인 것처럼 사용할 수 있다."
+  },
+  "BTh7CrHFccLPDQBzLccbw": {
+    "_name_en": "Scrap Harvester",
+    "name_ko": "고철 수확기",
+    "text_ko": "스크랩\n이 카드가 공격할 때, 카드 1장을 스크랩했다면, 당신이 조종하는, 크랭크를 가진 아이템에 스팀 카운터를 놓는다."
+  },
+  "NM9KMB9gpbC6dQQqKm9kC": {
+    "_name_en": "Scrap Harvester",
+    "name_ko": "고철 수확기",
+    "text_ko": "스크랩\n이 카드가 공격할 때, 카드 1장을 스크랩했다면, 당신이 조종하는, 크랭크를 가진 아이템에 스팀 카운터를 놓는다."
+  },
+  "RHjPhrMkPMDrNghTztTzc": {
+    "_name_en": "Scrap Harvester",
+    "name_ko": "고철 수확기",
+    "text_ko": "스크랩\n이 카드가 공격할 때, 카드 1장을 스크랩했다면, 당신이 조종하는, 크랭크를 가진 아이템에 스팀 카운터를 놓는다."
+  },
+  "tJDKNg7fm6FHNcCtjznN8": {
+    "_name_en": "Scrap Hopper",
+    "name_ko": "고철 호퍼",
+    "text_ko": "스크랩\n이 카드가 공격할 때, 카드 1장을 스크랩했다면, 퀵큰 토큰 1개를 생성한다."
+  },
+  "njDMNcdpbzTGfhDQmFPdq": {
+    "_name_en": "Scrap Hopper",
+    "name_ko": "고철 호퍼",
+    "text_ko": "스크랩\n이 카드가 공격할 때, 카드 1장을 스크랩했다면, 퀵큰 토큰 1개를 생성한다."
+  },
+  "LJtbJgTpWKcpwLmPRgDMr": {
+    "_name_en": "Scrap Hopper",
+    "name_ko": "고철 호퍼",
+    "text_ko": "스크랩\n이 카드가 공격할 때, 카드 1장을 스크랩했다면, 퀵큰 토큰 1개를 생성한다."
+  },
+  "TnFgmkTHkFTnhCfDCtTwQ": {
+    "_name_en": "Scrap Prospector",
+    "name_ko": "고철 채굴자",
+    "text_ko": "스크랩\n이 카드가 공격할 때, 카드 1장을 스크랩했다면, {r}을 얻는다."
+  },
+  "q68ThQwdMntNzPqwkwhC7": {
+    "_name_en": "Scrap Prospector",
+    "name_ko": "고철 채굴자",
+    "text_ko": "스크랩\n이 카드가 공격할 때, 카드 1장을 스크랩했다면, {r}을 얻는다."
+  },
+  "w7tg6Pd8qbmgTCznmqtwM": {
+    "_name_en": "Scrap Prospector",
+    "name_ko": "고철 채굴자",
+    "text_ko": "스크랩\n이 카드가 공격할 때, 카드 1장을 스크랩했다면, {r}을 얻는다."
+  },
+  "CQpHCDTdJdmJgn8hGJrgq": {
+    "_name_en": "Scrap Trader",
+    "name_ko": "고철 상인",
+    "text_ko": "스크랩\n스크랩\n이렇게 스크랩된 카드 1장당 {r}{r}을 얻는다."
+  },
+  "rqcKnqMqChqrkHbDTPWPR": {
+    "_name_en": "Scrub the Deck",
+    "name_ko": "갑판을 문지르다",
+    "text_ko": "대상 영웅의 덱 맨 위 카드를 파괴한다. 그것이 노란색이면, 골드 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "gKgfQDwNnGH8GtfL9RkPG": {
+    "_name_en": "Scurv, Stowaway",
+    "name_ko": "스커브, 밀항자",
+    "text_ko": "액션 - {t}, 당신이 조종하는 골드 1개를 파괴한다: 골드키스 럼 토큰 1개를 생성한다. 고 어게인\n당신이 골드키스 럼을 활성화할 때마다, {r}을 얻는다."
+  },
+  "CN9QrzcRcRDrRhPRqJCwk": {
+    "_name_en": "Scuttle the Canal",
+    "name_ko": "운하를 침몰시키다",
+    "text_ko": "스텔스\n이 카드가 표식이 있는 영웅을 공격하면, 이 카드가 고 어게인을 얻는다."
+  },
+  "Mg77gjkkQbDzcK6cQfBGf": {
+    "_name_en": "Scuttle the Canal",
+    "name_ko": "운하를 침몰시키다",
+    "text_ko": "스텔스\n이 카드가 표식이 있는 영웅을 공격하면, 이 카드가 고 어게인을 얻는다."
+  },
+  "FH6ffcgjbnGTRQTtwwWGh": {
+    "_name_en": "Scuttle the Canal",
+    "name_ko": "운하를 침몰시키다",
+    "text_ko": "스텔스\n이 카드가 표식이 있는 영웅을 공격하면, 이 카드가 고 어게인을 얻는다."
+  },
+  "gMWRNPMTzMTfCqzFGkbTG": {
+    "_name_en": "Scuttle Toes",
+    "name_ko": "은밀한 발끝",
+    "text_ko": "순간 - {r}{r}, 이것을 파괴한다: 당신이 조종하는 대상 아군을 {u}한다. 종료 단계 시작 시 그것을 파괴한다.\n아케인 배리어 1"
+  },
+  "D6fPnQdQ7FKpWDB9ktTJ6": {
+    "_name_en": "Sea Floor Salvage",
+    "name_ko": "해저 구조",
+    "text_ko": "무덤에 있는 카드 1장을 뒷면으로 뒤집는다. 그것이 노란색이면, 골드 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "q6JzqgbQgM8DB8tgcfc6B": {
+    "_name_en": "Sea Legs",
+    "name_ko": "바다 다리",
+    "text_ko": "이것이 버려지면, 골드키스 럼 토큰 1개를 생성한다."
+  },
+  "hqP98JGRBnqGr9QnPCmHC": {
+    "_name_en": "Sealace Sarong",
+    "name_ko": "바다레이스 사롱",
+    "text_ko": "순간 - {t}, 당신의 아스날에 있는 파란색 화살을 앞면으로 뒤집는다: 이번 턴 그것이 고 어게인을 얻는다.\n블레이드 브레이크"
+  },
+  "jqRDtJRT9rF7rwC6pdfJD": {
+    "_name_en": "Searing Emberblade",
+    "name_ko": "타오르는 잉걸불검",
+    "text_ko": "턴당 1회 액션 - {r}{r}: 공격\n당신이 드라코닉 체인 링크를 2개 이상 조종하고 있다면, 이 카드의 공격들이 고 어게인을 얻는다."
+  },
+  "f7Gk6PJDmMhpGpGjpp866": {
+    "_name_en": "Searing Gaze",
+    "name_ko": "타오르는 응시",
+    "text_ko": "대상 단검 공격이 +2{p}을 얻는다. 당신이 드라코닉 체인 링크를 2개 이상 조종하고 있다면, \"이 카드가 영웅을 명중하면, 그에게 표식을 남긴다\"를 얻는다."
+  },
+  "MQ6FHQhJGFpMdrFHgfPQD": {
+    "_name_en": "Searing Ray",
+    "name_ko": "타오르는 광선",
+    "text_ko": "당신의 피치 존에 노란색 카드가 있다면, 이 카드가 +2{p}을 얻는다."
+  },
+  "WWnjTMBz9qJNpHmNgdRN9": {
+    "_name_en": "Searing Ray",
+    "name_ko": "타오르는 광선",
+    "text_ko": "당신의 피치 존에 노란색 카드가 있다면, 이 카드가 +2{p}을 얻는다."
+  },
+  "cmgTkM7PKHKtkLHkJPDPk": {
+    "_name_en": "Searing Ray",
+    "name_ko": "타오르는 광선",
+    "text_ko": "당신의 피치 존에 노란색 카드가 있다면, 이 카드가 +2{p}을 얻는다."
+  },
+  "GWJzpmmcLCPm6bbfM8zR9": {
+    "_name_en": "Searing Shot",
+    "name_ko": "타오르는 사격",
+    "text_ko": "타오르는 사격이 영웅을 명중하면, 그가 1{h}을 잃는다."
+  },
+  "bPpNFbJnhrLkgqjMRRFJp": {
+    "_name_en": "Searing Shot",
+    "name_ko": "타오르는 사격",
+    "text_ko": "타오르는 사격이 영웅을 명중하면, 그가 1{h}을 잃는다."
+  },
+  "JmQpWjPbn6JmmppNRDprh": {
+    "_name_en": "Searing Shot",
+    "name_ko": "타오르는 사격",
+    "text_ko": "타오르는 사격이 영웅을 명중하면, 그가 1{h}을 잃는다."
+  },
+  "67PfThWHNmFmMj68D7WLf": {
+    "_name_en": "Searing Touch",
+    "name_ko": "타오르는 손길",
+    "text_ko": "럽처 - 타오르는 손길이 체인 링크 4 이상으로 사용되면, \"당신이 이것으로 공격할 때, 아무 대상에게 피해 2를 준다\"를 가진다."
+  },
+  "MmJd7JwGC8rjPmLNLPCCW": {
+    "_name_en": "Seasoned Saviour",
+    "name_ko": "노련한 구원자",
+    "text_ko": "당신이 노련한 구원자를 장착할 때, 여기에 -1{d} 카운터 2개를 놓는다. 배틀원"
+  },
+  "PjwhnN8B6FghrjRmGwhnJ": {
+    "_name_en": "Second Strike",
+    "name_ko": "두 번째 일격",
+    "text_ko": "이 카드가 공격할 때, 이번 턴에 피해를 준 적이 있다면, 이 카드가 +1{p}과 고 어게인을 얻는다."
+  },
+  "drmRFDLhKw6b7JBJdfWkM": {
+    "_name_en": "Second Strike",
+    "name_ko": "두 번째 일격",
+    "text_ko": "이 카드가 공격할 때, 이번 턴에 피해를 준 적이 있다면, 이 카드가 +1{p}과 고 어게인을 얻는다."
+  },
+  "wdT9WhkFKfwrHdJMWWcDQ": {
+    "_name_en": "Second Strike",
+    "name_ko": "두 번째 일격",
+    "text_ko": "이 카드가 공격할 때, 이번 턴에 피해를 준 적이 있다면, 이 카드가 +1{p}과 고 어게인을 얻는다."
+  },
+  "TkkhfhFwwKKBFRb8TF6cW": {
+    "_name_en": "Second Swing",
+    "name_ko": "두 번째 스윙",
+    "text_ko": "이번 턴에 무기로 공격한 적이 있다면, 이번 턴 당신의 다음 공격이 +4{p}을 얻는다.\n고 어게인"
+  },
+  "PqwWTC8WTQccwfcNwtjNT": {
+    "_name_en": "Second Swing",
+    "name_ko": "두 번째 스윙",
+    "text_ko": "이번 턴에 무기로 공격한 적이 있다면, 이번 턴 당신의 다음 공격이 +3{p}을 얻는다.\n고 어게인"
+  },
+  "Chqpmcpccgmfb7wh7jrdh": {
+    "_name_en": "Second Swing",
+    "name_ko": "두 번째 스윙",
+    "text_ko": "이번 턴에 무기로 공격한 적이 있다면, 이번 턴 당신의 다음 공격이 +2{p}을 얻는다.\n고 어게인"
+  },
+  "HFtcFTzQwfjNwk89mLRjD": {
+    "_name_en": "Second Tenet of Chi: Moon",
+    "name_ko": "치의 두 번째 계율: 달",
+    "text_ko": "이번 턴에 초월한 적이 있다면, 이 카드가 \"이번 체인 링크가 해결될 때, 카드 1장을 뽑는다\"를 얻는다."
+  },
+  "fLCJkLgGtkfJd6pBq8fJK": {
+    "_name_en": "Second Tenet of Chi: Tide",
+    "name_ko": "치의 두 번째 계율: 조류",
+    "text_ko": "이번 턴에 초월한 적이 있다면, 이 카드가 +2{p}을 얻는다."
+  },
+  "T6hdfgDWQgPTm8RJ8HpfQ": {
+    "_name_en": "Second Tenet of Chi: Wind",
+    "name_ko": "치의 두 번째 계율: 바람",
+    "text_ko": "이번 턴에 초월한 적이 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "fBt7wHjJKcKKhftG6cGmW": {
+    "_name_en": "Security Script",
+    "name_ko": "보안 스크립트",
+    "text_ko": "크랭크\n이 카드는 스팀 카운터 1개를 지닌 채 전장에 들어온다. 당신의 턴 시작 시, 스팀 카운터 1개를 제거하지 않는 한 이것을 파괴한다.\n당신의 메카놀로지스트 공격 액션 카드들이 +1{d}을 얻는다."
+  },
+  "mpTmfWDrzmTzJbjbwqGth": {
+    "_name_en": "Sedate",
+    "name_ko": "진정시키다",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 그의 조종 하에 관성 토큰 1개를 생성한다."
+  },
+  "d9H6WHrdmRqWRcc7MWzHH": {
+    "_name_en": "Sedate",
+    "name_ko": "진정시키다",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 그의 조종 하에 관성 토큰 1개를 생성한다."
+  },
+  "qg77MwwLDDmNPnWmtjLPh": {
+    "_name_en": "Sedate",
+    "name_ko": "진정시키다",
+    "text_ko": "스텔스\n이 카드가 영웅을 명중하면, 그의 조종 하에 관성 토큰 1개를 생성한다."
+  },
+  "RmJbJDhmdzRFfHhj96G9f": {
+    "_name_en": "Sedation Shot",
+    "name_ko": "진정 사격",
+    "text_ko": "진정 사격에 조준 카운터가 있다면, +1{p}을 가진다.\n이 카드가 영웅을 명중하면, 그의 조종 하에 관성 토큰 1개를 생성한다."
+  },
+  "KHcpQKMtfHB7Cbr7hdCB9": {
+    "_name_en": "Sedation Shot",
+    "name_ko": "진정 사격",
+    "text_ko": "진정 사격에 조준 카운터가 있다면, +1{p}을 가진다.\n이 카드가 영웅을 명중하면, 그의 조종 하에 관성 토큰 1개를 생성한다."
+  },
+  "pwm6CghHCThJBr8WPNd9r": {
+    "_name_en": "Sedation Shot",
+    "name_ko": "진정 사격",
+    "text_ko": "진정 사격에 조준 카운터가 있다면, +1{p}을 가진다.\n이 카드가 영웅을 명중하면, 그의 조종 하에 관성 토큰 1개를 생성한다."
+  },
+  "9wnz6M6QrJktmmcPLgpbr": {
+    "_name_en": "Seduce Secrets",
+    "name_ko": "비밀을 유혹하다",
+    "text_ko": "대상 영웅의 손과 그의 덱 맨 위 카드를 확인한다.\n이것이 아스날에서 사용되었다면, 카드 1장을 뽑는다."
+  },
+  "bkwMDWGMmKTMd9dKQMt76": {
+    "_name_en": "Seeds of Agony",
+    "name_ko": "고통의 씨앗",
+    "text_ko": "당신의 추방 구역에서 고통의 씨앗을 사용할 수 있다.\n이번 턴 당신이 사용하는, 비용 2 이하인 다음 공격 액션 카드가 \"당신이 이것으로 공격할 때, 대상 영웅에게 비전 피해 1을 준다\"를 얻는다.\n고 어게인\n블러드 뎃"
+  },
+  "g9ckPjGmpNNkmbgChTQNR": {
+    "_name_en": "Seeds of Agony",
+    "name_ko": "고통의 씨앗",
+    "text_ko": "당신의 추방 구역에서 고통의 씨앗을 사용할 수 있다.\n이번 턴 당신이 사용하는, 비용 1 이하인 다음 공격 액션 카드가 \"당신이 이것으로 공격할 때, 대상 영웅에게 비전 피해 1을 준다\"를 얻는다.\n고 어게인\n블러드 뎃"
+  },
+  "BnQtggKJtBNmpqKR7NWBH": {
+    "_name_en": "Seeds of Agony",
+    "name_ko": "고통의 씨앗",
+    "text_ko": "당신의 추방 구역에서 고통의 씨앗을 사용할 수 있다.\n이번 턴 당신이 사용하는, 비용 0 이하인 다음 공격 액션 카드가 \"당신이 이것으로 공격할 때, 대상 영웅에게 비전 피해 1을 준다\"를 얻는다.\n고 어게인\n블러드 뎃"
+  },
+  "Dwn89Mq6WGH8QQGhD6hcq": {
+    "_name_en": "Seeds of Strength",
+    "name_ko": "힘의 씨앗",
+    "text_ko": "마이트 토큰 3개를 생성한다.\n대지 결속 - 이 카드를 사용하기 위해 대지 카드가 피치되었다면, 대신 마이트 토큰 4개를 생성한다"
+  },
+  "W9Bqf6HmcQBn9gPcgBF7Q": {
+    "_name_en": "Seeds of Strength",
+    "name_ko": "힘의 씨앗",
+    "text_ko": "마이트 토큰 2개를 생성한다.\n대지 결속 - 이 카드를 사용하기 위해 대지 카드가 피치되었다면, 대신 마이트 토큰 3개를 생성한다."
+  },
+  "BWnMgK7JcL6p9NDrQJMW7": {
+    "_name_en": "Seeds of Strength",
+    "name_ko": "힘의 씨앗",
+    "text_ko": "마이트 토큰 1개를 생성한다.\n대지 결속 - 이 카드를 사용하기 위해 대지 카드가 피치되었다면, 대신 마이트 토큰 2개를 생성한다."
+  },
+  "Mcffqz8hhNjNgTGMHJwhR": {
+    "_name_en": "Seeds of Tomorrow",
+    "name_ko": "내일의 씨앗",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 당신의 아스날에서 카드 1장을 덱 맨 아래에 놓는다.\n이번 턴 당신에게 가해질 다음 피해 5를 방지한다."
+  },
+  "QRhMFtbfPHP67Rmwbzdcj": {
+    "_name_en": "Seek and Destroy",
+    "name_ko": "수색과 파괴",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +3{p}과 \"이 카드가 영웅을 명중하면, 그의 다음 종료 단계 시작 시, 그가 자신의 손에 있는 모든 카드를 버리고 자신의 아스날에 있는 모든 카드를 파괴한다\"를 얻는다.\n고 어게인"
+  },
+  "rJd6rP8HgrgcfzDBT8bWB": {
+    "_name_en": "Seek Enlightenment",
+    "name_ko": "깨달음을 추구하다",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 +3{p}과 \"이것이 명중하면, 당신 영웅의 소울에 놓는다\"를 얻는다.\n고 어게인"
+  },
+  "b8K7Cm8dBKhKTFdwJMNTg": {
+    "_name_en": "Seek Enlightenment",
+    "name_ko": "깨달음을 추구하다",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 +2{p}과 \"이것이 명중하면, 당신 영웅의 소울에 놓는다\"를 얻는다.\n고 어게인"
+  },
+  "WpRGpbwRLk8nbpLkDkddN": {
+    "_name_en": "Seek Enlightenment",
+    "name_ko": "깨달음을 추구하다",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 +1{p}과 \"이것이 명중하면, 당신 영웅의 소울에 놓는다\"를 얻는다.\n고 어게인"
+  },
+  "NnPBTJzJr8PMqGdN9dDtH": {
+    "_name_en": "Seek Horizon",
+    "name_ko": "지평선을 찾아서",
+    "text_ko": "지평선을 찾아서를 사용하기 위한 추가 비용으로, 당신의 손에서 카드 1장을 덱 맨 위에 놓을 수 있다. 그렇게 하면, 지평선을 찾아서가 고 어게인을 얻는다."
+  },
+  "fTLNzLLwbfCDzGf8cDnTr": {
+    "_name_en": "Seek Horizon",
+    "name_ko": "지평선을 찾아서",
+    "text_ko": "지평선을 찾아서를 사용하기 위한 추가 비용으로, 당신의 손에서 카드 1장을 덱 맨 위에 놓을 수 있다. 그렇게 하면, 지평선을 찾아서가 고 어게인을 얻는다."
+  },
+  "gKfz9fDKmTChbm7FmMgjh": {
+    "_name_en": "Seek Horizon",
+    "name_ko": "지평선을 찾아서",
+    "text_ko": "지평선을 찾아서를 사용하기 위한 추가 비용으로, 당신의 손에서 카드 1장을 덱 맨 위에 놓을 수 있다. 그렇게 하면, 지평선을 찾아서가 고 어게인을 얻는다."
+  },
+  "W9wBMn7CBbnwbWCt7chdT": {
+    "_name_en": "Seek Vengeance",
+    "name_ko": "복수를 추구하다",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 에지 오브 오텀이었다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "GgTjfBKgfWdMRNRhCcPt7": {
+    "_name_en": "Seek Vengeance",
+    "name_ko": "복수를 추구하다",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 에지 오브 오텀이었다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "rrDrf6H8zBKhcz8tQbnm9": {
+    "_name_en": "Seeker Kunai",
+    "name_ko": "수색자의 쿠나이",
+    "text_ko": "공격 반응 - {r}, 이것을 파괴한다: 대상 어쌔신 공격 액션 카드가 +1{p}을 얻는다.\n이것이 당신의 무덤에 있는 동안, 당신의 턴 시작 시, 당신이 조종하는 실버 2개를 파괴할 수 있다. 그렇게 하면, 이것을 전장으로 되돌린다."
+  },
+  "JmTd86pJBGfrCtpNRCjdn": {
+    "_name_en": "Seeker's Gilet",
+    "name_ko": "수색자의 조끼",
+    "text_ko": "순간 - {r}, 수색자의 조끼를 파괴한다: 이번 턴 당신 영웅에게 가해질 다음 피해 1을 방지한다. 옵트 1"
+  },
+  "t9hhCk9PrwgchGMcLkRMt": {
+    "_name_en": "Seeker's Hood",
+    "name_ko": "수색자의 두건",
+    "text_ko": "순간 - {r}, 수색자의 두건을 파괴한다: 이번 턴 당신 영웅에게 가해질 다음 피해 1을 방지한다. 옵트 1"
+  },
+  "RpqBfPnFtnfqfGHkGNWqH": {
+    "_name_en": "Seeker's Leggings",
+    "name_ko": "수색자의 각반",
+    "text_ko": "순간 - {r}, 수색자의 각반을 파괴한다: 이번 턴 당신 영웅에게 가해질 다음 피해 1을 방지한다. 옵트 1"
+  },
+  "gBgzTTTb9BCd8wCwhW8jB": {
+    "_name_en": "Seeker's Mitts",
+    "name_ko": "수색자의 벙어리장갑",
+    "text_ko": "순간 - {r}, 수색자의 벙어리장갑을 파괴한다: 이번 턴 당신 영웅에게 가해질 다음 피해 1을 방지한다. 옵트 1"
+  },
+  "jFP6BqHQnT7tnrw7Fw9hh": {
+    "_name_en": "Seeping Shadows",
+    "name_ko": "스며드는 그림자",
+    "text_ko": "당신의 추방 구역에서 스며드는 그림자를 사용할 수 있다.\n이번 턴 당신이 사용하는, 비용 2 이하인 다음 공격 액션 카드가 +1{p}과 고 어게인을 얻는다.\n고 어게인\n블러드 뎃"
+  },
+  "8bF9mGkJwTtDczM9KNtpL": {
+    "_name_en": "Seeping Shadows",
+    "name_ko": "스며드는 그림자",
+    "text_ko": "당신의 추방 구역에서 스며드는 그림자를 사용할 수 있다.\n이번 턴 당신이 사용하는, 비용 1 이하인 다음 공격 액션 카드가 +1{p}과 고 어게인을 얻는다.\n고 어게인\n블러드 뎃"
+  },
+  "QfgfNF9MFTT6PcKqwH6bn": {
+    "_name_en": "Seeping Shadows",
+    "name_ko": "스며드는 그림자",
+    "text_ko": "당신의 추방 구역에서 스며드는 그림자를 사용할 수 있다.\n이번 턴 당신이 사용하는, 비용 0인 다음 공격 액션 카드가 +1{p}과 고 어게인을 얻는다.\n고 어게인\n블러드 뎃"
+  },
+  "FKc7CtkbBDTrzHr7t8DMQ": {
+    "_name_en": "Seerstone",
+    "name_ko": "예지석",
+    "text_ko": "액션 - {r}{r}{r}: 당신 덱 맨 위 카드를 확인한다. 맨 아래에 놓을 수 있다. 폰더 토큰 1개를 생성한다."
+  },
+  "t9g6gbzgFL9RmRQBBNrP7": {
+    "_name_en": "Seismic Eruption",
+    "name_ko": "지진 분출",
+    "text_ko": "지진 파동 토큰 3개를 생성한다."
+  },
+  "wcmmpmGPLhHLFJfdWcpzm": {
+    "_name_en": "Seismic Shelter",
+    "name_ko": "지진 대피소",
+    "text_ko": "고 어게인\n당신이 조종하는 공격 액션 카드들이 방어하는 동안 +X{d}을 얻는다. X는 당신이 조종하는 지진 파동 토큰 수이다.\n당신의 턴 시작 시, 이것을 파괴한다."
+  },
+  "nTMBkFzPMg6TtPkF6kBgQ": {
+    "_name_en": "Seismic Shift",
+    "name_ko": "지각 변동",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 당신이 조종하는 지진 파동 토큰 X개를 {t}한다.\n대상 오라 토큰 X개를 파괴한다.\n고 어게인"
+  },
+  "NqRrPq9RLbrhFrrgzndt8": {
+    "_name_en": "Seismic Stir",
+    "name_ko": "지진의 동요",
+    "text_ko": "지진 파동 토큰 3개를 생성한다.\n고 어게인"
+  },
+  "FFGW6Kn6mWFFFWcwkpdHh": {
+    "_name_en": "Seismic Stir",
+    "name_ko": "지진의 동요",
+    "text_ko": "지진 파동 토큰 2개를 생성한다.\n고 어게인"
+  },
+  "h7n8tCF66mwtfWfqLLz87": {
+    "_name_en": "Seismic Stir",
+    "name_ko": "지진의 동요",
+    "text_ko": "지진 파동 토큰 1개를 생성한다.\n고 어게인"
+  },
+  "Rf8CHpzmhJNppCtDDKWDm": {
+    "_name_en": "Seismic Surge",
+    "name_ko": "지진 파동",
+    "text_ko": "당신의 액션 단계 시작 시, 이것을 파괴한 뒤, 이번 턴 당신이 사용하는 다음 가디언 공격 액션 카드가 사용하는 데 {r}이 덜 든다."
+  },
+  "PBFbJTw6qrKRHPHPDCrMT": {
+    "_name_en": "Sekem, Archangel of Ravages",
+    "name_ko": "세켐, 황폐의 대천사",
+    "text_ko": "턴당 1회 액션 - {r}{r}: 공격\n세켐이 공격할 때, 당신 영웅의 소울에서 카드 1장을 추방할 수 있다. 그렇게 하면, 아무 대상에게 비전 피해 2를 준다.\n워드 4"
+  },
+  "MDhfpQwtDBtKLhT6Cn7f7": {
+    "_name_en": "Semblance",
+    "name_ko": "겉모습",
+    "text_ko": "당신이 조종하는 대상 일루저니스트 공격의 모든 팬텀 유발 효과를 무효화한다. 그 공격은 팬텀을 잃고 얻을 수 없다."
+  },
+  "WQtbdGwPbtmLmmkRjQzqj": {
+    "_name_en": "Send Packing",
+    "name_ko": "쫓아내다",
+    "text_ko": "이 카드가 영웅을 공격할 때, 그의 아스날에서 카드 1장을 추방한다. 체인 링크가 해결될 때, 이것이 명중하지 않았다면, 추방된 카드를 소유자의 손으로 되돌린다."
+  },
+  "7kmnQ69hTHJcPwTPWNwmz": {
+    "_name_en": "Sense Weakness",
+    "name_ko": "약점을 감지하다",
+    "text_ko": "이번 턴 당신의 다음 가디언 공격이 +1{p}, 도미네이트, 그리고 \"이 카드가 영웅을 명중하면, 그가 조종하는 모든 아군에게 이렇게 준 피해만큼 피해를 준다\"를 얻는다.\n고 어게인"
+  },
+  "QrKGJL7bHCFKbr9N9MNpm": {
+    "_name_en": "Ser Boltyn, Breaker of Dawn",
+    "name_ko": "볼튼 경, 새벽을 부수는 자",
+    "text_ko": "이번 턴에 충전한 적이 있다면, 당신의 공격들은 공격 액션 카드로 방어되는 동안 +1{p}을 얻는다.\n공격 반응 - 볼튼의 소울에서 카드 1장을 추방한다: {p}이 기본값을 초과하는 대상 공격이 고 어게인을 얻는다."
+  },
+  "PBkK9jFkGPKGqTwmTwrzW": {
+    "_name_en": "Serpent's Kiss",
+    "name_ko": "뱀의 입맞춤",
+    "text_ko": "스텔스\n이 카드가 공격할 때, 당신의 손에 팽 스트라이크나 슬리더를 생성한다. 이번 턴에 초월한 적이 있다면, 대신 둘 다 생성한다.\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 2장을 확인한다. 그중 1장을 추방한다."
+  },
+  "T9P9nJkNCBqM8dPHkhRhR": {
+    "_name_en": "Settle the Bill",
+    "name_ko": "계산을 치르다",
+    "text_ko": "당신의 손에서 화살을 앞면으로 아스날에 놓을 수 있다. 그렇게 하면, 턴 종료 시까지, 그것이 +3{p}과 \"이 카드가 영웅을 명중하면, 그의 아스날에 있는 카드 1장을 파괴한다\"를 얻는다.\n고 어게인"
+  },
+  "JzbrzpFDKnwQJfD7h8CkQ": {
+    "_name_en": "Shaden Death Hydra",
+    "name_ko": "섀든 죽음의 히드라",
+    "text_ko": "이 카드가 공격할 때, 당신에게 피해 X를 준다. X는 13에서 당신의 추방 구역에 있는 블러드 뎃 카드 수를 뺀 값이다.\n블러드 뎃"
+  },
+  "KDfgLjtcbGWjJTqJcgQcH": {
+    "_name_en": "Shaden Scream",
+    "name_ko": "섀든의 절규",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 손에서 무작위 카드 1장을 추방한다.\n이번 턴 당신의 다음 브루트 또는 섀도우 공격이 +5{p}을 얻는다.\n고 어게인"
+  },
+  "mTTtKd67JQmpbbkTrCgC6": {
+    "_name_en": "Shaden Scream",
+    "name_ko": "섀든의 절규",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 손에서 무작위 카드 1장을 추방한다.\n이번 턴 당신의 다음 브루트 또는 섀도우 공격이 +4{p}을 얻는다.\n고 어게인"
+  },
+  "WgNzKLhLbwpCnMTmLWkhf": {
+    "_name_en": "Shaden Scream",
+    "name_ko": "섀든의 절규",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 손에서 무작위 카드 1장을 추방한다.\n이번 턴 당신의 다음 브루트 또는 섀도우 공격이 +3{p}을 얻는다.\n고 어게인"
+  },
+  "HtPKB7kWnFRGtqN6RjdRW": {
+    "_name_en": "Shaden Swing",
+    "name_ko": "섀든 스윙",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 당신의 손에서 무작위 카드 1장을 추방한다.\n블러드 뎃"
+  },
+  "j6FKJDDDkHzjKrjN8FkdW": {
+    "_name_en": "Shaden Swing",
+    "name_ko": "섀든 스윙",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 당신의 손에서 무작위 카드 1장을 추방한다.\n블러드 뎃"
+  },
+  "QTCkmrDWzwq6Qq6QczrDn": {
+    "_name_en": "Shaden Swing",
+    "name_ko": "섀든 스윙",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 당신의 손에서 무작위 카드 1장을 추방한다.\n블러드 뎃"
+  },
+  "wHLwWJFBzB7DwgjKqzcq7": {
+    "_name_en": "Shadow of Blasmophet",
+    "name_ko": "블라스모펫의 그림자",
+    "text_ko": "카드 1장을 뽑은 뒤 무작위 카드 1장을 버린다. 이렇게 {p} 6 이상인 카드가 버려지면, 당신의 덱에서 블러드 뎃을 가진 카드를 찾아 추방한 뒤, 덱을 섞는다.\n블러드 뎃"
+  },
+  "pntf8jrgBbNzC8jBkChDJ": {
+    "_name_en": "Shadow of Ursur",
+    "name_ko": "우르수르의 그림자",
+    "text_ko": "당신의 추방 구역에서 우르수르의 그림자를 사용할 수 있다.\n우르수르의 그림자를 사용하기 위한 추가 비용으로, 당신의 손에서 블러드 뎃을 가진 카드를 추방할 수 있다. 그렇게 하면, 우르수르의 그림자가 고 어게인을 얻는다.\n블러드 뎃"
+  },
+  "97JfCpcf7hpfrDdQw8Btz": {
+    "_name_en": "Shadow Puppetry",
+    "name_ko": "그림자 인형극",
+    "text_ko": "이번 턴 당신이 사용하는 다음 공격 액션 카드가 +1{p}, 고 어게인, 그리고 \"이 공격이 명중하면, 당신 덱 맨 위 카드를 확인한다. 추방할 수 있다\"를 얻는다.\n고 어게인"
+  },
+  "q9rhJWLhqmFgpRdrb6LGM": {
+    "_name_en": "Shadowrealm Horror",
+    "name_ko": "그림자 세계의 공포",
+    "text_ko": "이 카드를 사용하기 위한 추가 비용으로, 당신의 무덤에서 무작위 카드 3장을 추방한다.\n이렇게 {p} 6 이상인 카드가 1장 이상 추방되면, 이 카드가 +1{p}을 얻는다. 2장 이상이면, 고 어게인을 얻는다. 3장 이상이면, 이번 턴 이렇게 추방된 카드 1장을 사용할 수 있다.\n블러드 뎃"
   }
 }
