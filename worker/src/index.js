@@ -1,13 +1,16 @@
 // Cloudflare Worker: 사이트의 번역 제안 폼을 받아 GitHub에 검토용 PR을 자동 생성한다.
 //
-// 엔드포인트: POST /api/translate
-//   body: { cardId, nameEn, nameKo, textKo, contributor?, turnstileToken? }
-//   응답: { ok: true, prUrl } 또는 { error }
+// 엔드포인트:
+//   POST /api/translate
+//     body: { cardId, nameEn, nameKo, textKo, contributor?, turnstileToken? }
+//   POST /api/keyword
+//     body: { key, ko, desc, contributor?, turnstileToken? }
+//   공통 응답: { ok: true, prUrl } 또는 { error }
 //
 // 필요한 시크릿(wrangler secret put):
 //   GITHUB_TOKEN     - 이 저장소에 Contents/Pull requests 쓰기 권한이 있는 fine-grained PAT
 //   TURNSTILE_SECRET - (선택) Cloudflare Turnstile 시크릿. 설정하면 스팸 방지 검증을 강제한다.
-// 변수(wrangler.toml [vars]): GITHUB_OWNER, GITHUB_REPO, BASE_BRANCH, TRANSLATIONS_PATH, ALLOWED_ORIGIN
+// 변수(wrangler.toml [vars]): GITHUB_OWNER, GITHUB_REPO, BASE_BRANCH, TRANSLATIONS_PATH, KEYWORDS_PATH, ALLOWED_ORIGIN
 
 const GH_API = "https://api.github.com";
 
@@ -21,6 +24,8 @@ export default {
     if (request.method === "OPTIONS") return new Response(null, { headers: cors });
     if (request.method !== "POST") return json({ error: "POST만 허용됩니다." }, 405, cors);
 
+    const { pathname } = new URL(request.url);
+
     let body;
     try {
       body = await request.json();
@@ -28,14 +33,7 @@ export default {
       return json({ error: "요청 형식이 올바르지 않습니다." }, 400, cors);
     }
 
-    const cardId = String(body.cardId || "").trim();
-    const nameEn = String(body.nameEn || "").trim().slice(0, 120);
-    const nameKo = String(body.nameKo || "").trim().slice(0, 100);
-    const textKo = String(body.textKo || "").trim().slice(0, 2000);
     const contributor = String(body.contributor || "").trim().slice(0, 40);
-
-    if (!/^[A-Za-z0-9_-]{3,40}$/.test(cardId)) return json({ error: "카드 id가 올바르지 않습니다." }, 400, cors);
-    if (!nameKo && !textKo) return json({ error: "한글 이름이나 효과 중 하나는 입력해야 합니다." }, 400, cors);
 
     // Turnstile 스팸 방지(시크릿이 설정된 경우에만 강제)
     if (env.TURNSTILE_SECRET) {
@@ -48,6 +46,33 @@ export default {
     }
 
     if (!env.GITHUB_TOKEN) return json({ error: "서버 설정 오류입니다(GITHUB_TOKEN 미설정)." }, 500, cors);
+
+    if (pathname === "/api/keyword") {
+      const key = String(body.key || "").trim().slice(0, 60);
+      const ko = String(body.ko || "").trim().slice(0, 100);
+      const desc = String(body.desc || "").trim().slice(0, 1000);
+
+      if (!/^[A-Za-z0-9][A-Za-z0-9 '\-]{1,58}[A-Za-z0-9]$/.test(key)) {
+        return json({ error: "영어 키워드 형식이 올바르지 않습니다." }, 400, cors);
+      }
+      if (!ko && !desc) return json({ error: "한글 표기나 설명 중 하나는 입력해야 합니다." }, 400, cors);
+
+      try {
+        const result = await createKeywordPR(env, { key, ko, desc, contributor });
+        if (result.noChange) return json({ error: "기존과 동일해 변경된 내용이 없습니다." }, 400, cors);
+        return json({ ok: true, prUrl: result.prUrl }, 200, cors);
+      } catch (e) {
+        return json({ error: "PR 생성 중 오류가 발생했습니다: " + e.message }, 502, cors);
+      }
+    }
+
+    const cardId = String(body.cardId || "").trim();
+    const nameEn = String(body.nameEn || "").trim().slice(0, 120);
+    const nameKo = String(body.nameKo || "").trim().slice(0, 100);
+    const textKo = String(body.textKo || "").trim().slice(0, 2000);
+
+    if (!/^[A-Za-z0-9_-]{3,40}$/.test(cardId)) return json({ error: "카드 id가 올바르지 않습니다." }, 400, cors);
+    if (!nameKo && !textKo) return json({ error: "한글 이름이나 효과 중 하나는 입력해야 합니다." }, 400, cors);
 
     try {
       const result = await createTranslationPR(env, { cardId, nameEn, nameKo, textKo, contributor });
@@ -170,6 +195,85 @@ function prBody({ cardId, nameEn, nameKo, textKo, contributor }) {
     ``,
     "```",
     textKo || "(변경 없음)",
+    "```",
+    ``,
+    `관리자 검토 후 병합해 주세요.`,
+  ].join("\n");
+}
+
+async function createKeywordPR(env, { key, ko, desc, contributor }) {
+  const owner = env.GITHUB_OWNER;
+  const repo = env.GITHUB_REPO;
+  const base = env.BASE_BRANCH || "main";
+  const path = env.KEYWORDS_PATH || "data/keywords.json";
+
+  // 1) base 브랜치의 HEAD 커밋 sha
+  const ref = await ghJson(env, `/repos/${owner}/${repo}/git/ref/heads/${base}`);
+  const baseSha = ref.object.sha;
+
+  // 2) 현재 keywords.json 내용 + 파일 sha
+  const fileMeta = await ghJson(env, `/repos/${owner}/${repo}/contents/${path}?ref=${base}`);
+  const current = JSON.parse(b64DecodeUtf8(fileMeta.content));
+
+  // 3) 항목 병합(빈 값은 덮어쓰지 않음)
+  const isNew = !current[key];
+  const beforeJson = JSON.stringify(current[key] ?? null);
+  const entry = current[key] && typeof current[key] === "object" ? { ...current[key] } : {};
+  if (ko) entry.ko = ko;
+  if (desc) entry.desc = desc;
+  current[key] = entry;
+
+  if (JSON.stringify(entry) === beforeJson) return { noChange: true };
+
+  const newContent = JSON.stringify(current, null, 2) + "\n";
+
+  // 4) 새 브랜치 생성
+  const branch = `keyword/${key.toLowerCase().replace(/[^a-z0-9]+/g, "-")}-${crypto.randomUUID().slice(0, 8)}`;
+  await ghJson(env, `/repos/${owner}/${repo}/git/refs`, {
+    method: "POST",
+    body: JSON.stringify({ ref: `refs/heads/${branch}`, sha: baseSha }),
+  });
+
+  // 5) 파일 커밋
+  const who = contributor ? ` (제안: ${contributor})` : "";
+  const action = isNew ? "추가" : "수정";
+  await ghJson(env, `/repos/${owner}/${repo}/contents/${path}`, {
+    method: "PUT",
+    body: JSON.stringify({
+      message: `키워드 ${action}: ${key}${who}`,
+      content: b64EncodeUtf8(newContent),
+      sha: fileMeta.sha,
+      branch,
+    }),
+  });
+
+  // 6) PR 생성
+  const pr = await ghJson(env, `/repos/${owner}/${repo}/pulls`, {
+    method: "POST",
+    body: JSON.stringify({
+      title: `키워드 ${action}: ${key}`,
+      head: branch,
+      base,
+      body: keywordPrBody({ key, ko, desc, contributor, isNew }),
+    }),
+  });
+
+  return { prUrl: pr.html_url };
+}
+
+function keywordPrBody({ key, ko, desc, contributor, isNew }) {
+  return [
+    `사이트 키워드 용어집 폼으로 접수된 PR입니다(${isNew ? "신규 추가" : "기존 항목 수정"}).`,
+    ``,
+    `- 키워드: **${key}**`,
+    contributor ? `- 제안자: ${contributor}` : `- 제안자: (익명)`,
+    ``,
+    `**한글 표기**: ${ko || "(변경 없음)"}`,
+    ``,
+    `**설명**:`,
+    ``,
+    "```",
+    desc || "(변경 없음)",
     "```",
     ``,
     `관리자 검토 후 병합해 주세요.`,

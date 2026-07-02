@@ -1,6 +1,7 @@
 # 번역 제안 → 자동 PR Worker
 
-사이트의 "번역 제안" 폼(`POST /api/translate`)을 받아 GitHub에 검토용 PR을 자동으로 만드는 Cloudflare Worker입니다.
+사이트의 "번역 제안" 폼(`POST /api/translate`)과 "키워드 용어집" 추가·수정 폼(`POST /api/keyword`)을 받아
+GitHub에 검토용 PR을 자동으로 만드는 Cloudflare Worker입니다.
 기여자는 GitHub 계정이 필요 없고, 모든 제안은 PR로 접수되어 관리자가 검토·병합합니다.
 
 ## 동작
@@ -69,5 +70,6 @@ curl -X POST https://fab.dol-dari.com/api/translate \
 |---|---|
 | `GITHUB_OWNER` / `GITHUB_REPO` | 대상 저장소 |
 | `BASE_BRANCH` | PR 대상 브랜치(main) |
-| `TRANSLATIONS_PATH` | 수정할 파일(data/translations.json) |
+| `TRANSLATIONS_PATH` | 카드 번역 제안이 수정할 파일(data/translations.json) |
+| `KEYWORDS_PATH` | 키워드 용어집 폼이 수정할 파일(data/keywords.json) |
 | `ALLOWED_ORIGIN` | CORS 허용 오리진(사이트 도메인) |
