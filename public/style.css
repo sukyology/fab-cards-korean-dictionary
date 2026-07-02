@@ -402,6 +402,11 @@ body {
   font-style: italic;
   font-size: 0.9rem;
 }
+.contributors {
+  margin: 6px 0 0;
+  font-size: 0.82rem;
+  color: var(--accent);
+}
 
 /* 키워드 용어집 */
 .keywords {

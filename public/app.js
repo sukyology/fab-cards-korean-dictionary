@@ -192,6 +192,10 @@ function openModal(card) {
     ? `<div class="text-block text-ko"><h4>한글 효과</h4><div class="body">${renderText(card.text_ko)}</div></div>`
     : `<div class="text-block text-ko"><h4>한글 효과</h4><div class="body untranslated">아직 번역되지 않았습니다. 아래 키워드 설명을 참고하세요.</div></div>`;
 
+  const contributorsHtml = card.contributors && card.contributors.length
+    ? `<p class="contributors">🙏 번역 제공: ${card.contributors.map(escapeHtml).join(", ")}님, 감사합니다!</p>`
+    : "";
+
   const enText = card.text
     ? `<div class="text-block text-en"><h4>원문 (영어)</h4><div class="body">${renderText(card.text)}</div></div>`
     : "";
@@ -218,6 +222,7 @@ function openModal(card) {
         <p class="type">${typeKo}${escapeHtml(card.type_text)}</p>
         <div class="stats">${statRow(card)}</div>
         ${koText}
+        ${contributorsHtml}
         ${enText}
         ${kwHtml}
         <button class="contribute-btn" id="contribute-open">✏️ 이 카드 번역 제안하기</button>

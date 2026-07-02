@@ -94,6 +94,7 @@ async function main() {
     if (t) {
       if (t.name_ko) c.name_ko = t.name_ko;
       if (t.text_ko) c.text_ko = t.text_ko;
+      if (t.contributors && t.contributors.length) c.contributors = t.contributors;
       if (t.name_ko || t.text_ko) translatedCount++;
     }
     // type_text_ko 는 카드별 번역이 아니라 type_texts.json 매핑에서만 채운다

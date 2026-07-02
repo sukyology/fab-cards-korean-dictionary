@@ -152,6 +152,11 @@ async function createTranslationPR(env, { cardId, nameEn, nameKo, textKo, contri
   if (nameEn) entry._name_en = nameEn;
   if (nameKo) entry.name_ko = nameKo;
   if (textKo) entry.text_ko = textKo;
+  if (contributor) {
+    const contributors = Array.isArray(entry.contributors) ? entry.contributors : [];
+    if (!contributors.includes(contributor)) contributors.push(contributor);
+    entry.contributors = contributors;
+  }
   current[cardId] = entry;
 
   if (JSON.stringify(entry) === beforeJson) return { noChange: true };
