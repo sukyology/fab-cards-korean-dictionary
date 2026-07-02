@@ -6027,8 +6027,11 @@
   },
   "KGqRPDfRrnPqdj7Cm76fr": {
     "_name_en": "Dorinthea",
-    "name_ko": "도린테아",
-    "text_ko": "턴당 1회 효과 - 당신이 조종하는 무기가 명중하면, 이번 턴에 그 무기로 추가로 한 번 더 공격할 수 있다."
+    "name_ko": "도린시아",
+    "text_ko": "턴당 1회 효과 - 당신이 조종하는 무기가 명중하면, 이번 턴에 그 무기로 추가로 한 번 더 공격할 수 있다.",
+    "contributors": [
+      "Au"
+    ]
   },
   "Djhg6DMpCpFHD9rcPNFrN": {
     "_name_en": "Dorinthea Ironsong",
