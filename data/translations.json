@@ -16983,5 +16983,649 @@
     "_name_en": "Roar of the Tiger",
     "name_ko": "호랑이의 포효",
     "text_ko": "당신의 손에 크라우칭 타이거를 생성한다.\n이번 턴 당신이 조종하는 크라우칭 타이거들이 +1{p}을 얻는다.\n고 어게인"
+  },
+  "fDngpw7GRrGQTN9L8wtTf": {
+    "_name_en": "Roaring Beam",
+    "name_ko": "포효하는 빛줄기",
+    "text_ko": "용기 토큰 1개를 생성한다.\n당신의 소울에 카드가 없다면, 이것을 소유자의 손으로 되돌린 뒤, 당신의 소울을 충전한다."
+  },
+  "fDLQ8hHmzqnngwPhBdkNJ": {
+    "_name_en": "Rob the Rich",
+    "name_ko": "부자를 털다",
+    "text_ko": "계약 - 당신은 비용 2 이상인 상대 카드를 추방하기로 계약한다. 이 계약을 완료할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다."
+  },
+  "rC9hRJc8GLMpncbLwkn8q": {
+    "_name_en": "Rob the Rich",
+    "name_ko": "부자를 털다",
+    "text_ko": "계약 - 당신은 비용 2 이상인 상대 카드를 추방하기로 계약한다. 이 계약을 완료할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다."
+  },
+  "LKppkHRwJHjnccLKhNHGG": {
+    "_name_en": "Rob the Rich",
+    "name_ko": "부자를 털다",
+    "text_ko": "계약 - 당신은 비용 2 이상인 상대 카드를 추방하기로 계약한다. 이 계약을 완료할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다."
+  },
+  "RT8TnMD9BHtJg8Fr6DLRF": {
+    "_name_en": "Robe of Astral Sanctuary",
+    "name_ko": "천상 성역의 로브",
+    "text_ko": "순간 - 당신의 영웅을 {t}한다, 이것을 파괴한다: 이번 턴 당신에게 가해질 다음 피해 1을 방지한다."
+  },
+  "W99DkNW9tQLbq6w6prDQB": {
+    "_name_en": "Robe of Autumn's Fall",
+    "name_ko": "가을의 낙엽 로브",
+    "text_ko": "당신이 조종하는 에지 오브 오텀이 명중할 때, 이것을 파괴할 수 있다. 그렇게 하면, {r}을 얻는다.\n아케인 배리어 1"
+  },
+  "CKdtt7jhNp8DK9QzCqGkz": {
+    "_name_en": "Robe of Rapture",
+    "name_ko": "황홀경의 로브",
+    "text_ko": "액션 - 황홀경의 로브를 파괴한다: {r}{r}{r}을 얻는다.\n아케인 배리어 1"
+  },
+  "tPk9crbnHLtHTFPgJRWHC": {
+    "_name_en": "Robe of Resourcefulness",
+    "name_ko": "임기응변의 로브",
+    "text_ko": "이것이 전장을 떠날 때, {r}{r}을 얻는다.\n블레이드 브레이크"
+  },
+  "tJgBqNwrFDtHPqpzftbMj": {
+    "_name_en": "Rockslide Trap",
+    "name_ko": "낙석 함정",
+    "text_ko": "낙석 함정은 아스날에서만 사용할 수 있다.\n이 카드가 방어할 때, 공격하는 영웅이 {r}을 지불하지 않는 한 대상 공격이 -2{p}을 얻는다."
+  },
+  "wrwkrjbdCPTBpTKjrQNdJ": {
+    "_name_en": "Rockyard Rodeo",
+    "name_ko": "바위 마당 로데오",
+    "text_ko": "이 카드의 {p}은 당신이 조종하는 무기 중 가장 높은 기본 {p}과 같다."
+  },
+  "g7hQcmhpwWdKzkj7NtgLp": {
+    "_name_en": "Roiling Fissure",
+    "name_ko": "들끓는 균열",
+    "text_ko": "비용 X 이하인 오라를 파괴한 뒤, 당신이 조종하는 지진 파동 1개를 파괴할 수 있다. 그렇게 하면, 이 과정을 반복한다.\n고 어게인"
+  },
+  "KrjrwRtnjcK7hNhcBdH9h": {
+    "_name_en": "Rok",
+    "name_ko": "바위",
+    "text_ko": "턴당 1회 액션 - {r}{r}{r}: 공격\n당신의 손에 카드가 없을 때만 바위를 활성화한다.\n바위가 줄 피해는 방지할 수 없다."
+  },
+  "77h7d88mFMjcrqwPHfQKG": {
+    "_name_en": "Rolling Thunder",
+    "name_ko": "구르는 천둥",
+    "text_ko": "6면체 주사위를 굴린다. 이번 턴 당신의 다음 브루트 공격이 +X{p}을 얻는다. X는 굴린 숫자이다.\n고 어게인"
+  },
+  "QT8JfjzmzqRR9MWgtgPLR": {
+    "_name_en": "Romping Club",
+    "name_ko": "쿵쿵대는 곤봉",
+    "text_ko": "턴당 1회 액션 - {r}{r}: 공격\n턴당 1회 효과 - 당신이 {p} 6 이상인 카드를 버릴 때, 쿵쿵대는 곤봉이 턴 종료 시까지 +1{p}을 얻는다."
+  },
+  "JWGCCknwHPjTKzpwpnBcJ": {
+    "_name_en": "Ronin Renegade",
+    "name_ko": "낭인 반역자",
+    "text_ko": "고 어게인"
+  },
+  "9qQwd6zHHQtKkbHbhPqgk": {
+    "_name_en": "Ronin Renegade",
+    "name_ko": "낭인 반역자",
+    "text_ko": "고 어게인"
+  },
+  "qMMm8Ldtfhn8Lt8LdHwNB": {
+    "_name_en": "Ronin Renegade",
+    "name_ko": "낭인 반역자",
+    "text_ko": "고 어게인"
+  },
+  "jnM9JWHGJqdtjPmLCbGMm": {
+    "_name_en": "Root-Bound Trunks",
+    "name_ko": "뿌리내린 몸통",
+    "text_ko": "이 카드가 오라 카드와 함께 방어할 때, 대지의 화신 토큰 1개를 생성한다.\n블레이드 브레이크"
+  },
+  "DPFPrrNbJmtDHjBLtk6zz": {
+    "_name_en": "Rootbound Carapace",
+    "name_ko": "뿌리에 묶인 갑각",
+    "text_ko": "분해 - 당신의 무덤에서 대지 카드 2장과 액션 카드 1장을 추방할 수 있다. 그렇게 하면, 이 카드가 +1{d}을 얻는다."
+  },
+  "rHt7wrBkFcGCKBNq8BckW": {
+    "_name_en": "Rootbound Carapace",
+    "name_ko": "뿌리에 묶인 갑각",
+    "text_ko": "분해 - 당신의 무덤에서 대지 카드 2장과 액션 카드 1장을 추방할 수 있다. 그렇게 하면, 이 카드가 +1{d}을 얻는다."
+  },
+  "kj7bRzhn8wTj7CMJTtdDn": {
+    "_name_en": "Rootbound Carapace",
+    "name_ko": "뿌리에 묶인 갑각",
+    "text_ko": "분해 - 당신의 무덤에서 대지 카드 2장과 액션 카드 1장을 추방할 수 있다. 그렇게 하면, 이 카드가 +1{d}을 얻는다."
+  },
+  "cbHrfwmLrMjWdhdBtzbff": {
+    "_name_en": "Rosetta Thorn",
+    "name_ko": "로제타 가시",
+    "text_ko": "턴당 1회 액션 - {r}: 공격\n당신이 로제타 가시로 공격할 때마다, 이번 턴에 공격 액션 카드와 '비공격' 액션 카드를 사용한 적이 있다면, 대상 영웅에게 비전 피해 2를 준다."
+  },
+  "n9MjKgmBg8mjqF9hThqcG": {
+    "_name_en": "Rotary Ram",
+    "name_ko": "회전 충각",
+    "text_ko": "이번 턴 당신이 사용하는 다음 메카놀로지스트 공격 액션 카드가 +3{p}을 얻는다.\n이번 턴에 부스트한 적이 있다면, 회전 충각을 덱 맨 아래에 놓는다.\n고 어게인"
+  },
+  "HqttnTjTP6NRFhLcmPN89": {
+    "_name_en": "Rotary Ram",
+    "name_ko": "회전 충각",
+    "text_ko": "이번 턴 당신이 사용하는 다음 메카놀로지스트 공격 액션 카드가 +2{p}을 얻는다.\n이번 턴에 부스트한 적이 있다면, 회전 충각을 덱 맨 아래에 놓는다.\n고 어게인"
+  },
+  "pKWdTpTngjM9dBzTbhjPK": {
+    "_name_en": "Rotary Ram",
+    "name_ko": "회전 충각",
+    "text_ko": "이번 턴 당신이 사용하는 다음 메카놀로지스트 공격 액션 카드가 +1{p}을 얻는다.\n이번 턴에 부스트한 적이 있다면, 회전 충각을 덱 맨 아래에 놓는다.\n고 어게인"
+  },
+  "6nGBJrh8MDLD7JJBD6NPK": {
+    "_name_en": "Rotten Old Buckler",
+    "name_ko": "낡은 원형 방패",
+    "text_ko": "블레이드 브레이크"
+  },
+  "kMcJmLgJPhnbtBkWkPH77": {
+    "_name_en": "Rotten Remains",
+    "name_ko": "썩어가는 잔재",
+    "text_ko": "이 카드가 공격할 때, 각 영웅의 무덤에서 {p} 1인 카드 1장을 추방할 수 있다. 그렇게 하면, 이 카드가 +1{p}을 얻은 뒤, 이 과정을 반복한다."
+  },
+  "HmQ8dbfPL8BLMkJDGGGm8": {
+    "_name_en": "Rotwood Reaper",
+    "name_ko": "썩은나무 수확자",
+    "text_ko": "턴당 1회 액션 - {r}{r}: 공격\n이번 턴에 오라를 사용하거나 생성한 적이 있다면, 이 카드가 +2{p}을 얻는다."
+  },
+  "fHdJPFcMkDBRMTqThPG7w": {
+    "_name_en": "Rough Up",
+    "name_ko": "거칠게 다루다",
+    "text_ko": "이 카드가 공격할 때, 당신의 피치 존에 {p} 6 이상인 카드가 있다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "DhnFPrT6QqFMWbKMkWGPq": {
+    "_name_en": "Rough Up",
+    "name_ko": "거칠게 다루다",
+    "text_ko": "이 카드가 공격할 때, 당신의 피치 존에 {p} 6 이상인 카드가 있다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "bj8NnLLcbrHGcWhfT8JJH": {
+    "_name_en": "Rough Up",
+    "name_ko": "거칠게 다루다",
+    "text_ko": "이 카드가 공격할 때, 당신의 피치 존에 {p} 6 이상인 카드가 있다면, 이 카드가 +1{p}을 얻는다."
+  },
+  "wL86pzwQw6qq8P6RpGTd6": {
+    "_name_en": "Rouse the Ancients",
+    "name_ko": "고대의 존재를 깨우다",
+    "text_ko": "고대의 존재를 깨우다를 사용하기 위한 추가 비용으로, 당신의 손에서 {p} 총합이 13 이상인 공격 액션 카드를 원하는 수만큼 공개할 수 있다. 그렇게 하면, 고대의 존재를 깨우다가 +7{p}과 고 어게인을 얻는다."
+  },
+  "LqHg97rKtkDd9BznfDHHB": {
+    "_name_en": "Rousing Aether",
+    "name_ko": "에테르를 각성시키다",
+    "text_ko": "대상 영웅에게 비전 피해 4를 준다.\n이번 턴 당신이 사용하는, 비전 피해를 주는 효과를 가진 다음 카드는 대신 그만큼에 1을 더한 비전 피해를 준다."
+  },
+  "FcLnCMGp9RCkzjm8mRR9r": {
+    "_name_en": "Rousing Aether",
+    "name_ko": "에테르를 각성시키다",
+    "text_ko": "대상 영웅에게 비전 피해 3을 준다.\n이번 턴 당신이 사용하는, 비전 피해를 주는 효과를 가진 다음 카드는 대신 그만큼에 1을 더한 비전 피해를 준다."
+  },
+  "MrThq7hF8q8BFMhfjtqWh": {
+    "_name_en": "Rousing Aether",
+    "name_ko": "에테르를 각성시키다",
+    "text_ko": "대상 영웅에게 비전 피해 2를 준다.\n이번 턴 당신이 사용하는, 비전 피해를 주는 효과를 가진 다음 카드는 대신 그만큼에 1을 더한 비전 피해를 준다."
+  },
+  "gKGT9RtDz7RGgtLWKkhgJ": {
+    "_name_en": "Rout",
+    "name_ko": "궤멸",
+    "text_ko": "대상 무기 공격이 +3{p}을 얻는다.\n리프라이즈 - 방어 영웅이 이번 체인 링크에서 자신의 손의 카드로 방어했다면, 대상 비-장비 방어 카드를 소유자의 손으로 되돌릴 수 있다."
+  },
+  "G6zJNLBqTJDLhPgDqpT6w": {
+    "_name_en": "Rowdy Locals",
+    "name_ko": "거친 현지인들",
+    "text_ko": "이 카드가 액션 카드로 방어되면, 이 카드가 +2{p}을 얻는다.\n이 카드가 영웅을 명중하면, 카드 1장을 버린다. 그렇게 하면, 그가 카드 1장을 버린다."
+  },
+  "ndkdtQQH6CGf9zhdGqgcW": {
+    "_name_en": "Rubble Raiser",
+    "name_ko": "잔해 일으키기",
+    "text_ko": "헤이브 2"
+  },
+  "MLfWBpdJqQ8GwRdLqwJGG": {
+    "_name_en": "Rubble Raiser",
+    "name_ko": "잔해 일으키기",
+    "text_ko": "헤이브 2"
+  },
+  "TrtRgRPz7HHwmMTP9dJJd": {
+    "_name_en": "Rubble Raiser",
+    "name_ko": "잔해 일으키기",
+    "text_ko": "헤이브 2"
+  },
+  "chPNcp7C8zz7FFPhLkMrh": {
+    "_name_en": "Ruby Amulet",
+    "name_ko": "루비 부적",
+    "text_ko": "순간 - 이것을 파괴한다: {r}{r}을 얻는다\n워터리 그레이브의 전설"
+  },
+  "JGTWPHkq97qTw6qtMgNHN": {
+    "_name_en": "Rugged Roller",
+    "name_ko": "울퉁불퉁한 롤러",
+    "text_ko": "턴당 1회 액션 - {r}: 공격\n이번 턴에 주사위에서 6을 굴린 적이 있을 때만 울퉁불퉁한 롤러를 활성화한다."
+  },
+  "hww9qcDJ9r99NFhL6ctBd": {
+    "_name_en": "Rumble Grunting",
+    "name_ko": "우르릉 그런팅",
+    "text_ko": "이번 턴에 {p} 6 이상인 카드를 버린 적이 있을 때만 우르릉 그런팅을 사용한다.\n이번 턴 당신의 다음 브루트 공격이 +4{p}을 얻는다.\n고 어게인"
+  },
+  "9ctkKznmBQTFqD9DDfbRr": {
+    "_name_en": "Rumble Grunting",
+    "name_ko": "우르릉 그런팅",
+    "text_ko": "이번 턴에 {p} 6 이상인 카드를 버린 적이 있을 때만 우르릉 그런팅을 사용한다.\n이번 턴 당신의 다음 브루트 공격이 +3{p}을 얻는다.\n고 어게인"
+  },
+  "BhPz6pPfhwj69gGJTqCPp": {
+    "_name_en": "Rumble Grunting",
+    "name_ko": "우르릉 그런팅",
+    "text_ko": "이번 턴에 {p} 6 이상인 카드를 버린 적이 있을 때만 우르릉 그런팅을 사용한다.\n이번 턴 당신의 다음 브루트 공격이 +2{p}을 얻는다.\n고 어게인"
+  },
+  "wbJtMrPCzqL6NRGrT6fJK": {
+    "_name_en": "Run into Trouble",
+    "name_ko": "곤경에 뛰어들다",
+    "text_ko": "이 카드가 방어할 때, 당신이 어질리티 토큰을 조종하고 있다면, 공격하는 영웅에게 피해를 준다."
+  },
+  "WLNGdRBzRcLqzhdrMbDG8": {
+    "_name_en": "Run Roughshod",
+    "name_ko": "짓밟다",
+    "text_ko": "이번 턴에 {p} 6 이상인 카드를 버린 적이 있을 때만 이 카드를 사용한다."
+  },
+  "Q9wHzF6BQjrjMwmKWBbpn": {
+    "_name_en": "Run Through",
+    "name_ko": "관통하다",
+    "text_ko": "대상 검 공격이 고 어게인을 얻는다.\n이번 턴 당신의 다음 검 공격이 +3{p}을 얻는다."
+  },
+  "DBDwbqjgnpnNfFrJ8Dmhr": {
+    "_name_en": "Run Through",
+    "name_ko": "관통하다",
+    "text_ko": "대상 검 공격이 고 어게인을 얻는다.\n이번 턴 당신의 다음 검 공격이 +2{p}을 얻는다."
+  },
+  "RRBhCdRN8Fj7zw6hQdLPJ": {
+    "_name_en": "Run Through",
+    "name_ko": "관통하다",
+    "text_ko": "대상 검 공격이 고 어게인을 얻는다.\n이번 턴 당신의 다음 검 공격이 +1{p}을 얻는다."
+  },
+  "QFg6Qh7ckkNzfhkDrJdrh": {
+    "_name_en": "Runaways",
+    "name_ko": "도주자들",
+    "text_ko": "순간 - 도주자들을 파괴한다: 이번 턴 당신의 영웅에게 가해질 다음 피해 1을 방지한다. 이번 턴에 당신의 영웅이 피해를 받은 적이 있을 때만 이 능력을 활성화한다."
+  },
+  "TWm6BC9zbHp69FkFNmbnR": {
+    "_name_en": "Rune Flash",
+    "name_ko": "룬의 섬광",
+    "text_ko": "당신이 조종하는 룬챈트 토큰 1개당 이 카드는 사용하는 데 {r}이 덜 든다.\n고 어게인"
+  },
+  "TGPPfm8pTmjLGHjB889bD": {
+    "_name_en": "Rune Flash",
+    "name_ko": "룬의 섬광",
+    "text_ko": "당신이 조종하는 룬챈트 토큰 1개당 이 카드는 사용하는 데 {r}이 덜 든다.\n고 어게인"
+  },
+  "FCJjCLKrKbQ7nhwhHwbHB": {
+    "_name_en": "Rune Flash",
+    "name_ko": "룬의 섬광",
+    "text_ko": "당신이 조종하는 룬챈트 1개당 룬의 섬광은 사용하는 데 {r}이 덜 든다.\n고 어게인"
+  },
+  "HnWJDF9KtC8DgPRLtC9z9": {
+    "_name_en": "Rune Snare",
+    "name_ko": "룬 덫",
+    "text_ko": "이번 턴 당신의 다음 화살 공격이 +3{p}을 얻는다.\n고 어게인\n이 카드가 방어하고 공격하는 영웅이 이번 턴에 오라를 2개 이상 사용하거나 생성한 적이 있다면, 그가 조종하는 오라 1개를 파괴한다."
+  },
+  "7rQWjNgrPmCm9wJRNHdbG": {
+    "_name_en": "Runebleed Robe",
+    "name_ko": "룬출혈의 로브",
+    "text_ko": "순간 - 이것과 당신이 조종하는 룬챈트를 파괴한다: 이번 턴 당신에게 가해질 다음 비전 피해 1을 방지한다.\n아케인 배리어 1"
+  },
+  "NNF6jp7QzRTLGJwdK7Cdz": {
+    "_name_en": "Runeblood Barrier",
+    "name_ko": "룬피의 방벽",
+    "text_ko": "이것이 전장에 들어올 때, 룬챈트 토큰 4개를 생성한다.\n당신의 영웅이 피해를 받게 될 경우, 대신 당신이 조종하는 룬챈트 토큰을 그만큼 파괴하고 이렇게 파괴된 룬챈트 토큰 1개당 피해 1을 방지한다.\n당신의 액션 단계 시작 시, 이것을 파괴한다."
+  },
+  "HP8HBbKwHCRChp7n7MgDB": {
+    "_name_en": "Runeblood Incantation",
+    "name_ko": "룬피의 주문",
+    "text_ko": "고 어게인\n룬피의 주문은 시구 카운터 3개를 지닌 채 전장에 들어온다.\n당신의 액션 단계 시작 시, 룬피의 주문에서 시구 카운터 1개를 제거한다. 그렇게 하면 룬챈트 토큰 1개를 생성한다. 그렇지 않으면, 룬피의 주문을 파괴한다."
+  },
+  "8DjkqfBWGccNqnzjLNhqG": {
+    "_name_en": "Runeblood Incantation",
+    "name_ko": "룬피의 주문",
+    "text_ko": "고 어게인\n룬피의 주문은 시구 카운터 2개를 지닌 채 전장에 들어온다.\n당신의 액션 단계 시작 시, 룬피의 주문에서 시구 카운터 1개를 제거한다. 그렇게 하면 룬챈트 토큰 1개를 생성한다. 그렇지 않으면, 룬피의 주문을 파괴한다."
+  },
+  "Kg9LDB97dGzHHMdTCd8R6": {
+    "_name_en": "Runeblood Incantation",
+    "name_ko": "룬피의 주문",
+    "text_ko": "고 어게인\n룬피의 주문은 시구 카운터를 지닌 채 전장에 들어온다.\n당신의 액션 단계 시작 시, 룬피의 주문에서 시구 카운터 1개를 제거한다. 그렇게 하면 룬챈트 토큰 1개를 생성한다. 그렇지 않으면, 룬피의 주문을 파괴한다."
+  },
+  "zfrHQjbPkpBmdQGrWcTMB": {
+    "_name_en": "Runechant",
+    "name_ko": "룬챈트",
+    "text_ko": "당신이 공격 액션 카드를 사용하거나 무기 공격을 활성화할 때, 이것을 파괴하고 대상 상대 영웅에게 비전 피해 1을 준다."
+  },
+  "HDtcFpfJGnLpQW7LfmM7k": {
+    "_name_en": "Runechant of Envy",
+    "name_ko": "질투의 룬챈트",
+    "text_ko": "이것은 룬챈트로 취급한다. 공격이 이것을 강탈할 때, 1{h}을 얻는다.\n이것이 파괴되면, 룬챈트 토큰 1개를 생성한다.\n당신의 액션 단계 시작 시 또는 당신이 공격 액션 카드를 사용할 때, 이것을 파괴한다."
+  },
+  "9wdzWnFf7J6nmL86nFhtN": {
+    "_name_en": "Runechant of Gluttony",
+    "name_ko": "탐욕의 룬챈트",
+    "text_ko": "이것은 룬챈트로 취급한다. 공격이 이것을 강탈할 때, {r}을 얻는다.\n이것이 파괴되면, 룬챈트 토큰 1개를 생성한다.\n당신의 액션 단계 시작 시 또는 당신이 공격 액션 카드를 사용할 때, 이것을 파괴한다."
+  },
+  "MT8LQJTF6w8gPqMzNTrkr": {
+    "_name_en": "Runechant of Greed",
+    "name_ko": "욕심의 룬챈트",
+    "text_ko": "이것은 룬챈트로 취급한다. 공격이 이것을 강탈할 때, 카드 1장을 뽑는다.\n이것이 파괴되면, 룬챈트 토큰 1개를 생성한다.\n당신의 액션 단계 시작 시 또는 당신이 공격 액션 카드를 사용할 때, 이것을 파괴한다."
+  },
+  "FpMpBwHGNgTGDjgfpWBKB": {
+    "_name_en": "Runechant of Lust",
+    "name_ko": "욕망의 룬챈트",
+    "text_ko": "이것은 룬챈트로 취급한다. 공격이 이것을 강탈할 때, 룬챈트 토큰 1개를 생성한다.\n이것이 파괴되면, 룬챈트 토큰 1개를 생성한다.\n당신의 액션 단계 시작 시 또는 당신이 공격 액션 카드를 사용할 때, 이것을 파괴한다."
+  },
+  "HqGFdH8tMH6fR8bNMkTjq": {
+    "_name_en": "Runechant of Pride",
+    "name_ko": "오만의 룬챈트",
+    "text_ko": "이것은 룬챈트로 취급한다. 공격이 이것을 강탈할 때, +1{p}을 얻는다.\n이것이 파괴되면, 룬챈트 토큰 1개를 생성한다.\n당신의 액션 단계 시작 시 또는 당신이 공격 액션 카드를 사용할 때, 이것을 파괴한다."
+  },
+  "BMgj68hT9jQHQ6nFqhTDT": {
+    "_name_en": "Runechant of Sloth",
+    "name_ko": "나태의 룬챈트",
+    "text_ko": "이것은 룬챈트로 취급한다. 공격이 이것을 강탈할 때, 고 어게인을 얻는다.\n이것이 파괴되면, 룬챈트 토큰 1개를 생성한다.\n당신의 액션 단계 시작 시 또는 당신이 공격 액션 카드를 사용할 때, 이것을 파괴한다."
+  },
+  "qwpdn8CJWGgkHLqdhDtgh": {
+    "_name_en": "Runechant of Wrath",
+    "name_ko": "분노의 룬챈트",
+    "text_ko": "이것은 룬챈트로 취급한다. 공격이 이것을 강탈할 때, 오버파워를 얻는다.\n이것이 파괴되면, 룬챈트 토큰 1개를 생성한다.\n당신의 액션 단계 시작 시 또는 당신이 공격 액션 카드를 사용할 때, 이것을 파괴한다."
+  },
+  "zzWc8BBmC9T6bfQwDMBPH": {
+    "_name_en": "Runehold Release",
+    "name_ko": "룬성채의 해방",
+    "text_ko": "액션 - 이것을 파괴한다: 룬챈트 토큰 1개를 생성한다. 고 어게인"
+  },
+  "66LHrpFckMQ8WNWhPjbD6": {
+    "_name_en": "Runerager Swarm",
+    "name_ko": "룬격노의 무리",
+    "text_ko": "이번 턴에 오라를 사용하거나 생성한 적이 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "8zcbgBnjjdmM6G9hCqC9f": {
+    "_name_en": "Runerager Swarm",
+    "name_ko": "룬격노의 무리",
+    "text_ko": "이번 턴에 오라를 사용하거나 생성한 적이 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "NHbgwmKj6z9GrPHGPdCDh": {
+    "_name_en": "Runerager Swarm",
+    "name_ko": "룬격노의 무리",
+    "text_ko": "이번 턴에 오라를 사용하거나 생성한 적이 있다면, 이 카드가 고 어게인을 얻는다."
+  },
+  "FrwgNQ6rgmfkn8DnNwTDH": {
+    "_name_en": "Runic Fellingsong",
+    "name_ko": "룬의 펠링송",
+    "text_ko": "이 카드가 공격할 때, 당신의 무덤에서 오라를 추방할 수 있다. 그렇게 하면, 대상 영웅에게 비전 피해 1을 준다."
+  },
+  "KCkCjwwFqqmmmzMDRJbdw": {
+    "_name_en": "Runic Fellingsong",
+    "name_ko": "룬의 펠링송",
+    "text_ko": "이 카드가 공격할 때, 당신의 무덤에서 오라를 추방할 수 있다. 그렇게 하면, 대상 영웅에게 비전 피해 1을 준다."
+  },
+  "djwkWbcLBTTbgtNJMHbzP": {
+    "_name_en": "Runic Fellingsong",
+    "name_ko": "룬의 펠링송",
+    "text_ko": "이 카드가 공격할 때, 당신의 무덤에서 오라를 추방할 수 있다. 그렇게 하면, 대상 영웅에게 비전 피해 1을 준다."
+  },
+  "QLtPbbtqrQ9hNtWH6jG6t": {
+    "_name_en": "Runic Reaping",
+    "name_ko": "룬 수확",
+    "text_ko": "이번 턴 당신이 사용하는 다음 룬블레이드 공격 액션 카드가 \"이것이 명중하면, 룬챈트 토큰 3개를 생성한다\"를 얻는다.\n룬 수확을 사용하기 위해 공격 카드가 피치되었다면, 이번 턴 당신이 사용하는 다음 룬블레이드 공격 액션 카드가 +1{p}을 얻는다.\n고 어게인"
+  },
+  "7NPrtC9qGbkQPLDf7tbBB": {
+    "_name_en": "Runic Reaping",
+    "name_ko": "룬 수확",
+    "text_ko": "이번 턴 당신이 사용하는 다음 룬블레이드 공격 액션 카드가 \"이것이 명중하면, 룬챈트 토큰 2개를 생성한다\"를 얻는다.\n룬 수확을 사용하기 위해 공격 카드가 피치되었다면, 이번 턴 당신이 사용하는 다음 룬블레이드 공격 액션 카드가 +1{p}을 얻는다.\n고 어게인"
+  },
+  "JKhQ7hPQnhbqnwpfcBzQh": {
+    "_name_en": "Runic Reaping",
+    "name_ko": "룬 수확",
+    "text_ko": "이번 턴 당신이 사용하는 다음 룬블레이드 공격 액션 카드가 \"이것이 명중하면, 룬챈트 토큰 1개를 생성한다\"를 얻는다.\n룬 수확을 사용하기 위해 공격 카드가 피치되었다면, 이번 턴 당신이 사용하는 다음 룬블레이드 공격 액션 카드가 +1{p}을 얻는다.\n고 어게인"
+  },
+  "MbWDqNtrDdJWLWNCNDQpB": {
+    "_name_en": "Runic Reckoning",
+    "name_ko": "룬의 심판",
+    "text_ko": "당신이 조종하는 룬챈트 1개당 이 카드는 사용하는 데 {r}이 덜 든다.\n이번 턴 당신이 사용하는 다음 룬블레이드 공격 액션 카드가 +3{p}을 얻는다.\n고 어게인"
+  },
+  "gBdLwdzLq6zrMGbHKpKfw": {
+    "_name_en": "Runic Reclamation",
+    "name_ko": "룬의 회수",
+    "text_ko": "룬의 회수가 영웅을 명중하면, 그가 조종하는 대상 오라를 파괴한다. 그렇게 하면, 룬챈트 토큰 1개를 생성한다."
+  },
+  "hPQ9NCmMKDdgMkzpkpGb6": {
+    "_name_en": "Runner Runner",
+    "name_ko": "러너 러너",
+    "text_ko": "이 카드가 공격할 때, 고 어게인을 가지고 있다면, 어질리티 토큰 1개를 생성한다."
+  },
+  "jbmgCjPjGMC9g6688q8RM": {
+    "_name_en": "Rush of Power",
+    "name_ko": "힘의 쇄도",
+    "text_ko": "퀵스트라이크 - 이 카드가 고 어게인을 가지고 있다면, +1{p}을 얻는다.\n이 카드가 영웅을 명중하면, 그에게 비전 피해 1을 준다."
+  },
+  "qtJwHkr8WgjHJcC9gNPGj": {
+    "_name_en": "Rush of Power",
+    "name_ko": "힘의 쇄도",
+    "text_ko": "퀵스트라이크 - 이 카드가 고 어게인을 가지고 있다면, +1{p}을 얻는다.\n이 카드가 영웅을 명중하면, 그에게 비전 피해 1을 준다."
+  },
+  "mr9jJffnHHHcrG9p8fdMP": {
+    "_name_en": "Rush of Power",
+    "name_ko": "힘의 쇄도",
+    "text_ko": "퀵스트라이크 - 이 카드가 고 어게인을 가지고 있다면, +1{p}을 얻는다.\n이 카드가 영웅을 명중하면, 그에게 비전 피해 1을 준다."
+  },
+  "wmN6kmKhktkmfhWtqLmHm": {
+    "_name_en": "Rushing River",
+    "name_ko": "쇄도하는 강",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 박자의 급류였다면, 쇄도하는 강이 +1{p}, 고 어게인, 그리고 \"쇄도하는 강이 명중하면, 카드 X장을 뽑은 뒤 당신의 손에서 카드 X장을 원하는 순서로 덱 맨 위에 놓는다. X는 이번 전투 체인에서 명중한 공격 수이다\"를 얻는다."
+  },
+  "cdcnJRkcCzJkDmb7NwnPQ": {
+    "_name_en": "Rushing River",
+    "name_ko": "쇄도하는 강",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 박자의 급류였다면, 쇄도하는 강이 +1{p}, 고 어게인, 그리고 \"쇄도하는 강이 명중하면, 카드 X장을 뽑은 뒤 당신의 손에서 카드 X장을 원하는 순서로 덱 맨 위에 놓는다. X는 이번 전투 체인에서 명중한 공격 수이다\"를 얻는다."
+  },
+  "tMDDnhBrcpCL8c9MW7BgC": {
+    "_name_en": "Rushing River",
+    "name_ko": "쇄도하는 강",
+    "text_ko": "콤보 - 이번 전투 체인에서 마지막 공격이 박자의 급류였다면, 쇄도하는 강이 +1{p}, 고 어게인, 그리고 \"쇄도하는 강이 명중하면, 카드 X장을 뽑은 뒤 당신의 손에서 카드 X장을 원하는 순서로 덱 맨 위에 놓는다. X는 이번 전투 체인에서 명중한 공격 수이다\"를 얻는다."
+  },
+  "LKtdCkW87n6dJCtKqqkMw": {
+    "_name_en": "Rust Belt",
+    "name_ko": "러스트 벨트",
+    "text_ko": "순간 - 당신이 조종하는 톱니바퀴 1개를 {t}한다, 이것을 파괴한다: {r}을 얻는다.\n배틀원"
+  },
+  "CCwMfr7DptzKNpLPDwtDc": {
+    "_name_en": "Rusted Relic",
+    "name_ko": "녹슨 유물",
+    "text_ko": "아케인 배리어 1"
+  },
+  "CMbMkj6F86Kj9kPKNBwPN": {
+    "_name_en": "Rusty Harpoon",
+    "name_ko": "녹슨 작살"
+  },
+  "hRMhmf8qkn6pR7TWQLqgb": {
+    "_name_en": "Ruu'di, Gem Keeper",
+    "name_ko": "루디, 보석 관리인",
+    "text_ko": "당신은 PSA 등급이 매겨진 카드만 덱에 넣을 수 있다.\n턴당 1회 액션 - {r}: 당신 덱 맨 위 카드를 공개한다. 그것이 젬 민트 10 등급이면, 손에 놓고, 그렇지 않으면 각 상대가 카드를 뽑을 수 있다. 고 어게인"
+  },
+  "bdCCWJQKkgjTNrH8PbnwQ": {
+    "_name_en": "Sack the Shifty",
+    "name_ko": "교활한 자를 자루에 넣다",
+    "text_ko": "계약 - 당신은 기본 고 어게인을 가진 상대 카드를 추방하기로 계약한다. 이 계약을 완료할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다."
+  },
+  "TTdC6bPmz9GFQzqWFJnDC": {
+    "_name_en": "Sack the Shifty",
+    "name_ko": "교활한 자를 자루에 넣다",
+    "text_ko": "계약 - 당신은 기본 고 어게인을 가진 상대 카드를 추방하기로 계약한다. 이 계약을 완료할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다."
+  },
+  "GCBnJqcCCpBHQwzBgdNbh": {
+    "_name_en": "Sack the Shifty",
+    "name_ko": "교활한 자를 자루에 넣다",
+    "text_ko": "계약 - 당신은 기본 고 어게인을 가진 상대 카드를 추방하기로 계약한다. 이 계약을 완료할 때마다, 실버 토큰 1개를 생성한다.\n이 카드가 영웅을 명중하면, 그의 덱 맨 위 카드를 추방한다."
+  },
+  "cdb8cTqP9MRgwqr7Q6rHQ": {
+    "_name_en": "Sacred Art: Immortal Lunar Shrine",
+    "name_ko": "신성한 기술: 불멸의 달의 성소",
+    "text_ko": "레전더리\n이번 턴에 다른 파란색 카드를 사용한 적이 있다면, 3개를 선택한다. 그렇지 않으면, 1개를 선택한다;\n- 스펙트럴 실드 토큰 2개를 생성한다.\n- 당신이 조종하는, 워드를 가진 각 오라에 +1{p} 카운터를 놓는다.\n- 초월한다"
+  },
+  "GJzhGm6bb6gW8nMBgQRbz": {
+    "_name_en": "Sacred Art: Jade Tiger Domain",
+    "name_ko": "신성한 기술: 옥호랑이 영역",
+    "text_ko": "레전더리\n이번 턴에 다른 파란색 카드를 사용한 적이 있다면, 3개를 선택한다. 그렇지 않으면, 1개를 선택한다;\n- 당신의 손에 크라우칭 타이거 2개를 생성한다.\n- 이번 턴 당신의 크라우칭 타이거들이 +1{p}을 얻는다.\n- 초월한다"
+  },
+  "c8CdW9QBrMJPh6nwJGJ6Q": {
+    "_name_en": "Sacred Art: Undercurrent Desires",
+    "name_ko": "신성한 기술: 저류의 욕망",
+    "text_ko": "레전더리\n이번 턴에 다른 파란색 카드를 사용한 적이 있다면, 3개를 선택한다. 그렇지 않으면, 1개를 선택한다;\n- 당신의 손에 팽 스트라이크와 슬리더를 생성한다.\n- 상대 영웅의 무덤에서 카드 최대 2장을 추방한다.\n- 초월한다"
+  },
+  "jFTctWqJnnwKqbbdphWjQ": {
+    "_name_en": "Sadistic Scowl",
+    "name_ko": "가학적인 인상",
+    "text_ko": "이번 턴 당신의 다음 공격이 +5{p}을 얻는다.\n대상 영웅을 인티미데이트한다.\n고 어게인"
+  },
+  "zKtm8BQzLMCwJRgqcGLNm": {
+    "_name_en": "Salt the Wound",
+    "name_ko": "상처에 소금 뿌리기",
+    "text_ko": "이번 전투 체인에서 명중한 공격 1개당 이 카드가 +1{p}을 얻는다."
+  },
+  "c9hrdrfn8dNhkBcfQmqWn": {
+    "_name_en": "Saltwater Swell",
+    "name_ko": "짠물결의 파도",
+    "text_ko": "이 카드가 공격할 때, 당신 덱 맨 위 카드를 공개한다. 그것이 파란색이면, 피치한다.\n고 어게인"
+  },
+  "rBz7GBhR7FPkbzKwRWmdp": {
+    "_name_en": "Saltwater Swell",
+    "name_ko": "짠물결의 파도",
+    "text_ko": "이 카드가 공격할 때, 당신 덱 맨 위 카드를 공개한다. 그것이 파란색이면, 피치한다.\n고 어게인"
+  },
+  "DN8dWKrTLQzr6H9BJ8kcn": {
+    "_name_en": "Saltwater Swell",
+    "name_ko": "짠물결의 파도",
+    "text_ko": "이 카드가 공격할 때, 당신 덱 맨 위 카드를 공개한다. 그것이 파란색이면, 피치한다.\n고 어게인"
+  },
+  "9pnrkbM9DbqCqqkbDCC8N": {
+    "_name_en": "Salvage Shot",
+    "name_ko": "인양 사격",
+    "text_ko": "이것이 명중하면, 소유자의 덱 맨 아래에 놓는다."
+  },
+  "d8mzLHtQRkT8GWFcgR78H": {
+    "_name_en": "Salvage Shot",
+    "name_ko": "인양 사격",
+    "text_ko": "이것이 명중하면, 소유자의 덱 맨 아래에 놓는다."
+  },
+  "bjffjnzNfQhdcGKKCWKCd": {
+    "_name_en": "Salvage Shot",
+    "name_ko": "인양 사격",
+    "text_ko": "이것이 명중하면, 소유자의 덱 맨 아래에 놓는다."
+  },
+  "bMJBmMJt99tBDWrznqMBR": {
+    "_name_en": "Sanctuary of Aria",
+    "name_ko": "아리아의 성역",
+    "text_ko": "순간 - {r}{r}: 당신이 선택한 발생원으로부터 이번 턴 당신에게 가해질 다음 피해 1을 방지한다. 종료 단계 시작 시 이것을 파괴한다."
+  },
+  "DHhDFNgTHdTJ7NpWWm8jm": {
+    "_name_en": "Sand Cover",
+    "name_ko": "모래 은폐",
+    "text_ko": "당신이 조종하는 대상 애쉬가 턴 종료 시까지 워드 4를 얻는다."
+  },
+  "bjKB8W9jG6nDH9Gt6rJMb": {
+    "_name_en": "Sand Cover",
+    "name_ko": "모래 은폐",
+    "text_ko": "당신이 조종하는 대상 애쉬가 턴 종료 시까지 워드 3을 얻는다."
+  },
+  "GQJqWJwPz8BBnQRjb8ntF": {
+    "_name_en": "Sand Cover",
+    "name_ko": "모래 은폐",
+    "text_ko": "당신이 조종하는 대상 애쉬가 턴 종료 시까지 워드 2를 얻는다."
+  },
+  "BpjDRjGcMhFQkKQLnLLkQ": {
+    "_name_en": "Sand Sketched Plan",
+    "name_ko": "모래에 그린 계획",
+    "text_ko": "리나르 스페셜라이제이션\n당신의 덱에서 카드 1장을 찾아 손에 놓고, 무작위 카드 1장을 버린 뒤, 덱을 섞는다.\n버린 카드가 {p} 6 이상이면, 액션 포인트 2를 얻는다."
+  },
+  "7kf9MgCRrqFckmcHLjtKb": {
+    "_name_en": "Sandscour Greatbow",
+    "name_ko": "모래폭풍 대궁",
+    "text_ko": "턴당 1회 액션 - {r}: 당신 덱 맨 위 카드를 확인한다. 당신의 손이나 덱 맨 위에서 화살을 앞면으로 아스날에 놓을 수 있다. 고 어게인\n덱에서 화살이 앞면으로 아스날에 놓일 때마다, 여기에 조준 카운터를 놓는다."
+  },
+  "HmPP97LtzDb7fPrHPFdLk": {
+    "_name_en": "Sap",
+    "name_ko": "약화",
+    "text_ko": "대상 영웅에게 비전 피해 3을 준다.\n서지 - 이것이 영웅에게 3을 초과하는 피해를 주면, 그가 조종하는 지속물에서 에너지 카운터 1개를 제거할 수 있다."
+  },
+  "nkzf6zG8JPJgGkt7N66RP": {
+    "_name_en": "Sap",
+    "name_ko": "약화",
+    "text_ko": "대상 영웅에게 비전 피해 2를 준다.\n서지 - 이것이 영웅에게 2를 초과하는 피해를 주면, 그가 조종하는 지속물에서 에너지 카운터 1개를 제거할 수 있다."
+  },
+  "pGWLw8bBqKqTQHnrhg6b6": {
+    "_name_en": "Sap",
+    "name_ko": "약화",
+    "text_ko": "대상 영웅에게 비전 피해 1을 준다.\n서지 - 이것이 영웅에게 1을 초과하는 피해를 주면, 그가 조종하는 지속물에서 에너지 카운터 1개를 제거할 수 있다."
+  },
+  "8n9Fkr9DLNbMhKJRJTkLL": {
+    "_name_en": "Sapphire Amulet",
+    "name_ko": "사파이어 부적",
+    "text_ko": "액션 - 이것을 파괴한다: 이번 턴 +1{i}을 얻는다.\n워터리 그레이브의 전설"
+  },
+  "WQnrwMqz7KtLWb9nfzNDf": {
+    "_name_en": "Sapwood Elixir",
+    "name_ko": "수액나무 영약",
+    "text_ko": "이번 턴 당신의 다음 공격이 +3{p}을 얻는다.\n당신이 조종하는 프레일티 토큰 1개를 파괴할 수 있다. 그렇게 하면, 1{h}을 얻는다.\n고 어게인"
+  },
+  "9BqdPQckmdgcfzwtjw7BP": {
+    "_name_en": "Sash of Sandikai",
+    "name_ko": "산디카이의 허리띠",
+    "text_ko": "순간 - 산디카이의 허리띠를 파괴한다: {r}을 얻는다. 이번 턴에 빨간색 카드를 사용한 적이 있을 때만 이 능력을 활성화한다."
+  },
+  "7mdh968cg9r9JB7dfzcFW": {
+    "_name_en": "Savage Beatdown",
+    "name_ko": "야만적 몰매",
+    "text_ko": "이번 턴에 {p} 6 이상인 카드를 버린 적이 있을 때만 이 카드를 사용한다.\n이 카드를 사용하기 위한 추가 비용으로, 무작위 카드 1장을 버린다.\n버린 카드가 {p} 6 이상이면, 이 카드가 +6{p}을 얻는다."
+  },
+  "cM6R7TqbFHp76wfPTjrzM": {
+    "_name_en": "Savage Claw",
+    "name_ko": "야만의 발톱",
+    "text_ko": "액션 - {r}{r}, {t}: 공격\n이것으로 공격하기 위해 {p} 6 이상인 카드가 피치되었다면, 그 공격이 +1{p}을 얻는다."
+  },
+  "mFdkTGPQDnWjLB9Tgmdmm": {
+    "_name_en": "Savage Feast",
+    "name_ko": "야만의 향연",
+    "text_ko": "야만의 향연을 사용하기 위한 추가 비용으로 무작위 카드 1장을 버린다.\n당신이 야만의 향연으로 공격할 때, 이것을 사용하기 위한 추가 비용으로 {p} 6 이상인 카드가 버려졌다면, 카드 1장을 뽑는다."
+  },
+  "8t8CJMmCJTFtfF98wRTLr": {
+    "_name_en": "Savage Feast",
+    "name_ko": "야만의 향연",
+    "text_ko": "야만의 향연을 사용하기 위한 추가 비용으로 무작위 카드 1장을 버린다.\n당신이 야만의 향연으로 공격할 때, 이것을 사용하기 위한 추가 비용으로 {p} 6 이상인 카드가 버려졌다면, 카드 1장을 뽑는다."
+  },
+  "FkLTfnTqkjBKt9Ch9m8C8": {
+    "_name_en": "Savage Feast",
+    "name_ko": "야만의 향연",
+    "text_ko": "야만의 향연을 사용하기 위한 추가 비용으로 무작위 카드 1장을 버린다.\n당신이 야만의 향연으로 공격할 때, 이것을 사용하기 위한 추가 비용으로 {p} 6 이상인 카드가 버려졌다면, 카드 1장을 뽑는다."
+  },
+  "WPkcWHhWGzFKcNWQFM7hf": {
+    "_name_en": "Savage Sash",
+    "name_ko": "야만의 허리띠",
+    "text_ko": "액션 - 이것을 파괴한다: 이번 턴 {p} 6 이상인 공격 액션 카드는 사용하는 데 {r}이 덜 든다. 고 어게인\n템퍼"
+  },
+  "N8DMCFHgLPLrn9wQhhTjC": {
+    "_name_en": "Savage Swing",
+    "name_ko": "야만의 스윙",
+    "text_ko": "야만의 스윙을 사용하기 위한 추가 비용으로, 무작위 카드 1장을 버린다."
+  },
+  "cKRWnQCGq8f8dGKT7G8pF": {
+    "_name_en": "Savage Swing",
+    "name_ko": "야만의 스윙",
+    "text_ko": "야만의 스윙을 사용하기 위한 추가 비용으로, 무작위 카드 1장을 버린다."
+  },
+  "7zdfJDbhwjMnMNqkDJ9Qb": {
+    "_name_en": "Savage Swing",
+    "name_ko": "야만의 스윙",
+    "text_ko": "야만의 스윙을 사용하기 위한 추가 비용으로, 무작위 카드 1장을 버린다."
+  },
+  "H6nGNM7gbPMNpKgnCcgkJ": {
+    "_name_en": "Save the Thought",
+    "name_ko": "생각을 저장하다",
+    "text_ko": "당신의 무덤에서 비공격 액션 카드 최대 3장을 덱에 섞는다.\n폰더 토큰 1개를 생성한다."
+  },
+  "7P7nqWCFNDmbR7QJqhfJf": {
+    "_name_en": "Save the Thought",
+    "name_ko": "생각을 저장하다",
+    "text_ko": "당신의 무덤에서 비공격 액션 카드 최대 2장을 덱에 섞는다.\n폰더 토큰 1개를 생성한다."
+  },
+  "knDjRzfw6mfHn6fG9WnhJ": {
+    "_name_en": "Save the Thought",
+    "name_ko": "생각을 저장하다",
+    "text_ko": "당신의 무덤에서 비공격 액션 카드 최대 1장을 덱에 섞는다.\n폰더 토큰 1개를 생성한다."
   }
 }
