@@ -13,6 +13,7 @@ GITHUB_OWNER = "sukyology"
 GITHUB_REPO = "fab-cards-korean-dictionary"
 BASE_BRANCH = "main"
 TRANSLATIONS_PATH = "data/translations.json"
+KEYWORDS_PATH = "data/keywords.json"
 ALLOWED_ORIGIN = "https://fab.dol-dari.com"
 
 # 시크릿은 wrangler.toml에 넣지 말고 아래 명령으로 등록:
