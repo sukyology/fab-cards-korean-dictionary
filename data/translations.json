@@ -17531,7 +17531,7 @@
   "BpjDRjGcMhFQkKQLnLLkQ": {
     "_name_en": "Sand Sketched Plan",
     "name_ko": "모래에 그린 계획",
-    "text_ko": "리나르 스페셜라이제이션\n당신의 덱에서 카드 1장을 찾아 손에 놓고, 무작위 카드 1장을 버린 뒤, 덱을 섞는다.\n버린 카드가 {p} 6 이상이면, 액션 포인트 2를 얻는다."
+    "text_ko": "라이나르 스페셜라이제이션\n당신의 덱에서 카드 1장을 찾아 손에 놓고, 무작위로 카드 1장을 버린 뒤, 덱을 섞는다.\n버린 카드가 {p} 6 이상이면, 액션 포인트 2를 얻는다."
   },
   "7kf9MgCRrqFckmcHLjtKb": {
     "_name_en": "Sandscour Greatbow",
