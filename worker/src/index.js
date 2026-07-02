@@ -122,6 +122,16 @@ async function ghJson(env, path, init = {}) {
   return d;
 }
 
+// Contents API는 1MB가 넘는 파일에 content를 채워주지 않는다(encoding: "none").
+// 그런 경우 Git Blobs API(최대 100MB)로 내려받는다.
+async function ghFileText(env, owner, repo, fileMeta) {
+  if (fileMeta.content && fileMeta.encoding === "base64") {
+    return b64DecodeUtf8(fileMeta.content);
+  }
+  const blob = await ghJson(env, `/repos/${owner}/${repo}/git/blobs/${fileMeta.sha}`);
+  return b64DecodeUtf8(blob.content);
+}
+
 async function createTranslationPR(env, { cardId, nameEn, nameKo, textKo, contributor }) {
   const owner = env.GITHUB_OWNER;
   const repo = env.GITHUB_REPO;
@@ -134,7 +144,7 @@ async function createTranslationPR(env, { cardId, nameEn, nameKo, textKo, contri
 
   // 2) 현재 translations.json 내용 + 파일 sha
   const fileMeta = await ghJson(env, `/repos/${owner}/${repo}/contents/${path}?ref=${base}`);
-  const current = JSON.parse(b64DecodeUtf8(fileMeta.content));
+  const current = JSON.parse(await ghFileText(env, owner, repo, fileMeta));
 
   // 3) 항목 병합(빈 값은 덮어쓰지 않음)
   const beforeJson = JSON.stringify(current[cardId] ?? null);
@@ -213,7 +223,7 @@ async function createKeywordPR(env, { key, ko, desc, contributor }) {
 
   // 2) 현재 keywords.json 내용 + 파일 sha
   const fileMeta = await ghJson(env, `/repos/${owner}/${repo}/contents/${path}?ref=${base}`);
-  const current = JSON.parse(b64DecodeUtf8(fileMeta.content));
+  const current = JSON.parse(await ghFileText(env, owner, repo, fileMeta));
 
   // 3) 항목 병합(빈 값은 덮어쓰지 않음)
   const isNew = !current[key];
