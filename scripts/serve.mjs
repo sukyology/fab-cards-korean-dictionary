@@ -23,7 +23,10 @@ createServer(async (req, res) => {
   const filePath = join(PUBLIC, normalize(path).replace(/^(\.\.[/\\])+/, ""));
   try {
     const data = await readFile(filePath);
-    res.writeHead(200, { "content-type": MIME[extname(filePath)] || "application/octet-stream" });
+    res.writeHead(200, {
+      "content-type": MIME[extname(filePath)] || "application/octet-stream",
+      "cache-control": "no-store",
+    });
     res.end(data);
   } catch {
     res.writeHead(404, { "content-type": "text/plain; charset=utf-8" });
