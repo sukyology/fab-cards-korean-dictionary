@@ -19519,5 +19519,13 @@
     "_name_en": "Song of the Wandering Mind",
     "name_ko": "방황하는 마음의 노래",
     "text_ko": "다른 각 영웅이 카드 1장을 뽑는다."
+  },
+  "7rNHHrKTMQDhQdp6tgKhD": {
+    "_name_en": "Towering Titan",
+    "name_ko": "타워링 타이탄",
+    "text_ko": "내 액션 페이즈 시작 때, 타워링 타이탄을 파괴하고 다음 가디언 어택 액션 카드는 +10{p} 을 얻는다.",
+    "contributors": [
+      "석교"
+    ]
   }
 }
