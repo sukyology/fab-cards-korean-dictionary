@@ -32,6 +32,10 @@ jobs:
       - name: Build card data
         run: node scripts/build-data.mjs
 
+      # app.js/style.css 변경 시 URL이 바뀌도록 해시 쿼리스트링을 붙여 캐시를 무력화
+      - name: Cache-bust static assets
+        run: node scripts/cache-bust.mjs
+
       - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v3
