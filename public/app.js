@@ -240,9 +240,14 @@ function openModal(card) {
 
 // 번역 제안 폼(카드 상세 → 이 폼으로 전환)
 function openContributeForm(card) {
+  const enText = card.text
+    ? `<div class="text-block text-en"><h4>원문 (영어)</h4><div class="body">${renderText(card.text)}</div></div>`
+    : "";
+
   modalBody.innerHTML = `
     <h2 style="margin:0 0 2px">✏️ 번역 제안</h2>
     <p class="en">${escapeHtml(card.name)} <span style="color:var(--text-dim)">· ${escapeHtml(card.type_text)}</span></p>
+    ${enText}
     <form id="contribute-form" class="contribute">
       <label>한글 카드 이름
         <input type="text" name="nameKo" maxlength="100" value="${escapeHtml(card.name_ko || "")}" placeholder="예: 스내치" />

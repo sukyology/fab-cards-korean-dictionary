@@ -32,24 +32,27 @@ function filteredKeys(query) {
   });
 }
 
-function statusBadge(info) {
+const STATUS_LABEL = { ok: "번역 완료", partial: "일부 미완성", missing: "번역 필요" };
+
+function keywordStatus(info) {
   const hasKo = !!(info.ko || "").trim();
   const hasDesc = !!(info.desc || "").trim();
-  if (hasKo && hasDesc) return `<span class="kw-status-badge ok">번역 완료</span>`;
-  if (hasKo || hasDesc) return `<span class="kw-status-badge partial">일부 미완성</span>`;
-  return `<span class="kw-status-badge missing">번역 필요</span>`;
+  if (hasKo && hasDesc) return "ok";
+  if (hasKo || hasDesc) return "partial";
+  return "missing";
 }
 
 function kwRowEl(key) {
   const info = KEYWORDS[key] || {};
+  const status = keywordStatus(info);
   const el = document.createElement("article");
-  el.className = "kw-row";
+  el.className = `kw-row status-${status}`;
   el.innerHTML = `
     <div class="kw-row-main">
       <div class="kw-row-head">
         <b class="kw-row-key">${escapeHtml(key)}</b>
         ${info.ko ? `<span class="kw-row-ko">${escapeHtml(info.ko)}</span>` : ""}
-        ${statusBadge(info)}
+        <span class="kw-status-badge ${status}">${STATUS_LABEL[status]}</span>
       </div>
       <p class="kw-row-desc">${info.desc ? escapeHtml(info.desc) : `<span class="untranslated">설명이 아직 없습니다.</span>`}</p>
     </div>

@@ -614,22 +614,57 @@ body {
   line-height: 1.5;
 }
 .kw-status-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
   font-size: 0.68rem;
-  border-radius: 4px;
-  padding: 1px 6px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  border-radius: 999px;
+  padding: 3px 9px 3px 8px;
   border: 1px solid;
+}
+.kw-status-badge::before {
+  content: "";
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  flex-shrink: 0;
 }
 .kw-status-badge.ok {
   color: #7ddc8f;
+  background: rgba(125, 220, 143, 0.14);
   border-color: rgba(125, 220, 143, 0.4);
+}
+.kw-status-badge.ok::before {
+  background: #7ddc8f;
 }
 .kw-status-badge.partial {
   color: var(--yellow);
-  border-color: rgba(224, 181, 61, 0.4);
+  background: rgba(224, 181, 61, 0.14);
+  border-color: rgba(224, 181, 61, 0.45);
+}
+.kw-status-badge.partial::before {
+  background: var(--yellow);
 }
 .kw-status-badge.missing {
-  color: var(--text-dim);
-  border-color: var(--border);
+  color: #ff8a7a;
+  background: rgba(255, 138, 122, 0.14);
+  border-color: rgba(255, 138, 122, 0.4);
+}
+.kw-status-badge.missing::before {
+  background: #ff8a7a;
+}
+
+/* 상태별 카드 좌측 테두리(목록 스캔용) */
+.kw-row.status-ok {
+  border-left-color: #7ddc8f;
+}
+.kw-row.status-partial {
+  border-left-color: var(--yellow);
+}
+.kw-row.status-missing {
+  border-left-color: #ff8a7a;
 }
 .kw-edit-btn {
   flex-shrink: 0;
