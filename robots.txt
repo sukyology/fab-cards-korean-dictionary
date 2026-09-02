@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fab.dol-dari.com/sitemap.xml
